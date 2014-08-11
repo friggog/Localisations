@@ -140,8 +140,16 @@
   <string>Light</string>
   <key>DARK</key>
   <string>Dark</string>
+  <key>CUSTOM</key>
+  <string>Custom</string>
   <key>DM_SCHEDULE_TITLE</key>
   <string>Dark Mode Timing</string>
+  <key>BACKGROUND_COLOUR</key>
+  <string>Background Color</string>
+  <key>PRIMARY_COLOUR</key>
+  <string>Primary Color</string>
+  <key>SECONDARY_COLOUR</key>
+  <string>Secondary Color</string>
 
   <!-- CONVO LIST PREFS -->
   <key>SHOW_CONTACT_PICS</key>
@@ -154,14 +162,20 @@
   <string>Hide Message Previews</string>
   <key>HIDE_SEARCH</key>
   <string>Hide Search Bar</string>
+  <key>HIDE_SEPARATORS</key>
+  <string>Hide Separators</string>
   <key>CL_DEFAULT_DI</key>
   <string>Default diameter is 45.</string>
   <key>INDICATOR_INFO_TEXT</key>
-  <string>This will show an indicator for conversations for which you have read the most recent message but not replied to it.</string>
+  <string>Shows an indicator for conversations for which you have read the most recent message but not replied to it.</string>
   <key>SWITCHER_INFO_TEXT</key>
-  <string>This will show a toolbar in the conversation view with up and down arrows to switch between conversations.</string>
+  <string>Shows a toolbar in the conversation view with up and down arrows to switch between conversations.</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
-  <string>This will change the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
+  <string>Changes the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
+  <key>BIG_BUBBLES</key>
+  <string>Big Bubbles</string>
+  <key>BIG_BUBBLES_INFO_TEXT</key>
+  <string>Increases the size of image preview bubbles to resemble those in iOS8 - courtesy of @sticktron.</string>
 
   <!-- ALERTS -->
   <key>THEME_NAME_ALERT_TEXT</key>
@@ -190,6 +204,16 @@
   <string>Enter value between</string>
   <key>AND</key>
   <string>and</string>
+
+  <!-- COLOUR PICKER -->
+  <key>HEX_VALUE</key>
+  <string>Hex Value</string>
+  <key>HEX_VALUE_TEXT</key>
+  <string>Enter custom hex color string</string>
+  <key>HEX_ERROR</key>
+  <string>Invalid Hex String</string>
+  <key>HEX_ERROR_TEXT</key>
+  <string>Please enter a valid hex color string e.g. #2F3E12</string>
 
   <!-- TITLES -->
   <key>EDITING</key>
