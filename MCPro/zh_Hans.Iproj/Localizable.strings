@@ -9,7 +9,7 @@
   <key>PRIMARY_THEME</key>
   <string>主要主题</string>
   <key>CONVO_SPECIFIC_THEMES</key>
-  <string>特别Convo主题</string>
+  <string>特别谈话主题</string>
   <key>CONTACT_SPECIFIC_COLOURS</key>
   <string>特别联系人颜色</string>
   <key>NEW_THEME</key>
@@ -73,13 +73,13 @@
   <key>CONTACT_BUBBLES</key>
   <string>联系人气泡</string>
   <key>ERASE_CONVOS_INFO</key>
-  <string>为Convos清除所有信息</string>
+  <string>为谈话清除所有信息</string>
   <key>ERASE_CONTACTS_INFO</key>
   <string>为所有联系人清除信息</string>
   <key>ERASE_CONTACT_INFO</key>
   <string>为此联系人清除信息</string>
   <key>ERASE_CONVO_INFO</key>
-  <string>为Convo清除信息</string>
+  <string>为谈话清除信息</string>
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
@@ -127,7 +127,7 @@
   <key>UNREPLIED_INDICATORS</key>
   <string>未回复指示</string>
   <key>CONVO_LIST_SETTINGS</key>
-  <string>Convo 列表设置</string>
+  <string>谈话 列表设置</string>
   <key>DARK_MODE</key>
   <string>黑色模式</string>
   <key>SCHEDULED</key>
@@ -220,7 +220,7 @@
   <key>CHAT_VIEW</key>
   <string>对话界面</string>
   <key>CONVO_LIST</key>
-  <string>Convo列表</string>
+  <string>谈话列表</string>
   <key>BACKGROUND</key>
   <string>背景</string>
   <key>IM_BUBBLES</key>
