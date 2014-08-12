@@ -9,7 +9,7 @@
   <key>PRIMARY_THEME</key>
   <string>主題</string>
   <key>CONVO_SPECIFIC_THEMES</key>
-  <string>Convoの特定テーマ</string>
+  <string>会話の特定テーマ</string>
   <key>CONTACT_SPECIFIC_COLOURS</key>
   <string>接触の特定色</string>
   <key>NEW_THEME</key>
@@ -73,13 +73,13 @@
   <key>CONTACT_BUBBLES</key>
   <string>接触泡</string>
   <key>ERASE_CONVOS_INFO</key>
-  <string>すべてのConvosのための情報を消します</string>
+  <string>すべての会話のための情報を消します</string>
   <key>ERASE_CONTACTS_INFO</key>
   <string>すべての接触用情報を消します</string>
   <key>ERASE_CONTACT_INFO</key>
   <string>この接触用情報を消します</string>
   <key>ERASE_CONVO_INFO</key>
-  <string>このConvoのための情報を消します</string>
+  <string>この会話のための情報を消します</string>
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
@@ -127,7 +127,7 @@
   <key>UNREPLIED_INDICATORS</key>
   <string>指標に返答されませんでした</string>
   <key>CONVO_LIST_SETTINGS</key>
-  <string>Convoリスト・セッティング</string>
+  <string>会話リスト・セッティング</string>
   <key>DARK_MODE</key>
   <string>暗いモード</string>
   <key>SCHEDULED</key>
@@ -221,7 +221,7 @@
   <key>CHAT_VIEW</key>
   <string>雑談視界</string>
   <key>CONVO_LIST</key>
-  <string>Convoリスト</string>
+  <string>会話リスト</string>
   <key>BACKGROUND</key>
   <string>背景</string>
   <key>IM_BUBBLES</key>
