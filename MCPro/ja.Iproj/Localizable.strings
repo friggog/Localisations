@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+  <!-- MAIN PREFS -->
+  <key>ENABLED</key>
+  <string>使用し始めます</string>
+  <key>PRIMARY_THEME</key>
+  <string>主題</string>
+  <key>CONVO_SPECIFIC_THEMES</key>
+  <string>Convoの特定テーマ</string>
+  <key>CONTACT_SPECIFIC_COLOURS</key>
+  <string>接触の特定色</string>
+  <key>NEW_THEME</key>
+  <string>新しいテーマ</string>
+  <key>EDIT_THEME</key>
+  <string>編集テーマ</string>
+  <key>OTHER_OPTIONS</key>
+  <string>他のオプション</string>
+  <key>SUPPORT</key>
+  <string>支援</string>
+  <key>EMAIL</key>
+  <string>電子メール</string>
+  <key>TWITTER</key>
+  <string>ツイッター</string>
+  <key>INFO</key>
+  <string>Info</string>
+  <key>BETA</key>
+  <string>ベータ</string>
+
+  <!-- CHAT VIEW PREFS -->
+  <key>BUBBLE_WIDTH</key>
+  <string>泡幅</string>
+  <key>BUBBLE_TAILS</key>
+  <string>泡後部</string>
+  <key>DEFAULT</key>
+  <string>デフォルト</string>
+  <key>SHOW_ALL</key>
+  <string>すべてを示します</string>
+  <key>HIDE_ALL</key>
+  <string>すべてを隠します</string>
+  <key>BUBBLE_OUTLINE_ONLY</key>
+  <string>泡アウトラインのみ</string>
+  <key>FLAT_BUBBLE_EDGES</key>
+  <string>水平な泡端</string>
+  <key>SINGLE_CONTACT_PICS</key>
+  <string>(ショー)他のの絵(単一)</string>
+  <key>GROUP_CONTACT_PICS</key>
+  <string>(ショー)他のの絵(グループ)</string>
+  <key>MY_CONTACT_PICS</key>
+  <string>あなたの写真を示します</string>
+  <key>CPIC_DIAMETER</key>
+  <string>接触写真直径</string>
+  <key>CV_DEFAULT_DI</key>
+  <string>デフォルト直径は27です。</string>
+
+  <!-- BUBBLE PREFS -->
+  <key>GRADIENT</key>
+  <string>勾配</string>
+  <key>BUBBLE_COLOUR</key>
+  <string>泡色</string>
+  <key>TOP_COLOUR</key>
+  <string>トップ色</string>
+  <key>BOTTOM_COLOUR</key>
+  <string>底色</string>
+  <key>TEXT_COLOUR</key>
+  <string>テキスト色</string>
+
+  <!-- CONVO/CONTACT LIST -->
+  <key>GROUP</key>
+  <string>グループ</string>
+  <key>CONTACT_BUBBLES</key>
+  <string>接触泡</string>
+  <key>ERASE_CONVOS_INFO</key>
+  <string>すべてのConvosのための情報を消します</string>
+  <key>ERASE_CONTACTS_INFO</key>
+  <string>すべての接触用情報を消します</string>
+  <key>ERASE_CONTACT_INFO</key>
+  <string>この接触用情報を消します</string>
+  <key>ERASE_CONVO_INFO</key>
+  <string>このConvoのための情報を消します</string>
+
+  <!-- BACKGROUND -->
+  <key>BACKGROUND_TYPE</key>
+  <string>背景タイプ</string>
+  <key>FLAT_COLOUR</key>
+  <string>水平な色</string>
+  <key>WALLPAPER</key>
+  <string>壁紙</string>
+  <key>IMAGE</key>
+  <string>イメージ</string>
+  <key>CHOOSE_IMAGE</key>
+  <string>イメージを選びます</string>
+  <key>BLUR_RADIUS</key>
+  <string>曇りレイディアス</string>
+  <key>OVERLAY_COLOUR</key>
+  <string>オーバーレイ色</string>
+
+  <!-- NEW THEME -->
+  <key>THEME_NAME</key>
+  <string>テーマ名</string>
+  <key>BUBBLE_COLOURS</key>
+  <string>泡色</string>
+  <key>SMS</key>
+  <string>SMS</string>
+  <key>IMESSAGE</key>
+  <string>iMessage</string>
+  <key>OTHER_PERSON</key>
+  <string>他の人</string>
+  <key>OTHER_COLOURS</key>
+  <string>他の色</string>
+  <key>INFO_TEXT</key>
+  <string>情報テキスト</string>
+  <key>BACKGROUND</key>
+  <string>背景</string>
+  <key>CHAT_VIEW_SETTINGS</key>
+  <string>雑談視界セッティング</string>
+
+  <!-- OTHER PREFS -->
+  <key>APP_TINT</key>
+  <string>アプリ色調</string>
+  <key>NAME_AS_PLACEHOLDER</key>
+  <string>プレースホールダーとしての名前</string>
+  <key>QUICK_SWITCHER</key>
+  <string>迅速なスイッチャー</string>
+  <key>UNREPLIED_INDICATORS</key>
+  <string>指標に返答されませんでした</string>
+  <key>CONVO_LIST_SETTINGS</key>
+  <string>Convoリスト・セッティング</string>
+  <key>DARK_MODE</key>
+  <string>暗いモード</string>
+  <key>SCHEDULED</key>
+  <string>予定されました</string>
+  <key>FROM</key>
+  <string>から</string>
+  <key>TO</key>
+  <string>に</string>
+  <key>LIGHT</key>
+  <string>光</string>
+  <key>DARK</key>
+  <string>日暮れ</string>
+  <key>CUSTOM</key>
+  <string>習慣</string>
+  <key>DM_SCHEDULE_TITLE</key>
+  <string>暗いモード・タイミング</string>
+  <key>BACKGROUND_COLOUR</key>
+  <string>背景色</string>
+  <key>PRIMARY_COLOUR</key>
+  <string>原色</string>
+  <key>SECONDARY_COLOUR</key>
+  <string>等和色</string>
+
+  <!-- CONVO LIST PREFS -->
+  <key>SHOW_CONTACT_PICS</key>
+  <string>ショー接触写真</string>
+  <key>CONTACT_PIC_DIAMETER</key>
+  <string>接触絵直径</string>
+  <key>HIDE_DATES</key>
+  <string>日付を隠します</string>
+  <key>HIDE_PREVIEWS</key>
+  <string>皮メッセージ試写</string>
+  <key>HIDE_SEARCH</key>
+  <string>皮サーチバー</string>
+  <key>HIDE_SEPARATORS</key>
+  <string>セパレーターを隠します</string>
+  <key>CL_DEFAULT_DI</key>
+  <string>デフォルト直径は45です。</string>
+  <key>INDICATOR_INFO_TEXT</key>
+  <string>そのために最も最近のメッセージを読んだ会話のための指標を示す、しかしそれに答えませんでした。</string>
+  <key>SWITCHER_INFO_TEXT</key>
+  <string>会話視界の中でツールバーを示す‥‥で‥‥会話間で切り替えるべき矢を上下に。</string>
+  <key>PLACEHOLDER_INFO_TEXT</key>
+  <string>「*へのメッセージ」を言うためにメールを書いている接触を表わす*と共に、メッセージ・エントリー箱の中のテキストを変更します。</string>
+  <key>BIG_BUBBLES</key>
+  <string>大きな泡</string>
+  <key>BIG_BUBBLES_INFO_TEXT</key>
+  <string>iOS8の中のものに似るためにイメージ試写泡のサイズを増加させます-@sticktronの礼儀。</string>
+
+  <!-- ALERTS -->
+  <key>THEME_NAME_ALERT_TEXT</key>
+  <string>テーマの新しい名前を入力してください。</string>
+  <key>ERROR</key>
+  <string>エラー</string>
+  <key>ENTER</key>
+  <string>入ります</string>
+  <key>CANCEL</key>
+  <string>取り消す</string>
+  <key>OK</key>
+  <string>OK</string>
+  <key>THEME_NAME_ERROR_TEXT</key>
+  <string>この名前を持ったテーマは既に存在します。</string>
+  <key>TWEET_ERROR_MESSAGE</key>
+  <string>この時期にぴいぴいとさえずることができないこと</string>
+  <key>MAIL_ERROR_MESSAGE</key>
+  <string>メールをこの時期に送ることができないこと</string>
+  <key>ENTER_THEME_NAME_TEXT</key>
+  <string>新しいテーマの名前を入力してください。</string>
+  <key>THEME_EDIT_ALERT_TITLE</key>
+  <string>編集するべきテーマを選んでください。</string>
+  <key>SLIDER_ERROR_TEXT</key>
+  <string>値が最小と極大値の間にあることを確認してください。</string>
+  <key>SLIDER_ENTRY_TEXT</key>
+  <string>値を間に入力する。</string>
+  <key>AND</key>
+  <string>そして</string>
+
+  <!-- COLOUR PICKER -->
+  <key>HEX_VALUE</key>
+  <string>魔力価値</string>
+  <key>HEX_VALUE_TEXT</key>
+  <string>カスタム魔力色ストリングに入る。</string>
+  <key>HEX_ERROR</key>
+  <string>無効魔力ストリング</string>
+  <key>HEX_ERROR_TEXT</key>
+  <string>有効な魔力色ストリングに入ってください、例えば#2F3E12</string>
+
+  <!-- TITLES -->
+  <key>EDITING</key>
+  <string>編集</string>
+  <key>CHAT_VIEW</key>
+  <string>雑談視界</string>
+  <key>CONVO_LIST</key>
+  <string>Convoリスト</string>
+  <key>BACKGROUND</key>
+  <string>背景</string>
+  <key>IM_BUBBLES</key>
+  <string>IM泡</string>
+  <key>SMS_BUBBLES</key>
+  <string>SMS泡</string>
+  <key>OTHER_BUBBLES</key>
+  <string>他の泡</string>
+  <key>OTHER_SETTINGS</key>
+  <string>他のセッティング</string>
+
+
+
+  <key>TWEET</key>
+  <string>私は、メッセージ・アプリに驚くべきに見せるためにメッセージ注文車組み立て工プロ(@friggogによる)を使用しています!</string>
+
+</dict>
+</plist>
