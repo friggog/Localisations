@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<!-- MAIN PREFS -->
+
+<key>ENABLED</key>
+
+<string>Activado</string>
+
+<key>PRIMARY_THEME</key>
+
+<string>Tema Primária</string>
+
+<key>CONVO_SPECIFIC_THEMES</key>
+
+<string>Temas Específicos da Conversa</string>
+
+<key>CONTACT_SPECIFIC_COLOURS</key>
+
+<string>Cores Específicos a Contactos</string>
+
+<key>NEW_THEME</key>
+
+<string>Tema Novo</string>
+
+<key>EDIT_THEME</key>
+
+<string>Editar Tema</string>
+
+<key>OTHER_OPTIONS</key>
+
+<string>Outras opções</string>
+
+<key>SUPPORT</key>
+
+<string>Support</string>
+
+<key>EMAIL</key>
+
+<string>Email</string>
+
+<key>TWITTER</key>
+
+<string>Twitter</string>
+
+<key>INFO</key>
+
+<string>Informação</string>
+
+<key>BETA</key>
+
+<string>Beta</string>
+
+
+
+
+<!-- CHAT VIEW PREFS -->
+
+<key>BUBBLE_WIDTH</key>
+
+<string>Largura da bolha</string>
+
+<key>BUBBLE_TAILS</key>
+
+<string>Calda da bolha</string>
+
+<key>DEFAULT</key>
+
+<string>Padrão</string>
+
+<key>SHOW_ALL</key>
+
+<string>Mostrar todo</string>
+
+<key>HIDE_ALL</key>
+
+<string>Esconder todo</string>
+
+<key>BUBBLE_OUTLINE_ONLY</key>
+
+<string>Só bolha Contorno</string>
+
+<key>FLAT_BUBBLE_EDGES</key>
+
+<string>Bolha de bordas planas</string>
+
+<key>SINGLE_CONTACT_PICS</key>
+
+<string>Mostrar imagem dos outros (único)</string>
+
+<key>GROUP_CONTACT_PICS</key>
+
+<stringMostrar imagem dos outros (grupo)</string>
+
+<key>MY_CONTACT_PICS</key>
+
+<string>Mostrar tua imagem</string>
+
+<key>CPIC_DIAMETER</key>
+
+<string>Diâmetro de imagem do contacto</string>
+
+<key>CV_DEFAULT_DI</key>
+
+<string>Diâmetro padrão e 27.</string>
+
+
+
+
+<!-- BUBBLE PREFS -->
+
+<key>GRADIENT</key>
+
+<string>Gradiente</string>
+
+<key>BUBBLE_COLOUR</key>
+
+<string>Cor da bolha</string>
+
+<key>TOP_COLOUR</key>
+
+<string>Cor de cima</string>
+
+<key>BOTTOM_COLOUR</key>
+
+<string>Cor de baixo</string>
+
+<key>TEXT_COLOUR</key>
+
+<string>Cor de texto</string>
+
+
+
+
+<!-- CONVO/CONTACT LIST -->
+
+<key>GROUP</key>
+
+<string>Groupo</string>
+
+<key>CONTACT_BUBBLES</key>
+
+<string>Bolha de contacto</string>
+
+<key>ERASE_CONVOS_INFO</key>
+
+<string>Apagar informação para todas conversas</string>
+
+<key>ERASE_CONTACTS_INFO</key>
+
+<string>Apagar informação de todos contactos</string>
+
+<key>ERASE_CONTACT_INFO</key>
+
+<string>Apagar informação de este contacto</string>
+
+<key>ERASE_CONVO_INFO</key>
+
+<string>Apagar informação de esta conversa</string>
+
+
+
+
+<!-- BACKGROUND -->
+
+<key>BACKGROUND_TYPE</key>
+
+<string>Tipo de fundo</string>
+
+<key>FLAT_COLOUR</key>
+
+<string>Cor lisa</string>
+
+<key>WALLPAPER</key>
+
+<string>Wallpaper</string>
+
+<key>IMAGE</key>
+
+<string>Imagem</string>
+
+<key>CHOOSE_IMAGE</key>
+
+<string>Escolha imagem</string>
+
+<key>BLUR_RADIUS</key>
+
+<string>Borrão raio</string>
+
+<key>OVERLAY_COLOUR</key>
+
+<string>Cor overlay</string>
+
+
+
+
+<!-- NEW THEME -->
+
+<key>THEME_NAME</key>
+
+<string>Nome de tema</string>
+
+<key>BUBBLE_COLOURS</key>
+
+<string>Cor de bolha</string>
+
+<key>SMS</key>
+
+<string>SMS</string>
+
+<key>IMESSAGE</key>
+
+<string>iMessage</string>
+
+<key>OTHER_PERSON</key>
+
+<string>Otra pessoa</string>
+
+<key>OTHER_COLOURS</key>
+
+<string>Otras cores</string>
+
+<key>INFO_TEXT</key>
+
+<string>Texto de informação</string>
+
+<key>BACKGROUND</key>
+
+<string>Background</string>
+
+<key>CHAT_VIEW_SETTINGS</key>
+
+<string>Configurações de exibição da conversa</string>
+
+
+
+
+<!-- OTHER PREFS -->
+
+<key>APP_TINT</key>
+
+<string>Cor da aplicação</string>
+
+<key>NAME_AS_PLACEHOLDER</key>
+
+<string>Nome como espaço reservado</string>
+
+<key>QUICK_SWITCHER</key>
+
+<string>Quick Switcher</string>
+
+<key>UNREPLIED_INDICATORS</key>
+
+<string>Indicadores sem responder</string>
+
+<key>CONVO_LIST_SETTINGS</key>
+
+<string>Configurações de lista de conversa</string>
+
+<key>DARK_MODE</key>
+
+<string>Modo escuro</string>
+
+<key>SCHEDULED</key>
+
+<string>Agendada</string>
+
+<key>FROM</key>
+
+<string>De</string>
+
+<key>TO</key>
+
+<string>Para</string>
+
+<key>LIGHT</key>
+
+<string>Claro</string>
+
+<key>DARK</key>
+
+<string>Escuro</string>
+
+<key>CUSTOM</key>
+
+<string>Personalizado</string>
+
+<key>DM_SCHEDULE_TITLE</key>
+
+<string>Horário de Modo Escuro</string>
+
+<key>BACKGROUND_COLOUR</key>
+
+<string>Cor de Background</string>
+
+<key>PRIMARY_COLOUR</key>
+
+<string>Cor primária</string>
+
+<key>SECONDARY_COLOUR</key>
+
+<string>Cor secundária</string>
+
+
+
+
+<!-- CONVO LIST PREFS -->
+
+<key>SHOW_CONTACT_PICS</key>
+
+<string>Mostrar imagem de contactos</string>
+
+<key>CONTACT_PIC_DIAMETER</key>
+
+<string>Diâmetro de imagem de contacto</string>
+
+<key>HIDE_DATES</key>
+
+<string>Esconder datas</string>
+
+<key>HIDE_PREVIEWS</key>
+
+<string>Esconder Pré-Visualização de mensagem</string>
+
+<key>HIDE_SEARCH</key>
+
+<string>Esconder barra de pesquisa</string>
+
+<key>HIDE_SEPARATORS</key>
+
+<string>Esconder separadoras</string>
+
+<key>CL_DEFAULT_DI</key>
+
+<string>Diâmetro padrão e 45.</string>
+
+<key>INDICATOR_INFO_TEXT</key>
+
+<string>Mostra um indicador de conversas de que tu leste a mensagem mais recente, mas não responderam.</string>
+
+<key>SWITCHER_INFO_TEXT</key>
+
+<string>Mostra uma barra de ferramentas na visualização da conversa com cima e para baixo para alternar entre conversas.</string>
+
+<key>PLACEHOLDER_INFO_TEXT</key>
+
+<string>Altera o texto na caixa de entrada de mensagem a dizer " Mensagem para * ', com o * representando o contato que são mensagens de texto .</string>
+
+<key>BIG_BUBBLES</key>
+
+<string>Bolhas grandes</string>
+
+<key>BIG_BUBBLES_INFO_TEXT</key>
+
+<string>Aumentar o tamanho da pré-visualização das bolhas para se parecer com os de iOS8 - cortesia de @sticktron.</string>
+
+
+
+
+<!-- ALERTS -->
+
+<key>THEME_NAME_ALERT_TEXT</key>
+
+<string>Por novo nome de tema</string>
+
+<key>ERROR</key>
+
+<string>Erro</string>
+
+<key>ENTER</key>
+
+<string>Digite</string>
+
+<key>CANCEL</key>
+
+<string>Cancelar</string>
+
+<key>OK</key>
+
+<string>OK</string>
+
+<key>THEME_NAME_ERROR_TEXT</key>
+
+<string>Um tema com este nome já existe</string>
+
+<key>TWEET_ERROR_MESSAGE</key>
+
+<string>Não é possível twittar neste momento.</string>
+
+<key>MAIL_ERROR_MESSAGE</key>
+
+<string>Não é possível enviar email neste momento.</string>
+
+<key>ENTER_THEME_NAME_TEXT</key>
+
+<string>Digite nome de novo tema</string>
+
+<key>THEME_EDIT_ALERT_TITLE</key>
+
+<string>Escolha tema para editar.</string>
+
+<key>SLIDER_ERROR_TEXT</key>
+
+<string>Por favor, verifique o valor está entre o valor mínimo e máximo.</string>
+
+<key>SLIDER_ENTRY_TEXT</key>
+
+<string>Entre o valor</string>
+
+<key>AND</key>
+
+<string>e</string>
+
+
+
+
+<!-- COLOUR PICKER -->
+
+<key>HEX_VALUE</key>
+
+<string>Valor hex</string>
+
+<key>HEX_VALUE_TEXT</key>
+
+<string>Digite seqüência de cores personalizado hex</string>
+
+<key>HEX_ERROR</key>
+
+<string>Inválido Cadeia Hex</string>
+
+<key>HEX_ERROR_TEXT</key>
+
+<string>Por favor, insira uma seqüência de cor hexadecimal válido, por exemplo #2F3E12</string>
+
+
+
+
+<!-- TITLES -->
+
+<key>EDITING</key>
+
+<string>Edição</string>
+
+<key>CHAT_VIEW</key>
+
+<string>Visualizações de conversa</string>
+
+<key>CONVO_LIST</key>
+
+<string>lista de conversa</string>
+
+<key>BACKGROUND</key>
+
+<string>Background</string>
+
+<key>IM_BUBBLES</key>
+
+<string>Bolhas IM</string>
+
+<key>SMS_BUBBLES</key>
+
+<string>Bolhas SMS</string>
+
+<key>OTHER_BUBBLES</key>
+
+<string>Otras bolhas</string>
+
+<key>OTHER_SETTINGS</key>
+
+<string>Otras configurações</string>
+
+
+
+
+
+<key>TWEET</key>
+
+<string>Estou usando Messages Customiser Pro (por friggog) para fazer o meu app de mensagens estar incrível!</string>
+
+</dict>
+</plist>

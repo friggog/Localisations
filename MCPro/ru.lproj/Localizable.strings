@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+  <!-- MAIN PREFS -->
+  <key>ENABLED</key>
+  <string>включен</string>
+  <key>PRIMARY_THEME</key>
+  <string>Первичная Тема</string>
+  <key>CONVO_SPECIFIC_THEMES</key>
+  <string>конкретные темы</string>
+  <key>CONTACT_SPECIFIC_COLOURS</key>
+  <string>Связаться определенные цвета</string>
+  <key>NEW_THEME</key>
+  <string>Новые Темы</string>
+  <key>EDIT_THEME</key>
+  <string>Редактировать Тема</string>
+  <key>OTHER_OPTIONS</key>
+  <string>Другие варианты</string>
+  <key>SUPPORT</key>
+  <string>Поддержка</string>
+  <key>EMAIL</key>
+  <string>Email</string>
+  <key>TWITTER</key>
+  <string>Twitter</string>
+  <key>INFO</key>
+  <string>информация</string>
+  <key>BETA</key>
+  <string>бета</string>
+
+  <!-- CHAT VIEW PREFS -->
+  <key>BUBBLE_WIDTH</key>
+  <string>пузырь Ширина</string>
+  <key>BUBBLE_TAILS</key>
+  <string>пузырь хвосты</string>
+  <key>DEFAULT</key>
+  <string>умолчанию</string>
+  <key>SHOW_ALL</key>
+  <string>показать все</string>
+  <key>HIDE_ALL</key>
+  <string>скрыть все</string>
+  <key>BUBBLE_OUTLINE_ONLY</key>
+  <string>пузырь наброски только</string>
+  <key>FLAT_BUBBLE_EDGES</key>
+  <string>плоские края пузырь</string>
+  <key>SINGLE_CONTACT_PICS</key>
+  <string>показать фотографию друга</string>
+  <key>GROUP_CONTACT_PICS</key>
+  <string>показать фотографию друга (группа)</string>
+  <key>MY_CONTACT_PICS</key>
+  <string>показать свою фотографию</string>
+  <key>CPIC_DIAMETER</key>
+  <string>Связаться рис диаметр</string>
+  <key>CV_DEFAULT_DI</key>
+  <string>Диаметр умолчанию 27.</string>
+
+  <!-- BUBBLE PREFS -->
+  <key>GRADIENT</key>
+  <string>Градиент</string>
+  <key>BUBBLE_COLOUR</key>
+  <string>пузырь цвет</string>
+  <key>TOP_COLOUR</key>
+  <string>цвет верхней части</string>
+  <key>BOTTOM_COLOUR</key>
+  <string>нижняя цвет</string>
+  <key>TEXT_COLOUR</key>
+  <string>цвет текста</string>
+
+  <!-- CONVO/CONTACT LIST -->
+  <key>GROUP</key>
+  <string>группа</string>
+  <key>CONTACT_BUBBLES</key>
+  <string>контактные пузыри</string>
+  <key>ERASE_CONVOS_INFO</key>
+  <string>Стереть информацию по всем</string>
+  <key>ERASE_CONTACTS_INFO</key>
+  <string>Стереть информация для всех</string>
+  <key>ERASE_CONTACT_INFO</key>
+  <string>Стереть информация для этого</string>
+  <key>ERASE_CONVO_INFO</key>
+  <string>Стереть информации об этом</string>
+
+  <!-- BACKGROUND -->
+  <key>BACKGROUND_TYPE</key>
+  <string>Фон Тип</string>
+  <key>FLAT_COLOUR</key>
+  <string>плоский цвет</string>
+  <key>WALLPAPER</key>
+  <string>обои</string>
+  <key>IMAGE</key>
+  <string>изображение</string>
+  <key>CHOOSE_IMAGE</key>
+  <string>выбрать изображение</string>
+  <key>BLUR_RADIUS</key>
+  <string>радиус размытия</string>
+  <key>OVERLAY_COLOUR</key>
+  <string>наложение цвета</string>
+
+  <!-- NEW THEME -->
+  <key>THEME_NAME</key>
+  <string>название темы</string>
+  <key>BUBBLE_COLOURS</key>
+  <string>цвета пузырь</string>
+  <key>SMS</key>
+  <string>SMS</string>
+  <key>IMESSAGE</key>
+  <string>iMessage</string>
+  <key>OTHER_PERSON</key>
+  <string>другой человек</string>
+  <key>OTHER_COLOURS</key>
+  <string>другой цвет</string>
+  <key>INFO_TEXT</key>
+  <string>Информационный текст</string>
+  <key>BACKGROUND</key>
+  <string>фон</string>
+  <key>CHAT_VIEW_SETTINGS</key>
+  <string>Чат настроек просмотра</string>
+
+  <!-- OTHER PREFS -->
+  <key>APP_TINT</key>
+  <string>приложение оттенок</string>
+  <key>NAME_AS_PLACEHOLDER</key>
+  <string>назвать как заполнитель</string>
+  <key>QUICK_SWITCHER</key>
+  <string>быстрый переключатель</string>
+  <key>UNREPLIED_INDICATORS</key>
+  <string>Темы без показателям</string>
+  <key>CONVO_LIST_SETTINGS</key>
+  <string>Разговор Параметры списка</string>
+  <key>DARK_MODE</key>
+  <string>темно-режиме</string>
+  <key>SCHEDULED</key>
+  <string>планируется</string>
+  <key>FROM</key>
+  <string>от</string>
+  <key>TO</key>
+  <string>до</string>
+  <key>LIGHT</key>
+  <string>Свет</string>
+  <key>DARK</key>
+  <string>темно</string>
+  <key>CUSTOM</key>
+  <string>обычай</string>
+  <key>DM_SCHEDULE_TITLE</key>
+  <string>темно времени режим</string>
+  <key>BACKGROUND_COLOUR</key>
+  <string>фоном времени</string>
+  <key>PRIMARY_COLOUR</key>
+  <string>Основной Цвет</string>
+  <key>SECONDARY_COLOUR</key>
+  <string>Вторичный Цвет</string>
+
+  <!-- CONVO LIST PREFS -->
+  <key>SHOW_CONTACT_PICS</key>
+  <string>Показать Связаться фотки</string>
+  <key>CONTACT_PIC_DIAMETER</key>
+  <string>Диаметр Контакты фотографии</string>
+  <key>HIDE_DATES</key>
+  <string>Скрыть Даты</string>
+  <key>HIDE_PREVIEWS</key>
+  <string>Скрыть Cообщение Превью</string>
+  <key>HIDE_SEARCH</key>
+  <string>Скрыть панель поиска</string>
+  <key>HIDE_SEPARATORS</key>
+  <string>Cкрыть сепараторы</string>
+  <key>CL_DEFAULT_DI</key>
+  <string>Диаметр умолчанию 45.</string>
+  <key>INDICATOR_INFO_TEXT</key>
+  <string>Показывает индикатор для разговоров, для которых вы читали последнюю сообщение, но не ответили на него.</string>
+  <key>SWITCHER_INFO_TEXT</key>
+  <string>Показывает панель инструментов в виде беседы с стрелками вверх и вниз для переключения между разговорами.</string>
+  <key>PLACEHOLDER_INFO_TEXT</key>
+  <string>Изменяет текст в поле ввода сообщения, чтобы сказать 'сообщение для * ', с * представляющий контакт вы текстовых.</string>
+  <key>BIG_BUBBLES</key>
+  <string>Большие пузыри</string>
+  <key>BIG_BUBBLES_INFO_TEXT</key>
+  <string>Увеличивает размер предварительного просмотра изображения пузыри напоминают в iOS8 - любезностьsticktron</string>
+
+  <!-- ALERTS -->
+  <key>THEME_NAME_ALERT_TEXT</key>
+  <string>Введите новое имя темы</string>
+  <key>ERROR</key>
+  <string>Ошибка</string>
+  <key>ENTER</key>
+  <string>введите</string>
+  <key>CANCEL</key>
+  <string>отменить</string>
+  <key>OK</key>
+  <string>OK</string>
+  <key>THEME_NAME_ERROR_TEXT</key>
+  <string>Тема с таким названием уже существует</string>
+  <key>TWEET_ERROR_MESSAGE</key>
+  <string>Невозможно чирикать в это время</string>
+  <key>MAIL_ERROR_MESSAGE</key>
+  <string>Невозможно отправить почту в это время</string>
+  <key>ENTER_THEME_NAME_TEXT</key>
+  <string>Введите имя новой темы</string>
+  <key>THEME_EDIT_ALERT_TITLE</key>
+  <string>Выберите тему для редактирования</string>
+  <key>SLIDER_ERROR_TEXT</key>
+  <string>Пожалуйста, убедитесь, значение между минимальным и максимальным значением.</string>
+  <key>SLIDER_ENTRY_TEXT</key>
+  <string>Введите значение от</string>
+  <key>AND</key>
+  <string>и</string>
+
+  <!-- COLOUR PICKER -->
+  <key>HEX_VALUE</key>
+  <string>Hex значение</string>
+  <key>HEX_VALUE_TEXT</key>
+  <string>Введите пользовательский hex цвета строку</string>
+  <key>HEX_ERROR</key>
+  <string>Неверный hex Строка</string>
+  <key>HEX_ERROR_TEXT</key>
+  <string>Пожалуйста, введите действительный шестигранной цвета строку e.g. #2F3E12</string>
+
+  <!-- TITLES -->
+  <key>EDITING</key>
+  <string>Редактирование</string>
+  <key>CHAT_VIEW</key>
+  <string>Чат Фото</string>
+  <key>CONVO_LIST</key>
+  <string>список разговор</string>
+  <key>BACKGROUND</key>
+  <string>Фон</string>
+  <key>IM_BUBBLES</key>
+  <string>IM пузыри</string>
+  <key>SMS_BUBBLES</key>
+  <string>SMS пузыри</string>
+  <key>OTHER_BUBBLES</key>
+  <string>Другие пузыри</string>
+  <key>OTHER_SETTINGS</key>
+  <string>Другие настройки</string>
+
+
+
+  <key>TWEET</key>
+  <string>Я использую Сообщения Customiser Pro (по @friggog), чтобы моя сообщения приложение выглядеть потрясающе!</string>
+
+</dict>
+</plist>
