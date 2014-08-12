@@ -172,6 +172,7 @@
   <string>在对话界面显示箭头来切换对话</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
   <string>改变信息界面文字为'发送到*', * 为发送联系人姓名</string>
+  <key>BIG_BUBBLES</key>
   <string>大气泡</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
   <string>使发送的图片在气泡上像iOS8一样大</string>
