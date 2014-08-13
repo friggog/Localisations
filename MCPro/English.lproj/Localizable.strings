@@ -32,6 +32,8 @@
   <!-- CHAT VIEW PREFS -->
   <key>BUBBLE_WIDTH</key>
   <string>Bubble Width</string>
+  <key>DEFAULT_BUBBLE_WIDTH</key>
+  <string>Default width is 231.</string>
   <key>BUBBLE_TAILS</key>
   <string>Bubble Tails</string>
   <key>DEFAULT</key>
@@ -96,6 +98,8 @@
   <string>Blur Radius</string>
   <key>OVERLAY_COLOUR</key>
   <string>Overlay Color</string>
+  <key>SETTING_BACKGROUND</key>
+  <string>Setting Background</string>
 
   <!-- NEW THEME -->
   <key>THEME_NAME</key>

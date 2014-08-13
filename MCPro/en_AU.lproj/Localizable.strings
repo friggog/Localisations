@@ -62,6 +62,10 @@
 
   <string>Bubble Width</string>
 
+  <key>DEFAULT_BUBBLE_WIDTH</key>
+
+  <string>Default width is 231.</string>
+
   <key>BUBBLE_TAILS</key>
 
   <string>Bubble Tails</string>
@@ -193,6 +197,9 @@
 
   <string>Overlay Colour</string>
 
+  <key>SETTING_BACKGROUND</key>
+
+  <string>Setting Background</string>
 
 
 
