@@ -7,17 +7,17 @@
   <key>ENABLED</key>
   <string>开启</string>
   <key>PRIMARY_THEME</key>
-  <string>主要主题</string>
+  <string>主题</string>
   <key>CONVO_SPECIFIC_THEMES</key>
-  <string>特别谈话主题</string>
+  <string>特殊对话主题配置</string>
   <key>CONTACT_SPECIFIC_COLOURS</key>
-  <string>特别联系人颜色</string>
+  <string>特殊联系人颜色配置</string>
   <key>NEW_THEME</key>
-  <string>新主题</string>
+  <string>新建主题</string>
   <key>EDIT_THEME</key>
   <string>编辑主题</string>
   <key>OTHER_OPTIONS</key>
-  <string>其他设置</string>
+  <string>其它设置</string>
   <key>SUPPORT</key>
   <string>支持</string>
   <key>EMAIL</key>
@@ -45,11 +45,11 @@
   <key>FLAT_BUBBLE_EDGES</key>
   <string>气泡边缘扁平</string>
   <key>SINGLE_CONTACT_PICS</key>
-  <string>先是其他人头像(个人)</string>
+  <string>显示其它人头像(个人)</string>
   <key>GROUP_CONTACT_PICS</key>
-  <string>先是其他人头像 (群组)</string>
+  <string>显示其它人头像 (群组)</string>
   <key>MY_CONTACT_PICS</key>
-  <string>显示自己头像</string>
+  <string>显示个人头像</string>
   <key>CPIC_DIAMETER</key>
   <string>联系人头像直径</string>
   <key>CV_DEFAULT_DI</key>
@@ -73,13 +73,13 @@
   <key>CONTACT_BUBBLES</key>
   <string>联系人气泡</string>
   <key>ERASE_CONVOS_INFO</key>
-  <string>为谈话清除所有信息</string>
+  <string>为对话清除所有信息</string>
   <key>ERASE_CONTACTS_INFO</key>
   <string>为所有联系人清除信息</string>
   <key>ERASE_CONTACT_INFO</key>
   <string>为此联系人清除信息</string>
   <key>ERASE_CONVO_INFO</key>
-  <string>为谈话清除信息</string>
+  <string>为对话清除信息</string>
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
@@ -107,9 +107,9 @@
   <key>IMESSAGE</key>
   <string>iMessage</string>
   <key>OTHER_PERSON</key>
-  <string>其他人</string>
+  <string>其它</string>
   <key>OTHER_COLOURS</key>
-  <string>其他颜色</string>
+  <string>其它颜色</string>
   <key>INFO_TEXT</key>
   <string>信息文本</string>
   <key>BACKGROUND</key>
@@ -121,25 +121,25 @@
   <key>APP_TINT</key>
   <string>App色调</string>
   <key>NAME_AS_PLACEHOLDER</key>
-  <string>名字作为占位符</string>
+  <string>名称修改</string>
   <key>QUICK_SWITCHER</key>
   <string>快速切换</string>
   <key>UNREPLIED_INDICATORS</key>
   <string>未回复指示</string>
   <key>CONVO_LIST_SETTINGS</key>
-  <string>谈话 列表设置</string>
+  <string>对话列表设置</string>
   <key>DARK_MODE</key>
-  <string>黑色模式</string>
+  <string>颜色模式</string>
   <key>SCHEDULED</key>
-  <string>时间表</string>
+  <string>定时</string>
   <key>FROM</key>
-  <string>来自</string>
+  <string>从</string>
   <key>TO</key>
-  <string>到</string>
+  <string>至</string>
   <key>LIGHT</key>
-  <string>白</string>
+  <string>白色</string>
   <key>DARK</key>
-  <string>黑</string>
+  <string>黑色</string>
   <key>CUSTOM</key>
   <string>自定义</string>
   <key>DM_SCHEDULE_TITLE</key>
@@ -169,13 +169,13 @@
   <key>INDICATOR_INFO_TEXT</key>
   <string>为未回复信息显示指示</string>
   <key>SWITCHER_INFO_TEXT</key>
-  <string>在对话界面显示箭头来切换对话</string>
+  <string>在对话界面显示上下箭头来切换对话</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
   <string>改变信息界面文字为'发送到*', * 为发送联系人姓名</string>
   <key>BIG_BUBBLES</key>
   <string>大气泡</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
-  <string>使发送的图片在气泡上像iOS8一样大</string>
+  <string>使发送的图片在气泡上像iOS 8</string>
 
   <!-- ALERTS -->
   <key>THEME_NAME_ALERT_TEXT</key>
@@ -183,7 +183,7 @@
   <key>ERROR</key>
   <string>错误</string>
   <key>ENTER</key>
-  <string>进入</string>
+  <string>确定</string>
   <key>CANCEL</key>
   <string>取消</string>
   <key>OK</key>
@@ -221,7 +221,7 @@
   <key>CHAT_VIEW</key>
   <string>对话界面</string>
   <key>CONVO_LIST</key>
-  <string>谈话列表</string>
+  <string>对话列表</string>
   <key>BACKGROUND</key>
   <string>背景</string>
   <key>IM_BUBBLES</key>
@@ -229,9 +229,9 @@
   <key>SMS_BUBBLES</key>
   <string>短信 气泡</string>
   <key>OTHER_BUBBLES</key>
-  <string>其他气泡</string>
+  <string>其它气泡</string>
   <key>OTHER_SETTINGS</key>
-  <string>其他设置</string>
+  <string>其它设置</string>
 
 
 
