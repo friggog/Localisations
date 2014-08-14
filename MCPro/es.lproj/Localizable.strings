@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	
+
   <!-- MAIN PREFS -->
 
   <key>ENABLED</key>
@@ -159,6 +159,15 @@
   <key>ERASE_CONVO_INFO</key>
 
   <string>Borrar info. para esta conversación</string>
+
+	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this conversation?</string>
+	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this contact?</string>
+	<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for all contacts?</string>
+	<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for all conversations?</string>
 
 
 
@@ -338,7 +347,7 @@
 
   <key>INDICATOR_INFO_TEXT</key>
 
-  <string>Muestra un indicador para conversaciones de las cuales has leído el mensaje más reciente pero no ha respondido.</string> 
+  <string>Muestra un indicador para conversaciones de las cuales has leído el mensaje más reciente pero no ha respondido.</string>
 
   <key>SWITCHER_INFO_TEXT</key>
 
@@ -380,6 +389,11 @@
   <key>OK</key>
 
   <string>OK</string>
+
+	<key>YES</key>
+	<string>Sí</string>
+	<key>NO</key>
+	<string>No</string>
 
   <key>THEME_NAME_ERROR_TEXT</key>
 

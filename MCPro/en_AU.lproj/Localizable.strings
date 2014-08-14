@@ -149,20 +149,21 @@
   <string>Contact Bubbles</string>
 
   <key>ERASE_CONVOS_INFO</key>
-
   <string>Erase Info For All Convos</string>
-
+  <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all conversations?</string>
   <key>ERASE_CONTACTS_INFO</key>
-
   <string>Erase Info For All Contacts</string>
-
+  <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all contacts?</string>
   <key>ERASE_CONTACT_INFO</key>
-
   <string>Erase Info For This Contact</string>
-
+  <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this contact?</string>
   <key>ERASE_CONVO_INFO</key>
-
   <string>Erase Info For This Convo</string>
+  <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this conversation?</string>
 
 
 
@@ -387,6 +388,11 @@
   <key>OK</key>
 
   <string>OK</string>
+
+  <key>YES</key>
+  <string>Yes</string>
+  <key>NO</key>
+  <string>No</string>
 
   <key>THEME_NAME_ERROR_TEXT</key>
 

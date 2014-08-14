@@ -80,6 +80,14 @@
   <string>为此联系人清除信息</string>
   <key>ERASE_CONVO_INFO</key>
   <string>为对话清除信息</string>
+  <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this conversation?</string>
+  <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this contact?</string>
+  <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all contacts?</string>
+  <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all conversations?</string>
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
@@ -188,6 +196,10 @@
   <string>取消</string>
   <key>OK</key>
   <string>好</string>
+  <key>YES</key>
+  <string>是的</string>
+  <key>NO</key>
+  <string>无</string>
   <key>THEME_NAME_ERROR_TEXT</key>
   <string>此名称主题已存在</string>
   <key>TWEET_ERROR_MESSAGE</key>

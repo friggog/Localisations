@@ -161,8 +161,14 @@
 
 <string>Lösche Informationen für diese Konversation</string>
 
-
-
+<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+<string>Are you sure you want to erase info for this conversation?</string>
+<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+<string>Are you sure you want to erase info for this contact?</string>
+<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+<string>Are you sure you want to erase info for all contacts?</string>
+<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+<string>Are you sure you want to erase info for all conversations?</string>
 
 <!-- BACKGROUND -->
 
@@ -381,6 +387,11 @@
 <key>OK</key>
 
 <string>O.K.</string>
+
+<key>YES</key>
+<string>Ja</string>
+<key>NO</key>
+<string>Nein</string>
 
 <key>THEME_NAME_ERROR_TEXT</key>
 

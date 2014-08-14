@@ -81,6 +81,15 @@
   <key>ERASE_CONVO_INFO</key>
   <string>この会話のための情報を消します</string>
 
+  <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this conversation?</string>
+  <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for this contact?</string>
+  <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all contacts?</string>
+  <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+  <string>Are you sure you want to erase info for all conversations?</string>
+
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
   <string>背景タイプ</string>
@@ -188,6 +197,10 @@
   <string>取り消す</string>
   <key>OK</key>
   <string>OK</string>
+  <key>YES</key>
+  <string>はい </string>
+  <key>NO</key>
+  <string>いいえ</string>
   <key>THEME_NAME_ERROR_TEXT</key>
   <string>この名前を持ったテーマは既に存在します。</string>
   <key>TWEET_ERROR_MESSAGE</key>
