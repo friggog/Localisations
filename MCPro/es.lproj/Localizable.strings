@@ -479,5 +479,8 @@
 
   <string>Estoy usando Messages Customiser Pro (por @friggog) para que mi app de mensajes se vea estupenda!</string>
 
+  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+  <string>a</string>
+
 </dict>
 </plist>

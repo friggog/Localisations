@@ -238,6 +238,9 @@
 <key>TWEET</key>
 <string>Saya menggunakan Messages Customiser Pro (by @friggog) unutk buat mesej app saya kelihatan menakjubkan!</string>
 
+<key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+<string>ke</string>
+
 
 </dict>
 </plist>

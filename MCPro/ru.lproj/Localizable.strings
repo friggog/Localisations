@@ -238,5 +238,8 @@
   <key>TWEET</key>
   <string>Я использую Сообщения Customiser Pro (по @friggog), чтобы моя сообщения приложение выглядеть потрясающе!</string>
 
+  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+  <string>в</string>
+
 </dict>
 </plist>

@@ -3,7 +3,6 @@
 <plist version="1.0">
 <dict>
 
-
 <!-- MAIN PREFS -->
 
 <key>ENABLED</key>
@@ -16,7 +15,7 @@
 
 <key>CONVO_SPECIFIC_THEMES</key>
 
-<string>Temi Specifici per Conv</string>
+<string>Temi Specifici per Contatto</string>
 
 <key>CONTACT_SPECIFIC_COLOURS</key>
 
@@ -147,7 +146,7 @@
 
 <key>ERASE_CONVOS_INFO</key>
 
-<string>Elimina Impostazioni per Tutte le Conv</string>
+<string>Elimina Impostazioni per Tutte le Conversazioni</string>
 
 <key>ERASE_CONTACTS_INFO</key>
 
@@ -159,7 +158,7 @@
 
 <key>ERASE_CONVO_INFO</key>
 
-<string>Elimina Impostazioni per Questa Conv</string>
+<string>Elimina Impostazioni per Questa Conversazione</string>
 
 
 
@@ -246,7 +245,7 @@
 
 <key>NAME_AS_PLACEHOLDER</key>
 
-<string>Nome nel </string>
+<string>Nome nel testo</string>
 
 <key>QUICK_SWITCHER</key>
 
@@ -479,6 +478,11 @@
 <key>TWEET</key>
 
 <string>Sto utilizzando MessageCustomizerPRO (da @friggog) per far apparire la mia app Messaggi fenomenale!</string>
+
+
+<key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+
+<string>a</string>
 
 </dict>
 </plist>

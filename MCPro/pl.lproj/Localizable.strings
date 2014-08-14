@@ -234,5 +234,8 @@
 <key>TWEET</key>
 <string>Używam Messages Cusomiser Pro (przez @friggog) żeby moja aplikacja do wiadomości wyglądała niesamowicie!</string>
 
+<key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+<string>do</string>
+
 </dict>
 </plist>

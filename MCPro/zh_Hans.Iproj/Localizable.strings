@@ -238,5 +238,8 @@
   <key>TWEET</key>
   <string>I'm using Messages Customiser Pro (by @friggog) to make my messages app look amazing!</string>
 
+  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+  <string>以</string>
+
 </dict>
 </plist>

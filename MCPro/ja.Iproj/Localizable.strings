@@ -238,5 +238,8 @@
   <key>TWEET</key>
   <string>私は、メッセージ・アプリに驚くべきに見せるためにメッセージ注文車組み立て工プロ(@friggogによる)を使用しています!</string>
 
+  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+  <string>へ</string>
+
 </dict>
 </plist>

@@ -480,6 +480,9 @@
 
 <string>Ich benutze Messages Customiser Pro (von @friggog) um meine Nachrichten App groﬂartig aussehen zu lassen!</string>
 
+<key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
+<string>zu</string>
+
 
 </dict>
 </plist>
