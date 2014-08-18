@@ -262,56 +262,55 @@
 
 <key>UNREPLIED_INDICATORS</key>
 
-<string></string>
+<string>اَن رپلآیڈ اِنڈیکیٹر</string>
 
 <key>CONVO_LIST_SETTINGS</key>
 
-<string>Convo List Settings</string>
+<string>گفتگو لسٹ سیٹنگز</string>
 
 <key>DARK_MODE</key>
 
-<string>Dark Mode</string>
+<string>ڈارک موڈ</string>
 
 <key>SCHEDULED</key>
 
-<string>Scheduled</string>
+<string>شیڈول کریں</string>
 
 <key>FROM</key>
 
-<string>From</string>
+<string>سے</string>
 
 <key>TO</key>
 
-<string>To</string>
+<string>کو</string>
 
 <key>LIGHT</key>
 
-<string>Light</string>
+<string>دھیما</string>
 
 <key>DARK</key>
 
-<string>Dark</string>
+<string>تاریک</string>
 
 <key>CUSTOM</key>
 
-<string>Custom</string>
+<string>اپنی مرضی کے مطابق</string>
 
 <key>DM_SCHEDULE_TITLE</key>
 
-<string>Dark Mode Timing</string>
+<string>ڈارک موڈ شیڈول</string>
 
 <key>BACKGROUND_COLOUR</key>
 
-<string>Background Color</string>
+<string>string>پس منظر کا رنگ</string>
 
 <key>PRIMARY_COLOUR</key>
 
-<string>Primary Color</string>
+<string>بنیادی رنگ</string>
 
 <key>SECONDARY_COLOUR</key>
 
-<string>Secondary Color</string>
-
+<string>ثانوی رنگ</string>
 
 
 
@@ -319,114 +318,106 @@
 
 <key>SHOW_CONTACT_PICS</key>
 
-<string>Show Contact Pics</string>
+<string>شو کانٹیکٹ تصویر</string>
 
 <key>CONTACT_PIC_DIAMETER</key>
 
-<string>Contact Picture Diameter</string>
+<string>کانٹیکٹ تصویر ڈایامیٹر</string>
 
 <key>HIDE_DATES</key>
 
-<string>Hide Dates</string>
+<string>تاریخ چهپایں</string>
 
 <key>HIDE_PREVIEWS</key>
 
-<string>Hide Message Previews</string>
+<string>مسج پریویز چهپایں</string>
 
 <key>HIDE_SEARCH</key>
 
-<string>Hide Search Bar</string>
+<string>مسج سرچ چهپاں</string>
 
 <key>HIDE_SEPARATORS</key>
 
-<string>Hide Separators</string>
+<string>سپاریٹر چهپاں</string>
 
 <key>CL_DEFAULT_DI</key>
 
-<string>Default diameter is 45.</string>
+<string>ڈیفولٹ ڈایامیٹ ۴۵ ہے</string>
 
 <key>INDICATOR_INFO_TEXT</key>
 
-<string>Shows an indicator for conversations for which you have read the most recent message but not replied to it.</string>
+<string>انرپلایڈ مسج انڈیکیٹر</string>
 
 <key>SWITCHER_INFO_TEXT</key>
 
-<string>Shows a toolbar in the conversation view with up and down arrows to switch between conversations.</string>
+<string>مسجز کے درمیان سیوچ کرنے کے ليے ٹول بار</string>
 
 <key>PLACEHOLDER_INFO_TEXT</key>
 
-<string>Changes the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
+<string>."Message to *"کو تبدیل کریں"Message"</string>
 
 <key>BIG_BUBBLES</key>
 
-<string>Big Bubbles</string>
+<string>بڑے ببل</string>
 
 <key>BIG_BUBBLES_INFO_TEXT</key>
 
-<string>Increases the size of image preview bubbles to resemble those in iOS8 - courtesy of @sticktron.</string>
-
-
+<string>Increases the size of image preview bubbles to resemble  those in iOS8 - courtesy of @sticktron.</string>
 
 
 <!-- ALERTS -->
 
 <key>THEME_NAME_ALERT_TEXT</key>
 
-<string>Enter new name of theme.</string>
+<string>نئ تھیم کا نام ڈالیں.</string>
 
 <key>ERROR</key>
 
-<string>Error</string>
+<string>ایرر</string>
 
 <key>ENTER</key>
 
-<string>Enter</string>
+<string>اینٹر</string>
 
 <key>CANCEL</key>
 
-<string>Cancel</string>
+<string>کانسل</string>
 
 <key>OK</key>
 
 <string>OK</string>
 
-<key>YES</key>
-<string>Yes</string>
-
-<key>NO</key>
-<string>No</string>
-
 <key>THEME_NAME_ERROR_TEXT</key>
 
-<string>A theme with this name already exists.</string>
+<string>تھیم کا نام استعمال میں ہے</string>
 
 <key>TWEET_ERROR_MESSAGE</key>
 
-<string>Unable to tweet at this time.</string>
+<string>اس وقت پر ٹویٹ نہی کر سکتے۔</string>
 
 <key>MAIL_ERROR_MESSAGE</key>
 
-<string>Unable to send mail at this time.</string>
+<string>اس وقت پر میل نہی کر سکتے۔</string>
 
 <key>ENTER_THEME_NAME_TEXT</key>
 
-<string>Enter name of new theme.</string>
+<string>تھیم کا نام ڈالیں</string>
 
 <key>THEME_EDIT_ALERT_TITLE</key>
 
-<string>Choose theme to edit.</string>
+<string>تھیم ایڈٹ کرنے کے لیے سلکٹ کریں</string>
 
 <key>SLIDER_ERROR_TEXT</key>
 
-<string>Please ensure the value is between the minimum and maximum value.</string>
+<string> براہ کرم یقینی بنائیں کے ویلیو، کم از کم اور زیادہ سے زیادہ ویلیو، کے درمیان ہے</string>
 
 <key>SLIDER_ENTRY_TEXT</key>
 
-<string>Enter value between</string>
+<string>کے درمیان والیو چنیں</string>
 
 <key>AND</key>
 
-<string>and</string>
+<string>اور</string>
 
 
 
@@ -456,35 +447,35 @@
 
 <key>EDITING</key>
 
-<string>Editing</string>
+<string>ایڈٹنگ</string>
 
 <key>CHAT_VIEW</key>
 
-<string>Chat View</string>
+<string>چیٹ ویو</string>
 
 <key>CONVO_LIST</key>
 
-<string>Convo List</string>
+<string>گفتگو کی لست</string>
 
 <key>BACKGROUND</key>
 
-<string>Background</string>
+<string>پس منظر</string>
 
 <key>IM_BUBBLES</key>
 
-<string>IM Bubbles</string>
+<string>IM ببلز</string>
 
 <key>SMS_BUBBLES</key>
 
-<string>SMS Bubbles</string>
+<string>SMS ببلز</string>
 
 <key>OTHER_BUBBLES</key>
 
-<string>Other Bubbles</string>
+<string>دیگر ببلز</string>
 
 <key>OTHER_SETTINGS</key>
 
-<string>Other Settings</string>
+<string>دیگر سیٹنگز</string>
 
 
 
