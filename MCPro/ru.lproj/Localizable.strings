@@ -5,19 +5,19 @@
 
   <!-- MAIN PREFS -->
   <key>ENABLED</key>
-  <string>включен</string>
+  <string>Включить</string>
   <key>PRIMARY_THEME</key>
-  <string>Первичная Тема</string>
+  <string>Главная тема</string>
   <key>CONVO_SPECIFIC_THEMES</key>
-  <string>конкретные темы</string>
+  <string>Темы отдельных диалогов</string>
   <key>CONTACT_SPECIFIC_COLOURS</key>
-  <string>Связаться определенные цвета</string>
+  <string>Цвета отдельных контактов</string>
   <key>NEW_THEME</key>
-  <string>Новые Темы</string>
+  <string>Новые темы</string>
   <key>EDIT_THEME</key>
-  <string>Редактировать Тема</string>
+  <string>Редактировать тему</string>
   <key>OTHER_OPTIONS</key>
-  <string>Другие варианты</string>
+  <string>Другие настройки</string>
   <key>SUPPORT</key>
   <string>Поддержка</string>
   <key>EMAIL</key>
@@ -25,175 +25,177 @@
   <key>TWITTER</key>
   <string>Twitter</string>
   <key>INFO</key>
-  <string>информация</string>
+  <string>Информация</string>
   <key>BETA</key>
-  <string>бета</string>
+  <string>Бета</string>
 
   <!-- CHAT VIEW PREFS -->
   <key>BUBBLE_WIDTH</key>
-  <string>пузырь Ширина</string>
+  <string>Ширина пузырей</string>
   <key>BUBBLE_TAILS</key>
-  <string>пузырь хвосты</string>
+  <string>Хвосты пузырей</string>
   <key>DEFAULT</key>
-  <string>умолчанию</string>
+  <string>По умолчанию</string>
   <key>SHOW_ALL</key>
-  <string>показать все</string>
+  <string>Показать все</string>
   <key>HIDE_ALL</key>
-  <string>скрыть все</string>
+  <string>Скрыть все</string>
   <key>BUBBLE_OUTLINE_ONLY</key>
-  <string>пузырь наброски только</string>
+  <string>Только рамки пузырей</string>
   <key>FLAT_BUBBLE_EDGES</key>
-  <string>плоские края пузырь</string>
+  <string>Плоские края пузырей</string>
   <key>SINGLE_CONTACT_PICS</key>
-  <string>показать фотографию друга</string>
+  <string>Показывать фото собеседника (с одним)</string><!-- !! "single" as "chat with a single person"? -->
   <key>GROUP_CONTACT_PICS</key>
-  <string>показать фотографию друга (группа)</string>
+  <string>Показывать фото собеседников (группа)</string><!-- !! same as above -->
   <key>MY_CONTACT_PICS</key>
-  <string>показать свою фотографию</string>
+  <string>Показывать свое фото</string><!-- !! "your picture" as "picture of yourself"? -->
   <key>CPIC_DIAMETER</key>
-  <string>Связаться рис диаметр</string>
+  <string>Диаметр картинки</string>
   <key>CV_DEFAULT_DI</key>
-  <string>Диаметр умолчанию 27.</string>
+  <string>Диаметр по умолчанию - 27.</string>
 
   <!-- BUBBLE PREFS -->
   <key>GRADIENT</key>
   <string>Градиент</string>
   <key>BUBBLE_COLOUR</key>
-  <string>пузырь цвет</string>
+  <string>Цвет пузыря</string>
   <key>TOP_COLOUR</key>
-  <string>цвет верхней части</string>
+  <string>Цвет верхней части</string>
   <key>BOTTOM_COLOUR</key>
-  <string>нижняя цвет</string>
+  <string>Цвет нижней части</string>
   <key>TEXT_COLOUR</key>
-  <string>цвет текста</string>
+  <string>Цвет текста</string>
 
   <!-- CONVO/CONTACT LIST -->
   <key>GROUP</key>
-  <string>группа</string>
+  <string>Группа</string>
   <key>CONTACT_BUBBLES</key>
-  <string>контактные пузыри</string>
+  <string>Пузыри контактов</string>
   <key>ERASE_CONVOS_INFO</key>
-  <string>Стереть информацию по всем</string>
+  <string>Стереть информацию обо всех диалогах</string>
   <key>ERASE_CONTACTS_INFO</key>
-  <string>Стереть информация для всех</string>
+  <string>Стереть информацию обо всех контактах</string>
   <key>ERASE_CONTACT_INFO</key>
-  <string>Стереть информация для этого</string>
+  <string>Стереть информацию об этом контакте</string>
   <key>ERASE_CONVO_INFO</key>
-  <string>Стереть информации об этом</string>
+  <string>Стереть информацию об этом диалоге</string>
   <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-  <string>Are you sure you want to erase info for this conversation?</string>
+  <string>Вы уверены, что хотите удалить информацию об этом диалоге?</string><!-- !! does it delete just conv. settings or the conv. itself? -->
   <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
-  <string>Are you sure you want to erase info for this contact?</string>
+  <string>Вы уверены, что хотите удалить информацию об этом контакте?</string><!-- ^ -->
   <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
-  <string>Are you sure you want to erase info for all contacts?</string>
+  <string>Вы уверены, что хотите удалить информацию обо всех контактах?</string><!-- ^ -->
   <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
-  <string>Are you sure you want to erase info for all conversations?</string>
+  <string>Вы уверены, что хотите удалить информацию обо всех диалогах?</string><!-- ^ -->
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
-  <string>Фон Тип</string>
+  <string>Тип фона</string>
   <key>FLAT_COLOUR</key>
-  <string>плоский цвет</string>
+  <string>Одноцветный</string>
   <key>WALLPAPER</key>
-  <string>обои</string>
+  <string>Обои</string>
   <key>IMAGE</key>
-  <string>изображение</string>
+  <string>Изображение</string>
   <key>CHOOSE_IMAGE</key>
-  <string>выбрать изображение</string>
+  <string>Выбрать изображение</string>
   <key>BLUR_RADIUS</key>
-  <string>радиус размытия</string>
+  <string>Радиус размытия</string>
   <key>OVERLAY_COLOUR</key>
-  <string>наложение цвета</string>
+  <string>Разрешить наложение цвета</string><!-- "color of overlay" or overlay as a verb? -->
+  <key>SETTING_BACKGROUND</key>
+  <string>Настроить фон</string><!-- !! -->
 
   <!-- NEW THEME -->
   <key>THEME_NAME</key>
-  <string>название темы</string>
+  <string>Название темы</string>
   <key>BUBBLE_COLOURS</key>
-  <string>цвета пузырь</string>
+  <string>Цвета пузырей</string>
   <key>SMS</key>
   <string>SMS</string>
   <key>IMESSAGE</key>
   <string>iMessage</string>
   <key>OTHER_PERSON</key>
-  <string>другой человек</string>
+  <string>Другой человек</string>
   <key>OTHER_COLOURS</key>
-  <string>другой цвет</string>
+  <string>Другие цвета</string>
   <key>INFO_TEXT</key>
   <string>Информационный текст</string>
   <key>BACKGROUND</key>
-  <string>фон</string>
+  <string>Фон</string>
   <key>CHAT_VIEW_SETTINGS</key>
-  <string>Чат настроек просмотра</string>
+  <string>Внешний вид диалога</string><!-- !! -->
 
   <!-- OTHER PREFS -->
   <key>APP_TINT</key>
-  <string>приложение оттенок</string>
+  <string>Оттенок приложения</string>
   <key>NAME_AS_PLACEHOLDER</key>
-  <string>назвать как заполнитель</string>
+  <string>Имя в поле для сообщений</string>
   <key>QUICK_SWITCHER</key>
-  <string>быстрый переключатель</string>
+  <string>Быстрый переключатель</string>
   <key>UNREPLIED_INDICATORS</key>
-  <string>Темы без показателям</string>
+  <string>Выделение неотвеченных</string>
   <key>CONVO_LIST_SETTINGS</key>
-  <string>Разговор Параметры списка</string>
+  <string>Настройки списка диалогов</string>
   <key>DARK_MODE</key>
-  <string>темно-режиме</string>
+  <string>Темный режим</string><!-- Can I tanslate it as "night mode"? Sounds better in Russian. Currently translated as "dark mode" -->
   <key>SCHEDULED</key>
-  <string>планируется</string>
+  <string>Запланировано</string>
   <key>FROM</key>
-  <string>от</string>
+  <string>От</string>
   <key>TO</key>
-  <string>до</string>
+  <string>Кому</string>
   <key>LIGHT</key>
-  <string>Свет</string>
+  <string>Светлый</string>
   <key>DARK</key>
-  <string>темно</string>
+  <string>Темный</string>
   <key>CUSTOM</key>
-  <string>обычай</string>
+  <string>Настроить</string>
   <key>DM_SCHEDULE_TITLE</key>
-  <string>темно времени режим</string>
+  <string>Расписание темного режима</string>
   <key>BACKGROUND_COLOUR</key>
-  <string>фоном времени</string>
+  <string>Цвет фона</string>
   <key>PRIMARY_COLOUR</key>
-  <string>Основной Цвет</string>
+  <string>Основной цвет</string>
   <key>SECONDARY_COLOUR</key>
-  <string>Вторичный Цвет</string>
+  <string>Вторичный цвет</string>
 
   <!-- CONVO LIST PREFS -->
   <key>SHOW_CONTACT_PICS</key>
-  <string>Показать Связаться фотки</string>
+  <string>Показывать фото контактов</string>
   <key>CONTACT_PIC_DIAMETER</key>
-  <string>Диаметр Контакты фотографии</string>
+  <string>Диаметр фото контактов</string>
   <key>HIDE_DATES</key>
-  <string>Скрыть Даты</string>
+  <string>Скрывать даты</string>
   <key>HIDE_PREVIEWS</key>
-  <string>Скрыть Cообщение Превью</string>
+  <string>Скрывать предпросмотр сообщений</string>
   <key>HIDE_SEARCH</key>
-  <string>Скрыть панель поиска</string>
+  <string>Скрывать панель поиска</string>
   <key>HIDE_SEPARATORS</key>
-  <string>Cкрыть сепараторы</string>
+  <string>Cкрыть разделители</string>
   <key>CL_DEFAULT_DI</key>
-  <string>Диаметр умолчанию 45.</string>
+  <string>Диаметр по умолчанию - 45.</string>
   <key>INDICATOR_INFO_TEXT</key>
-  <string>Показывает индикатор для разговоров, для которых вы читали последнюю сообщение, но не ответили на него.</string>
+  <string>Будут выделены диалоги, в которых вы прочитали последнее сообщение, но не ответили.</string>
   <key>SWITCHER_INFO_TEXT</key>
-  <string>Показывает панель инструментов в виде беседы с стрелками вверх и вниз для переключения между разговорами.</string>
+  <string>В диалогах появится панель со стрелками вверх-вниз для переключения между диалогами.</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
-  <string>Изменяет текст в поле ввода сообщения, чтобы сказать 'сообщение для * ', с * представляющий контакт вы текстовых.</string>
+  <string>Заменяет текст в поле для сообщений на 'сообщение для *', где вместо звездочки будет стоять имя того, кому пишете.</string>
   <key>BIG_BUBBLES</key>
   <string>Большие пузыри</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
-  <string>Увеличивает размер предварительного просмотра изображения пузыри напоминают в iOS8 - любезностьsticktron</string>
+  <string>Увеличивает размер пузыря с предпросмотром изображения, чтобы было похоже на iOS8 - спасибо @sticktron</string>
 
   <!-- ALERTS -->
   <key>THEME_NAME_ALERT_TEXT</key>
-  <string>Введите новое имя темы</string>
+  <string>Введите новое название этой темы</string>
   <key>ERROR</key>
   <string>Ошибка</string>
   <key>ENTER</key>
-  <string>введите</string>
+  <string>Ввод</string><!-- !! verb/noun? cuurently translated as a noun (as a popup dialog button) -->
   <key>CANCEL</key>
-  <string>отменить</string>
+  <string>Отменить</string><!-- same as above -->
   <key>OK</key>
   <string>OK</string>
   <key>YES</key>
@@ -201,43 +203,43 @@
   <key>NO</key>
   <string>Нет</string>
   <key>THEME_NAME_ERROR_TEXT</key>
-  <string>Тема с таким названием уже существует</string>
+  <string>Тема с таким названием уже существует.</string>
   <key>TWEET_ERROR_MESSAGE</key>
-  <string>Невозможно чирикать в это время</string>
+  <string>Сейчас невозможно отправить твит.</string>
   <key>MAIL_ERROR_MESSAGE</key>
-  <string>Невозможно отправить почту в это время</string>
+  <string>Сейчас невозможно отправить почту.</string>
   <key>ENTER_THEME_NAME_TEXT</key>
-  <string>Введите имя новой темы</string>
+  <string>Введите название новой темы.</string>
   <key>THEME_EDIT_ALERT_TITLE</key>
-  <string>Выберите тему для редактирования</string>
+  <string>Выберите тему для редактирования.</string>
   <key>SLIDER_ERROR_TEXT</key>
-  <string>Пожалуйста, убедитесь, значение между минимальным и максимальным значением.</string>
+  <string>Пожалуйста, убедитесь, что вы ввели корректное значение (больше минимального и меньше максимального).</string>
   <key>SLIDER_ENTRY_TEXT</key>
   <string>Введите значение от</string>
   <key>AND</key>
-  <string>и</string>
+  <string>до</string>
 
   <!-- COLOUR PICKER -->
   <key>HEX_VALUE</key>
-  <string>Hex значение</string>
+  <string>Hex код</string>
   <key>HEX_VALUE_TEXT</key>
-  <string>Введите пользовательский hex цвета строку</string>
+  <string>Введите Hex код цвета</string>
   <key>HEX_ERROR</key>
-  <string>Неверный hex Строка</string>
+  <string>Неверный Hex код</string>
   <key>HEX_ERROR_TEXT</key>
-  <string>Пожалуйста, введите действительный шестигранной цвета строку e.g. #2F3E12</string>
+  <string>Пожалуйста, введите правилльный Hex код цвета, например: #2F3E12</string>
 
   <!-- TITLES -->
   <key>EDITING</key>
   <string>Редактирование</string>
   <key>CHAT_VIEW</key>
-  <string>Чат Фото</string>
+  <string>Экран чата</string>
   <key>CONVO_LIST</key>
-  <string>список разговор</string>
+  <string>Список диалогов</string>
   <key>BACKGROUND</key>
   <string>Фон</string>
   <key>IM_BUBBLES</key>
-  <string>IM пузыри</string>
+  <string>Пузыри IM сообщений</string>
   <key>SMS_BUBBLES</key>
   <string>SMS пузыри</string>
   <key>OTHER_BUBBLES</key>
@@ -248,10 +250,10 @@
 
 
   <key>TWEET</key>
-  <string>Я использую Сообщения Customiser Pro (по @friggog), чтобы моя сообщения приложение выглядеть потрясающе!</string>
+  <string>Я использую Messages Customiser Pro (от @friggog). Теперь приложение "Сообщения" выглядит классно!</string>
 
   <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
-  <string>в</string>
+  <string>для</string>
 
 </dict>
 </plist>
