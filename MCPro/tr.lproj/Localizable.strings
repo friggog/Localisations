@@ -100,6 +100,8 @@
   <string>Duvar Kağıdı</string>
   <key>IMAGE</key>
   <string>Resim</string>
+  <key>CONTACT_PIC</key>
+  <string>Kişi Resmi</string>
   <key>CHOOSE_IMAGE</key>
   <string>Resim Seç</string>
   <key>BLUR_RADIUS</key>
@@ -145,9 +147,9 @@
   <key>SCHEDULED</key>
   <string>Zamanlanmış</string>
   <key>FROM</key>
-  <string>Gönderen</string>
+  <string>Başlangıç</string>
   <key>TO</key>
-  <string>Alıcı</string>
+  <string>Bitiş</string>
   <key>LIGHT</key>
   <string>Açık</string>
   <key>DARK</key>
@@ -162,6 +164,14 @@
   <string>Ana Renk</string>
   <key>SECONDARY_COLOUR</key>
   <string>İkincil Renk</string>
+  <key>DARK_MODE_THEME</key>
+  <string>Koyu Mod Teması</string>
+  <key>SAME_AS_PRIMARY</key>
+  <string>Birincil Tema İle Aynı</string>
+  <key>HOLD_TO_SWITCH</key>
+  <string>Servisi Değiştirmek İçin Gönder'e Basılı Tutun</string>
+  <key>HOLD_TO_SWITCH_INFO_TEXT</key>
+  <string>Bu, Gönder Tuşuna Basılı tutulduğunda o konuşma için SMS ve iMessage arasında Geçiş Yapmayı Sağlar.</string>
 
   <!-- CONVO LIST PREFS -->
   <key>SHOW_CONTACT_PICS</key>
@@ -248,8 +258,15 @@
   <string>Diğer Balonlar</string>
   <key>OTHER_SETTINGS</key>
   <string>Diğer Ayarlar</string>
+  
 
-
+  <!-- COMPATIBILTIY -->
+  <key>COMPATIBILTIY</key>
+  <string>Uyumluluk</string>
+  <key>COURIA_INFO_TEXT</key>
+  <string>Bu Vouria İçin MCPro'nun Çoğu Özelliğini Aktif Edecektir. Bazı Özellikler Couria'nın Çalışma Şeklinden Dolayı Desteklenmemektedir ve Desteklenmeyecektir.</string>
+  <key>ECLIPSE_INFO_TEXT</key>
+  <string>Eğer Eclipse Kullanıyorsanız, Mesajlar Uygulamasını Eclipse'nin Beyaz Listesine Eklediğinizden Emin Olun, Yoksa Açılışta Mesajlar Uygulaması Çökecektir. Aynı Efekt İçin MCPro'nun Koyu Modunu Kullanabilirsiniz.</string>
 
   <key>TWEET</key>
   <string>I'm using Messages Customiser Pro (by @friggog) to make my messages app look amazing!</string>
