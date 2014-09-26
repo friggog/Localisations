@@ -100,6 +100,8 @@
   <string>Изображение</string>
   <key>CHOOSE_IMAGE</key>
   <string>Выбрать изображение</string>
+  <key>CONTACT_PIC</key>
+  <string>Фото контакта</string>
   <key>BLUR_RADIUS</key>
   <string>Радиус размытия</string>
   <key>OVERLAY_COLOUR</key>
@@ -160,6 +162,15 @@
   <string>Основной цвет</string>
   <key>SECONDARY_COLOUR</key>
   <string>Вторичный цвет</string>
+  <key>DARK_MODE_THEME</key>
+  <string>Тема для темного режима</string>
+  <key>SAME_AS_PRIMARY</key>
+  <string>Использовать основную тему</string>
+  <key>HOLD_TO_SWITCH</key>
+  <string>Держать "отправить" для смены типа</string>
+  <key>HOLD_TO_SWITCH_INFO_TEXT</key>
+  <string>При удерживании кнопки "Отправить" будет меняться тип сообщения - SMS или iMessage (для каждого диалога отдельно.</string>
+ 
 
   <!-- CONVO LIST PREFS -->
   <key>SHOW_CONTACT_PICS</key>
@@ -247,7 +258,14 @@
   <key>OTHER_SETTINGS</key>
   <string>Другие настройки</string>
 
-
+  <!-- COMPATIBILTIY -->
+  <key>COMPATIBILTIY</key>
+  <string>Совместимость</string>
+  <key>COURIA_INFO_TEXT</key>
+  <string>Это включит MCPro в приложении Couria. Couria работает по-другому, поэтому некоторые настройки MCPro не будут работать в Couria.</string>
+  <key>ECLIPSE_INFO_TEXT</key>
+  <string>Если вы используете Eclipse, не забудьте добавить приложение "Сообщения" в белый список Eclipse. Если этого не сделать, "Сообщения" могут не запуститься. Вместо Eclipse для Сообщений можно настроить темный режим в MCPro - получится тоже самое.</string>
+ 
 
   <key>TWEET</key>
   <string>Я использую Messages Customiser Pro (от @friggog). Теперь приложение "Сообщения" выглядит классно!</string>
