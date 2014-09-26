@@ -47,9 +47,9 @@
   <key>FLAT_BUBBLE_EDGES</key>
   <string>Düz Balon Kenarı</string>
   <key>SINGLE_CONTACT_PICS</key>
-  <string>Diğerlerinin Resimlerini Göster</string>
+  <string>Diğerlerinin(Tek) Resimlerini Göster</string>
   <key>GROUP_CONTACT_PICS</key>
-  <string>Diğerlerinin Resimlerini Göster</string>
+  <string>Diğerlerinin(Grup) Resimlerini Göster</string>
   <key>MY_CONTACT_PICS</key>
   <string>Benim Resmimi Göster</string>
   <key>CPIC_DIAMETER</key>
