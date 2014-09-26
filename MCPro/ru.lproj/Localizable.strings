@@ -13,7 +13,7 @@
   <key>CONTACT_SPECIFIC_COLOURS</key>
   <string>Цвета отдельных контактов</string>
   <key>NEW_THEME</key>
-  <string>Новые темы</string>
+  <string>Новая тема</string>
   <key>EDIT_THEME</key>
   <string>Редактировать тему</string>
   <key>OTHER_OPTIONS</key>
@@ -33,7 +33,7 @@
   <key>BUBBLE_WIDTH</key>
   <string>Ширина пузырей</string>
   <key>BUBBLE_TAILS</key>
-  <string>Хвосты пузырей</string>
+  <string>Хвостик пузырей</string>
   <key>DEFAULT</key>
   <string>По умолчанию</string>
   <key>SHOW_ALL</key>
@@ -45,9 +45,9 @@
   <key>FLAT_BUBBLE_EDGES</key>
   <string>Плоские края пузырей</string>
   <key>SINGLE_CONTACT_PICS</key>
-  <string>Показывать фото собеседника (с одним)</string><!-- !! "single" as "chat with a single person"? -->
+  <string>Фото собеседника (тет-а-тет)</string><!-- !! "single" as "chat with a single person"? -->
   <key>GROUP_CONTACT_PICS</key>
-  <string>Показывать фото собеседников (группа)</string><!-- !! same as above -->
+  <string>Фото собеседников (групп. разг.)</string><!-- !! same as above -->
   <key>MY_CONTACT_PICS</key>
   <string>Показывать свое фото</string><!-- !! "your picture" as "picture of yourself"? -->
   <key>CPIC_DIAMETER</key>
@@ -131,7 +131,7 @@
   <key>APP_TINT</key>
   <string>Оттенок приложения</string>
   <key>NAME_AS_PLACEHOLDER</key>
-  <string>Имя в поле для сообщений</string>
+  <string>Имя адресата в поле вода</string>
   <key>QUICK_SWITCHER</key>
   <string>Быстрый переключатель</string>
   <key>UNREPLIED_INDICATORS</key>
@@ -185,17 +185,17 @@
   <key>BIG_BUBBLES</key>
   <string>Большие пузыри</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
-  <string>Увеличивает размер пузыря с предпросмотром изображения, чтобы было похоже на iOS8 - спасибо @sticktron</string>
+  <string>Увеличивает размер пузыря с предпросмотром изображения, чтобы было похоже на iOS8 - спасибо @sticktron.</string>
 
   <!-- ALERTS -->
   <key>THEME_NAME_ALERT_TEXT</key>
-  <string>Введите новое название этой темы</string>
+  <string>Введите новое название темы</string>
   <key>ERROR</key>
   <string>Ошибка</string>
   <key>ENTER</key>
-  <string>Ввод</string><!-- !! verb/noun? cuurently translated as a noun (as a popup dialog button) -->
+  <string>Ввод</string>
   <key>CANCEL</key>
-  <string>Отменить</string><!-- same as above -->
+  <string>Отмена</string>
   <key>OK</key>
   <string>OK</string>
   <key>YES</key>
