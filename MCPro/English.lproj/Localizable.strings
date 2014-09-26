@@ -100,6 +100,8 @@
   <string>Wallpaper</string>
   <key>IMAGE</key>
   <string>Image</string>
+  <key>CONTACT_PIC</key>
+  <string>Contact Picture</string>
   <key>CHOOSE_IMAGE</key>
   <string>Choose Image</string>
   <key>BLUR_RADIUS</key>
@@ -162,6 +164,14 @@
   <string>Primary Color</string>
   <key>SECONDARY_COLOUR</key>
   <string>Secondary Color</string>
+  <key>DARK_MODE_THEME</key>
+  <string>Dark Mode Theme</string>
+  <key>SAME_AS_PRIMARY</key>
+  <string>Use Primary Theme</string>
+  <key>HOLD_TO_SWITCH</key>
+  <string>Hold Send to Switch Service</string>
+  <key>HOLD_TO_SWITCH_INFO_TEXT</key>
+  <string>This will mean that holding the send button while typing a message will switch between using SMS and iMessage for that conversation.</string>
 
   <!-- CONVO LIST PREFS -->
   <key>SHOW_CONTACT_PICS</key>
@@ -250,6 +260,13 @@
   <string>Other Settings</string>
 
 
+  <!-- COMPATIBILTIY -->
+  <key>COMPATIBILTIY</key>
+  <string>Compatibility</string>
+  <key>COURIA_INFO_TEXT</key>
+  <string>This will enable most features of MCPro for Couria. Some features are not and will not be supported due to the way Couria works.</string>
+  <key>ECLIPSE_INFO_TEXT</key>
+  <string>If you are using Eclipse, make sure to add the Messages app to the Eclipse whitelist, otherwise it will crash on launch. You can use MCPro's dark mode to achieve the same effect.</string>
 
   <key>TWEET</key>
   <string>I'm using Messages Customiser Pro (by @friggog) to make my messages app look amazing!</string>
