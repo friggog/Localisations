@@ -183,7 +183,7 @@
   <key>SWITCHER_INFO_TEXT</key>
   <string>Konuşma İçinde Konuşmalar Arası Geçiş İçin Yukarı Ve Aşağı Yönde Okların Da Olduğu Bir Araç Çubuğu Gösterir.</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
-  <string>Mesaj Kutusundaki '*'a Mesaj' Yazısını Mesaj Yazdığınız Kişinin Adıyla Değiştirir.</string>
+  <string>Mesaj Kutusundaki 'Mesaj' Yazısını Mesaj Yazdığınız Kişinin Adıyla Değiştirir.</string>
   <key>BIG_BUBBLES</key>
   <string>Büyük Balonlar</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
@@ -254,8 +254,8 @@
   <key>TWEET</key>
   <string>I'm using Messages Customiser Pro (by @friggog) to make my messages app look amazing!</string>
 
-  <key>PLACEHOLDER_TO</key>  <!-- İsim Olarak Yer Tutucu Kullanıldığında 'ye' Yerine Kullanılan Metindir Örnek 'Kişiye iMessage' -->
-  <string>ye</string>
+  <key>PLACEHOLDER_TO</key>  <!-- Yer Tutucu Olarak İsim Kullanıldığında Aradaki Boşluk Yerine Kullanılan Metindir. Örnek 'iMessage Kişi' -->
+  <string> </string>
 
 </dict>
 </plist>
