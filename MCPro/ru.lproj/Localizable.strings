@@ -49,7 +49,7 @@
   <key>SINGLE_CONTACT_PICS</key>
   <string>Фото написавшего (тет-а-тет)</string>
   <key>GROUP_CONTACT_PICS</key>
-  <string>Фото написавшего (гр. чат)</string>
+  <string>Фото написавшего (в группе)</string>
   <key>MY_CONTACT_PICS</key>
   <string>Фото у своих сообщений</string>
   <key>CPIC_DIAMETER</key>
