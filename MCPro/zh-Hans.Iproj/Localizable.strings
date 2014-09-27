@@ -19,6 +19,7 @@
 "CHOOSE_IMAGE" = "选择图片";
 "CL_DEFAULT_DI" = "默认直径为 45.";
 "CONTACT_BUBBLES" = "联系人气泡";
+"CONTACT_PIC" = "联系人头像";
 "CONTACT_PIC_DIAMETER" = "联系人头像直径";
 "CONTACT_SPECIFIC_COLOURS" = "特殊联系人颜色配置";
 "CONVO_LIST" = "对话列表";
@@ -61,6 +62,8 @@
 "HIDE_PREVIEWS" = "隐藏信息预览";
 "HIDE_SEARCH" = "隐藏搜索栏";
 "HIDE_SEPARATORS" = "隐藏分隔符";
+"HOLD_TO_SWITCH" = "长按发送切换信息模式";
+"HOLD_TO_SWITCH_INFO_TEXT" = "长按发送按钮来切换iMessage和普通短信.";
 "IM_BUBBLES" = "iMessage 气泡";
 "IMAGE" = "图片";
 "IMESSAGE" = "iMessage";
