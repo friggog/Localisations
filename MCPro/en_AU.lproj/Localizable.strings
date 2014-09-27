@@ -249,80 +249,56 @@
 
 
   <!-- OTHER PREFS -->
-
   <key>APP_TINT</key>
-
   <string>App Tint</string>
-
   <key>NAME_AS_PLACEHOLDER</key>
-
   <string>Name as Placeholder</string>
-
   <key>QUICK_SWITCHER</key>
-
   <string>Quick Switcher</string>
-
   <key>UNREPLIED_INDICATORS</key>
-
   <string>Unreplied To Indicators</string>
-
+  <key>HOLD_TO_SWITCH</key>
+  <string>Hold Send to Switch Service</string>
+  <key>BIG_BUBBLES</key>
+  <string>Big Bubbles</string>
   <key>CONVO_LIST_SETTINGS</key>
-
   <string>Convo List Settings</string>
-
   <key>DARK_MODE</key>
-
   <string>Dark Mode</string>
-
   <key>SCHEDULED</key>
-
   <string>Scheduled</string>
-
   <key>FROM</key>
-
   <string>From</string>
-
   <key>TO</key>
-
   <string>To</string>
-
   <key>LIGHT</key>
-
   <string>Light</string>
-
   <key>DARK</key>
-
   <string>Dark</string>
-
   <key>CUSTOM</key>
-
   <string>Custom</string>
-
   <key>DM_SCHEDULE_TITLE</key>
-
   <string>Dark Mode Timing</string>
-
   <key>BACKGROUND_COLOUR</key>
-
   <string>Background Colour</string>
-
   <key>PRIMARY_COLOUR</key>
-
   <string>Primary Colour</string>
-
   <key>SECONDARY_COLOUR</key>
-
   <string>Secondary Colour</string>
-
   <key>DARK_MODE_THEME</key>
   <string>Dark Mode Theme</string>
   <key>SAME_AS_PRIMARY</key>
   <string>Use Primary Theme</string>
-  <key>HOLD_TO_SWITCH</key>
-  <string>Hold Send to Switch Service</string>
   <key>HOLD_TO_SWITCH_INFO_TEXT</key>
   <string>This will mean that holding the send button while typing a message will switch between using SMS and iMessage for that conversation.</string>
-
+  <key>INDICATOR_INFO_TEXT</key>
+  <string>Shows an indicator for conversations for which you have read the most recent message but not replied to it.</string>
+  <key>SWITCHER_INFO_TEXT</key>
+  <string>Shows a toolbar in the conversation view with up and down arrows to switch between conversations.</string>
+  <key>PLACEHOLDER_INFO_TEXT</key>
+  <string>Changes the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
+  <key>BIG_BUBBLES_INFO_TEXT</key>
+  <string>Increases the size of image preview bubbles to resemble those in iOS8 - courtesy of @sticktron.</string>
 
 
   <!-- CONVO LIST PREFS -->
@@ -354,28 +330,6 @@
   <key>CL_DEFAULT_DI</key>
 
   <string>Default diameter is 45.</string>
-
-  <key>INDICATOR_INFO_TEXT</key>
-
-  <string>Shows an indicator for conversations for which you have read the most recent message but not replied to it.</string>
-
-  <key>SWITCHER_INFO_TEXT</key>
-
-  <string>Shows a toolbar in the conversation view with up and down arrows to switch between conversations.</string>
-
-  <key>PLACEHOLDER_INFO_TEXT</key>
-
-  <string>Changes the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
-
-  <key>BIG_BUBBLES</key>
-
-  <string>Big Bubbles</string>
-
-  <key>BIG_BUBBLES_INFO_TEXT</key>
-
-  <string>Increases the size of image preview bubbles to resemble those in iOS8 - courtesy of @sticktron.</string>
-
-
 
 
   <!-- ALERTS -->
@@ -495,21 +449,18 @@
 
   <string>Other Settings</string>
 
-
-  <!-- COMPATIBILTIY -->
-  <key>COMPATIBILTIY</key>
-  <string>Compatibility</string>
-  <key>COURIA_INFO_TEXT</key>
-  <string>This will enable most features of MCPro for Couria. Some features are not and will not be supported due to the way Couria works.</string>
-  <key>ECLIPSE_INFO_TEXT</key>
-  <string>If you are using Eclipse, make sure to add the Messages app to the Eclipse whitelist, otherwise it will crash on launch. You can use MCPro's dark mode to achieve the same effect.</string>
-
-
-
+<!-- COMPATIBILTIY -->
+<key>COMPATIBILTIY</key>
+<string>Compatibility</string>
+<key>COURIA_INFO_TEXT</key>
+<string>This will enable most features of MCPro for Couria. Some features are not and will not be supported due to the way Couria works.
+You will need to respring for this change to take effect.</string>
+<key>ECLIPSE_INFO_TEXT</key>
+<string>This will disable MCPro's dark mode and enable Eclipse to work without crashing the app. Eclipse does also break some of MCPro's features.
+If you want to use MCPro's dark mode (and not Eclipse) then add the messages app to the Eclipse whitelist and disable this setting.
+You will need to restart the messages app for this change to take effect.</string>
   <key>TWEET</key>
-
   <string>I'm using Messages Customiser Pro (by @friggog) to make my messages app look amazing!</string>
-
   <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
   <string>to</string>
 
