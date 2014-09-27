@@ -47,6 +47,7 @@
   <key>FLAT_BUBBLE_EDGES</key>
   <string>Плоские края пузырей</string>
   <key>SINGLE_CONTACT_PICS</key>
+  <string>Фото написавшего (тет-а-тет)</string>
   <key>GROUP_CONTACT_PICS</key>
   <string>Фото написавшего (гр. чат)</string>
   <key>MY_CONTACT_PICS</key>
