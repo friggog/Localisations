@@ -32,6 +32,8 @@
   <!-- CHAT VIEW PREFS -->
   <key>BUBBLE_WIDTH</key>
   <string>Ширина пузырей</string>
+  <key>DEFAULT_BUBBLE_WIDTH</key>
+  <string>Ширина по умолчанию - 231.</string>
   <key>BUBBLE_TAILS</key>
   <string>Хвостик пузырей</string>
   <key>DEFAULT</key>
@@ -45,11 +47,10 @@
   <key>FLAT_BUBBLE_EDGES</key>
   <string>Плоские края пузырей</string>
   <key>SINGLE_CONTACT_PICS</key>
-  <string>Фото собеседника (тет-а-тет)</string><!-- !! "single" as "chat with a single person"? -->
   <key>GROUP_CONTACT_PICS</key>
-  <string>Фото собеседников (групп. разг.)</string><!-- !! same as above -->
+  <string>Фото написавшего (гр. чат)</string>
   <key>MY_CONTACT_PICS</key>
-  <string>Показывать свое фото</string><!-- !! "your picture" as "picture of yourself"? -->
+  <string>Фото у своих сообщений</string>
   <key>CPIC_DIAMETER</key>
   <string>Диаметр картинки</string>
   <key>CV_DEFAULT_DI</key>
@@ -73,21 +74,21 @@
   <key>CONTACT_BUBBLES</key>
   <string>Пузыри контактов</string>
   <key>ERASE_CONVOS_INFO</key>
-  <string>Стереть информацию обо всех диалогах</string>
+  <string>Стереть настр. диалогов</string>
   <key>ERASE_CONTACTS_INFO</key>
-  <string>Стереть информацию обо всех контактах</string>
+  <string>Стереть настр. контактов</string>
   <key>ERASE_CONTACT_INFO</key>
-  <string>Стереть информацию об этом контакте</string>
+  <string>Стереть настр. контакта</string>
   <key>ERASE_CONVO_INFO</key>
-  <string>Стереть информацию об этом диалоге</string>
+  <string>Стереть настр. диалога</string>
   <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-  <string>Вы уверены, что хотите удалить информацию об этом диалоге?</string><!-- !! does it delete just conv. settings or the conv. itself? -->
+  <string>Вы уверены, что хотите удалить настройки для этого диалоге?</string>
   <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
-  <string>Вы уверены, что хотите удалить информацию об этом контакте?</string><!-- ^ -->
+  <string>Вы уверены, что хотите удалить настройки для этого контакта?</string>
   <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
-  <string>Вы уверены, что хотите удалить информацию обо всех контактах?</string><!-- ^ -->
+  <string>Вы уверены, что хотите удалить настройки для всех контактов?</string>
   <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
-  <string>Вы уверены, что хотите удалить информацию обо всех диалогах?</string><!-- ^ -->
+  <string>Вы уверены, что хотите удалить настройки для всех диалогов?</string>
 
   <!-- BACKGROUND -->
   <key>BACKGROUND_TYPE</key>
@@ -105,9 +106,10 @@
   <key>BLUR_RADIUS</key>
   <string>Радиус размытия</string>
   <key>OVERLAY_COLOUR</key>
-  <string>Разрешить наложение цвета</string><!-- "color of overlay" or overlay as a verb? -->
+  <string>Наложить сверху цвет</string>
+  <string>Разрешить наложение цвета</string>
   <key>SETTING_BACKGROUND</key>
-  <string>Настроить фон</string><!-- !! -->
+  <string>Настраиваю фон...</string>
 
   <!-- NEW THEME -->
   <key>THEME_NAME</key>
@@ -119,7 +121,7 @@
   <key>IMESSAGE</key>
   <string>iMessage</string>
   <key>OTHER_PERSON</key>
-  <string>Другой человек</string>
+  <string>Чужие сообщения</string>
   <key>OTHER_COLOURS</key>
   <string>Другие цвета</string>
   <key>INFO_TEXT</key>
@@ -127,7 +129,7 @@
   <key>BACKGROUND</key>
   <string>Фон</string>
   <key>CHAT_VIEW_SETTINGS</key>
-  <string>Внешний вид диалога</string><!-- !! -->
+  <string>Настроить внешний вид чата</string>
 
   <!-- OTHER PREFS -->
   <key>APP_TINT</key>
@@ -141,9 +143,9 @@
   <key>CONVO_LIST_SETTINGS</key>
   <string>Настройки списка диалогов</string>
   <key>DARK_MODE</key>
-  <string>Темный режим</string><!-- Can I tanslate it as "night mode"? Sounds better in Russian. Currently translated as "dark mode" -->
+  <string>Темный режим</string>
   <key>SCHEDULED</key>
-  <string>Запланировано</string>
+  <string>По расписанию</string>
   <key>FROM</key>
   <string>От</string>
   <key>TO</key>
@@ -167,9 +169,9 @@
   <key>SAME_AS_PRIMARY</key>
   <string>Использовать основную тему</string>
   <key>HOLD_TO_SWITCH</key>
-  <string>Держать "отправить" для смены типа</string>
+  <string>Выбор типа кнопкой "отпр."</string>
   <key>HOLD_TO_SWITCH_INFO_TEXT</key>
-  <string>При удерживании кнопки "Отправить" будет меняться тип сообщения - SMS или iMessage (для каждого диалога отдельно.</string>
+  <string>При удерживании кнопки "Отправить" будет меняться тип сообщения - SMS или iMessage (для каждого диалога отдельно).</string>
  
 
   <!-- CONVO LIST PREFS -->
@@ -178,11 +180,11 @@
   <key>CONTACT_PIC_DIAMETER</key>
   <string>Диаметр фото контактов</string>
   <key>HIDE_DATES</key>
-  <string>Скрывать даты</string>
+  <string>Скрыть даты</string>
   <key>HIDE_PREVIEWS</key>
-  <string>Скрывать предпросмотр сообщений</string>
+  <string>Скрыть текст сообщений</string>
   <key>HIDE_SEARCH</key>
-  <string>Скрывать панель поиска</string>
+  <string>Скрыть панель поиска</string>
   <key>HIDE_SEPARATORS</key>
   <string>Cкрыть разделители</string>
   <key>CL_DEFAULT_DI</key>
@@ -192,7 +194,7 @@
   <key>SWITCHER_INFO_TEXT</key>
   <string>В диалогах появится панель со стрелками вверх-вниз для переключения между диалогами.</string>
   <key>PLACEHOLDER_INFO_TEXT</key>
-  <string>Заменяет текст в поле для сообщений на 'сообщение для *', где вместо звездочки будет стоять имя того, кому пишете.</string>
+  <string>Заменяет текст в поле для сообщений на 'Сообщение для *', где вместо звездочки будет стоять имя того, кому пишете.</string>
   <key>BIG_BUBBLES</key>
   <string>Большие пузыри</string>
   <key>BIG_BUBBLES_INFO_TEXT</key>
