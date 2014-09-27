@@ -82,7 +82,7 @@
   <key>ERASE_CONVO_INFO</key>
   <string>Стереть настр. диалога</string>
   <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-  <string>Вы уверены, что хотите удалить настройки для этого диалоге?</string>
+  <string>Вы уверены, что хотите удалить настройки для этого диалога?</string>
   <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
   <string>Вы уверены, что хотите удалить настройки для этого контакта?</string>
   <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
