@@ -6,6 +6,7 @@
 "BETA" = "Bêta";
 "BIG_BUBBLES" = "Grosses bulles";
 "BIG_BUBBLES_INFO_TEXT" = "Augmenter la taille des bulles contenant une image pour ressembler à celles d'iOS 8 - merci à @sticktron.";
+"BIG_BUBBLE_WIDTH" = "Taille des grosses bulles";
 "BLUR_RADIUS" = "Degré de flou";
 "BOTTOM_COLOUR" = "Couleur du bas";
 "BUBBLE_COLOUR" = "Couleur de la bulle";
@@ -29,6 +30,7 @@
 "CV_DEFAULT_DI" = "Le diamètre par défaut est de 27.0";
 "DARK" = "Nuit";
 "DARK_MODE" = "Mode nuit";
+"DARK_MODE_THEME" = "Thème du mode nuit";
 "DEFAULT" = "Par défaut";
 "DEFAULT_BUBBLE_WIDTH" = "La largeur par défaut est de 231.0";
 "DM_SCHEDULE_TITLE" = "Horaire du mode nuit";
@@ -86,6 +88,7 @@
 "PRIMARY_COLOUR" = "Couleur principale";
 "PRIMARY_THEME" = "Thème général";
 "QUICK_SWITCHER" = "Changer de conversation";
+"SAME_AS_PRIMARY" = "Utiliser le thème principal";
 "SCHEDULED" = "Activer le mode nuit :";
 "SECONDARY_COLOUR" = "Couleur secondaire";
 "SETTING_BACKGROUND" = "Changement de l'arrière plan...";
