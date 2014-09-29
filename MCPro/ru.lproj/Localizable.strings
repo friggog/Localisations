@@ -241,7 +241,7 @@
   <key>HEX_ERROR</key>
   <string>Неверный Hex код</string>
   <key>HEX_ERROR_TEXT</key>
-  <string>Пожалуйста, введите правильный Hex код цвета, например: #2F3E12</string>
+  <string>Пожалуйста, введите корректный Hex код цвета, например: #2F3E12</string>
 
   <!-- TITLES -->
   <key>EDITING</key>
