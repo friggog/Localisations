@@ -115,7 +115,7 @@
 	<key>HEX_ERROR</key>
 	<string>Sequência Hexadecimal Inválida</string>
 	<key>HEX_ERROR_TEXT</key>
-    <string>Insira sequência válida (Ex:#2F3E12)</string>
+	<string>Insira sequência válida (Ex:#2F3E12)</string>
 	<key>HEX_VALUE</key>
 	<string>Valor Hexadecimal</string>
 	<key>HEX_VALUE_TEXT</key>

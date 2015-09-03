@@ -2,254 +2,227 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-
-<!-- MAIN PREFS -->
-<key>ENABLED</key>
-<string>Włączony</string>
-<key>PRIMARY_THEME</key>
-<string>Głòwny Układ</string>
-<key>CONVO_SPECIFIC_THEMES</key>
-<string>Układ Specyficznej Rozmowy</string>
-<key>CONTACT_SPECIFIC_COLOURS</key>
-<string>Kolory Specyficznego Kontaktu</string>
-<key>NEW_THEME</key>
-<string>Nowy Układ</string>
-<key>EDIT_THEME</key>
-<string>Edytuj Układ</string>
-<key>OTHER_OPTIONS</key>
-<string>Inne Opcje</string>
-<key>SUPPORT</key>
-<string>Pomoc</string>
-<key>EMAIL</key>
-<string>Email</string>
-<key>TWITTER</key>
-<string>Twitter</string>
-<key>INFO</key>
-<string>Info</string>
-<key>BETA</key>
-<string>Beta</string>
-
-<!-- CHAT VIEW PREFS -->
-<key>BUBBLE_WIDTH</key>
-<string>Szerokość Bańki</string>
-<key>BUBBLE_TAILS</key>
-<string>Ogon Bańki</string>
-<key>DEFAULT</key>
-<string>Podstawa</string>
-<key>SHOW_ALL</key>
-<string>Pokaż Wszystko</string>
-<key>HIDE_ALL</key>
-<string>Ukryj Wszystko</string>
-<key>BUBBLE_OUTLINE_ONLY</key>
-<string>Tylko Zarys Bańki</string>
-<key>FLAT_BUBBLE_EDGES</key>
-<string>Płaskie Krawędzie Bańki</string>
-<key>SINGLE_CONTACT_PICS</key>
-<string>Pokaż Zdjęcie Innych (Pojedyncza Rozmowa)</string>
-<key>GROUP_CONTACT_PICS</key>
-<string> Pokaż Zdjęcie Innych(W Grupie)</string>
-<key>MY_CONTACT_PICS</key>
-<string>Pokaż Swoje Zdjęcie</string>
-<key>CPIC_DIAMETER</key>
-<string>Średnica Zdjęcia Kontaktu</string>
-<key>CV_DEFAULT_DI</key>
-<string>Średnica Podstawowa Jest 27.</string>
-
-<!-- BUBBLE PREFS -->
-<key>GRADIENT</key>
-<string>Gradient</string>
-<key>BUBBLE_COLOUR</key>
-<string>Kolor Bańki</string>
-<key>TOP_COLOUR</key>
-<string>Kolor Gòrny</string>
-<key>BOTTOM_COLOUR</key>
-<string>Kolor Dolny</string>
-<key>TEXT_COLOUR</key>
-<string>Kolor Tekstu</string>
-
-<!-- CONVO/CONTACT LIST -->
-<key>GROUP</key>
-<string>Grupa</string>
-<key>CONTACT_BUBBLES</key>
-<string>Bańki Kontakòw</string>
-<key>ERASE_CONVOS_INFO</key>
-<string>Wymaż Info Wszystkich Rozmòw</string>
-<key>ERASE_CONTACTS_INFO</key>
-<string>Wymaż Info Wszystkich Kontaktòw</string>
-<key>ERASE_CONTACT_INFO</key>
-<string>Wymaż Info Tego Koktaktu</string>
-<key>ERASE_CONVO_INFO</key>
-<string>Wymaż Info Tej Rozmowy</string>
-
-<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-<string>Are you sure you want to erase info for this conversation?</string>
-<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
-<string>Are you sure you want to erase info for this contact?</string>
-<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
-<string>Are you sure you want to erase info for all contacts?</string>
-<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
-<string>Are you sure you want to erase info for all conversations?</string>
-
-<!-- BACKGROUND -->
-<key>BACKGROUND_TYPE</key>
-<string>Typ Tła</string>
-<key>FLAT_COLOUR</key>
-<string>Kolor Płaski</string>
-<key>WALLPAPER</key>
-<string>Tapeta</string>
-<key>IMAGE</key>
-<string>Obraz</string>
-<key>CHOOSE_IMAGE</key>
-<string>Wybierz Obraz</string>
-<key>BLUR_RADIUS</key>
-<string>Promień Rozmazania</string>
-<key>OVERLAY_COLOUR</key>
-<string>Kolor Nakładki</string>
-
-<!-- NEW THEME -->
-<key>THEME_NAME</key>
-<string>Nazwa Uklładu</string>
-<key>BUBBLE_COLOURS</key>
-<string>Kolory Baniek</string>
-<key>SMS</key> <string>SMS</string>
-<key>IMESSAGE</key>
-<string>iMessage</string>
-<key>OTHER_PERSON</key>
-<string>Inna Osoba</string>
-<key>OTHER_COLOURS</key>
-<string>Inne Kolory</string>
-<key>INFO_TEXT</key>
-<string>Tekst Info</string>
-<key>BACKGROUND</key>
-<string>Tło</string>
-<key>CHAT_VIEW_SETTINGS</key>
-<string>Ustawienia Widoku Czatu</string>
-
-<!-- OTHER PREFS -->
-<key>APP_TINT</key>
-<string>Odcień Aplikacji</string>
-<key>NAME_AS_PLACEHOLDER</key>
-<string>Nazwa Zastępcza</string>
-<key>QUICK_SWITCHER</key>
-<string>Szybki Przełàcznik</string>
-<key>UNREPLIED_INDICATORS</key>
-<string>Wskażnik Bez Odpowiedzi</string>
-<key>CONVO_LIST_SETTINGS</key>
-<string>Opcje Listy Rozmowy</string>
-<key>DARK_MODE</key>
-<string>Tryb Mroczny</string>
-<key>SCHEDULED</key>
-<string>Zaplanowane</string>
-<key>FROM</key>
-<string>Od</string>
-<key>TO</key>
-<string>Do</string>
-<key>LIGHT</key>
-<string>Jasne</string>
-<key>DARK</key>
-<string>Ciemne</string>
-<key>CUSTOM</key>
-<string>Własne</string>
-<key>DM_SCHEDULE_TITLE</key>
-<string>Czas Trybu Mrocznego</string>
-<key>BACKGROUND_COLOUR</key>
-<string>Kolor Tła</string>
-<key>PRIMARY_COLOUR</key>
-<string>Kolor Głòwny</string>
-<key>SECONDARY_COLOUR</key>
-<string>Kolor Drugorzędny</string>
-
-<!-- CONVO LIST PREFS -->
-<key>SHOW_CONTACT_PICS</key>
-<string>Pokaż Zdjęcia Kontaktòw</string>
-<key>CONTACT_PIC_DIAMETER</key>
-<string>Średnica Zdjęcia Kontaktòw</string>
-<key>HIDE_DATES</key>
-<string>Ukryj Daty</string>
-<key>HIDE_PREVIEWS</key>
-<string>Ukryj Podgląd Wiadomości</string>
-<key>HIDE_SEARCH</key>
-<string>Urkyj Pasek Wyszukiwania</string>
-<key>HIDE_SEPARATORS</key>
-<string>Ukryj Separatory</string>
-<key>CL_DEFAULT_DI</key>
-<string>Podstawowa Średnica jest 45.</string>
-<key>INDICATOR_INFO_TEXT</key>
-<string>Wskaźnik pokazuje ci najnowszą wiadomoścć ktòrą przeczytałeś, ale nigdy na nią nie odpowiedziałesś.</string>
-<key>SWITCHER_INFO_TEXT</key>
-<string>Pokazuje boczny pasek ze szkałkami w górę i w dòł aby przełączać się między rozmowami.</string>
-<key>PLACEHOLDER_INFO_TEXT</key>
-<string>Zamienia tekst w polu wprowadzania wiadomości do "Wiadomość do *", gdzie * reprezentuje kontakt z ktòrym rozmawiasz.</string>
-<key>BIG_BUBBLES</key>
-<string>Wielkie Bańki</string>
-<key>BIG_BUBBLES_INFO_TEXT</key>
-<string>Zwiększa rozmiar baniek podglądu obrazu podobnych do tych w iOS8 - hojność od @sticktron</string>
-
-<!-- ALERTS -->
-<key>THEME_NAME_ALERT_TEXT</key>
-<string>Wpisz Nową Nazwę Układu.</string>
-<key>ERROR</key>
-<string>Błąd</string>
-<key>ENTER</key>
-<string>Wpisać</string>
-<key>CANCEL</key>
-<string>Anuluj</string>
-<key>OK</key>
-<string>OK</string>
-<key>YES</key>
-<string>Tak</string>
-<key>NO</key>
-<string>Nie</string>
-<key>THEME_NAME_ERROR_TEXT</key>
-<string>Układ z tą nazwą już istnieje.</string>
-<key>TWEET_ERROR_MESSAGE</key>
-<string>Nie można w tej chwili użyć Twitter.</string>
-<key>MAIL_ERROR_MESSAGE</key>
-<string>Nie można użyc email w tym momęcie.</string>
-<key>ENTER_THEME_NAME_TEXT</key>
-<string>Wpisz nową nazwę uklładu.</string>
-<key>THEME_EDIT_ALERT_TITLE</key>
-<string>Wybierz układ do edytowania.</string>
-<key>SLIDER_ERROR_TEXT</key>
-<string>Proszę upewnić się, że liczba jest pomiędzy minimalną i maksymalą wartością.</string>
-<key>SLIDER_ENTRY_TEXT</key>
-<string>Wpisz liczbę pomiędzy</string>
-<key>AND</key>
-<string>i</string>
-
-<!-- COLOUR PICKER -->
-<key>HEX_VALUE</key>
-<string>Hex wartość</string>
-<key>HEX_VALUE_TEXT</key>
-<string>Wpisz własny ciąg koloròw hex</string>
-<key>HEX_ERROR</key>
-<string>Niewłaściwy Ciąg Hex</string>
-<key>HEX_ERROR_TEXT</key>
-<string>Podaj prawidłowy ciąg koloru hex np. #2F3E12</string>
-
-<!-- TITLES -->
-<key>EDITING</key>
-<string>Edytowanie</string>
-<key>CHAT_VIEW</key>
-<string>Widok Czatu</string>
-<key>CONVO_LIST</key>
-<string>Lista Rozmòw</string>
-<key>BACKGROUND</key>
-<string>Tło</string>
-<key>IM_BUBBLES</key>
-<string>IM Bańki</string>
-<key>SMS_BUBBLES</key>
-<string>SMS Bańki</string>
-<key>OTHER_BUBBLES</key>
-<string>Inne Bańki</string>
-<key>OTHER_SETTINGS</key>
-<string>Inne Opcje</string>
-
-<key>TWEET</key>
-<string>Używam Messages Cusomiser Pro (przez @friggog) żeby moja aplikacja do wiadomości wyglądała niesamowicie!</string>
-
-<key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
-<string>do</string>
-
+	<key>AND</key>
+	<string>i</string>
+	<key>APP_TINT</key>
+	<string>Odcień Aplikacji</string>
+	<key>BACKGROUND</key>
+	<string>Tło</string>
+	<key>BACKGROUND_COLOUR</key>
+	<string>Kolor Tła</string>
+	<key>BACKGROUND_TYPE</key>
+	<string>Typ Tła</string>
+	<key>BETA</key>
+	<string>Beta</string>
+	<key>BIG_BUBBLES</key>
+	<string>Wielkie Bańki</string>
+	<key>BIG_BUBBLES_INFO_TEXT</key>
+	<string>Zwiększa rozmiar baniek podglądu obrazu podobnych do tych w iOS8 - hojność od @sticktron</string>
+	<key>BLUR_RADIUS</key>
+	<string>Promień Rozmazania</string>
+	<key>BOTTOM_COLOUR</key>
+	<string>Kolor Dolny</string>
+	<key>BUBBLE_COLOUR</key>
+	<string>Kolor Bańki</string>
+	<key>BUBBLE_COLOURS</key>
+	<string>Kolory Baniek</string>
+	<key>BUBBLE_OUTLINE_ONLY</key>
+	<string>Tylko Zarys Bańki</string>
+	<key>BUBBLE_TAILS</key>
+	<string>Ogon Bańki</string>
+	<key>BUBBLE_WIDTH</key>
+	<string>Szerokość Bańki</string>
+	<key>CANCEL</key>
+	<string>Anuluj</string>
+	<key>CHAT_VIEW</key>
+	<string>Widok Czatu</string>
+	<key>CHAT_VIEW_SETTINGS</key>
+	<string>Ustawienia Widoku Czatu</string>
+	<key>CHOOSE_IMAGE</key>
+	<string>Wybierz Obraz</string>
+	<key>CL_DEFAULT_DI</key>
+	<string>Podstawowa Średnica jest 45.</string>
+	<key>CONTACT_BUBBLES</key>
+	<string>Bańki Kontakòw</string>
+	<key>CONTACT_PIC_DIAMETER</key>
+	<string>Średnica Zdjęcia Kontaktòw</string>
+	<key>CONTACT_SPECIFIC_COLOURS</key>
+	<string>Kolory Specyficznego Kontaktu</string>
+	<key>CONVO_LIST</key>
+	<string>Lista Rozmòw</string>
+	<key>CONVO_LIST_SETTINGS</key>
+	<string>Opcje Listy Rozmowy</string>
+	<key>CONVO_SPECIFIC_THEMES</key>
+	<string>Układ Specyficznej Rozmowy</string>
+	<key>CPIC_DIAMETER</key>
+	<string>Średnica Zdjęcia Kontaktu</string>
+	<key>CUSTOM</key>
+	<string>Własne</string>
+	<key>CV_DEFAULT_DI</key>
+	<string>Średnica Podstawowa Jest 27.</string>
+	<key>DARK</key>
+	<string>Ciemne</string>
+	<key>DARK_MODE</key>
+	<string>Tryb Mroczny</string>
+	<key>DEFAULT</key>
+	<string>Podstawa</string>
+	<key>DM_SCHEDULE_TITLE</key>
+	<string>Czas Trybu Mrocznego</string>
+	<key>EDITING</key>
+	<string>Edytowanie</string>
+	<key>EDIT_THEME</key>
+	<string>Edytuj Układ</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ENABLED</key>
+	<string>Włączony</string>
+	<key>ENTER</key>
+	<string>Wpisać</string>
+	<key>ENTER_THEME_NAME_TEXT</key>
+	<string>Wpisz nową nazwę uklładu.</string>
+	<key>ERASE_CONTACTS_INFO</key>
+	<string>Wymaż Info Wszystkich Kontaktòw</string>
+	<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for all contacts?</string>
+	<key>ERASE_CONTACT_INFO</key>
+	<string>Wymaż Info Tego Koktaktu</string>
+	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this contact?</string>
+	<key>ERASE_CONVOS_INFO</key>
+	<string>Wymaż Info Wszystkich Rozmòw</string>
+	<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for all conversations?</string>
+	<key>ERASE_CONVO_INFO</key>
+	<string>Wymaż Info Tej Rozmowy</string>
+	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this conversation?</string>
+	<key>ERROR</key>
+	<string>Błąd</string>
+	<key>FLAT_BUBBLE_EDGES</key>
+	<string>Płaskie Krawędzie Bańki</string>
+	<key>FLAT_COLOUR</key>
+	<string>Kolor Płaski</string>
+	<key>FROM</key>
+	<string>Od</string>
+	<key>GRADIENT</key>
+	<string>Gradient</string>
+	<key>GROUP</key>
+	<string>Grupa</string>
+	<key>GROUP_CONTACT_PICS</key>
+	<string> Pokaż Zdjęcie Innych(W Grupie)</string>
+	<key>HEX_ERROR</key>
+	<string>Niewłaściwy Ciąg Hex</string>
+	<key>HEX_ERROR_TEXT</key>
+	<string>Podaj prawidłowy ciąg koloru hex np. #2F3E12</string>
+	<key>HEX_VALUE</key>
+	<string>Hex wartość</string>
+	<key>HEX_VALUE_TEXT</key>
+	<string>Wpisz własny ciąg koloròw hex</string>
+	<key>HIDE_ALL</key>
+	<string>Ukryj Wszystko</string>
+	<key>HIDE_DATES</key>
+	<string>Ukryj Daty</string>
+	<key>HIDE_PREVIEWS</key>
+	<string>Ukryj Podgląd Wiadomości</string>
+	<key>HIDE_SEARCH</key>
+	<string>Urkyj Pasek Wyszukiwania</string>
+	<key>HIDE_SEPARATORS</key>
+	<string>Ukryj Separatory</string>
+	<key>IMAGE</key>
+	<string>Obraz</string>
+	<key>IMESSAGE</key>
+	<string>iMessage</string>
+	<key>IM_BUBBLES</key>
+	<string>IM Bańki</string>
+	<key>INDICATOR_INFO_TEXT</key>
+	<string>Wskaźnik pokazuje ci najnowszą wiadomoścć ktòrą przeczytałeś, ale nigdy na nią nie odpowiedziałesś.</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INFO_TEXT</key>
+	<string>Tekst Info</string>
+	<key>LIGHT</key>
+	<string>Jasne</string>
+	<key>MAIL_ERROR_MESSAGE</key>
+	<string>Nie można użyc email w tym momęcie.</string>
+	<key>MY_CONTACT_PICS</key>
+	<string>Pokaż Swoje Zdjęcie</string>
+	<key>NAME_AS_PLACEHOLDER</key>
+	<string>Nazwa Zastępcza</string>
+	<key>NEW_THEME</key>
+	<string>Nowy Układ</string>
+	<key>NO</key>
+	<string>Nie</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_BUBBLES</key>
+	<string>Inne Bańki</string>
+	<key>OTHER_COLOURS</key>
+	<string>Inne Kolory</string>
+	<key>OTHER_OPTIONS</key>
+	<string>Inne Opcje</string>
+	<key>OTHER_PERSON</key>
+	<string>Inna Osoba</string>
+	<key>OTHER_SETTINGS</key>
+	<string>Inne Opcje</string>
+	<key>OVERLAY_COLOUR</key>
+	<string>Kolor Nakładki</string>
+	<key>PLACEHOLDER_INFO_TEXT</key>
+	<string>Zamienia tekst w polu wprowadzania wiadomości do "Wiadomość do *", gdzie * reprezentuje kontakt z ktòrym rozmawiasz.</string>
+	<key>PLACEHOLDER_TO</key>
+	<string>do</string>
+	<key>PRIMARY_COLOUR</key>
+	<string>Kolor Głòwny</string>
+	<key>PRIMARY_THEME</key>
+	<string>Głòwny Układ</string>
+	<key>QUICK_SWITCHER</key>
+	<string>Szybki Przełàcznik</string>
+	<key>SCHEDULED</key>
+	<string>Zaplanowane</string>
+	<key>SECONDARY_COLOUR</key>
+	<string>Kolor Drugorzędny</string>
+	<key>SHOW_ALL</key>
+	<string>Pokaż Wszystko</string>
+	<key>SHOW_CONTACT_PICS</key>
+	<string>Pokaż Zdjęcia Kontaktòw</string>
+	<key>SINGLE_CONTACT_PICS</key>
+	<string>Pokaż Zdjęcie Innych (Pojedyncza Rozmowa)</string>
+	<key>SLIDER_ENTRY_TEXT</key>
+	<string>Wpisz liczbę pomiędzy</string>
+	<key>SLIDER_ERROR_TEXT</key>
+	<string>Proszę upewnić się, że liczba jest pomiędzy minimalną i maksymalą wartością.</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>SMS_BUBBLES</key>
+	<string>SMS Bańki</string>
+	<key>SUPPORT</key>
+	<string>Pomoc</string>
+	<key>SWITCHER_INFO_TEXT</key>
+	<string>Pokazuje boczny pasek ze szkałkami w górę i w dòł aby przełączać się między rozmowami.</string>
+	<key>TEXT_COLOUR</key>
+	<string>Kolor Tekstu</string>
+	<key>THEME_EDIT_ALERT_TITLE</key>
+	<string>Wybierz układ do edytowania.</string>
+	<key>THEME_NAME</key>
+	<string>Nazwa Uklładu</string>
+	<key>THEME_NAME_ALERT_TEXT</key>
+	<string>Wpisz Nową Nazwę Układu.</string>
+	<key>THEME_NAME_ERROR_TEXT</key>
+	<string>Układ z tą nazwą już istnieje.</string>
+	<key>TO</key>
+	<string>Do</string>
+	<key>TOP_COLOUR</key>
+	<string>Kolor Gòrny</string>
+	<key>TWEET</key>
+	<string>Używam Messages Cusomiser Pro (przez @friggog) żeby moja aplikacja do wiadomości wyglądała niesamowicie!</string>
+	<key>TWEET_ERROR_MESSAGE</key>
+	<string>Nie można w tej chwili użyć Twitter.</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>UNREPLIED_INDICATORS</key>
+	<string>Wskażnik Bez Odpowiedzi</string>
+	<key>WALLPAPER</key>
+	<string>Tapeta</string>
+	<key>YES</key>
+	<string>Tak</string>
 </dict>
 </plist>

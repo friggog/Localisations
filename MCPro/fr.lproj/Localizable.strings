@@ -1,116 +1,238 @@
-"AND" = "et";
-"APP_TINT" = "Couleur de l'application";
-"BACKGROUND" = "Arrière-plan";
-"BACKGROUND_COLOUR" = "Couleur d'arrière-plan";
-"BACKGROUND_TYPE" = "Type d'arrière-plan";
-"BETA" = "Bêta";
-"BIG_BUBBLES" = "Grosses bulles";
-"BIG_BUBBLES_INFO_TEXT" = "Augmenter la taille des bulles contenant une image pour ressembler à celles d'iOS 8 - merci à @sticktron.";
-"BIG_BUBBLE_WIDTH" = "Taille des grosses bulles";
-"BLUR_RADIUS" = "Degré de flou";
-"BOTTOM_COLOUR" = "Couleur du bas";
-"BUBBLE_COLOUR" = "Couleur de la bulle";
-"BUBBLE_COLOURS" = "Couleur des bulles";
-"BUBBLE_OUTLINE_ONLY" = "Contour des bulles seulement";
-"BUBBLE_TAILS" = "Queue de bulles";
-"BUBBLE_WIDTH" = "Largeur des bulles";
-"CANCEL" = "Annuler";
-"CHAT_VIEW" = "Conversation";
-"CHAT_VIEW_SETTINGS" = "Paramètres de conversation";
-"CHOOSE_IMAGE" = "Choisir une image";
-"CL_DEFAULT_DI" = "Le diamètre par défaut est de 45.0";
-"CONTACT_BUBBLES" = "Bulles des Contacts";
-"CONTACT_PIC_DIAMETER" = "Diamètre des photos des contacts";
-"CONTACT_SPECIFIC_COLOURS" = "Couleurs des contacts";
-"CONVO_LIST" = "Liste des conversations";
-"CONVO_LIST_SETTINGS" = "Paramètres de la liste de conversation";
-"CONVO_SPECIFIC_THEMES" = "Thèmes des conversations";
-"CPIC_DIAMETER" = "Diamètre des photos des contacts";
-"CUSTOM" = "Personalisé";
-"CV_DEFAULT_DI" = "Le diamètre par défaut est de 27.0";
-"DARK" = "Nuit";
-"DARK_MODE" = "Mode nuit";
-"DARK_MODE_THEME" = "Thème du mode nuit";
-"DEFAULT" = "Par défaut";
-"DEFAULT_BUBBLE_WIDTH" = "La largeur par défaut est de 231.0";
-"DM_SCHEDULE_TITLE" = "Horaire du mode nuit";
-"EDIT_THEME" = "Editer thème";
-"EDITING" = "Edition";
-"EMAIL" = "Email";
-"ENABLED" = "Activer";
-"ENTER" = "Valider";
-"ENTER_THEME_NAME_TEXT" = "Entrer le nom du nouveau thème";
-"ERASE_CONTACT_INFO" = "Annuler les modifications";
-"ERASE_CONTACT_INFO_ALERT_MESSAGE" = "Voulez-vous vraiment annuler les modifications pour ce contact ?";
-"ERASE_CONTACTS_INFO" = "Annuler toutes les modifications";
-"ERASE_CONTACTS_INFO_ALERT_MESSAGE" = "Voulez-vous vraiment annuler les modifications pour tous les contacts ?";
-"ERASE_CONVO_INFO" = "Revenir au thème général";
-"ERASE_CONVO_INFO_ALERT_MESSAGE" = "Voulez-vous vraiment revenir au thème général pour cette conversation ?";
-"ERASE_CONVOS_INFO" = "Annuler toutes les modifications";
-"ERASE_CONVOS_INFO_ALERT_MESSAGE" = "Voulez-vous vraiment revenir au thème général pour toutes les conversations ?";
-"ERROR" = "Erreur";
-"FLAT_BUBBLE_EDGES" = "Queues de bulle hors écran";
-"FLAT_COLOUR" = "Couleur unie";
-"FROM" = "De";
-"GRADIENT" = "Dégradé";
-"GROUP" = "Groupe";
-"GROUP_CONTACT_PICS" = "Montrer les autres photos (groupe)";
-"HEX_ERROR" = "Code hexadécimal incorrect";
-"HEX_ERROR_TEXT" = "Entrer un code hexadécimal de couleur valide. Exemple : #2F3E12";
-"HEX_VALUE" = "Code hexadécimal";
-"HEX_VALUE_TEXT" = "Entrer un code hexadécimal de couleur personnalisé";
-"HIDE_ALL" = "Cacher";
-"HIDE_DATES" = "Cacher les dates";
-"HIDE_PREVIEWS" = "Cacher la prévisualisation";
-"HIDE_SEARCH" = "Cacher la barre de recherche";
-"HIDE_SEPARATORS" = "Cacher les séparateurs";
-"IM_BUBBLES" = "Bulles des messages instantané";
-"IMAGE" = "Image";
-"IMESSAGE" = "iMessage";
-"INDICATOR_INFO_TEXT" = "Montre un indicateur pour les conversations dont vous avez lu le message le plus récent mais vous n'y avait pas répondu.";
-"INFO" = "Info";
-"INFO_TEXT" = "Texte d'information";
-"LIGHT" = "Jour";
-"MAIL_ERROR_MESSAGE" = "Impossible d'envoyer un email maintenant.";
-"MY_CONTACT_PICS" = "Montrer votre photo";
-"NAME_AS_PLACEHOLDER" = "Afficher 'Message pour *'";
-"NEW_THEME" = "Nouveau thème";
-"NO" = "Non";
-"OK" = "OK";
-"OTHER_BUBBLES" = "Autres bulles";
-"OTHER_COLOURS" = "Autres couleurs";
-"OTHER_OPTIONS" = "Autres options";
-"OTHER_PERSON" = "Correspondants";
-"OTHER_SETTINGS" = "Autres paramètres";
-"OVERLAY_COLOUR" = "Filtre de couleur";
-"PLACEHOLDER_INFO_TEXT" = "Change le texte dans la zone de saisie pour indiquer 'Message pour *'. L'étoile '*' représente le contact à qui vous envoyez le message.";
-"PLACEHOLDER_TO" = "pour";
-"PRIMARY_COLOUR" = "Couleur principale";
-"PRIMARY_THEME" = "Thème général";
-"QUICK_SWITCHER" = "Changer de conversation";
-"SAME_AS_PRIMARY" = "Utiliser le thème principal";
-"SCHEDULED" = "Activer le mode nuit :";
-"SECONDARY_COLOUR" = "Couleur secondaire";
-"SETTING_BACKGROUND" = "Changement de l'arrière plan...";
-"SHOW_ALL" = "Montrer";
-"SHOW_CONTACT_PICS" = "Montrer les photos des contacts";
-"SINGLE_CONTACT_PICS" = "Montrer les autres photos (seul)";
-"SLIDER_ENTRY_TEXT" = "Entrer une valeur entre";
-"SLIDER_ERROR_TEXT" = "Assurez-vous que la valeur est entre la valeur minimum et la valeur maximum.";
-"SMS" = "SMS";
-"SMS_BUBBLES" = "Bulles de SMS";
-"SUPPORT" = "Supporter";
-"SWITCHER_INFO_TEXT" = "Changer rapidement de conversation grâce à 2 flèches.";
-"TEXT_COLOUR" = "Couleur du texte";
-"THEME_EDIT_ALERT_TITLE" = "Choisir un thème à éditer";
-"THEME_NAME" = "Nom du thème";
-"THEME_NAME_ALERT_TEXT" = "Entrer un nouveau nom pour le thème.";
-"THEME_NAME_ERROR_TEXT" = "Un thème de ce nom existe déjà.";
-"TO" = "A";
-"TOP_COLOUR" = "Couleur du haut";
-"TWEET" = "J'utilise Messages Customiser Pro (par @friggog) pour que mon application message ait un look incroyable !";
-"TWEET_ERROR_MESSAGE" = "Impossible de twitter maintenant.";
-"TWITTER" = "Twitter";
-"UNREPLIED_INDICATORS" = "Indiquer si non répondu";
-"WALLPAPER" = "Fond d'écran";
-"YES" = "Oui";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AND</key>
+	<string>et</string>
+	<key>APP_TINT</key>
+	<string>Couleur de l'application</string>
+	<key>BACKGROUND</key>
+	<string>Arrière-plan</string>
+	<key>BACKGROUND_COLOUR</key>
+	<string>Couleur d'arrière-plan</string>
+	<key>BACKGROUND_TYPE</key>
+	<string>Type d'arrière-plan</string>
+	<key>BETA</key>
+	<string>Bêta</string>
+	<key>BIG_BUBBLES</key>
+	<string>Grosses bulles</string>
+	<key>BIG_BUBBLES_INFO_TEXT</key>
+	<string>Augmenter la taille des bulles contenant une image pour ressembler à celles d'iOS 8 - merci à @sticktron.</string>
+	<key>BIG_BUBBLE_WIDTH</key>
+	<string>Taille des grosses bulles</string>
+	<key>BLUR_RADIUS</key>
+	<string>Degré de flou</string>
+	<key>BOTTOM_COLOUR</key>
+	<string>Couleur du bas</string>
+	<key>BUBBLE_COLOUR</key>
+	<string>Couleur de la bulle</string>
+	<key>BUBBLE_COLOURS</key>
+	<string>Couleur des bulles</string>
+	<key>BUBBLE_OUTLINE_ONLY</key>
+	<string>Contour des bulles seulement</string>
+	<key>BUBBLE_TAILS</key>
+	<string>Queue de bulles</string>
+	<key>BUBBLE_WIDTH</key>
+	<string>Largeur des bulles</string>
+	<key>CANCEL</key>
+	<string>Annuler</string>
+	<key>CHAT_VIEW</key>
+	<string>Conversation</string>
+	<key>CHAT_VIEW_SETTINGS</key>
+	<string>Paramètres de conversation</string>
+	<key>CHOOSE_IMAGE</key>
+	<string>Choisir une image</string>
+	<key>CL_DEFAULT_DI</key>
+	<string>Le diamètre par défaut est de 45.0</string>
+	<key>CONTACT_BUBBLES</key>
+	<string>Bulles des Contacts</string>
+	<key>CONTACT_PIC_DIAMETER</key>
+	<string>Diamètre des photos des contacts</string>
+	<key>CONTACT_SPECIFIC_COLOURS</key>
+	<string>Couleurs des contacts</string>
+	<key>CONVO_LIST</key>
+	<string>Liste des conversations</string>
+	<key>CONVO_LIST_SETTINGS</key>
+	<string>Paramètres de la liste de conversation</string>
+	<key>CONVO_SPECIFIC_THEMES</key>
+	<string>Thèmes des conversations</string>
+	<key>CPIC_DIAMETER</key>
+	<string>Diamètre des photos des contacts</string>
+	<key>CUSTOM</key>
+	<string>Personalisé</string>
+	<key>CV_DEFAULT_DI</key>
+	<string>Le diamètre par défaut est de 27.0</string>
+	<key>DARK</key>
+	<string>Nuit</string>
+	<key>DARK_MODE</key>
+	<string>Mode nuit</string>
+	<key>DARK_MODE_THEME</key>
+	<string>Thème du mode nuit</string>
+	<key>DEFAULT</key>
+	<string>Par défaut</string>
+	<key>DEFAULT_BUBBLE_WIDTH</key>
+	<string>La largeur par défaut est de 231.0</string>
+	<key>DM_SCHEDULE_TITLE</key>
+	<string>Horaire du mode nuit</string>
+	<key>EDITING</key>
+	<string>Edition</string>
+	<key>EDIT_THEME</key>
+	<string>Editer thème</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ENABLED</key>
+	<string>Activer</string>
+	<key>ENTER</key>
+	<string>Valider</string>
+	<key>ENTER_THEME_NAME_TEXT</key>
+	<string>Entrer le nom du nouveau thème</string>
+	<key>ERASE_CONTACTS_INFO</key>
+	<string>Annuler toutes les modifications</string>
+	<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+	<string>Voulez-vous vraiment annuler les modifications pour tous les contacts ?</string>
+	<key>ERASE_CONTACT_INFO</key>
+	<string>Annuler les modifications</string>
+	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+	<string>Voulez-vous vraiment annuler les modifications pour ce contact ?</string>
+	<key>ERASE_CONVOS_INFO</key>
+	<string>Annuler toutes les modifications</string>
+	<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+	<string>Voulez-vous vraiment revenir au thème général pour toutes les conversations ?</string>
+	<key>ERASE_CONVO_INFO</key>
+	<string>Revenir au thème général</string>
+	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+	<string>Voulez-vous vraiment revenir au thème général pour cette conversation ?</string>
+	<key>ERROR</key>
+	<string>Erreur</string>
+	<key>FLAT_BUBBLE_EDGES</key>
+	<string>Queues de bulle hors écran</string>
+	<key>FLAT_COLOUR</key>
+	<string>Couleur unie</string>
+	<key>FROM</key>
+	<string>De</string>
+	<key>GRADIENT</key>
+	<string>Dégradé</string>
+	<key>GROUP</key>
+	<string>Groupe</string>
+	<key>GROUP_CONTACT_PICS</key>
+	<string>Montrer les autres photos (groupe)</string>
+	<key>HEX_ERROR</key>
+	<string>Code hexadécimal incorrect</string>
+	<key>HEX_ERROR_TEXT</key>
+	<string>Entrer un code hexadécimal de couleur valide. Exemple : #2F3E12</string>
+	<key>HEX_VALUE</key>
+	<string>Code hexadécimal</string>
+	<key>HEX_VALUE_TEXT</key>
+	<string>Entrer un code hexadécimal de couleur personnalisé</string>
+	<key>HIDE_ALL</key>
+	<string>Cacher</string>
+	<key>HIDE_DATES</key>
+	<string>Cacher les dates</string>
+	<key>HIDE_PREVIEWS</key>
+	<string>Cacher la prévisualisation</string>
+	<key>HIDE_SEARCH</key>
+	<string>Cacher la barre de recherche</string>
+	<key>HIDE_SEPARATORS</key>
+	<string>Cacher les séparateurs</string>
+	<key>IMAGE</key>
+	<string>Image</string>
+	<key>IMESSAGE</key>
+	<string>iMessage</string>
+	<key>IM_BUBBLES</key>
+	<string>Bulles des messages instantané</string>
+	<key>INDICATOR_INFO_TEXT</key>
+	<string>Montre un indicateur pour les conversations dont vous avez lu le message le plus récent mais vous n'y avait pas répondu.</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INFO_TEXT</key>
+	<string>Texte d'information</string>
+	<key>LIGHT</key>
+	<string>Jour</string>
+	<key>MAIL_ERROR_MESSAGE</key>
+	<string>Impossible d'envoyer un email maintenant.</string>
+	<key>MY_CONTACT_PICS</key>
+	<string>Montrer votre photo</string>
+	<key>NAME_AS_PLACEHOLDER</key>
+	<string>Afficher 'Message pour *'</string>
+	<key>NEW_THEME</key>
+	<string>Nouveau thème</string>
+	<key>NO</key>
+	<string>Non</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_BUBBLES</key>
+	<string>Autres bulles</string>
+	<key>OTHER_COLOURS</key>
+	<string>Autres couleurs</string>
+	<key>OTHER_OPTIONS</key>
+	<string>Autres options</string>
+	<key>OTHER_PERSON</key>
+	<string>Correspondants</string>
+	<key>OTHER_SETTINGS</key>
+	<string>Autres paramètres</string>
+	<key>OVERLAY_COLOUR</key>
+	<string>Filtre de couleur</string>
+	<key>PLACEHOLDER_INFO_TEXT</key>
+	<string>Change le texte dans la zone de saisie pour indiquer 'Message pour *'. L'étoile '*' représente le contact à qui vous envoyez le message.</string>
+	<key>PLACEHOLDER_TO</key>
+	<string>pour</string>
+	<key>PRIMARY_COLOUR</key>
+	<string>Couleur principale</string>
+	<key>PRIMARY_THEME</key>
+	<string>Thème général</string>
+	<key>QUICK_SWITCHER</key>
+	<string>Changer de conversation</string>
+	<key>SAME_AS_PRIMARY</key>
+	<string>Utiliser le thème principal</string>
+	<key>SCHEDULED</key>
+	<string>Activer le mode nuit :</string>
+	<key>SECONDARY_COLOUR</key>
+	<string>Couleur secondaire</string>
+	<key>SETTING_BACKGROUND</key>
+	<string>Changement de l'arrière plan...</string>
+	<key>SHOW_ALL</key>
+	<string>Montrer</string>
+	<key>SHOW_CONTACT_PICS</key>
+	<string>Montrer les photos des contacts</string>
+	<key>SINGLE_CONTACT_PICS</key>
+	<string>Montrer les autres photos (seul)</string>
+	<key>SLIDER_ENTRY_TEXT</key>
+	<string>Entrer une valeur entre</string>
+	<key>SLIDER_ERROR_TEXT</key>
+	<string>Assurez-vous que la valeur est entre la valeur minimum et la valeur maximum.</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>SMS_BUBBLES</key>
+	<string>Bulles de SMS</string>
+	<key>SUPPORT</key>
+	<string>Supporter</string>
+	<key>SWITCHER_INFO_TEXT</key>
+	<string>Changer rapidement de conversation grâce à 2 flèches.</string>
+	<key>TEXT_COLOUR</key>
+	<string>Couleur du texte</string>
+	<key>THEME_EDIT_ALERT_TITLE</key>
+	<string>Choisir un thème à éditer</string>
+	<key>THEME_NAME</key>
+	<string>Nom du thème</string>
+	<key>THEME_NAME_ALERT_TEXT</key>
+	<string>Entrer un nouveau nom pour le thème.</string>
+	<key>THEME_NAME_ERROR_TEXT</key>
+	<string>Un thème de ce nom existe déjà.</string>
+	<key>TO</key>
+	<string>A</string>
+	<key>TOP_COLOUR</key>
+	<string>Couleur du haut</string>
+	<key>TWEET</key>
+	<string>J'utilise Messages Customiser Pro (par @friggog) pour que mon application message ait un look incroyable !</string>
+	<key>TWEET_ERROR_MESSAGE</key>
+	<string>Impossible de twitter maintenant.</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>UNREPLIED_INDICATORS</key>
+	<string>Indiquer si non répondu</string>
+	<key>WALLPAPER</key>
+	<string>Fond d'écran</string>
+	<key>YES</key>
+	<string>Oui</string>
+</dict>
+</plist>

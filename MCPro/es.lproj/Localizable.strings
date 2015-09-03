@@ -2,499 +2,227 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-
-  <!-- MAIN PREFS -->
-
-  <key>ENABLED</key>
-
-  <string>Activado</string>
-
-  <key>PRIMARY_THEME</key>
-
-  <string>Tema principal</string>
-
-  <key>CONVO_SPECIFIC_THEMES</key>
-
-  <string>Temas para conversaciones</string>
-
-  <key>CONTACT_SPECIFIC_COLOURS</key>
-
-  <string>Colores para cada contacto</string>
-
-  <key>NEW_THEME</key>
-
-  <string>Tema nuevo</string>
-
-  <key>EDIT_THEME</key>
-
-  <string>Editar tema</string>
-
-  <key>OTHER_OPTIONS</key>
-
-  <string>Otras opciones</string>
-
-  <key>SUPPORT</key>
-
-  <string>Soporte</string>
-
-  <key>EMAIL</key>
-
-  <string>Email</string>
-
-  <key>TWITTER</key>
-
-  <string>Twitter</string>
-
-  <key>INFO</key>
-
-  <string>Info</string>
-
-  <key>BETA</key>
-
-  <string>Beta</string>
-
-
-
-
-  <!-- CHAT VIEW PREFS -->
-
-  <key>BUBBLE_WIDTH</key>
-
-  <string>Ancho de la burbuja</string>
-
-  <key>BUBBLE_TAILS</key>
-
-  <string>Cola de la burbuja</string>
-
-  <key>DEFAULT</key>
-
-  <string>Por defecto</string>
-
-  <key>SHOW_ALL</key>
-
-  <string>Mostrar todo</string>
-
-  <key>HIDE_ALL</key>
-
-  <string>Ocultar todo</string>
-
-  <key>BUBBLE_OUTLINE_ONLY</key>
-
-  <string>Solo contorno de burbuja</string>
-
-  <key>FLAT_BUBBLE_EDGES</key>
-
-  <string>Bordes planos de burbuja</string>
-
-  <key>SINGLE_CONTACT_PICS</key>
-
-  <string>Mostrar foto de contactos</string>
-
-  <key>GROUP_CONTACT_PICS</key>
-
-  <string>Mostrar foto de grupo</string>
-
-  <key>MY_CONTACT_PICS</key>
-
-  <string>Mostrar tu foto de contacto</string>
-
-  <key>CPIC_DIAMETER</key>
-
-  <string>Diámetro de la foto de contacto</string>
-
-  <key>CV_DEFAULT_DI</key>
-
-  <string>El diámetro por defecto es 27.</string>
-
-
-
-
-  <!-- BUBBLE PREFS -->
-
-  <key>GRADIENT</key>
-
-  <string>Gradiente</string>
-
-  <key>BUBBLE_COLOUR</key>
-
-  <string>Color de la burbuja</string>
-
-  <key>TOP_COLOUR</key>
-
-  <string>Color superior</string>
-
-  <key>BOTTOM_COLOUR</key>
-
-  <string>Color inferior</string>
-
-  <key>TEXT_COLOUR</key>
-
-  <string>Color del texto</string>
-
-
-
-
-  <!-- CONVO/CONTACT LIST -->
-
-  <key>GROUP</key>
-
-  <string>Grupo</string>
-
-  <key>CONTACT_BUBBLES</key>
-
-  <string>Burbujas de contactos</string>
-
-  <key>ERASE_CONVOS_INFO</key>
-
-  <string>Borrar info. para todas las conv.</string>
-
-  <key>ERASE_CONTACTS_INFO</key>
-
-  <string>Borrar info. para todos los contactos</string>
-
-  <key>ERASE_CONTACT_INFO</key>
-
-  <string>Borrar info. para este contacto</string>
-
-  <key>ERASE_CONVO_INFO</key>
-
-  <string>Borrar info. para esta conversación</string>
-
-	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-	<string>Are you sure you want to erase info for this conversation?</string>
-	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
-	<string>Are you sure you want to erase info for this contact?</string>
+	<key>AND</key>
+	<string>y</string>
+	<key>APP_TINT</key>
+	<string>Tinte de la aplicación</string>
+	<key>BACKGROUND</key>
+	<string>Fondo</string>
+	<key>BACKGROUND_COLOUR</key>
+	<string>Color del fondo</string>
+	<key>BACKGROUND_TYPE</key>
+	<string>Tipo de fondo</string>
+	<key>BETA</key>
+	<string>Beta</string>
+	<key>BIG_BUBBLES</key>
+	<string>Burbujas grandes</string>
+	<key>BIG_BUBBLES_INFO_TEXT</key>
+	<string>Aumenta el tamaño de las burbujas de vista previa para simular las de iOS8 - cortesía de @sticktron.</string>
+	<key>BLUR_RADIUS</key>
+	<string>Radio de desenfoque</string>
+	<key>BOTTOM_COLOUR</key>
+	<string>Color inferior</string>
+	<key>BUBBLE_COLOUR</key>
+	<string>Color de la burbuja</string>
+	<key>BUBBLE_COLOURS</key>
+	<string>Colores de la burbuja</string>
+	<key>BUBBLE_OUTLINE_ONLY</key>
+	<string>Solo contorno de burbuja</string>
+	<key>BUBBLE_TAILS</key>
+	<string>Cola de la burbuja</string>
+	<key>BUBBLE_WIDTH</key>
+	<string>Ancho de la burbuja</string>
+	<key>CANCEL</key>
+	<string>Cancelar</string>
+	<key>CHAT_VIEW</key>
+	<string>Vista del chat</string>
+	<key>CHAT_VIEW_SETTINGS</key>
+	<string>Opciones del aspecto del chat</string>
+	<key>CHOOSE_IMAGE</key>
+	<string>Escoger imagen</string>
+	<key>CL_DEFAULT_DI</key>
+	<string>El diámetro por defecto es 45.</string>
+	<key>CONTACT_BUBBLES</key>
+	<string>Burbujas de contactos</string>
+	<key>CONTACT_PIC_DIAMETER</key>
+	<string>Diámetro de la foto de contacto</string>
+	<key>CONTACT_SPECIFIC_COLOURS</key>
+	<string>Colores para cada contacto</string>
+	<key>CONVO_LIST</key>
+	<string>Lista de conversaciones</string>
+	<key>CONVO_LIST_SETTINGS</key>
+	<string>Opciones de la lista de conv.</string>
+	<key>CONVO_SPECIFIC_THEMES</key>
+	<string>Temas para conversaciones</string>
+	<key>CPIC_DIAMETER</key>
+	<string>Diámetro de la foto de contacto</string>
+	<key>CUSTOM</key>
+	<string>Personalizado</string>
+	<key>CV_DEFAULT_DI</key>
+	<string>El diámetro por defecto es 27.</string>
+	<key>DARK</key>
+	<string>Oscuro (Noche)</string>
+	<key>DARK_MODE</key>
+	<string>Modo nocturno</string>
+	<key>DEFAULT</key>
+	<string>Por defecto</string>
+	<key>DM_SCHEDULE_TITLE</key>
+	<string>Fijar modo nocturno</string>
+	<key>EDITING</key>
+	<string>Edición</string>
+	<key>EDIT_THEME</key>
+	<string>Editar tema</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ENABLED</key>
+	<string>Activado</string>
+	<key>ENTER</key>
+	<string>Aceptar</string>
+	<key>ENTER_THEME_NAME_TEXT</key>
+	<string>Escriba el nombre del tema nuevo</string>
+	<key>ERASE_CONTACTS_INFO</key>
+	<string>Borrar info. para todos los contactos</string>
 	<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
 	<string>Are you sure you want to erase info for all contacts?</string>
+	<key>ERASE_CONTACT_INFO</key>
+	<string>Borrar info. para este contacto</string>
+	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this contact?</string>
+	<key>ERASE_CONVOS_INFO</key>
+	<string>Borrar info. para todas las conv.</string>
 	<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
 	<string>Are you sure you want to erase info for all conversations?</string>
-
-
-
-
-  <!-- BACKGROUND -->
-
-  <key>BACKGROUND_TYPE</key>
-
-  <string>Tipo de fondo</string>
-
-  <key>FLAT_COLOUR</key>
-
-  <string>Color plano</string>
-
-  <key>WALLPAPER</key>
-
-  <string>Fondo de pantalla</string>
-
-  <key>IMAGE</key>
-
-  <string>Imagen</string>
-
-  <key>CHOOSE_IMAGE</key>
-
-  <string>Escoger imagen</string>
-
-  <key>BLUR_RADIUS</key>
-
-  <string>Radio de desenfoque</string>
-
-  <key>OVERLAY_COLOUR</key>
-
-  <string>Color de la superficie</string>
-
-
-
-
-  <!-- NEW THEME -->
-
-  <key>THEME_NAME</key>
-
-  <string>Nombre del tema</string>
-
-  <key>BUBBLE_COLOURS</key>
-
-  <string>Colores de la burbuja</string>
-
-  <key>SMS</key>
-
-  <string>SMS</string>
-
-  <key>IMESSAGE</key>
-
-  <string>iMessage</string>
-
-  <key>OTHER_PERSON</key>
-
-  <string>Otra persona</string>
-
-  <key>OTHER_COLOURS</key>
-
-  <string>Otros colores</string>
-
-  <key>INFO_TEXT</key>
-
-  <string>Texto de información</string>
-
-  <key>BACKGROUND</key>
-
-  <string>Fondo</string>
-
-  <key>CHAT_VIEW_SETTINGS</key>
-
-  <string>Opciones del aspecto del chat</string>
-
-
-
-
-  <!-- OTHER PREFS -->
-
-  <key>APP_TINT</key>
-
-  <string>Tinte de la aplicación</string>
-
-  <key>NAME_AS_PLACEHOLDER</key>
-
-  <string>Llamar por nombre de pila</string>
-
-  <key>QUICK_SWITCHER</key>
-
-  <string>Cambiador rápido</string>
-
-  <key>UNREPLIED_INDICATORS</key>
-
-  <string>Indicador de msjs. sin responder</string>
-
-  <key>CONVO_LIST_SETTINGS</key>
-
-  <string>Opciones de la lista de conv.</string>
-
-  <key>DARK_MODE</key>
-
-  <string>Modo nocturno</string>
-
-  <key>SCHEDULED</key>
-
-  <string>Programado</string>
-
-  <key>FROM</key>
-
-  <string>Desde</string>
-
-  <key>TO</key>
-
-  <string>Hasta</string>
-
-  <key>LIGHT</key>
-
-  <string>Claro (Día)</string>
-
-  <key>DARK</key>
-
-  <string>Oscuro (Noche)</string>
-
-  <key>CUSTOM</key>
-
-  <string>Personalizado</string>
-
-  <key>DM_SCHEDULE_TITLE</key>
-
-  <string>Fijar modo nocturno</string>
-
-  <key>BACKGROUND_COLOUR</key>
-
-  <string>Color del fondo</string>
-
-  <key>PRIMARY_COLOUR</key>
-
-  <string>Color primario</string>
-
-  <key>SECONDARY_COLOUR</key>
-
-  <string>Color secundario</string>
-
-
-
-
-  <!-- CONVO LIST PREFS -->
-
-  <key>SHOW_CONTACT_PICS</key>
-
-  <string>Mostrar fotos de contactos</string>
-
-  <key>CONTACT_PIC_DIAMETER</key>
-
-  <string>Diámetro de la foto de contacto</string>
-
-  <key>HIDE_DATES</key>
-
-  <string>Ocultar fechas</string>
-
-  <key>HIDE_PREVIEWS</key>
-
-  <string>Ocultar vista previa de msjs.</string>
-
-  <key>HIDE_SEARCH</key>
-
-  <string>Ocultar barra de búsqueda</string>
-
-  <key>HIDE_SEPARATORS</key>
-
-  <string>Ocultar separadores</string>
-
-  <key>CL_DEFAULT_DI</key>
-
-  <string>El diámetro por defecto es 45.</string>
-
-  <key>INDICATOR_INFO_TEXT</key>
-
-  <string>Muestra un indicador para conversaciones de las cuales has leído el mensaje más reciente pero no ha respondido.</string>
-
-  <key>SWITCHER_INFO_TEXT</key>
-
-  <string>Muestra una barra en la vista de conversaciones con flechas para cambiar entre conversaciones.</string>
-
-  <key>PLACEHOLDER_INFO_TEXT</key>
-
-  <string>Cambia el texto en el espacio de entrada de texto para que diga 'Mensaje a *’, donde * representa el contacto al cual está escribiendo.</string>
-<string>Changes the text in the message entry box to say 'Message to *', with the * representing the contact you are texting.</string>
-  <key>BIG_BUBBLES</key>
-
-  <string>Burbujas grandes</string>
-
-  <key>BIG_BUBBLES_INFO_TEXT</key>
-
-  <string>Aumenta el tamaño de las burbujas de vista previa para simular las de iOS8 - cortesía de @sticktron.</string>
-
-
-
-
-  <!-- ALERTS -->
-
-  <key>THEME_NAME_ALERT_TEXT</key>
-
-  <string>Escriba el nombre del tema nuevo.</string>
-
-  <key>ERROR</key>
-
-  <string>Error</string>
-
-  <key>ENTER</key>
-
-  <string>Aceptar</string>
-
-  <key>CANCEL</key>
-
-  <string>Cancelar</string>
-
-  <key>OK</key>
-
-  <string>OK</string>
-
-	<key>YES</key>
-	<string>Sí</string>
+	<key>ERASE_CONVO_INFO</key>
+	<string>Borrar info. para esta conversación</string>
+	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+	<string>Are you sure you want to erase info for this conversation?</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>FLAT_BUBBLE_EDGES</key>
+	<string>Bordes planos de burbuja</string>
+	<key>FLAT_COLOUR</key>
+	<string>Color plano</string>
+	<key>FROM</key>
+	<string>Desde</string>
+	<key>GRADIENT</key>
+	<string>Gradiente</string>
+	<key>GROUP</key>
+	<string>Grupo</string>
+	<key>GROUP_CONTACT_PICS</key>
+	<string>Mostrar foto de grupo</string>
+	<key>HEX_ERROR</key>
+	<string>Código hexadecimal inválido</string>
+	<key>HEX_ERROR_TEXT</key>
+	<string>Introduzca un código hex. válido. ej: #2F3E12</string>
+	<key>HEX_VALUE</key>
+	<string>Valor hexadecimal</string>
+	<key>HEX_VALUE_TEXT</key>
+	<string>Introduzca su línea de color hex.</string>
+	<key>HIDE_ALL</key>
+	<string>Ocultar todo</string>
+	<key>HIDE_DATES</key>
+	<string>Ocultar fechas</string>
+	<key>HIDE_PREVIEWS</key>
+	<string>Ocultar vista previa de msjs.</string>
+	<key>HIDE_SEARCH</key>
+	<string>Ocultar barra de búsqueda</string>
+	<key>HIDE_SEPARATORS</key>
+	<string>Ocultar separadores</string>
+	<key>IMAGE</key>
+	<string>Imagen</string>
+	<key>IMESSAGE</key>
+	<string>iMessage</string>
+	<key>IM_BUBBLES</key>
+	<string>Burbujas IM</string>
+	<key>INDICATOR_INFO_TEXT</key>
+	<string>Muestra un indicador para conversaciones de las cuales has leído el mensaje más reciente pero no ha respondido.</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INFO_TEXT</key>
+	<string>Texto de información</string>
+	<key>LIGHT</key>
+	<string>Claro (Día)</string>
+	<key>MAIL_ERROR_MESSAGE</key>
+	<string>No se pudo enviar el correo en este momento</string>
+	<key>MY_CONTACT_PICS</key>
+	<string>Mostrar tu foto de contacto</string>
+	<key>NAME_AS_PLACEHOLDER</key>
+	<string>Llamar por nombre de pila</string>
+	<key>NEW_THEME</key>
+	<string>Tema nuevo</string>
 	<key>NO</key>
 	<string>No</string>
-
-  <key>THEME_NAME_ERROR_TEXT</key>
-
-  <string>Ya existe un tema con este nombre.</string>
-
-  <key>TWEET_ERROR_MESSAGE</key>
-
-  <string>No se pudo tuitear en este momento</string>
-
-  <key>MAIL_ERROR_MESSAGE</key>
-
-  <string>No se pudo enviar el correo en este momento</string>
-
-  <key>ENTER_THEME_NAME_TEXT</key>
-
-  <string>Escriba el nombre del tema nuevo</string>
-
-  <key>THEME_EDIT_ALERT_TITLE</key>
-
-  <string>Escoja el tema a editar.</string>
-
-  <key>SLIDER_ERROR_TEXT</key>
-
-  <string>Asegúrese de que el valor está entre el rango indicado, por favor.</string>
-
-  <key>SLIDER_ENTRY_TEXT</key>
-
-  <string>Introduzca valores entre</string>
-
-  <key>AND</key>
-
-  <string>y</string>
-
-
-
-
-  <!-- COLOUR PICKER -->
-
-  <key>HEX_VALUE</key>
-
-  <string>Valor hexadecimal</string>
-
-  <key>HEX_VALUE_TEXT</key>
-
-  <string>Introduzca su línea de color hex.</string>
-
-  <key>HEX_ERROR</key>
-
-  <string>Código hexadecimal inválido</string>
-
-  <key>HEX_ERROR_TEXT</key>
-
-  <string>Introduzca un código hex. válido. ej: #2F3E12</string>
-
-
-
-
-  <!-- TITLES -->
-
-  <key>EDITING</key>
-
-  <string>Edición</string>
-
-  <key>CHAT_VIEW</key>
-
-  <string>Vista del chat</string>
-
-  <key>CONVO_LIST</key>
-
-  <string>Lista de conversaciones</string>
-
-  <key>BACKGROUND</key>
-
-  <string>Fondo</string>
-
-  <key>IM_BUBBLES</key>
-
-  <string>Burbujas IM</string>
-
-  <key>SMS_BUBBLES</key>
-
-  <string>Burbujas de SMS</string>
-
-  <key>OTHER_BUBBLES</key>
-
-  <string>Otras burbujas</string>
-
-  <key>OTHER_SETTINGS</key>
-
-  <string>Otras opciones</string>
-
-
-
-
-
-  <key>TWEET</key>
-
-  <string>Estoy usando Messages Customiser Pro (por @friggog) para que mi app de mensajes se vea estupenda!</string>
-
-  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
-  <string>a</string>
-
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_BUBBLES</key>
+	<string>Otras burbujas</string>
+	<key>OTHER_COLOURS</key>
+	<string>Otros colores</string>
+	<key>OTHER_OPTIONS</key>
+	<string>Otras opciones</string>
+	<key>OTHER_PERSON</key>
+	<string>Otra persona</string>
+	<key>OTHER_SETTINGS</key>
+	<string>Otras opciones</string>
+	<key>OVERLAY_COLOUR</key>
+	<string>Color de la superficie</string>
+	<key>PLACEHOLDER_INFO_TEXT</key>
+	<string>Cambia el texto en el espacio de entrada de texto para que diga 'Mensaje a *’, donde * representa el contacto al cual está escribiendo.</string>
+	<key>PLACEHOLDER_TO</key>
+	<string>a</string>
+	<key>PRIMARY_COLOUR</key>
+	<string>Color primario</string>
+	<key>PRIMARY_THEME</key>
+	<string>Tema principal</string>
+	<key>QUICK_SWITCHER</key>
+	<string>Cambiador rápido</string>
+	<key>SCHEDULED</key>
+	<string>Programado</string>
+	<key>SECONDARY_COLOUR</key>
+	<string>Color secundario</string>
+	<key>SHOW_ALL</key>
+	<string>Mostrar todo</string>
+	<key>SHOW_CONTACT_PICS</key>
+	<string>Mostrar fotos de contactos</string>
+	<key>SINGLE_CONTACT_PICS</key>
+	<string>Mostrar foto de contactos</string>
+	<key>SLIDER_ENTRY_TEXT</key>
+	<string>Introduzca valores entre</string>
+	<key>SLIDER_ERROR_TEXT</key>
+	<string>Asegúrese de que el valor está entre el rango indicado, por favor.</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>SMS_BUBBLES</key>
+	<string>Burbujas de SMS</string>
+	<key>SUPPORT</key>
+	<string>Soporte</string>
+	<key>SWITCHER_INFO_TEXT</key>
+	<string>Muestra una barra en la vista de conversaciones con flechas para cambiar entre conversaciones.</string>
+	<key>TEXT_COLOUR</key>
+	<string>Color del texto</string>
+	<key>THEME_EDIT_ALERT_TITLE</key>
+	<string>Escoja el tema a editar.</string>
+	<key>THEME_NAME</key>
+	<string>Nombre del tema</string>
+	<key>THEME_NAME_ALERT_TEXT</key>
+	<string>Escriba el nombre del tema nuevo.</string>
+	<key>THEME_NAME_ERROR_TEXT</key>
+	<string>Ya existe un tema con este nombre.</string>
+	<key>TO</key>
+	<string>Hasta</string>
+	<key>TOP_COLOUR</key>
+	<string>Color superior</string>
+	<key>TWEET</key>
+	<string>Estoy usando Messages Customiser Pro (por @friggog) para que mi app de mensajes se vea estupenda!</string>
+	<key>TWEET_ERROR_MESSAGE</key>
+	<string>No se pudo tuitear en este momento</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>UNREPLIED_INDICATORS</key>
+	<string>Indicador de msjs. sin responder</string>
+	<key>WALLPAPER</key>
+	<string>Fondo de pantalla</string>
+	<key>YES</key>
+	<string>Sí</string>
 </dict>
 </plist>

@@ -1,535 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-
 <plist version="1.0">
-
 <dict>
-
-
-  <!-- MAIN PREFS -->
-
-  <key>ENABLED</key>
-
-  <string>Aktivert</string>
-
-  <key>PRIMARY_THEME</key>
-
-  <string>Primer Tema</string>
-
-  <key>CONVO_SPECIFIC_THEMES</key>
-
-  <string>Bestemt Samtale Tema</string>
-
-  <key>CONTACT_SPECIFIC_COLOURS</key>
-
-  <string>Bestemt Kontakt Farge</string>
-
-  <key>NEW_THEME</key>
-
-  <string>Ny Tema</string>
-
-  <key>EDIT_THEME</key>
-
-  <string>Rediger Tema</string>
-
-  <key>OTHER_OPTIONS</key>
-
-  <string>Andre Instillinger</string>
-
-  <key>SUPPORT</key>
-
-  <string>Support</string>
-
-  <key>EMAIL</key>
-
-  <string>Email</string>
-
-  <key>TWITTER</key>
-
-  <string>Twitter</string>
-
-  <key>INFO</key>
-
-  <string>Info</string>
-
-  <key>BETA</key>
-
-  <string>Beta</string>
-
-
-
-
-  <!-- CHAT VIEW PREFS -->
-
-  <key>BUBBLE_WIDTH</key>
-
-  <string>Bobble bredde</string>
-
-  <key>DEFAULT_BUBBLE_WIDTH</key>
-
-  <string>Standard bredde er 231.</string>
-
-  <key>BUBBLE_TAILS</key>
-
-  <string>Bobble Haler</string>
-
-  <key>DEFAULT</key>
-
-  <string>Standard</string>
-
-  <key>SHOW_ALL</key>
-
-  <string>Vis alle</string>
-
-  <key>HIDE_ALL</key>
-
-  <string>Gjøm Alle</string>
-
-  <key>BUBBLE_OUTLINE_ONLY</key>
-
-  <string>Bare Bobble Omriss</string>
-
-  <key>FLAT_BUBBLE_EDGES</key>
-
-  <string>Flate Bobble Kanter</string>
-
-  <key>SINGLE_CONTACT_PICS</key>
-
-  <string>Vis Andre Sine Bilder (enkelt)</string>
-
-  <key>GROUP_CONTACT_PICS</key>
-
-  <string>Vis Andre Sine Bilder (gruppe)</string>
-
-  <key>MY_CONTACT_PICS</key>
-
-  <string>Vis Mine Bilder/string>
-
-  <key>CPIC_DIAMETER</key>
-
-  <string>Diameter På Kontaktbilde</string>
-
-  <key>CV_DEFAULT_DI</key>
-
-  <string>Standar diameter er 27.</string>
-
-
-
-
-  <!-- BUBBLE PREFS -->
-
-  <key>GRADIENT</key>
-
-  <string>Gradient</string>
-
-  <key>BUBBLE_COLOUR</key>
-
-  <string>Bobble Farge</string>
-
-  <key>TOP_COLOUR</key>
-
-  <string>Topp Farge</string>
-
-  <key>BOTTOM_COLOUR</key>
-
-  <string>Bunn Farge</string>
-
-  <key>TEXT_COLOUR</key>
-
-  <string>Tekst Farge</string>
-
-
-
-
-  <!-- CONVO/CONTACT LIST -->
-
-  <key>GROUP</key>
-
-  <string>Gruppe</string>
-
-  <key>CONTACT_BUBBLES</key>
-
-  <string>kontakt Bobbler</string>
-
-  <key>ERASE_CONVOS_INFO</key>
-
-  <string>Slett Info For Alle Samtaler</string>
-
-  <key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
-
-  <string>Er du sikker at du vil slette informasjon for alle samtalene?</string>
-
-  <key>ERASE_CONTACTS_INFO</key>
-
-  <string>Slett All Informasjon Om Kontaktene</string>
-
-  <key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
-
-  <string>Er du sikker at du vil slette informasjon for alle kontaktene?</string>
-
-  <key>ERASE_CONTACT_INFO</key>
-
-  <string>Slett Info Om Denne Kontakten</string>
-
-  <key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
-
-  <string>Er du sikker at du vil slette informasjon for denne kontakten?</string>
-
-  <key>ERASE_CONVO_INFO</key>
-
-  <string>Slett Informasjon Om Denne Samtalen</string>
-
-  <key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
-
-  <string>Er du sikker at du vil slette informasjon om denne samtalen?</string>
-
-
-
-
-  <!-- BACKGROUND -->
-
-  <key>BACKGROUND_TYPE</key>
-
-  <string>Bakgrunds Type</string>
-
-  <key>FLAT_COLOUR</key>
-
-  <string>Flat Farge</string>
-
-  <key>WALLPAPER</key>
-
-  <string>Wallpaper</string>
-
-  <key>IMAGE</key>
-
-  <string>Bilde</string>
-
-  <key>CHOOSE_IMAGE</key>
-
-  <string>Velg Bilde</string>
-
-  <key>BLUR_RADIUS</key>
-
-  <string>Blur Radius</string>
-
-  <key>OVERLAY_COLOUR</key>
-
-  <string>Overleggs Farge</string>
-
-  <key>SETTING_BACKGROUND</key>
-
-  <string>Bakgrunds Instilling</string>
-
-
-
-
-  <!-- NEW THEME -->
-
-  <key>THEME_NAME</key>
-
-  <string>Tema Navn</string>
-
-  <key>BUBBLE_COLOURS</key>
-
-  <string>Bobble Farge</string>
-
-  <key>SMS</key>
-
-  <string>SMS</string>
-
-  <key>IMESSAGE</key>
-
-  <string>iMessage</string>
-
-  <key>OTHER_PERSON</key>
-
-  <string>Annen Person</string>
-
-  <key>OTHER_COLOURS</key>
-
-  <string>Annen Farge</string>
-
-  <key>INFO_TEXT</key>
-
-  <string>Info Tekst</string>
-
-  <key>BACKGROUND</key>
-
-  <string>Bakgrund</string>
-
-  <key>CHAT_VIEW_SETTINGS</key>
-
-  <string>Se Chat Instillinger</string>
-
-
-
-
-  <!-- OTHER PREFS -->
-
-  <key>APP_TINT</key>
-
-  <string>App Nyanse</string>
-
-  <key>NAME_AS_PLACEHOLDER</key>
-
-  <string>Eksempel Navn</string>
-
-  <key>QUICK_SWITCHER</key>
-
-  <string>Rask Switcher</string>
-
-  <key>UNREPLIED_INDICATORS</key>
-
-  <string>Usvarte Indikatorer</string>
-
-  <key>CONVO_LIST_SETTINGS</key>
-
-  <string>Instillinger For Samtaleliste</string>
-
-  <key>DARK_MODE</key>
-
-  <string>Mørk Modus</string>
-
-  <key>SCHEDULED</key>
-
-  <string>Tidsplan</string>
-
-  <key>FROM</key>
-
-  <string>Fra</string>
-
-  <key>TO</key>
-
-  <string>Til</string>
-
-  <key>LIGHT</key>
-
-  <string>Lyst</string>
-
-  <key>DARK</key>
-
-  <string>Mørkt</string>
-
-  <key>CUSTOM</key>
-
-  <string>Custom</string>
-
-  <key>DM_SCHEDULE_TITLE</key>
-
-  <string>Mørk Modus Tidspunkt</string>
-
-  <key>BACKGROUND_COLOUR</key>
-
-  <string>Bakgrunds Farge</string>
-
-  <key>PRIMARY_COLOUR</key>
-
-  <string>Primer Farge</string>
-
-  <key>SECONDARY_COLOUR</key>
-
-  <string>Sekunder Farge</string>
-
-
-
-
-  <!-- CONVO LIST PREFS -->
-
-  <key>SHOW_CONTACT_PICS</key>
-
-  <string>Vis Kontakt Bilder</string>
-
-  <key>CONTACT_PIC_DIAMETER</key>
-
-  <string>Diameter På Kontakt Bilde</string>
-
-  <key>HIDE_DATES</key>
-
-  <string>Gjøm Datoer</string>
-
-  <key>HIDE_PREVIEWS</key>
-
-  <string>Gjøm Forhåndsvisning Av Meldinger</string>
-
-  <key>HIDE_SEARCH</key>
-
-  <string>Gjøm Søkefeltet</string>
-
-  <key>HIDE_SEPARATORS</key>
-
-  <string>Gjøm Separatorer</string>
-
-  <key>CL_DEFAULT_DI</key>
-
-  <string>Standard diameter Er 45.</string>
-
-  <key>INDICATOR_INFO_TEXT</key>
-
-  <string>Viser en indikator for samtaler hvor du har lest den siste meldingen, men ikke svart på den.</string>
-
-  <key>SWITCHER_INFO_TEXT</key>
-
-  <string>Viser en verktøylinje i samtalevisning med opp og ned-pilene for å veksle mellom samtaler.</string>
-
-  <key>PLACEHOLDER_INFO_TEXT</key>
-
-  <string>Endrer teksten i meldingsboksen for å si 'melding til * ", med den * representerer kontakten du tekster.</string>
-
-  <key>BIG_BUBBLES</key>
-
-  <string>Store Bobbler</string>
-
-  <key>BIG_BUBBLES_INFO_TEXT</key>
-
-  <string>Øker størrelsen på boblene på bildeforhåndsvisningen for å ligne de i iOS8 - takket være @sticktron.</string>
-
-
-
-
-  <!-- ALERTS -->
-
-  <key>THEME_NAME_ALERT_TEXT</key>
-
-  <string>Skriv inn det nye navnet på temaet.</string>
-
-  <key>ERROR</key>
-
-  <string>Error</string>
-
-  <key>ENTER</key>
-
-  <string>Enter</string>
-
-  <key>CANCEL</key>
-
-  <string>Avbryt</string>
-
-  <key>OK</key>
-
-  <string>OK</string>
-
-  <key>YES</key>
-
-  <string>Ja</string>
-
-  <key>NO</key>
-
-  <string>Nei</string>
-
-  <key>THEME_NAME_ERROR_TEXT</key>
-
-  <string>Et tema med dette navnet finnes allerede.</string>
-
-  <key>TWEET_ERROR_MESSAGE</key>
-
-  <string>Kan ikke tweete på dette tidspunktet.</string>
-
-  <key>MAIL_ERROR_MESSAGE</key>
-
-  <string>Kan ikke sende mail på dette tidspunktet.</string>
-
-  <key>ENTER_THEME_NAME_TEXT</key>
-
-  <string>Skriv inn det nye navne på temaet.</string>
-
-  <key>THEME_EDIT_ALERT_TITLE</key>
-
-  <string>Velg et tema for å rediger.</string>
-
-  <key>SLIDER_ERROR_TEXT</key>
-
-  <string>Vær sikker på at verdien er i mellom minimum og maximum verdi.</string>
-
-  <key>SLIDER_ENTRY_TEXT</key>
-
-  <string>Skriv en verdi mellom</string>
-
-  <key>AND</key>
-
-  <string>og</string>
-
-
-
-
-  <!-- COLOUR PICKER -->
-
-  <key>HEX_VALUE</key>
-
-  <string>Hex Verdi</string>
-
-  <key>HEX_VALUE_TEXT</key>
-
-  <string>Skriv inn en custom hex fargekode</string>
-
-  <key>HEX_ERROR</key>
-
-  <string>Ugyldig Hex Kode</string>
-
-  <key>HEX_ERROR_TEXT</key>
-
-  <string>Skriv inn en gyldig hex fargekode. F.eks. #2F3E12</string>
-
-
-
-
-  <!-- TITLES -->
-
-  <key>EDITING</key>
-
-  <string>Rediger</string>
-
-  <key>CHAT_VIEW</key>
-
-  <string>Se Chatten</string>
-
-  <key>CONVO_LIST</key>
-
-  <string>Liste Samtaler</string>
-
-  <key>BACKGROUND</key>
-
-  <string>Bacgrund</string>
-
-  <key>IM_BUBBLES</key>
-
-  <string>IM Bobbler</string>
-
-  <key>SMS_BUBBLES</key>
-
-  <string>SMS Bobbler</string>
-
-  <key>OTHER_BUBBLES</key>
-
-  <string>Andre Bobbler</string>
-
-  <key>OTHER_SETTINGS</key>
-
-  <string>Andre Instillinger</string>
-
-
-
-
-
-
-
-
-
-
-  <key>TWEET</key>
-
-  <string>Jeg bruker Messages Customiser Pro (av @friggog)for å gjøre at meldinger appen ser utrolig ut</string>
-
-
-
-
-  <key>PLACEHOLDER_TO</key>  <!-- the is the 'to' used when name as placeholder is enabled i.e. 'iMessage to Name' -->
-
-  <string>til</string>
-
-
-
-
+	<key>AND</key>
+	<string>og</string>
+	<key>APP_TINT</key>
+	<string>App Nyanse</string>
+	<key>BACKGROUND</key>
+	<string>Bacgrund</string>
+	<key>BACKGROUND_COLOUR</key>
+	<string>Bakgrunds Farge</string>
+	<key>BACKGROUND_TYPE</key>
+	<string>Bakgrunds Type</string>
+	<key>BETA</key>
+	<string>Beta</string>
+	<key>BIG_BUBBLES</key>
+	<string>Store Bobbler</string>
+	<key>BIG_BUBBLES_INFO_TEXT</key>
+	<string>Øker størrelsen på boblene på bildeforhåndsvisningen for å ligne de i iOS8 - takket være @sticktron.</string>
+	<key>BLUR_RADIUS</key>
+	<string>Blur Radius</string>
+	<key>BOTTOM_COLOUR</key>
+	<string>Bunn Farge</string>
+	<key>BUBBLE_COLOUR</key>
+	<string>Bobble Farge</string>
+	<key>BUBBLE_COLOURS</key>
+	<string>Bobble Farge</string>
+	<key>BUBBLE_OUTLINE_ONLY</key>
+	<string>Bare Bobble Omriss</string>
+	<key>BUBBLE_TAILS</key>
+	<string>Bobble Haler</string>
+	<key>BUBBLE_WIDTH</key>
+	<string>Bobble bredde</string>
+	<key>CANCEL</key>
+	<string>Avbryt</string>
+	<key>CHAT_VIEW</key>
+	<string>Se Chatten</string>
+	<key>CHAT_VIEW_SETTINGS</key>
+	<string>Se Chat Instillinger</string>
+	<key>CHOOSE_IMAGE</key>
+	<string>Velg Bilde</string>
+	<key>CL_DEFAULT_DI</key>
+	<string>Standard diameter Er 45.</string>
+	<key>CONTACT_BUBBLES</key>
+	<string>kontakt Bobbler</string>
+	<key>CONTACT_PIC_DIAMETER</key>
+	<string>Diameter På Kontakt Bilde</string>
+	<key>CONTACT_SPECIFIC_COLOURS</key>
+	<string>Bestemt Kontakt Farge</string>
+	<key>CONVO_LIST</key>
+	<string>Liste Samtaler</string>
+	<key>CONVO_LIST_SETTINGS</key>
+	<string>Instillinger For Samtaleliste</string>
+	<key>CONVO_SPECIFIC_THEMES</key>
+	<string>Bestemt Samtale Tema</string>
+	<key>CPIC_DIAMETER</key>
+	<string>Diameter På Kontaktbilde</string>
+	<key>CUSTOM</key>
+	<string>Custom</string>
+	<key>CV_DEFAULT_DI</key>
+	<string>Standar diameter er 27.</string>
+	<key>DARK</key>
+	<string>Mørkt</string>
+	<key>DARK_MODE</key>
+	<string>Mørk Modus</string>
+	<key>DEFAULT</key>
+	<string>Standard</string>
+	<key>DEFAULT_BUBBLE_WIDTH</key>
+	<string>Standard bredde er 231.</string>
+	<key>DM_SCHEDULE_TITLE</key>
+	<string>Mørk Modus Tidspunkt</string>
+	<key>EDITING</key>
+	<string>Rediger</string>
+	<key>EDIT_THEME</key>
+	<string>Rediger Tema</string>
+	<key>EMAIL</key>
+	<string>Email</string>
+	<key>ENABLED</key>
+	<string>Aktivert</string>
+	<key>ENTER</key>
+	<string>Enter</string>
+	<key>ENTER_THEME_NAME_TEXT</key>
+	<string>Skriv inn det nye navne på temaet.</string>
+	<key>ERASE_CONTACTS_INFO</key>
+	<string>Slett All Informasjon Om Kontaktene</string>
+	<key>ERASE_CONTACTS_INFO_ALERT_MESSAGE</key>
+	<string>Er du sikker at du vil slette informasjon for alle kontaktene?</string>
+	<key>ERASE_CONTACT_INFO</key>
+	<string>Slett Info Om Denne Kontakten</string>
+	<key>ERASE_CONTACT_INFO_ALERT_MESSAGE</key>
+	<string>Er du sikker at du vil slette informasjon for denne kontakten?</string>
+	<key>ERASE_CONVOS_INFO</key>
+	<string>Slett Info For Alle Samtaler</string>
+	<key>ERASE_CONVOS_INFO_ALERT_MESSAGE</key>
+	<string>Er du sikker at du vil slette informasjon for alle samtalene?</string>
+	<key>ERASE_CONVO_INFO</key>
+	<string>Slett Informasjon Om Denne Samtalen</string>
+	<key>ERASE_CONVO_INFO_ALERT_MESSAGE</key>
+	<string>Er du sikker at du vil slette informasjon om denne samtalen?</string>
+	<key>ERROR</key>
+	<string>Error</string>
+	<key>FLAT_BUBBLE_EDGES</key>
+	<string>Flate Bobble Kanter</string>
+	<key>FLAT_COLOUR</key>
+	<string>Flat Farge</string>
+	<key>FROM</key>
+	<string>Fra</string>
+	<key>GRADIENT</key>
+	<string>Gradient</string>
+	<key>GROUP</key>
+	<string>Gruppe</string>
+	<key>GROUP_CONTACT_PICS</key>
+	<string>Vis Andre Sine Bilder (gruppe)</string>
+	<key>HEX_ERROR</key>
+	<string>Ugyldig Hex Kode</string>
+	<key>HEX_ERROR_TEXT</key>
+	<string>Skriv inn en gyldig hex fargekode. F.eks. #2F3E12</string>
+	<key>HEX_VALUE</key>
+	<string>Hex Verdi</string>
+	<key>HEX_VALUE_TEXT</key>
+	<string>Skriv inn en custom hex fargekode</string>
+	<key>HIDE_ALL</key>
+	<string>Gjøm Alle</string>
+	<key>HIDE_DATES</key>
+	<string>Gjøm Datoer</string>
+	<key>HIDE_PREVIEWS</key>
+	<string>Gjøm Forhåndsvisning Av Meldinger</string>
+	<key>HIDE_SEARCH</key>
+	<string>Gjøm Søkefeltet</string>
+	<key>HIDE_SEPARATORS</key>
+	<string>Gjøm Separatorer</string>
+	<key>IMAGE</key>
+	<string>Bilde</string>
+	<key>IMESSAGE</key>
+	<string>iMessage</string>
+	<key>IM_BUBBLES</key>
+	<string>IM Bobbler</string>
+	<key>INDICATOR_INFO_TEXT</key>
+	<string>Viser en indikator for samtaler hvor du har lest den siste meldingen, men ikke svart på den.</string>
+	<key>INFO</key>
+	<string>Info</string>
+	<key>INFO_TEXT</key>
+	<string>Info Tekst</string>
+	<key>LIGHT</key>
+	<string>Lyst</string>
+	<key>MAIL_ERROR_MESSAGE</key>
+	<string>Kan ikke sende mail på dette tidspunktet.</string>
+	<key>MY_CONTACT_PICS</key>
+	<string>Vis Mine Bilder</string>
+	<key>NAME_AS_PLACEHOLDER</key>
+	<string>Eksempel Navn</string>
+	<key>NEW_THEME</key>
+	<string>Ny Tema</string>
+	<key>NO</key>
+	<string>Nei</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>OTHER_BUBBLES</key>
+	<string>Andre Bobbler</string>
+	<key>OTHER_COLOURS</key>
+	<string>Annen Farge</string>
+	<key>OTHER_OPTIONS</key>
+	<string>Andre Instillinger</string>
+	<key>OTHER_PERSON</key>
+	<string>Annen Person</string>
+	<key>OTHER_SETTINGS</key>
+	<string>Andre Instillinger</string>
+	<key>OVERLAY_COLOUR</key>
+	<string>Overleggs Farge</string>
+	<key>PLACEHOLDER_INFO_TEXT</key>
+	<string>Endrer teksten i meldingsboksen for å si 'melding til * ", med den * representerer kontakten du tekster.</string>
+	<key>PLACEHOLDER_TO</key>
+	<string>til</string>
+	<key>PRIMARY_COLOUR</key>
+	<string>Primer Farge</string>
+	<key>PRIMARY_THEME</key>
+	<string>Primer Tema</string>
+	<key>QUICK_SWITCHER</key>
+	<string>Rask Switcher</string>
+	<key>SCHEDULED</key>
+	<string>Tidsplan</string>
+	<key>SECONDARY_COLOUR</key>
+	<string>Sekunder Farge</string>
+	<key>SETTING_BACKGROUND</key>
+	<string>Bakgrunds Instilling</string>
+	<key>SHOW_ALL</key>
+	<string>Vis alle</string>
+	<key>SHOW_CONTACT_PICS</key>
+	<string>Vis Kontakt Bilder</string>
+	<key>SINGLE_CONTACT_PICS</key>
+	<string>Vis Andre Sine Bilder (enkelt)</string>
+	<key>SLIDER_ENTRY_TEXT</key>
+	<string>Skriv en verdi mellom</string>
+	<key>SLIDER_ERROR_TEXT</key>
+	<string>Vær sikker på at verdien er i mellom minimum og maximum verdi.</string>
+	<key>SMS</key>
+	<string>SMS</string>
+	<key>SMS_BUBBLES</key>
+	<string>SMS Bobbler</string>
+	<key>SUPPORT</key>
+	<string>Support</string>
+	<key>SWITCHER_INFO_TEXT</key>
+	<string>Viser en verktøylinje i samtalevisning med opp og ned-pilene for å veksle mellom samtaler.</string>
+	<key>TEXT_COLOUR</key>
+	<string>Tekst Farge</string>
+	<key>THEME_EDIT_ALERT_TITLE</key>
+	<string>Velg et tema for å rediger.</string>
+	<key>THEME_NAME</key>
+	<string>Tema Navn</string>
+	<key>THEME_NAME_ALERT_TEXT</key>
+	<string>Skriv inn det nye navnet på temaet.</string>
+	<key>THEME_NAME_ERROR_TEXT</key>
+	<string>Et tema med dette navnet finnes allerede.</string>
+	<key>TO</key>
+	<string>Til</string>
+	<key>TOP_COLOUR</key>
+	<string>Topp Farge</string>
+	<key>TWEET</key>
+	<string>Jeg bruker Messages Customiser Pro (av @friggog)for å gjøre at meldinger appen ser utrolig ut</string>
+	<key>TWEET_ERROR_MESSAGE</key>
+	<string>Kan ikke tweete på dette tidspunktet.</string>
+	<key>TWITTER</key>
+	<string>Twitter</string>
+	<key>UNREPLIED_INDICATORS</key>
+	<string>Usvarte Indikatorer</string>
+	<key>WALLPAPER</key>
+	<string>Wallpaper</string>
+	<key>YES</key>
+	<string>Ja</string>
 </dict>
-
 </plist>
