@@ -48,13 +48,15 @@
 "hc_GESTURE_TOLERANCE_FOOTER" = "This determines how far in from the corners you can swipe to activate the hot corners functionality.";
 
 /* other prefs page */
-"op_SWIPE_UP_FOOTER" = "This is the action which happens when you swipe up on the home screen app card, as if to dismiss it.";
-"op_SWIPE_UP" = "HS Swipe Up Action";
+"op_HOME_APP_CARD" = "Home Screen App Card";
+"op_SWIPE_UP_FOOTER" = "This is the action which happens when you swipe up on the home screen app card in the switcher, as if to dismiss it.";
+"op_SWIPE_UP" = "Swipe Up Action";
 "op_QUIT_ALL_APPS" = "Quit All Apps";
 "op_SHOW_ACTION_MENU" = "Show Action Menu";
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Lock";
 "op_SHUT_DOWN" = "Shut Down";
+"op_NONE" = "Nothing";
 "op_APP_WHITELIST" = "App Whitelist";
 "op_CLOSE_NOW_PLAYING" = "Close Now Playing App";
 "op_DISMISS_AFTER" = "Dismiss Switcher After";
