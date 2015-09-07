@@ -2,10 +2,10 @@
 "tw_HOME" = "主畫面";
 "tw_ACTION_MENU" = "動作選單";
 "tw_SHUT_DOWN" = "關機";
-"tw_REBOOT" = "重新開機";
+"tw_REBOOT" = "重開機";
 "tw_SAFE_MODE" = "安全模式";
-"tw_RESPRING" = "重新啟動主畫面";
-"tw_QUIT_ALL" = "關閉所有應用程式";
+"tw_RESPRING" = "重啟主畫面";
+"tw_QUIT_ALL" = "退出全部應用";
 "tw_CANCEL" = "取消";
 
 /* prefs */
@@ -28,21 +28,21 @@
 "mc_ICON_STYLE_OVERLAPPED" = "重疊";
 "mc_ICON_STYLE_HIDDEN" = "隱藏";ˋ
 "mc_GESTURE_ANIMATIONS_FOOTER" = "若啟用動畫效果，App 切換器的開啟與關閉將順著手勢而受控制（如同內建的通知中心/控制中心）。\n將強制啟用「開啟至目前的應用程式」。";
-"mc_OPEN_TO_CURRENT" = "開啟至目前的應用程式";
+"mc_OPEN_TO_CURRENT" = "打開當前應用";
 "mc_OPEN_TO_CURRENT_FOOTER" = "啟用時 App 切換器會開啟至目前的應用程式，而不是上一個開啟的應用程式。";
 "mc_INCLUDED_SECTIONS" = "包含";
 "mc_EXCLUDED_SECTIONS" = "不包含";
 
 /* hot corners page */
 "hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動以執行以上的動作。";
-"hc_LEFT_ACTION" = "左下角的動作";
-"hc_RIGHT_ACTION" = "右下角的動作";
-"hc_GO_TO_HOME_SCREEN" = "回到主畫面";
-"hc_QUICK_SWITCHER" = "應用程式快速切換";
+"hc_LEFT_ACTION" = "左側操作";
+"hc_RIGHT_ACTION" = "右側操作";
+"hc_GO_TO_HOME_SCREEN" = "回主畫面";
+"hc_QUICK_SWITCHER" = "快速切換";
 "hc_NONE" = "無";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "如果啟用「鎖定主畫面」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n如果啟用「使用簡化回到主畫面動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
 "hc_LOCK_FROM_HOME" = "鎖定主畫面";
-"hc_SIMPLE_HOME" = "使用簡化動畫回到主畫面";
+"hc_SIMPLE_HOME" = "簡單主頁動畫";
 "hc_GESTURE_TOLERANCE" = "手勢容許範圍";
 "hc_GESTURE_TOLERANCE_FOOTER" = "決定從距離角落多少距離內可以向上滑動觸發熱點功能。";
 
@@ -62,7 +62,7 @@
 "op_HIDE_BG" = "隱藏背景的模糊化效果";
 "op_BEHAVIOUR" = "行為";
 "op_BEHAVIOUR_FOOTER" = "如果將應用程式列入 seng 的黑名單，則熱點不會於該程式中作用。seng 的多工程式控制中心仍然有作用（如果有啟用），但是如果在全螢幕時，多工程式控制中心開啟前會先顯示小型拉紐（如同預設的控制中心）。";
-"op_BLACKLIST" = "不使用熱點的應用程式黑名單";
+"op_BLACKLIST" = "黑名單";
 
 /* people view page */
 "pv_INFO" = "資訊";
@@ -105,9 +105,9 @@
 "al_POINT" = "強調";
 "al_ERROR" = "錯誤";
 "al_VALID_VALE" = "請確認您輸入的是有效值。";
-"al_OL" = "好";
+"al_OK" = "好";
 "al_TWEET_ERROR" = "目前無法發表推特。";
 "al_EMAIL_ERROR" = "看起來您無法寄送郵件。";
 
 /* twitter */
-"TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+"TWITTER_MESSAGE" = "我正使用 seng (開發者 @friggog) 切換App應用風格!";

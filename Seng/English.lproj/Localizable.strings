@@ -108,7 +108,7 @@
 "al_POINT" = "Point";
 "al_ERROR" = "Error";
 "al_VALID_VALE" = "Please ensure that you enter a valid value.";
-"al_OL" = "OK";
+"al_OK" = "OK";
 "al_TWEET_ERROR" = "Unable to tweet at this time.";
 "al_EMAIL_ERROR" = "You seem to be unable to send emails.";
 

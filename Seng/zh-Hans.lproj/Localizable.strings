@@ -14,7 +14,7 @@
 "al_ENTER_VALUE" = "请输入%.01f与%.01f之间的数值。";
 "al_ERROR" = "错误";
 "al_NEGATE" = "无效";
-"al_OL" = "好的";
+"al_OK" = "好的";
 "al_POINT" = "点";
 "al_TWEET_ERROR" = "目前无法发送推特。";
 "al_VALID_VALE" = "请确认你输入了一个有效值。";

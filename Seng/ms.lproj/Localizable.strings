@@ -1,0 +1,114 @@
+/* in tweak labels */
+"tw_HOME" = "Rumah";
+"tw_ACTION_MENU" = "Menu Aksi";
+"tw_SHUT_DOWN" = "Tutup";
+"tw_REBOOT" = "Reboot";
+"tw_SAFE_MODE" = "Mod Selamat";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Tutup Semua App";
+"tw_CANCEL" = "Batal";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Pusat Pelbagai";
+"HOT_CORNERS" = "Bucu Panas";
+"OTHER" = "Pilihan Lain";
+"SUPPORT" = "Bantuan";
+
+/* multi centre page */
+"mc_ENABLED" = "Membolehkan";
+"mc_CONTROL_SECTIONS_TITLE" = "Bahagian Kawalan";
+"mc_TOP" = "Atas";
+"mc_BOTTOM" = "Bawah";
+"mc_CONTROL_SECTIONS_FOOTER" = "Bahagian kawalan juga terdapat pada pandangan atas dan bawah pusat pelbagai seng.";
+"mc_ICON_STYLE_TITLE" = "Stail Icon";
+"mc_ICON_STYLE_FOOTER" = "Stail Icon yang ditunjuk di app switcher.";
+"mc_ICON_STYLE_STANDARD" = "Biasa";
+"mc_ICON_STYLE_OVERLAPPED" = "Bertindih";
+"mc_ICON_STYLE_HIDDEN" = "Sorok";
+"mc_GESTURE_ANIMATIONS" = "Gerakan Animasi";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Jika dibolehkan, animasi apabila mengaktifkan dan menyahaktifkan app switcher akan dikawal gerakan (seperti biasa Control/Notification Centres).\nPaksa buka ke App Terkini bila dibolehkan.";
+"mc_OPEN_TO_CURRENT" = "Buka ke App Terkini";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Jika dibolehkan, app switcher akan buka ke app yang terkini, daripada app sebelumnya.";
+"mc_INCLUDED_SECTIONS" = "Termasuk";
+"mc_EXCLUDED_SECTIONS" = "Tidak Termasuk";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Tarik dari bucu skrin bawah akan mengaktifkan aksi diatas.";
+"hc_LEFT_ACTION" = "Aksi Kiri";
+"hc_RIGHT_ACTION" = "Aksi Kanan";
+"hc_GO_TO_HOME_SCREEN" = "Pergi ke Skrin Rumah";
+"hc_QUICK_SWITCHER" = "Switcher Pantas";
+"hc_NONE" = "Tiada";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem.";
+"hc_LOCK_FROM_HOME" = "Kunci Dari Rumah";
+"hc_SIMPLE_HOME" = "Animasi Rumah Mudah";
+"hc_GESTURE_TOLERANCE" = "Pergerakan Toleransi";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Ini memastikan berapa jauh dari bucu yang kamu boleh sapu untuk mengaktifkan fungsi bucu panas.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Ini adalah aksi yang berlaku apabila kamu sapu atas pada kad app skrin rumah, sebagaimana mahu menutupnya.";
+"op_SWIPE_UP" = "Aksi Sapu ke Atas SR";
+"op_QUIT_ALL_APPS" = "Tutup Semua App";
+"op_SHOW_ACTION_MENU" = "Tunjuk Menu Aksi";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Kunci";
+"op_SHUT_DOWN" = "Tutup";
+"op_APP_WHITELIST" = "Senarai Putih App";
+"op_CLOSE_NOW_PLAYING" = "Tutup App yang tengah main";
+"op_DISMISS_AFTER" = "Tutup Switcher Selepas";
+"op_APPEARANCE" = "Rupa";
+"op_REMOVE_DARK_EFFECT" =  "Buang Efek Seksyen Gelap";
+"op_HIDE_BG" = "Sembunyi Kabur Belakang";
+"op_BEHAVIOUR" = "Perangai";
+"op_BEHAVIOUR_FOOTER" = "Jika app disenarai hitam oleh seng, bucu panas tidak akan berfungsi. Pusat pelbagai seng akan masih berfungsi (jika dibolehkan) tapi jika dalam skrin penuh, satu tab akan ditunjuk sebelum membuka (sebagaimana dengan control centre asal).";
+"op_BLACKLIST" = "Senarai Hitam";
+
+/* people view page */
+"pv_INFO" = "Maklumat";
+"pv_INFO_FOOTER" = "Untuk memastikan seksyen orang untuk tunjuk dengan betul, kamu mesti membolehkan satu atau kedua-dua pilihan dalam Settings > Mail, Contacts & Calenders > Show In App Switcher.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Tunjuk Bila Main";
+"mv_HIDE_WHEN_PLAYING" = "Sorok Bila Main";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Sorok Jika Tiada";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Melintang";
+"sv_VERTICAL" = "Menegak";
+"sv_RESETS_TO_FIRST" = "Menetapkan Semula ke Muka Pertama";
+"sv_RESET_TO_FIRST_FOOTER" = "'Menetapkan Semula ke Muka Pertama' akan menetapkan paparan tatal ke muka pertama setiap kali kamu membuka app switcher.";
+"sv_INCLUDED_SECTIONS" = "Seksyen yang Termasuk";
+"sv_EXCLUDED_SECTIONS" = "Seksyen yang Tidak Termasuk";
+"sv_SCROLLING_STYLE" = "Gaya Menatal";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Slider Suara";
+"st_BRIGHTNESS" = "Slider Kecerahan";
+"st_SMALL_SCROLL" = "Paparan Tatal Kecil";
+"st_BIG_SCROLL" = "Paparan Tatal Besar";
+"st_DEFAULT_MEDIA" = "Kawalan Media Asal";
+"st_TOGGLES" = "Butang Togol";
+"st_QUICK_LAUNCH" = "Butang Pelancaran Cepat";
+"st_MEDIA_TITLES" = "Paparan Tajuk Media";
+"st_MEDIA_BUTTONS" = "Butang Pengankutan Media";
+"st_PEOPLE" = "Kenalan Kegemaran";
+
+/* alerts */
+"al_ENTER_VALUE" = "Sila masukkan nilai diantara %.01f dan %.01f.";
+"al_ENTER" = "Masuk";
+"al_CANCEL" = "Batal";
+"al_NEGATE" = "Nafi";
+"al_POINT" = "Titik";
+"al_ERROR" = "Ralat";
+"al_VALID_VALE" = "Sila pastikan kamu memasukkan nilai yang betul.";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "Tidak berjaya tweet pada masa ini.";
+"al_EMAIL_ERROR" = "Nampaknya kamu tidak berjaya menghantar email.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "Saya menggunakan seng (oleh @friggog) untuk menukar apps dengan penuh gaya!";
