@@ -1,0 +1,108 @@
+/* main page */
+"HOT_CORNERS" = "动作热区";
+"MULTI_CENTRE" = "多任务中心";
+"OTHER" = "其他设置";
+"SUPPORT" = "支持";
+
+/* twitter */
+"TWITTER_MESSAGE" = "我正在使用seng(由@friggog 开发)来替换多任务中心。";
+
+/* alerts */
+"al_CANCEL" = "取消";
+"al_EMAIL_ERROR" = "似乎遇到了错误，无法发送邮件。";
+"al_ENTER" = "进入";
+"al_ENTER_VALUE" = "请输入%.01f与%.01f之间的数值。";
+"al_ERROR" = "错误";
+"al_NEGATE" = "无效";
+"al_OL" = "好的";
+"al_POINT" = "点";
+"al_TWEET_ERROR" = "目前无法发送推特。";
+"al_VALID_VALE" = "请确认你输入了一个有效值。";
+"as_HIDE_WHEN_UNAVAILABLE" = "在不使用时隐藏";
+
+/* hot corners page */
+"hc_ACTIONS_FOOTER" = "从屏幕角落向上拖拽即可触发以上动作。";
+"hc_GESTURE_TOLERANCE" = "手势容错率";
+"hc_GESTURE_TOLERANCE_FOOTER" = "这决定了从角落划动来引发动作的距离。";
+"hc_GO_TO_HOME_SCREEN" = "返回主屏幕";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "如果打开“于主屏幕锁定”选项，在主屏幕页使用该手势即可锁定机器。\n如果打开“简洁动画”选项，滚动动画将比系统默认的更加简洁。";
+"hc_LEFT_ACTION" = "左角动作区";
+"hc_LOCK_FROM_HOME" = "于主屏幕锁定";
+"hc_NONE" = "无";
+"hc_QUICK_SWITCHER" = "快速切换";
+"hc_RIGHT_ACTION" = "右角动作区";
+"hc_SIMPLE_HOME" = "简洁动画";
+
+/* multi centre page */
+"mc_BOTTOM" = "底部";
+"mc_CONTROL_SECTIONS_FOOTER" = "seng多任务中心将包括顶部和底部的控制模块。";
+"mc_CONTROL_SECTIONS_TITLE" = "控制模块";
+"mc_ENABLED" = "启动";
+"mc_EXCLUDED_SECTIONS" = "不包括";
+"mc_GESTURE_ANIMATIONS" = "手势动画";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "如果打开此选项，开启和解除动画将变成系统手势动画（像控制中心和通知中心）。\n将打开强制启动至当前应用选项。";
+"mc_ICON_STYLE_FOOTER" = "在任务切换界面中图标的位置风格。";
+"mc_ICON_STYLE_HIDDEN" = "隐藏";
+"mc_ICON_STYLE_OVERLAPPED" = "覆盖";
+"mc_ICON_STYLE_STANDARD" = "标准";
+"mc_ICON_STYLE_TITLE" = "图标风格";
+"mc_INCLUDED_SECTIONS" = "包括";
+"mc_OPEN_TO_CURRENT" = "打开当前的应用";
+"mc_OPEN_TO_CURRENT_FOOTER" = "如果打开此选项，多任务切换将打开当前启动的应用，而不是上一个打开的应用。";
+"mc_TOP" = "顶部";
+"mv_HIDE_WHEN_PLAYING" = "播放时隐藏";
+"mv_SHOW_WHEN_PLAYING" = "仅在播放时显示";
+
+/* other prefs page */
+"op_APPEARANCE" = "外观";
+"op_APP_WHITELIST" = "应用白名单";
+"op_BEHAVIOUR" = "动作";
+"op_BEHAVIOUR_FOOTER" = "如果启动黑名单中的应用，seng的动作热区也将失效。但seng的多任务中心还会依旧有效（如果已经启动），在全屏程序中则会事先出现向上拖拽条（与系统默认的控制中心一样）。";
+"op_BLACKLIST" = "黑名单";
+"op_CLOSE_NOW_PLAYING" = "关闭目前正在播放的应用";
+"op_DISMISS_AFTER" = "在启动后隐藏";
+"op_HIDE_BG" = "隐藏模糊背景";
+"op_LOCK" = "锁定";
+"op_QUIT_ALL_APPS" = "退出所有应用";
+"op_REMOVE_DARK_EFFECT" = "隐藏模块深色背景";
+"op_RESPRING" = "注销";
+"op_SHOW_ACTION_MENU" = "显示动作菜单";
+"op_SHUT_DOWN" = "关机";
+"op_SWIPE_UP" = "主屏幕页面上划动作菜单";
+"op_SWIPE_UP_FOOTER" = "这是当你向上划动主屏幕卡片时会执行的动作。";
+
+/* people view page */
+"pv_INFO" = "信息";
+"pv_INFO_FOOTER" = "为了正确显示联系人模块，你必须在“设置&gt;邮件、通讯录、日历&gt;在应用程序切换器中显示”中打开一个或全部开关。";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop与AirPlay";
+"st_BIG_SCROLL" = "大滚动模块";
+"st_BRIGHTNESS" = "亮度调整";
+"st_DEFAULT_MEDIA" = "默认媒体控制";
+"st_MEDIA_BUTTONS" = "媒体收藏按钮";
+"st_MEDIA_TITLES" = "媒体标题显示";
+"st_PEOPLE" = "收藏的联系人";
+"st_QUICK_LAUNCH" = "快速启动按钮";
+"st_SMALL_SCROLL" = "小滚动模块";
+"st_TOGGLES" = "开关按钮";
+"st_VOLUME" = "音量调整";
+
+/* scroll view pages */
+"sv_EXCLUDED_SECTIONS" = "排除板块";
+"sv_HORIZONTAL" = "横向滚动";
+"sv_INCLUDED_SECTIONS" = "包括模块";
+"sv_RESETS_TO_FIRST" = "重置到第一页";
+"sv_RESET_TO_FIRST_FOOTER" = "“重置第一页”将在你每次打开多任务中心时把所有可滑动模块重置到第一页。";
+"sv_SCROLLING_STYLE" = "滚动方式";
+"sv_VERTICAL" = "垂直滚动";
+
+/* in tweak labels */
+"tw_ACTION_MENU" = "动作菜单";
+"tw_CANCEL" = "取消";
+"tw_HOME" = "主屏幕";
+"tw_QUIT_ALL" = "退出所有应用";
+"tw_REBOOT" = "重启";
+"tw_RESPRING" = "注销";
+"tw_SAFE_MODE" = "安全模式";
+"tw_SHUT_DOWN" = "关机";

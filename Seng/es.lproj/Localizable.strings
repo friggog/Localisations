@@ -1,0 +1,114 @@
+/* in tweak labels */
+"tw_HOME" = "Inicio";
+"tw_ACTION_MENU" = "Menú de Acción";
+"tw_SHUT_DOWN" = "Apagar";
+"tw_REBOOT" = "Reiniciar";
+"tw_SAFE_MODE" = "Safe Mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Cerrar todas las aplicaciones";
+"tw_CANCEL" = "Cancelar";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multicentro";
+"HOT_CORNERS" = "Esquinas Calientes";
+"OTHER" = "Otras opciones";
+"SUPPORT" = "Soporte";
+
+/* multi centre page */
+"mc_ENABLED" = "Habilitado";
+"mc_CONTROL_SECTIONS_TITLE" = "Secciones de control";
+"mc_TOP" = "Arriba";
+"mc_BOTTOM" = "Abajo";
+"mc_CONTROL_SECTIONS_FOOTER" = "Las secciones de control incluidas arriba y abajo de la vista Multicentro de seng.";
+"mc_ICON_STYLE_TITLE" = "Estilo del icono";
+"mc_ICON_STYLE_FOOTER" = "Estilo de los iconos presentados en la multitarea.";
+"mc_ICON_STYLE_STANDARD" = "Estándar";
+"mc_ICON_STYLE_OVERLAPPED" = "Superpuesto";
+"mc_ICON_STYLE_HIDDEN" = "Oculto";
+"mc_GESTURE_ANIMATIONS" = "Animación por gestos";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Si está habilitado, cuando se active o desactive la multitarea será controlada por gestos (como el Centro de Control/Centro de notificaciones).\nFuerza la activación de Abrir la app activa.";
+"mc_OPEN_TO_CURRENT" = "Abrir la app activa";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Si está habilitada esta opción la multitarea se abrirá en la aplicación activa, en lugar de la última aplicación abierta.";
+"mc_INCLUDED_SECTIONS" = "Incluido";
+"mc_EXCLUDED_SECTIONS" = "No incluido";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará los acciones de arriba";
+"hc_LEFT_ACTION" = "Acción izquierda";
+"hc_RIGHT_ACTION" = "Acción derecha";
+"hc_GO_TO_HOME_SCREEN" = "Ir a la pantalla de Inicio";
+"hc_QUICK_SWITCHER" = "Selector rápido";
+"hc_NONE" = "Nada";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema.";
+"hc_LOCK_FROM_HOME" = "Bloquear desde Inicio";
+"hc_SIMPLE_HOME" = "Animación de Inicio Simple";
+"hc_GESTURE_TOLERANCE" = "Tolerancia del gesto";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Esto determina desde que extremo de las esquinas puedes activar la funcionalidad de Esquinas Calientes.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.";
+"op_SWIPE_UP" = "Deslizar hacia arriba desde Inicio";
+"op_QUIT_ALL_APPS" = "Cerrar todas las aplicaciones";
+"op_SHOW_ACTION_MENU" = "Mostrar Menú de Acción";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Bloquear";
+"op_SHUT_DOWN" = "Apagar";
+"op_APP_WHITELIST" = "Lista blanca de aplicaciones";
+"op_CLOSE_NOW_PLAYING" = "Cerrar aplicaciones con música activa";
+"op_DISMISS_AFTER" = "Descartar el Selector de multitarea";
+"op_APPEARANCE" = "Apariencia";
+"op_REMOVE_DARK_EFFECT" =  "Eliminar el efecto oscuro de las secciones";
+"op_HIDE_BG" = "Ocultar desenfoque de fondo";
+"op_BEHAVIOUR" = "Comportamiento";
+"op_BEHAVIOUR_FOOTER" = "Si seng tiene una aplicación en la Lista negra entonces las Esquinas Calientes no funcionarán. La opción de Multicentro de seng sí seguirá funcionado (si está habilitado) pero si se está en pantalla completa se mostrará una lengüeta antes (como hace por defecto el Centro de Control).";
+"op_BLACKLIST" = "Lista negra";
+
+/* people view page */
+"pv_INFO" = "Información";
+"pv_INFO_FOOTER" = "Para que la sección de contactos se muestre correctamente debes habilitar una o dos de las opciones en Ajustes > Correo, contactos, calend. > En el selector de aplicación.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Mostrar sólo si está sonando";
+"mv_HIDE_WHEN_PLAYING" = "Oculto cuando está sonando";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Oculto cuando no está disponible";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Horizontal";
+"sv_VERTICAL" = "Vertical";
+"sv_RESETS_TO_FIRST" = "Resetear a la primera página";
+"sv_RESET_TO_FIRST_FOOTER" = "'Resetear a la primera página' ubicará la selección en la primera página cada vez que se abra la multitarea.";
+"sv_INCLUDED_SECTIONS" = "Secciones incluidas";
+"sv_EXCLUDED_SECTIONS" = "Secciones excluidas";
+"sv_SCROLLING_STYLE" = "Estilo del Deslizador";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop y AirPlay";
+"st_VOLUME" = "Control de volumen";
+"st_BRIGHTNESS" = "Control de brillo";
+"st_SMALL_SCROLL" = "Vista del Deslizador pequeño";
+"st_BIG_SCROLL" = "Vista del Deslizador grande";
+"st_DEFAULT_MEDIA" = "Controles de música por defecto";
+"st_TOGGLES" = "Intercambiar botones";
+"st_QUICK_LAUNCH" = "Botones de Inicio Rápido";
+"st_MEDIA_TITLES" = "Vista del título musical";
+"st_MEDIA_BUTTONS" = "Botones de control de música";
+"st_PEOPLE" = "Contactos favoritos";
+
+/* alerts */
+"al_ENTER_VALUE" = "Por favor, introduce un valor entre %.01f y %.01f.";
+"al_ENTER" = "Entrar";
+"al_CANCEL" = "Cancelar";
+"al_NEGATE" = "Negar";
+"al_POINT" = "Punto";
+"al_ERROR" = "Error";
+"al_VALID_VALE" = "Por favor, asegúrate de que el valor introducido es válido.";
+"al_OL" = "OK";
+"al_TWEET_ERROR" = "Imposible twitear en este momento.";
+"al_EMAIL_ERROR" = "Parece que no puedes enviar emails.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "¡Estoy usando seng (por @friggog) para seleccionar mis apps con estilo!";

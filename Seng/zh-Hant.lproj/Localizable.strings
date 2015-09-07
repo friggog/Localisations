@@ -1,0 +1,113 @@
+/* in tweak labels */
+"tw_HOME" = "主畫面";
+"tw_ACTION_MENU" = "動作選單";
+"tw_SHUT_DOWN" = "關機";
+"tw_REBOOT" = "重新開機";
+"tw_SAFE_MODE" = "安全模式";
+"tw_RESPRING" = "重新啟動主畫面";
+"tw_QUIT_ALL" = "關閉所有應用程式";
+"tw_CANCEL" = "取消";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "多工程式控制中心";
+"HOT_CORNERS" = "熱點";
+"OTHER" = "其他選項";
+"SUPPORT" = "支援";
+
+/* multi centre page */
+"mc_ENABLED" = "啟用";
+"mc_CONTROL_SECTIONS_TITLE" = "控制區塊";
+"mc_TOP" = "上方";
+"mc_BOTTOM" = "下方";
+"mc_CONTROL_SECTIONS_FOOTER" = "包含在 seng 多工程式控制中心上方與下方的控制區塊。";
+"mc_ICON_STYLE_TITLE" = "圖示樣式";
+"mc_ICON_STYLE_FOOTER" = "顯示在 App 切換器的圖示樣式。";
+"mc_ICON_STYLE_STANDARD" = "標準";
+"mc_ICON_STYLE_OVERLAPPED" = "重疊";
+"mc_ICON_STYLE_HIDDEN" = "隱藏";ˋ
+"mc_GESTURE_ANIMATIONS_FOOTER" = "若啟用動畫效果，App 切換器的開啟與關閉將順著手勢而受控制（如同內建的通知中心/控制中心）。\n將強制啟用「開啟至目前的應用程式」。";
+"mc_OPEN_TO_CURRENT" = "開啟至目前的應用程式";
+"mc_OPEN_TO_CURRENT_FOOTER" = "啟用時 App 切換器會開啟至目前的應用程式，而不是上一個開啟的應用程式。";
+"mc_INCLUDED_SECTIONS" = "包含";
+"mc_EXCLUDED_SECTIONS" = "不包含";
+
+/* hot corners page */
+"hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動以執行以上的動作。";
+"hc_LEFT_ACTION" = "左下角的動作";
+"hc_RIGHT_ACTION" = "右下角的動作";
+"hc_GO_TO_HOME_SCREEN" = "回到主畫面";
+"hc_QUICK_SWITCHER" = "應用程式快速切換";
+"hc_NONE" = "無";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "如果啟用「鎖定主畫面」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n如果啟用「使用簡化回到主畫面動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
+"hc_LOCK_FROM_HOME" = "鎖定主畫面";
+"hc_SIMPLE_HOME" = "使用簡化動畫回到主畫面";
+"hc_GESTURE_TOLERANCE" = "手勢容許範圍";
+"hc_GESTURE_TOLERANCE_FOOTER" = "決定從距離角落多少距離內可以向上滑動觸發熱點功能。";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "在 App 切換器中，將主畫面向上滑動（如同關閉應用程式的手勢）時要執行的動作。";
+"op_SWIPE_UP" = "主畫面向上滑動的動作";
+"op_QUIT_ALL_APPS" = "關閉所有應用程式";
+"op_SHOW_ACTION_MENU" = "顯示動作選單";
+"op_RESPRING" = "重新啟動主畫面";
+"op_LOCK" = "鎖定裝置";
+"op_SHUT_DOWN" = "關機";
+"op_APP_WHITELIST" = "不受影響的應用程式";
+"op_CLOSE_NOW_PLAYING" = "關閉現正播放的應用程式";
+"op_DISMISS_AFTER" = "執行後離開應用程式切換介面";
+"op_APPEARANCE" = "外觀效果";
+"op_REMOVE_DARK_EFFECT" =  "移除暗色區塊效果";
+"op_HIDE_BG" = "隱藏背景的模糊化效果";
+"op_BEHAVIOUR" = "行為";
+"op_BEHAVIOUR_FOOTER" = "如果將應用程式列入 seng 的黑名單，則熱點不會於該程式中作用。seng 的多工程式控制中心仍然有作用（如果有啟用），但是如果在全螢幕時，多工程式控制中心開啟前會先顯示小型拉紐（如同預設的控制中心）。";
+"op_BLACKLIST" = "不使用熱點的應用程式黑名單";
+
+/* people view page */
+"pv_INFO" = "資訊";
+"pv_INFO_FOOTER" = "為了能正確顯示聯絡資訊的區塊，您必須啟用 設定 > 郵件、聯絡資訊、行事曆 > 顯示於 App 切換器 內的選項（任一或兩者）。";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "只有正在播放時才顯示";
+"mv_HIDE_WHEN_PLAYING" = "正在播放時隱藏";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "無法使用時隱藏";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "水平";
+"sv_VERTICAL" = "垂直";
+"sv_RESETS_TO_FIRST" = "重置回第一頁";
+"sv_RESET_TO_FIRST_FOOTER" = "「重置回第一頁」會在應用程式切換介面每次開啟時將捲視頁面重置回第一頁。";
+"sv_INCLUDED_SECTIONS" = "包含區塊";
+"sv_EXCLUDED_SECTIONS" = "排除區塊";
+"sv_SCROLLING_STYLE" = "捲動方式";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop 與 AirPlay";
+"st_VOLUME" = "音量滑桿";
+"st_BRIGHTNESS" = "亮度滑桿";
+"st_SMALL_SCROLL" = "小型捲動顯示";
+"st_BIG_SCROLL" = "大型捲動顯示";
+"st_DEFAULT_MEDIA" = "預設媒體控制";
+"st_TOGGLES" = "開關按鈕";
+"st_QUICK_LAUNCH" = "快速啟動列按鈕";
+"st_MEDIA_TITLES" = "媒體標題名稱顯示";
+"st_MEDIA_BUTTONS" = "媒體播放控制按鈕";
+"st_PEOPLE" = "常用聯絡資訊";
+
+/* alerts */
+"al_ENTER_VALUE" = "請輸入介於 %.01f 與 %.01f 的值。";
+"al_ENTER" = "輸入";
+"al_CANCEL" = "取消";
+"al_NEGATE" = "否定";
+"al_POINT" = "強調";
+"al_ERROR" = "錯誤";
+"al_VALID_VALE" = "請確認您輸入的是有效值。";
+"al_OL" = "好";
+"al_TWEET_ERROR" = "目前無法發表推特。";
+"al_EMAIL_ERROR" = "看起來您無法寄送郵件。";
+
+/* twitter */
+"TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
