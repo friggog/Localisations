@@ -26,7 +26,7 @@
 "mc_ICON_STYLE_FOOTER" = "顯示在 App 切換器的圖示樣式。";
 "mc_ICON_STYLE_STANDARD" = "標準";
 "mc_ICON_STYLE_OVERLAPPED" = "重疊";
-"mc_ICON_STYLE_HIDDEN" = "隱藏";ˋ
+"mc_ICON_STYLE_HIDDEN" = "隱藏";
 "mc_GESTURE_ANIMATIONS_FOOTER" = "若啟用動畫效果，App 切換器的開啟與關閉將順著手勢而受控制（如同內建的通知中心/控制中心）。\n將強制啟用「開啟至目前的應用程式」。";
 "mc_OPEN_TO_CURRENT" = "打開當前應用";
 "mc_OPEN_TO_CURRENT_FOOTER" = "啟用時 App 切換器會開啟至目前的應用程式，而不是上一個開啟的應用程式。";
@@ -54,6 +54,7 @@
 "op_RESPRING" = "重新啟動主畫面";
 "op_LOCK" = "鎖定裝置";
 "op_SHUT_DOWN" = "關機";
+"op_NONE" = "無";
 "op_APP_WHITELIST" = "不受影響的應用程式";
 "op_CLOSE_NOW_PLAYING" = "關閉現正播放的應用程式";
 "op_DISMISS_AFTER" = "執行後離開應用程式切換介面";

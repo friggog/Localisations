@@ -62,8 +62,10 @@
 "op_CLOSE_NOW_PLAYING" = "关闭目前正在播放的应用";
 "op_DISMISS_AFTER" = "在启动后隐藏";
 "op_HIDE_BG" = "隐藏模糊背景";
+"op_HOME_APP_CARD" = "主屏幕卡片";
 "op_LOCK" = "锁定";
 "op_QUIT_ALL_APPS" = "退出所有应用";
+"op_NONE" = "无";
 "op_REMOVE_DARK_EFFECT" = "隐藏模块深色背景";
 "op_RESPRING" = "注销";
 "op_SHOW_ACTION_MENU" = "显示动作菜单";
