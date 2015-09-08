@@ -1,0 +1,115 @@
+/* in tweak labels */
+"tw_HOME" = "Domů";
+"tw_ACTION_MENU" = "Menu akcí";
+"tw_SHUT_DOWN" = "Vypnout";
+"tw_REBOOT" = "Reboot";
+"tw_SAFE_MODE" = "Safe Mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Vypnout všechny aplikace";
+"tw_CANCEL" = "Zrušit";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multi Centrum";
+"HOT_CORNERS" = "Aktivní rohy";
+"OTHER" = "Ostatní nastavení";
+"SUPPORT" = "Support";
+
+/* multi centre page */
+"mc_ENABLED" = "Zapnout";
+"mc_CONTROL_SECTIONS_TITLE" = "Ovládací sekce";
+"mc_TOP" = "Vršek";
+"mc_BOTTOM" = "Spodek";
+"mc_CONTROL_SECTIONS_FOOTER" = "Ovládací sekce obsažené ve spodním a vrchnim pohledu multi centra.";
+"mc_ICON_STYLE_TITLE" = "Styl ikon";
+"mc_ICON_STYLE_FOOTER" = "Styl ikon v app switcheru";
+"mc_ICON_STYLE_STANDARD" = "Standartní";
+"mc_ICON_STYLE_OVERLAPPED" = "Překrytí";
+"mc_ICON_STYLE_HIDDEN" = "Skryté";
+"mc_GESTURE_ANIMATIONS" = "Animace gest";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Pokud je povoleno, tak animace při aktivaci a deaktivaci app switcheru bude ovládána pomocí gesta (její průběh půjde s prstem). Stejně jako animace control centra.\nVynutí aby Otevřít do aktivní aplikace bylo povoleno.";
+"mc_OPEN_TO_CURRENT" = "Otevřít do aktivní aplikace";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Pokud je toto nastavení povoleno, tak se app swither otevře na pozici právě aktivní aplikace namísto aplikace naposledy otevřené.";
+"mc_INCLUDED_SECTIONS" = "Zahrnuto";
+"mc_EXCLUDED_SECTIONS" = "Není zahrnuto";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Tažení prstem vzhůru ze spodních rohů displeje vyvolá příslušně zvolené akce.";
+"hc_LEFT_ACTION" = "Akce levého rohu";
+"hc_RIGHT_ACTION" = "Akce pravého rohu";
+"hc_GO_TO_HOME_SCREEN" = "Přejít na hlavní stránku";
+"hc_QUICK_SWITCHER" = "Quick Switcher";
+"hc_NONE" = "None";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.\nPokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace.";
+"hc_LOCK_FROM_HOME" = "Zamknout z hlavní stránky";
+"hc_SIMPLE_HOME" = "Jednodužší animace";
+"hc_GESTURE_TOLERANCE" = "Tolerance gest";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavení determinuje jak daleko od rohu bude gesto funkční.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "This is the action which happens when you swipe up on the home screen app card, as if to dismiss it.";
+"op_SWIPE_UP" = "HS Přejetí nahoru";
+"op_QUIT_ALL_APPS" = "Vypnout všechny aplikace";
+"op_SHOW_ACTION_MENU" = "Zobrazit menu akcí";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Zamknout";
+"op_SHUT_DOWN" = "Vypnout";
+"op_NONE" = "None";
+"op_APP_WHITELIST" = "Vyjímky aplikací";
+"op_CLOSE_NOW_PLAYING" = "Zavřít 'Právě hrající' aplikaci";
+"op_DISMISS_AFTER" = "Po provedení zavřít switcher";
+"op_APPEARANCE" = "Zobrazení";
+"op_REMOVE_DARK_EFFECT" =  "Odstranit Tmavý effekt";
+"op_HIDE_BG" = "Skrýt rozmazání pozadí";
+"op_BEHAVIOUR" = "Chování";
+"op_BEHAVIOUR_FOOTER" = "Pokud bude aplikace b blacklistu, aktivní rohy Seng v ní nebudou funkční. Multi centrum bude stále fungovat (pokud je povoleno), ale nejdříve se objeví 'tahátko' jako u Control centra.";
+"op_BLACKLIST" = "Blacklist";
+
+/* people view page */
+"pv_INFO" = "Info";
+"pv_INFO_FOOTER" = "In order for the people section to correctly show up you must enable one or both of the options in Settings > Mail, Contacts & Calenders > Show In App Switcher.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Zobrazit pouze pokud se přehrává";
+"mv_HIDE_WHEN_PLAYING" = "Skrýt pokud se přehrává";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Skrýt pokud není k dispozici";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Horizontálně";
+"sv_VERTICAL" = "Vertikálně";
+"sv_RESETS_TO_FIRST" = "Restartovat na první stránku";
+"sv_RESET_TO_FIRST_FOOTER" = "'Restartovat na první stránku' ukáže první stránku scrollu při znovuzapnutí app switcheru.";
+"sv_INCLUDED_SECTIONS" = "Zahrnuté sekce";
+"sv_EXCLUDED_SECTIONS" = "Nezahrnuté sekce";
+"sv_SCROLLING_STYLE" = "Styl scrollu";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Posuvník Hlasitosti";
+"st_BRIGHTNESS" = "Posuvník Jasu";
+"st_SMALL_SCROLL" = "Malý Scroll View";
+"st_BIG_SCROLL" = "Velký Scroll View";
+"st_DEFAULT_MEDIA" = "Defaultní Ovládání Médií";
+"st_TOGGLES" = "Přepínače funkcí";
+"st_QUICK_LAUNCH" = "Rychlé Spouštění";
+"st_MEDIA_TITLES" = "Titul Média";
+"st_MEDIA_BUTTONS" = "Media - like a share";
+"st_PEOPLE" = "Oblíbené kontakty";
+
+/* alerts */
+"al_ENTER_VALUE" = "Zadejte hodnotu mezi %.01f a %.01f.";
+"al_ENTER" = "Potvrdit";
+"al_CANCEL" = "Zrušit";
+"al_NEGATE" = "Negate";
+"al_POINT" = "Point";
+"al_ERROR" = "Chyba";
+"al_VALID_VALE" = "Prosíme ujistěte se, že zadáváte správnou hodnotu.";
+"al_OL" = "OK";
+"al_TWEET_ERROR" = "V tuto chvíli je nemožné tweetovat";
+"al_EMAIL_ERROR" = "Email nelze v tuto chvíli odeslat.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "Heeej! Používám Seng  (by @friggog) a přepínám appky se stylem!";
