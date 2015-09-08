@@ -48,7 +48,7 @@
 "hc_GESTURE_TOLERANCE_FOOTER" = "Esto determina desde que extremo de las esquinas puedes activar la funcionalidad de Esquinas Calientes.";
 
 /* other prefs page */
-"op_OP_HOME_APP_CARD" = "Ficha de Inicio";
+"op_HOME_APP_CARD" = "Ficha de Inicio";
 "op_SWIPE_UP_FOOTER" = "Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.";
 "op_SWIPE_UP" = "Deslizar hacia arriba desde Inicio";
 "op_QUIT_ALL_APPS" = "Cerrar todas las aplicaciones";
@@ -114,3 +114,7 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "¡Estoy usando seng (por @friggog) para seleccionar mis apps con estilo!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "Aplicaciones del Sistema";
+"el_USER_APPLICATIONS" = "Aplicaciones del Usuario";
