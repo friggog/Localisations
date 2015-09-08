@@ -1,0 +1,115 @@
+/* in tweak labels */
+"tw_HOME" = "Home";
+"tw_ACTION_MENU" = "Action Menu";
+"tw_SHUT_DOWN" = "Spegni";
+"tw_REBOOT" = "Riavvia";
+"tw_SAFE_MODE" = "Safe Mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Chiudi tutte le App";
+"tw_CANCEL" = "Annulla";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multi Centre";
+"HOT_CORNERS" = "Angoli Attivi";
+"OTHER" = "Altre Opzioni";
+"SUPPORT" = "Supporto";
+
+/* multi centre page */
+"mc_ENABLED" = "Attivo";
+"mc_CONTROL_SECTIONS_TITLE" = "Controlli";
+"mc_TOP" = "Alto";
+"mc_BOTTOM" = "Basso";
+"mc_CONTROL_SECTIONS_FOOTER" = "La sezione Controlli è inclusa in alto ed in basso nel multi centre di Seng.";
+"mc_ICON_STYLE_TITLE" = "Stile delle icone";
+"mc_ICON_STYLE_FOOTER" = "Lo stile delle icone presenti nel app switcher.";
+"mc_ICON_STYLE_STANDARD" = "Standard";
+"mc_ICON_STYLE_OVERLAPPED" = "Al di sopra";
+"mc_ICON_STYLE_HIDDEN" = "Nascoste";
+"mc_GESTURE_ANIMATIONS" = "Animazioni gestuali";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Se attivate, le animazioni di apertura e chiusura del app switcher saranno controllate dalle gesture (come le animazioni standard del Control Centre e del Notification Centre.\nVerrà attivata l’opzione di apertura sull’applicazione corrente.";
+"mc_OPEN_TO_CURRENT" = "Apri all'applicazione attuale";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Se attivata, l'app switcher si aprirà all’applicazione corrente, piuttosto che all’ultima applicazione aperta.";
+"mc_INCLUDED_SECTIONS" = "Includi";
+"mc_EXCLUDED_SECTIONS" = "Non includere";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Eseguire uno swipe dagli angoli inferiori dello schermo richiamerà le seguenti azioni.";
+"hc_LEFT_ACTION" = "Azione di sinistra";
+"hc_RIGHT_ACTION" = "Azione di destra";
+"hc_GO_TO_HOME_SCREEN" = "Vai all'Home Screen";
+"hc_QUICK_SWITCHER" = "Quick Switcher";
+"hc_NONE" = "Nulla";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Se ‘Blocca dalla Home’ è attivo, eseguire questa gesture in Home Screen bloccherà il dispositivo.\nSe ‘Animazioni Home Semplici’ è attivo, allora verrà eseguita una più semplice animazione verticale al posto della scalatura di default del sistema.";
+"hc_LOCK_FROM_HOME" = "Blocca dalla Home";
+"hc_SIMPLE_HOME" = "Animazioni Home Semplici";
+"hc_GESTURE_TOLERANCE" = "Tolleranza Gesture";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Questo determina quanto lontano dall’angolo è possibile effettuare lo swipe per attivare la funzionalità angoli attivi.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Questo è quello che accade quando esegui uno swipe verso l'alto sulla Home Screen, come a doverla chiudere.";
+"op_SWIPE_UP" = "HS Swipe Up Action";
+"op_QUIT_ALL_APPS" = "Chiudi tutte le App";
+"op_SHOW_ACTION_MENU" = "Visualizza l'Action Menu";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Blocca";
+"op_SHUT_DOWN" = "Spegni";
+"op_NONE" = "Nulla";
+"op_APP_WHITELIST" = "App Whitelist";
+"op_CLOSE_NOW_PLAYING" = "Chiudi le applicazioni musicali attive";
+"op_DISMISS_AFTER" = "Dismetti lo Switcher";
+"op_APPEARANCE" = "Aspetto";
+"op_REMOVE_DARK_EFFECT" =  "Rimuovi l'effetto scuro dalle sezioni";
+"op_HIDE_BG" = "Nascondi lo sfondo sfocato";
+"op_BEHAVIOUR" = "Comportamento";
+"op_BEHAVIOUR_FOOTER" = "Se Seng è in Blacklist in un applicazione allora gli angoli attivi non funzioneranno. Il multicentre di Seng continuerà a funzionare (se abilitato) ma, se in fullscreen, il tab si presenterà prima dell’apertura (come nel Control Centre di default).";
+"op_BLACKLIST" = "Blacklist";
+
+/* people view page */
+"pv_INFO" = "Info";
+"pv_INFO_FOOTER" = "Per visualizzare correttamente la sezione “Persone” devi abilitare una o entrambe le opzioni in Impostazioni > Posta, contatti, calendari > Mostra nello switcher app.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Mostra solo in riproduzione";
+"mv_HIDE_WHEN_PLAYING" = "Nascondi durante la riproduzione";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Nascondi se non disponibile";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Orizzontale";
+"sv_VERTICAL" = "Verticale";
+"sv_RESETS_TO_FIRST" = "Riporta alla prima pagina";
+"sv_RESET_TO_FIRST_FOOTER" = "'Riporta alla prima pagina' tornerà alla prima pagina tutte le volte che aprirai l'app switcher.";
+"sv_INCLUDED_SECTIONS" = "Sezioni incluse";
+"sv_EXCLUDED_SECTIONS" = "Sezioni Escluse";
+"sv_SCROLLING_STYLE" = "Stile dello scroll";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Slider Volume";
+"st_BRIGHTNESS" = "Slider Luminosità";
+"st_SMALL_SCROLL" = "Scroll View Piccola";
+"st_BIG_SCROLL" = "Scroll View Grande";
+"st_DEFAULT_MEDIA" = "Media Controls di default";
+"st_TOGGLES" = "Interruttori";
+"st_QUICK_LAUNCH" = "Bottoni di Lancio Rapido";
+"st_MEDIA_TITLES" = "Visualizzazione titoli multimedia";
+"st_MEDIA_BUTTONS" = "Bottoni multimedia";
+"st_PEOPLE" = "Contatti Preferiti";
+
+/* alerts */
+"al_ENTER_VALUE" = "Per favore inserisci un valore tra %.01f e %.01f.";
+"al_ENTER" = "Enter";
+"al_CANCEL" = "Annulla";
+"al_NEGATE" = "Nega";
+"al_POINT" = "Punto";
+"al_ERROR" = "Errore";
+"al_VALID_VALE" = "Per favore, assicurati di aver inserito un valore valido.";
+"al_OL" = "Ok";
+"al_TWEET_ERROR" = "Impossibile twittare al momento.";
+"al_EMAIL_ERROR" = "Sembra tu non possa inviare email.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "Sto usando Seng (by @friggog) per switchare tra le App con stile!";
