@@ -55,6 +55,7 @@
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Bloquear";
 "op_SHUT_DOWN" = "Desligar";
+"op_NONE" = "Nenhum";
 "op_APP_WHITELIST" = "Lista Branca de Apps";
 "op_CLOSE_NOW_PLAYING" = "Fechar App Tocando Agora";
 "op_DISMISS_AFTER" = "Dispensar Troca Posterior";

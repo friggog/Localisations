@@ -55,6 +55,7 @@
 "op_RESPRING" = "ריספרינג";
 "op_LOCK" = "נעל";
 "op_SHUT_DOWN" = "כיבוי";
+"op_NONE" = "ללא";
 "op_APP_WHITELIST" = "אפליקציות מותרות";
 "op_CLOSE_NOW_PLAYING" = "סגור אפליקציה שמשמיעה מוזיקה";
 "op_DISMISS_AFTER" = "חזור למסך הבית לאחר מכן";

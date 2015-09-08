@@ -55,6 +55,7 @@
 "op_RESPRING" = "リスプリング";
 "op_LOCK" = "デバイスをロック";
 "op_SHUT_DOWN" = "電源オフ";
+"op_NONE" = "何もしない";
 "op_APP_WHITELIST" = "除外するApp";
 "op_CLOSE_NOW_PLAYING" = "再生中のAppを閉じる";
 "op_DISMISS_AFTER" = "動作後に閉じる";

@@ -55,6 +55,7 @@
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Kunci";
 "op_SHUT_DOWN" = "Tutup";
+"op_NONE" = "Tiada";
 "op_APP_WHITELIST" = "Senarai Putih App";
 "op_CLOSE_NOW_PLAYING" = "Tutup App yang tengah main";
 "op_DISMISS_AFTER" = "Tutup Switcher Selepas";
