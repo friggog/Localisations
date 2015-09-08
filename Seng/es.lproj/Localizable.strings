@@ -1,6 +1,6 @@
 /* in tweak labels */
 "tw_HOME" = "Inicio";
-"tw_ACTION_MENU" = "Menú de Acción";
+"tw_ACTION_MENU" = "Menú de acción";
 "tw_SHUT_DOWN" = "Apagar";
 "tw_REBOOT" = "Reiniciar";
 "tw_SAFE_MODE" = "Safe Mode";
@@ -23,7 +23,7 @@
 "mc_BOTTOM" = "Abajo";
 "mc_CONTROL_SECTIONS_FOOTER" = "Las secciones de control incluidas arriba y abajo de la vista Multicentro de seng.";
 "mc_ICON_STYLE_TITLE" = "Estilo del icono";
-"mc_ICON_STYLE_FOOTER" = "Estilo de los iconos presentados en la multitarea.";
+"mc_ICON_STYLE_FOOTER" = "Estilo de los iconos presentados en el selector.";
 "mc_ICON_STYLE_STANDARD" = "Estándar";
 "mc_ICON_STYLE_OVERLAPPED" = "Superpuesto";
 "mc_ICON_STYLE_HIDDEN" = "Oculto";
@@ -48,18 +48,20 @@
 "hc_GESTURE_TOLERANCE_FOOTER" = "Esto determina desde que extremo de las esquinas puedes activar la funcionalidad de Esquinas Calientes.";
 
 /* other prefs page */
+"op_OP_HOME_APP_CARD" = "Ficha de Inicio";
 "op_SWIPE_UP_FOOTER" = "Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.";
 "op_SWIPE_UP" = "Deslizar hacia arriba desde Inicio";
 "op_QUIT_ALL_APPS" = "Cerrar todas las aplicaciones";
-"op_SHOW_ACTION_MENU" = "Mostrar Menú de Acción";
+"op_SHOW_ACTION_MENU" = "Mostrar Menú de acción";
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Bloquear";
 "op_SHUT_DOWN" = "Apagar";
+"op_NONE" = "Nada";
 "op_APP_WHITELIST" = "Lista blanca de aplicaciones";
 "op_CLOSE_NOW_PLAYING" = "Cerrar aplicaciones con música activa";
-"op_DISMISS_AFTER" = "Descartar el Selector de multitarea";
+"op_DISMISS_AFTER" = "Después descartar selector";
 "op_APPEARANCE" = "Apariencia";
-"op_REMOVE_DARK_EFFECT" =  "Eliminar el efecto oscuro de las secciones";
+"op_REMOVE_DARK_EFFECT" =  "Eliminar oscuridad en secciones";
 "op_HIDE_BG" = "Ocultar desenfoque de fondo";
 "op_BEHAVIOUR" = "Comportamiento";
 "op_BEHAVIOUR_FOOTER" = "Si seng tiene una aplicación en la Lista negra entonces las Esquinas Calientes no funcionarán. La opción de Multicentro de seng sí seguirá funcionado (si está habilitado) pero si se está en pantalla completa se mostrará una lengüeta antes (como hace por defecto el Centro de Control).";
@@ -83,18 +85,18 @@
 "sv_RESET_TO_FIRST_FOOTER" = "'Resetear a la primera página' ubicará la selección en la primera página cada vez que se abra la multitarea.";
 "sv_INCLUDED_SECTIONS" = "Secciones incluidas";
 "sv_EXCLUDED_SECTIONS" = "Secciones excluidas";
-"sv_SCROLLING_STYLE" = "Estilo del Deslizador";
+"sv_SCROLLING_STYLE" = "Estilo del deslizador";
 
 /* section titles */
 "st_AIR_STUFF" = "AirDrop y AirPlay";
 "st_VOLUME" = "Control de volumen";
 "st_BRIGHTNESS" = "Control de brillo";
-"st_SMALL_SCROLL" = "Vista del Deslizador pequeño";
-"st_BIG_SCROLL" = "Vista del Deslizador grande";
+"st_SMALL_SCROLL" = "Vista del deslizador pequeño";
+"st_BIG_SCROLL" = "Vista del deslizador grande";
 "st_DEFAULT_MEDIA" = "Controles de música por defecto";
-"st_TOGGLES" = "Intercambiar botones";
-"st_QUICK_LAUNCH" = "Botones de Inicio Rápido";
-"st_MEDIA_TITLES" = "Vista del título musical";
+"st_TOGGLES" = "Botones de Acceso rápido";
+"st_QUICK_LAUNCH" = "Botones de Inicio rápido";
+"st_MEDIA_TITLES" = "Visualización de título musical";
 "st_MEDIA_BUTTONS" = "Botones de control de música";
 "st_PEOPLE" = "Contactos favoritos";
 
@@ -106,9 +108,9 @@
 "al_POINT" = "Punto";
 "al_ERROR" = "Error";
 "al_VALID_VALE" = "Por favor, asegúrate de que el valor introducido es válido.";
-"al_OK" = "OK";
+"al_OL" = "OK";
 "al_TWEET_ERROR" = "Imposible twitear en este momento.";
-"al_EMAIL_ERROR" = "Parece que no puedes enviar emails.";
+"al_EMAIL_ERROR" = "Parece que no puedes enviar correos electrónicos.";
 
 /* twitter */
 "TWITTER_MESSAGE" = "¡Estoy usando seng (por @friggog) para seleccionar mis apps con estilo!";

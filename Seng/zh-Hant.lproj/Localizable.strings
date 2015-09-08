@@ -12,7 +12,7 @@
 /* \n represents a new line, just leave them alone */
 /* main page */
 "MULTI_CENTRE" = "多工程式控制中心";
-"HOT_CORNERS" = "熱點";
+"HOT_CORNERS" = "邊緣熱角";
 "OTHER" = "其他選項";
 "SUPPORT" = "支援";
 

@@ -114,3 +114,7 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "System Applications";
+"el_USER_APPLICATIONS" = "User Applications";
