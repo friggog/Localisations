@@ -1,0 +1,115 @@
+/* in tweak labels */
+"tw_HOME" = "Főképernyő";
+"tw_ACTION_MENU" = "Feladatok menü";
+"tw_SHUT_DOWN" = "Kikapcsolás";
+"tw_REBOOT" = "Újraindítás";
+"tw_SAFE_MODE" = "Biztonságos mód";
+"tw_RESPRING" = "Springboard újraindítása";
+"tw_QUIT_ALL" = "Összes alkalmazás bezárása";
+"tw_CANCEL" = "Mégsem";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multiközpont";
+"HOT_CORNERS" = "Aktív sarkok";
+"OTHER" = "Egyéb lehetőségek";
+"SUPPORT" = "Támogatás";
+
+/* multi centre page */
+"mc_ENABLED" = "Engedélyezett";
+"mc_CONTROL_SECTIONS_TITLE" = "Szekciók beállítása";
+"mc_TOP" = "Felső";
+"mc_BOTTOM" = "Alsó";
+"mc_CONTROL_SECTIONS_FOOTER" = "Itt állíthatod, hogy a seng felső és alsó nézetében mi jelenjen meg.";
+"mc_ICON_STYLE_TITLE" = "Ikon stílus";
+"mc_ICON_STYLE_FOOTER" = "Az alkalmazásváltóban megjelenő ikonok stílusa.";
+"mc_ICON_STYLE_STANDARD" = "Normál";
+"mc_ICON_STYLE_OVERLAPPED" = "Kártyát fedő";
+"mc_ICON_STYLE_HIDDEN" = "Rejtett";
+"mc_GESTURE_ANIMATIONS" = "Gesztust követő animációk";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Ha engedélyezve van, akkor az animációk az ujjad követve történnek, hasonlóan a Vezérlőközponthoz.\nA Jelenlegli alkalmazásra ugrás opciónak endedélyezve kell lennie.";
+"mc_OPEN_TO_CURRENT" = "Jelenlegli alkalmazásra ugrás";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Ha ez engedélyezve van, az alkalmazásváltó megnyitáskor nem ugrik az előző alkalmazásra, hanem a jelenlegi marad a képernyő közepén.";
+"mc_INCLUDED_SECTIONS" = "Megjelenítve";
+"mc_EXCLUDED_SECTIONS" = "Elrejtve";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "A kijelző alsó sarkaitól felhúzva ezeket érheted el.";
+"hc_LEFT_ACTION" = "Bal oldali lehetőség";
+"hc_RIGHT_ACTION" = "Jobb oldali lehetőség";
+"hc_GO_TO_HOME_SCREEN" = "Vissza a Főképernyőre";
+"hc_QUICK_SWITCHER" = "Gyors alkalmazásváltó";
+"hc_NONE" = "Semmi";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor.";
+"hc_LOCK_FROM_HOME" = "Főképernyőn lezárás";
+"hc_SIMPLE_HOME" = "Egyszerűsített animáció";
+"hc_GESTURE_TOLERANCE" = "Gesztus tolerancia";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Ez az érték adja meg, hogy a sarkoktól milyen messzire tudod aktiválni az adott funkciót.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Ez a lehetőség fog aktiválódni, amikor a Főképernyő kártyáját húzod fel.";
+"op_SWIPE_UP" = "Főképernyő fel gesztus";
+"op_QUIT_ALL_APPS" = "Minden alkalmazás bezárása";
+"op_SHOW_ACTION_MENU" = "Feladatok menü";
+"op_RESPRING" = "Springboard újraindítása";
+"op_LOCK" = "Lezárás";
+"op_SHUT_DOWN" = "Kikapcsolás";
+"op_NONE" = "Semmi";
+"op_APP_WHITELIST" = "Kizárt alkalmazások";
+"op_CLOSE_NOW_PLAYING" = "Jelenleg zenét játszó alkalmazás bezárása";
+"op_DISMISS_AFTER" = "Alkalmazásváltó bezárása utána";
+"op_APPEARANCE" = "Megjelenés";
+"op_REMOVE_DARK_EFFECT" =  "Vezérlőközpont második elemeinek sötétítésének eltörlése";
+"op_HIDE_BG" = "Elmosott háttér elrejtése";
+"op_BEHAVIOUR" = "Működés";
+"op_BEHAVIOUR_FOOTER" = "Ha az alkalmazás ki van zárva, akkor seng aktív sarkai nem fognak működni, de az alkalmazásváltó a Vezérlőközponttól megszokott módon működik majd.";
+"op_BLACKLIST" = "Kizárt alkalmazások";
+
+/* people view page */
+"pv_INFO" = "Információ";
+"pv_INFO_FOOTER" = "Ahhoz, hogy a Kontaktok szekció meg tudjon jelenni, a Beállítások > Mail, Kontaktok, Naptárak > Megjelenítés az alkalmazásváltóban alatt be kell kapcsolni.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Csak média lejátszásakor jelenik meg";
+"mv_HIDE_WHEN_PLAYING" = "Lejátszáskor is rejtett";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Elrejtésre kerül, ha nincs benne semmi";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Vízszintes";
+"sv_VERTICAL" = "Függőleges";
+"sv_RESETS_TO_FIRST" = "Első oldalra visszaáll";
+"sv_RESET_TO_FIRST_FOOTER" = "Az Első oldalra visszaáll opció lehetővé teszi, hogy a szekció újboli megnyitáskor első lapját mutassa.";
+"sv_INCLUDED_SECTIONS" = "Megjelenített lapok";
+"sv_EXCLUDED_SECTIONS" = "Elrejtett lapok";
+"sv_SCROLLING_STYLE" = "Görgetés stílusa";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop és AirPlay";
+"st_VOLUME" = "Hangerőcsúszka";
+"st_BRIGHTNESS" = "Fényerőcsúszka";
+"st_SMALL_SCROLL" = "Kicsi lapozó";
+"st_BIG_SCROLL" = "Nagy lapozó";
+"st_DEFAULT_MEDIA" = "Alapértelmezett média vezérlők";
+"st_TOGGLES" = "Kapcsoló gombok";
+"st_QUICK_LAUNCH" = "Gyorsgombok";
+"st_MEDIA_TITLES" = "Játszott média címe";
+"st_MEDIA_BUTTONS" = "Médiakezelő gombok";
+"st_PEOPLE" = "Kedvenc kontaktok";
+
+/* alerts */
+"al_ENTER_VALUE" = "Kérem egy %.01f és egy %.01f közti számot adjon meg.";
+"al_ENTER" = "Bevitel";
+"al_CANCEL" = "Mégsem";
+"al_NEGATE" = "Ellentét";
+"al_POINT" = "Pont";
+"al_ERROR" = "Hiba";
+"al_VALID_VALE" = "Kérem ellenőrizze még egyszer, hogy jó számot adott-e meg.";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "Nem sikerült a tweetet elküldeni.";
+"al_EMAIL_ERROR" = "Úgy fest nem tudott emailt küldeni.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "A seng tweaket használom, melyet @friggog fejlesztett ki, hogy stílusosan váltsak alkalmazásaim közt!";

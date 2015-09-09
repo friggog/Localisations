@@ -107,7 +107,7 @@
 "al_POINT" = "Point";
 "al_ERROR" = "Chyba";
 "al_VALID_VALE" = "Prosíme ujistěte se, že zadáváte správnou hodnotu.";
-"al_OL" = "OK";
+"al_OK" = "OK";
 "al_TWEET_ERROR" = "V tuto chvíli je nemožné tweetovat";
 "al_EMAIL_ERROR" = "Email nelze v tuto chvíli odeslat.";
 

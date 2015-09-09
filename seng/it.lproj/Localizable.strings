@@ -108,7 +108,7 @@
 "al_POINT" = "Indica";
 "al_ERROR" = "Errore";
 "al_VALID_VALE" = "Per favore assicurati di aver inserito un valore corretto.";
-"al_OL" = "OK";
+"al_OK" = "OK";
 "al_TWEET_ERROR" = "Impossibile twittare in questo momento.";
 "al_EMAIL_ERROR" = "Sembra che tu non possa inviare email.";
 

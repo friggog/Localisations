@@ -108,7 +108,7 @@
 "al_POINT" = "Point";
 "al_ERROR" = "Fejl";
 "al_VALID_VALE" = "Vêr sikker pâ at vêrdien er mellem det tilladte.";
-"al_OL" = "OK";
+"al_OK" = "OK";
 "al_TWEET_ERROR" = "Kan ikke tweete lige nu";
 "al_EMAIL_ERROR" = "Du kan ikke sende emails.";
 
