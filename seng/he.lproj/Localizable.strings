@@ -48,6 +48,7 @@
 "hc_GESTURE_TOLERANCE_FOOTER" = "ערך זה קובע כמה רחוק תוכל לגרור מהפינה של המסך בשביל להפעיל את הפינות החמות.";
 
 /* other prefs page */
+"op_HOME_APP_CARD" = "כרטיס מסך הבית";
 "op_SWIPE_UP_FOOTER" = "הפעולה שתבוצע במקרה שמחליקים את כרטיס מסך הבית למעלה.";
 "op_SWIPE_UP" = "החלקת כרטיס מסך הבית למעלה";
 "op_QUIT_ALL_APPS" = "צא מכל האפליקציות";
@@ -113,3 +114,7 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "אפליקציות מערכת";
+"el_USER_APPLICATIONS" = "אפליקציות משתמש";
