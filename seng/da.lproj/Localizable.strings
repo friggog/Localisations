@@ -48,6 +48,7 @@
 "hc_GESTURE_TOLERANCE_FOOTER" = "Det her bestemmer hvor langt afstanden fra hjørnerne du kan vêre, for at benytte hjørnernes funktionalitet.";
 
 /* other prefs page */
+"op_HOME_APP_CARD" = "HjemmeskÊrm ikon stil";
 "op_SWIPE_UP_FOOTER" = "Det her vil ske hvis du trêkker hjemmeskêrmet op fra multitasking centeret (samme gestus man bruger nâr man skal lukke en app i multitasking centeret).";
 "op_SWIPE_UP" = "Hjemmeskêrms trêk op indstilling";
 "op_QUIT_ALL_APPS" = "Luk alle apps";
@@ -113,4 +114,8 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "System Apps";
+"el_USER_APPLICATIONS" = "Brugerinstalleret Apps";
 
