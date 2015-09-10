@@ -98,6 +98,7 @@
 "st_QUICK_LAUNCH" = "Quick Launch Buttons";
 "st_MEDIA_TITLES" = "Media Titles View";
 "st_MEDIA_BUTTONS" = "Media Transport Buttons";
+"st_MEDIA_SCRUBBER" = "Media Scrubber";
 "st_PEOPLE" = "Favourite Contacts";
 
 /* alerts */
