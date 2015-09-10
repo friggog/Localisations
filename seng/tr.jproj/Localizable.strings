@@ -69,6 +69,7 @@
 "st_DEFAULT_MEDIA" = "Varsayılan Medya Kontrolleri";
 "st_MEDIA_BUTTONS" = "Medya Taşıma Düğmeleri";
 "st_MEDIA_TITLES" = "Medya Başlık Görünümü";
+"st_MEDIA_SCRUBBER" = "Medya Temizleyici";
 "st_PEOPLE" = "Favori Kişiler";
 "st_QUICK_LAUNCH" = "Hızlı Çalıştır Düğmeleri";
 "st_SMALL_SCROLL" = "Küçük Kaydırma Görünümü";
