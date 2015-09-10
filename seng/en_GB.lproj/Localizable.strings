@@ -124,7 +124,8 @@
 "sp_COMPAT_TITLE" = "Compatibility Issues";
 "sp_COMPAT_FOOTER" = "Some tweaks are known to be incompatible with seng, if you are having issues try disabling or removing these first:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Brightness Slider Crash";
-"sp_BRIGHTNESS_FOOTER" = "There are know issues with CCLiveBrightness and SimpleCenters when adjusting the brightness slider in seng. To fix this remove CCLiveBrightness or disable all brightness slider settings in SimpleCenters.";
+"sp_BRIGHTNESS_FOOTER" = "There is a known issue with SimpleCenters when adjusting the brightness slider in seng. To fix this disable all brightness slider options in SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Get In Touch";
 "sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";
 "sp_EMAIL" = "Email";
 
