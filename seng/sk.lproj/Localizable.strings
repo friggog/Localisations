@@ -18,12 +18,12 @@
 
 /* multi centre page */
 "mc_ENABLED" = "Zapnuté";
-"mc_CONTROL_SECTIONS_TITLE" = "Ovládacia sekcia";
-"mc_TOP" = "Vrch";
-"mc_BOTTOM" = "Spodok";
-"mc_CONTROL_SECTIONS_FOOTER" = "Ovládacie sekcie obsiahnuté v spodnej a vrchnej časti multi centra.";
+"mc_CONTROL_SECTIONS_TITLE" = "Ovládacie sekcie";
+"mc_TOP" = "Vrchné";
+"mc_BOTTOM" = "Spodné";
+"mc_CONTROL_SECTIONS_FOOTER" = "Ovládacie sekcie obsiahnuté v spodnej a vrchnej časti Multi Centra.";
 "mc_ICON_STYLE_TITLE" = "Štýl ikon";
-"mc_ICON_STYLE_FOOTER" = "Štýl ikon v prepínači aplikácií";
+"mc_ICON_STYLE_FOOTER" = "Štýl ikon v prepínači aplikácií.";
 "mc_ICON_STYLE_STANDARD" = "Štandardné";
 "mc_ICON_STYLE_OVERLAPPED" = "Prekrývajúce";
 "mc_ICON_STYLE_HIDDEN" = "Skryté";
@@ -51,15 +51,15 @@
 "op_HOME_APP_CARD" = "Karta domovskej obrazovky";
 "op_SWIPE_UP_FOOTER" = "Táto akcia sa vykoná, keď potiahnete kartu 'Domov' v smere zatvárania aplikácií.";
 "op_SWIPE_UP" = "Akcia potiahnutia";
-"op_QUIT_ALL_APPS" = "Vypnúť všetky aplikácie";
+"op_QUIT_ALL_APPS" = "Zatvoriť všetky aplikácie";
 "op_SHOW_ACTION_MENU" = "Zobraziť menu akcií";
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Zamknúť";
 "op_SHUT_DOWN" = "Vypnúť";
 "op_NONE" = "Nič";
 "op_APP_WHITELIST" = "Výnimky aplikácií";
-"op_CLOSE_NOW_PLAYING" = "Zavrieť práve hrajúcu aplikáciu";
-"op_DISMISS_AFTER" = "Po uskutočnení zatvoriť Prepínač aplikácií";
+"op_CLOSE_NOW_PLAYING" = "Zatvoriť práve hrajúcu aplikáciu";
+"op_DISMISS_AFTER" = "Prejsť na plochu";
 "op_APPEARANCE" = "Zobrazenie";
 "op_REMOVE_DARK_EFFECT" =  "Odstrániť 'Tmavý efekt'";
 "op_HIDE_BG" = "Skryť rozmazanie pozadia";
@@ -93,9 +93,9 @@
 "st_BRIGHTNESS" = "Posuvník Jasu";
 "st_SMALL_SCROLL" = "Malá posuvná sekcia";
 "st_BIG_SCROLL" = "Veľká posuvná sekcia";
-"st_DEFAULT_MEDIA" = "Systémové Ovládanie Médií";
+"st_DEFAULT_MEDIA" = "Systémové ovládanie Médií";
 "st_TOGGLES" = "Prepínače funkcií";
-"st_QUICK_LAUNCH" = "Rýchle Spustenie";
+"st_QUICK_LAUNCH" = "Rýchle spustenie";
 "st_MEDIA_TITLES" = "Detaily Médií";
 "st_MEDIA_BUTTONS" = "Ovládacie prvky Médií";
 "st_MEDIA_SCRUBBER" = "Pretáčanie Médií";
@@ -110,8 +110,8 @@
 "al_ERROR" = "Chyba";
 "al_VALID_VALE" = "Prosíme uistite sa, že zadávate správnu hodnotu.";
 "al_OK" = "OK";
-"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovať";
-"al_EMAIL_ERROR" = "Email nie je možné odoslať v tejto chvíli.";
+"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovať.";
+"al_EMAIL_ERROR" = "V tejto chvíli nie je možné odoslať E-mail.";
 
 /* twitter */
 "TWITTER_MESSAGE" = "Heeej! Používam Seng (od @friggog) a prepínam aplikácie so štýlom!";
@@ -122,9 +122,9 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problémy s kompatibilitou";
-"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú nekompatibilné so Seng-om, ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Posuvník Jasu zhavaroval";
 "sp_BRIGHTNESS_FOOTER" = "Známa chyba nastáva pri nastavovaní jasu v Seng-u, ak máte nainštalovaný SimpleCenters. Na opravu tejto chyby vypnite všetky nastavenia 'Posuvníka Jasu' v SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Skontaktovať";
-"sp_INFO" = "Ak máte nejaké ďaľšíe problémy, žiadosti, chcete pomôcť s prekladom alebo ste vývojár a chcete pridať kompatibilitu so svojim doplnkom, neváhajte ma kontaktovať na e-mail.";
+"sp_INFO" = "Ak máte nejaké ďaľšie problémy, žiadosti, chcete pomôcť s prekladom alebo ste vývojár a chcete pridať kompatibilitu so svojím doplnkom, neváhajte ma kontaktovať na e-mail.";
 "sp_EMAIL" = "E-mail";

@@ -2,18 +2,18 @@
 "tw_HOME" = "主畫面";
 "tw_ACTION_MENU" = "動作選單";
 "tw_SHUT_DOWN" = "關機";
-"tw_REBOOT" = "重開機";
+"tw_REBOOT" = "重新啟動";
 "tw_SAFE_MODE" = "安全模式";
-"tw_RESPRING" = "重啟主畫面";
-"tw_QUIT_ALL" = "退出全部應用";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "關閉所有應用程式";
 "tw_CANCEL" = "取消";
 
 /* prefs */
 /* \n represents a new line, just leave them alone */
 /* main page */
-"MULTI_CENTRE" = "多工程式控制中心";
-"HOT_CORNERS" = "邊緣熱角";
-"OTHER" = "其他選項";
+"MULTI_CENTRE" = "多工中心";
+"HOT_CORNERS" = "熱點";
+"OTHER" = "其他";
 "SUPPORT" = "支援";
 
 /* multi centre page */
@@ -21,48 +21,50 @@
 "mc_CONTROL_SECTIONS_TITLE" = "控制區塊";
 "mc_TOP" = "上方";
 "mc_BOTTOM" = "下方";
-"mc_CONTROL_SECTIONS_FOOTER" = "包含在 seng 多工程式控制中心上方與下方的控制區塊。";
+"mc_CONTROL_SECTIONS_FOOTER" = "包含在 seng 多工中心上方與下方的控制區塊。";
 "mc_ICON_STYLE_TITLE" = "圖示樣式";
 "mc_ICON_STYLE_FOOTER" = "顯示在 App 切換器的圖示樣式。";
 "mc_ICON_STYLE_STANDARD" = "標準";
 "mc_ICON_STYLE_OVERLAPPED" = "重疊";
 "mc_ICON_STYLE_HIDDEN" = "隱藏";
+"mc_GESTURE_ANIMATIONS" = "手勢動畫";
 "mc_GESTURE_ANIMATIONS_FOOTER" = "若啟用動畫效果，App 切換器的開啟與關閉將順著手勢而受控制（如同內建的通知中心/控制中心）。\n將強制啟用「開啟至目前的應用程式」。";
-"mc_OPEN_TO_CURRENT" = "打開當前應用";
+"mc_OPEN_TO_CURRENT" = "開啟至目前的應用程式";
 "mc_OPEN_TO_CURRENT_FOOTER" = "啟用時 App 切換器會開啟至目前的應用程式，而不是上一個開啟的應用程式。";
 "mc_INCLUDED_SECTIONS" = "包含";
 "mc_EXCLUDED_SECTIONS" = "不包含";
 
 /* hot corners page */
-"hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動以執行以上的動作。";
-"hc_LEFT_ACTION" = "左側操作";
-"hc_RIGHT_ACTION" = "右側操作";
+"hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動來執行以上動作。";
+"hc_LEFT_ACTION" = "左側角落動作";
+"hc_RIGHT_ACTION" = "右側角落動作";
 "hc_GO_TO_HOME_SCREEN" = "回主畫面";
 "hc_QUICK_SWITCHER" = "快速切換";
-"hc_NONE" = "無";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "如果啟用「鎖定主畫面」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n如果啟用「使用簡化回到主畫面動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
-"hc_LOCK_FROM_HOME" = "鎖定主畫面";
-"hc_SIMPLE_HOME" = "簡單主頁動畫";
+"hc_NONE" = "不做任何動作";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "若啟用「從主畫面鎖定」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n若啟用「簡單動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
+"hc_LOCK_FROM_HOME" = "從主畫面鎖定";
+"hc_SIMPLE_HOME" = "簡單動畫";
 "hc_GESTURE_TOLERANCE" = "手勢容許範圍";
-"hc_GESTURE_TOLERANCE_FOOTER" = "決定從距離角落多少距離內可以向上滑動觸發熱點功能。";
+"hc_GESTURE_TOLERANCE_FOOTER" = "調整離角落多少距離內可觸發熱點功能。";
 
 /* other prefs page */
-"op_SWIPE_UP_FOOTER" = "在 App 切換器中，將主畫面向上滑動（如同關閉應用程式的手勢）時要執行的動作。";
+"op_HOME_APP_CARD" = "主畫面";
+"op_SWIPE_UP_FOOTER" = "在 App 切換器中，將主畫面向上滑動時要執行的動作。";
 "op_SWIPE_UP" = "主畫面向上滑動的動作";
 "op_QUIT_ALL_APPS" = "關閉所有應用程式";
 "op_SHOW_ACTION_MENU" = "顯示動作選單";
-"op_RESPRING" = "重新啟動主畫面";
+"op_RESPRING" = "Respring";
 "op_LOCK" = "鎖定裝置";
 "op_SHUT_DOWN" = "關機";
-"op_NONE" = "無";
-"op_APP_WHITELIST" = "不受影響的應用程式";
+"op_NONE" = "不做任何動作";
+"op_APP_WHITELIST" = "白名單";
 "op_CLOSE_NOW_PLAYING" = "關閉現正播放的應用程式";
-"op_DISMISS_AFTER" = "執行後離開應用程式切換介面";
+"op_DISMISS_AFTER" = "執行後離開多工中心";
 "op_APPEARANCE" = "外觀效果";
 "op_REMOVE_DARK_EFFECT" =  "移除暗色區塊效果";
-"op_HIDE_BG" = "隱藏背景的模糊化效果";
+"op_HIDE_BG" = "隱藏模糊效果";
 "op_BEHAVIOUR" = "行為";
-"op_BEHAVIOUR_FOOTER" = "如果將應用程式列入 seng 的黑名單，則熱點不會於該程式中作用。seng 的多工程式控制中心仍然有作用（如果有啟用），但是如果在全螢幕時，多工程式控制中心開啟前會先顯示小型拉紐（如同預設的控制中心）。";
+"op_BEHAVIOUR_FOOTER" = "若將應用程式列入 seng 的黑名單，則熱點不會在該程式中作用，seng 的多工中心仍然有作用（如有啟用）。若在全螢幕時，多工中心開啟前會先顯示小型拉鈕（如同預設的控制中心）。";
 "op_BLACKLIST" = "黑名單";
 
 /* people view page */
@@ -111,7 +113,17 @@
 "al_EMAIL_ERROR" = "看起來您無法寄送郵件。";
 
 /* twitter */
-"TWITTER_MESSAGE" = "我正使用 seng (開發者 @friggog) 切換App應用風格!";
+"TWITTER_MESSAGE" = "我正使用 seng （開發者 @friggog） 以新潮的方式切換App！";
 
-"el_SYSTEM_APPLICATIONS" = "系统应用程序";
-"el_USER_APPLICATIONS" = "用户应用程序";
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "系統應用程式";
+"el_USER_APPLICATIONS" = "用戶應用程式";
+
+/* support page */
+"sp_COMPAT_TITLE" = "相容性問題";
+"sp_COMPAT_FOOTER" = "目前已知有些外掛程式無法與 seng 相容，若你使用上遇到問題請先試著關閉或移除這些外掛程式：\n CCControls";
+"sp_BRIGHTNESS_TITLE" = "亮度滑桿失效";
+"sp_BRIGHTNESS_FOOTER" = "目前已知 SimpleCenters 會影響 seng 的亮度滑桿功能，請先在 SimpleCenters 中關閉任何亮度滑桿選項來修復此功能";
+"sp_GET_IN_TOUCH" = "取得聯繫";
+"sp_INFO" = "若你有任何問題、請求、願意協助翻譯 seng ，或是想要讓你的外掛相容於 seng 的開發者，歡迎隨時發送 Email 給我";
+"sp_EMAIL" = "Email";
