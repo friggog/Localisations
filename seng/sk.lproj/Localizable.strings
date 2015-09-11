@@ -5,7 +5,7 @@
 "tw_REBOOT" = "Reštartovať";
 "tw_SAFE_MODE" = "Bezpečný mód";
 "tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Vypnúť všetky aplikácie";
+"tw_QUIT_ALL" = "Zatvoriť všetky aplikácie";
 "tw_CANCEL" = "Zrušiť";
 
 /* prefs */
@@ -96,19 +96,19 @@
 "st_TOGGLES" = "Prepínače funkcií";
 "st_QUICK_LAUNCH" = "Rýchle Spustenie";
 "st_MEDIA_TITLES" = "Detaily Média";
-"st_MEDIA_BUTTONS" = "Mediálne - like a zdielať";
+"st_MEDIA_BUTTONS" = "Mediálne - like a zdieľať";
 "st_PEOPLE" = "Obľúbené kontakty";
 
 /* alerts */
-"al_ENTER_VALUE" = "Zadejte hodnotu mezi %.01f a %.01f.";
+"al_ENTER_VALUE" = "Zadajte hodnotu medzi %.01f a %.01f.";
 "al_ENTER" = "Potvrdiť";
 "al_CANCEL" = "Zrušiť";
 "al_NEGATE" = "Zamietnuté";
 "al_POINT" = "Bod";
 "al_ERROR" = "Chyba";
-"al_VALID_VALE" = "Prosíme uistite se, že zadávate správnu hodnotu.";
+"al_VALID_VALE" = "Prosíme uistite sa, že zadávate správnu hodnotu.";
 "al_OK" = "OK";
-"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovat";
+"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovať";
 "al_EMAIL_ERROR" = "Email nie je možné odoslať v tejto chvíli.";
 
 /* twitter */
