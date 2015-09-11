@@ -4,7 +4,7 @@
 "tw_SHUT_DOWN" = "關機";
 "tw_REBOOT" = "重新啟動";
 "tw_SAFE_MODE" = "安全模式";
-"tw_RESPRING" = "Respring";
+"tw_RESPRING" = "重新啟動主畫面";
 "tw_QUIT_ALL" = "關閉所有應用程式";
 "tw_CANCEL" = "取消";
 
@@ -98,6 +98,7 @@
 "st_QUICK_LAUNCH" = "快速啟動列按鈕";
 "st_MEDIA_TITLES" = "媒體標題名稱顯示";
 "st_MEDIA_BUTTONS" = "媒體播放控制按鈕";
+"st_MEDIA_SCRUBBER" = "媒體播放進度拉桿";
 "st_PEOPLE" = "常用聯絡資訊";
 
 /* alerts */
