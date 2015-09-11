@@ -1,11 +1,11 @@
 /* in tweak labels */
 "tw_HOME" = "Inicio";
-"tw_ACTION_MENU" = "Menú de acción";
+"tw_ACTION_MENU" = "Menú de Acciones";
 "tw_SHUT_DOWN" = "Apagar";
 "tw_REBOOT" = "Reiniciar";
-"tw_SAFE_MODE" = "Safe Mode";
+"tw_SAFE_MODE" = "Modo Seguro";
 "tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Cerrar todas las aplicaciones";
+"tw_QUIT_ALL" = "Cerrar Aplicaciones";
 "tw_CANCEL" = "Cancelar";
 
 /* prefs */
@@ -18,7 +18,7 @@
 
 /* multi centre page */
 "mc_ENABLED" = "Habilitado";
-"mc_CONTROL_SECTIONS_TITLE" = "Secciones de control";
+"mc_CONTROL_SECTIONS_TITLE" = "Secciones de Control";
 "mc_TOP" = "Arriba";
 "mc_BOTTOM" = "Abajo";
 "mc_CONTROL_SECTIONS_FOOTER" = "Las secciones de control incluidas arriba y abajo de la vista Multicentro de seng.";

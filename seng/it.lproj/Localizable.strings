@@ -98,6 +98,7 @@
 "st_QUICK_LAUNCH" = "Sezione Quick Launch";
 "st_MEDIA_TITLES" = "Visualizzazione Titoli Media";
 "st_MEDIA_BUTTONS" = "Pulsanti Spostamento tra Media";
+"st_MEDIA_SCRUBBER" = "Barra di avanzamento";
 "st_PEOPLE" = "Contatti Preferiti";
 
 /* alerts */

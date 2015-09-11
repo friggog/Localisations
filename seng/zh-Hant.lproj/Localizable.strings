@@ -112,3 +112,6 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "我正使用 seng (開發者 @friggog) 切換App應用風格!";
+
+"el_SYSTEM_APPLICATIONS" = "系统应用程序";
+"el_USER_APPLICATIONS" = "用户应用程序";

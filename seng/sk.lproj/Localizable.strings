@@ -1,0 +1,115 @@
+/* in tweak labels */
+"tw_HOME" = "Domov";
+"tw_ACTION_MENU" = "Menu akcií";
+"tw_SHUT_DOWN" = "Vypnúť";
+"tw_REBOOT" = "Reštartovať";
+"tw_SAFE_MODE" = "Bezpečný mód";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Vypnúť všetky aplikácie";
+"tw_CANCEL" = "Zrušiť";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multi Centrum";
+"HOT_CORNERS" = "Aktívne rohy";
+"OTHER" = "Ostatné nastavenia";
+"SUPPORT" = "Podpora";
+
+/* multi centre page */
+"mc_ENABLED" = "Zapnuté";
+"mc_CONTROL_SECTIONS_TITLE" = "Ovládacia sekcia";
+"mc_TOP" = "Vrch";
+"mc_BOTTOM" = "Spodok";
+"mc_CONTROL_SECTIONS_FOOTER" = "Ovládacie sekcie obsiahnuté v spodnej a vrchnej časti multi centra.";
+"mc_ICON_STYLE_TITLE" = "Štýl ikon";
+"mc_ICON_STYLE_FOOTER" = "Štýl ikon v prepínači aplikácií";
+"mc_ICON_STYLE_STANDARD" = "Štandardné";
+"mc_ICON_STYLE_OVERLAPPED" = "Prekrývajúce";
+"mc_ICON_STYLE_HIDDEN" = "Skryté";
+"mc_GESTURE_ANIMATIONS" = "Animácia gesta";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Pokiaľ je povolená, tak animácia pri aktivácii a deaktivácii prepínaču aplikácií bude ovládaná pomocou gesta (jej priebeh pôjde s prstom). Rovnako ako animácia ovládacieho centra.\nFunkcia 'Otvorenie do aktívnej aplikácie' bude povolená natvrdo.";
+"mc_OPEN_TO_CURRENT" = "Otvoriť do aktívnej aplikácie";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Ak je táto funkcia zapnutá, tak sa prepínač aplikácií otvorí na pozíciu práve aktívnej aplikácie, namiesto naposledy otvorenej.";
+"mc_INCLUDED_SECTIONS" = "Zahrnuté sekcie";
+"mc_EXCLUDED_SECTIONS" = "Nezahrnuté sekcie";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Ťahanie, prstom smerom hore zo spodných rohov displeja, vyvolá príslušné akcie.";
+"hc_LEFT_ACTION" = "Akcia ľavého rohu";
+"hc_RIGHT_ACTION" = "Akcia pravého rohu";
+"hc_GO_TO_HOME_SCREEN" = "Prejsť na plochu";
+"hc_QUICK_SWITCHER" = "Rýchly prepínač";
+"hc_NONE" = "Nič";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia.";
+"hc_LOCK_FROM_HOME" = "Zamknúť z plochy";
+"hc_SIMPLE_HOME" = "Jednoduchšia animácia";
+"hc_GESTURE_TOLERANCE" = "Tolerancia gest";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavenie determinuje ako ďaleko od rohu bude gesto funkčné.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Táto akcia sa vykoná, keď potiahnete kartu 'Domov' v smere zatvárania aplikácií.";
+"op_SWIPE_UP" = "Akcia potiahnutia";
+"op_QUIT_ALL_APPS" = "Vypnúť všetky aplikácie";
+"op_SHOW_ACTION_MENU" = "Zobraziť menu akcií";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Zamknúť";
+"op_SHUT_DOWN" = "Vypnúť";
+"op_NONE" = "Nič";
+"op_APP_WHITELIST" = "Výnimky aplikácií";
+"op_CLOSE_NOW_PLAYING" = "Zavrieť práve hrajúcu aplikáciu";
+"op_DISMISS_AFTER" = "Po uskutočnení zatvoriť Prepínač aplikácií";
+"op_APPEARANCE" = "Zobrazenie";
+"op_REMOVE_DARK_EFFECT" =  "Odstrániť Tmavý efekt";
+"op_HIDE_BG" = "Skryť rozmazanie pozadia";
+"op_BEHAVIOUR" = "Správanie";
+"op_BEHAVIOUR_FOOTER" = "Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'pútko' ako pri Ovládacom centre.";
+"op_BLACKLIST" = "Čierna listina";
+
+/* people view page */
+"pv_INFO" = "Informácie";
+"pv_INFO_FOOTER" = "Aby sa správne zobrazovali kontakty v prepínači aplikácií, musí byť táto funkcia povolená v Nastavenia > Mail, kontakty, kalendáre > V prepínači aplikácií.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Zobraziť iba ak sa prehráva";
+"mv_HIDE_WHEN_PLAYING" = "Skryť ak sa prehráva";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Skryť ak nie je k dispozícii";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Horizontálne";
+"sv_VERTICAL" = "Vertikálne";
+"sv_RESETS_TO_FIRST" = "Nastaviť na prvú stranu";
+"sv_RESET_TO_FIRST_FOOTER" = "'Nastaviť na prvú stranu' ukáže prvú stranu posuvnej sekcie pri znovuotvorení prepínača aplikácií.";
+"sv_INCLUDED_SECTIONS" = "Zahrnuté sekcie";
+"sv_EXCLUDED_SECTIONS" = "Nezahrnuté sekcie";
+"sv_SCROLLING_STYLE" = "Štýl posúvania sekcie";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop a AirPlay";
+"st_VOLUME" = "Posuvník Hlasitosti";
+"st_BRIGHTNESS" = "Posuvník Jasu";
+"st_SMALL_SCROLL" = "Malá posuvná sekcia";
+"st_BIG_SCROLL" = "Veľká posuvná sekcia";
+"st_DEFAULT_MEDIA" = "Systémové Ovládanie Médií";
+"st_TOGGLES" = "Prepínače funkcií";
+"st_QUICK_LAUNCH" = "Rýchle Spustenie";
+"st_MEDIA_TITLES" = "Detaily Média";
+"st_MEDIA_BUTTONS" = "Mediálne - like a zdielať";
+"st_PEOPLE" = "Obľúbené kontakty";
+
+/* alerts */
+"al_ENTER_VALUE" = "Zadejte hodnotu mezi %.01f a %.01f.";
+"al_ENTER" = "Potvrdiť";
+"al_CANCEL" = "Zrušiť";
+"al_NEGATE" = "Zamietnuté";
+"al_POINT" = "Bod";
+"al_ERROR" = "Chyba";
+"al_VALID_VALE" = "Prosíme uistite se, že zadávate správnu hodnotu.";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovat";
+"al_EMAIL_ERROR" = "Email nie je možné odoslať v tejto chvíli.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "Heeej! Používam Seng (od @friggog) a prepínam aplikácie so štýlom!";
