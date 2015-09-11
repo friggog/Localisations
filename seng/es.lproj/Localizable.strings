@@ -119,3 +119,12 @@
 /* blacklist/whitelist section titles */
 "el_SYSTEM_APPLICATIONS" = "Aplicaciones del Sistema";
 "el_USER_APPLICATIONS" = "Aplicaciones del Usuario";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Sobre la compatibilidad";
+"sp_COMPAT_FOOTER" = "Hay algunos tweaks que son incompatibles con seng, si tienes problemas intenta deshabilitar o eliminar antes estos:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Relacionado con el Control de brillo";
+"sp_BRIGHTNESS_FOOTER" = "Hay un error conocido con SimpleCenters cuando se ajusta el brillo con seng. Para solucionar esto debes deshabilitar todas las opciones de control de brillo en SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Estar en contacto";
+"sp_INFO" = "Si tienes algún otro problema, petición, quieres ayudar a traducir o eres desarrollador y quieres añadir compatibilidad a tu tweak, no dudes en enviarme un correo electrónico.";
+"sp_EMAIL" = "Correo electrónico";
