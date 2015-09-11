@@ -1,115 +1,130 @@
 /* in tweak labels */
-"tw_HOME" = "Home";
-"tw_ACTION_MENU" = "Menu de Ação";
+"tw_HOME" = "Início";
+"tw_ACTION_MENU" = "Menu de Ações";
 "tw_SHUT_DOWN" = "Desligar";
 "tw_REBOOT" = "Reiniciar";
 "tw_SAFE_MODE" = "Modo de Segurança";
-"tw_RESPRING" = "Respring";
+"tw_RESPRING" = "Reiniciar o SpringBoard";
 "tw_QUIT_ALL" = "Fechar todos os Apps";
 "tw_CANCEL" = "Cancelar";
 
 /* prefs */
 /* \n represents a new line, just leave them alone */
 /* main page */
-"MULTI_CENTRE" = "Multi Centro";
+"MULTI_CENTRE" = "Multi Center";
 "HOT_CORNERS" = "Hot Corners";
 "OTHER" = "Outras Opções";
 "SUPPORT" = "Suporte";
 
 /* multi centre page */
-"mc_ENABLED" = "Ativado";
-"mc_CONTROL_SECTIONS_TITLE" = "Secções de Controle";
-"mc_TOP" = "Superior";
-"mc_BOTTOM" = "Inferior";
-"mc_CONTROL_SECTIONS_FOOTER" = "A secções de controle incluem na parte superior e inferior do Multi Centro do seng.";
-"mc_ICON_STYLE_TITLE" = "Estilo do ícone";
-"mc_ICON_STYLE_FOOTER" = "Estilo do ícone presente no app switcher.";
+"mc_ENABLED" = "Habilitado";
+"mc_CONTROL_SECTIONS_TITLE" = "Sessões de Controle";
+"mc_TOP" = "Cima";
+"mc_BOTTOM" = "Baixo";
+"mc_CONTROL_SECTIONS_FOOTER" = "As Sessões de Controle que serão apresentadas nas áreas de Cima e de Baixo no Multi Center (Multitarefa).";
+"mc_ICON_STYLE_TITLE" = "Estilo dos Ícones";
+"mc_ICON_STYLE_FOOTER" = "Estilo dos ícones apresentados no App Switcher.";
 "mc_ICON_STYLE_STANDARD" = "Padrão";
 "mc_ICON_STYLE_OVERLAPPED" = "Sobreposto";
-"mc_ICON_STYLE_HIDDEN" = "Oculto";
+"mc_ICON_STYLE_HIDDEN" = "Desabilitado";
 "mc_GESTURE_ANIMATIONS" = "Animações de Gesto";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Se ativado as animações, quando ligar ou desligar o App Switcher será controlado por gesto (como no controle Padrão/Centro Notificações).\nForça a abrir o Aplicativo Atual para ser ativado.";
-"mc_OPEN_TO_CURRENT" = "Abrir o Aplicativo Atual";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Se ativado o App Switcher vai abrir o Aplicativo Atual, ao invés do último Aplicativo.";
-"mc_INCLUDED_SECTIONS" = "Incluído";
-"mc_EXCLUDED_SECTIONS" = "Não Incluído";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Caso habilitado, as animações acompanharão o toque ao entrar e sair do App Switcher (assim como a Central de Controle/Central de Notificações).\nFaz com que a opção Abrir para o aplicativo atual fique mandatóriamente habilitada.";
+"mc_OPEN_TO_CURRENT" = "Abrir para o aplicativo atual";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Caso habilitado, o App Switcher irá abrir para o aplicativo atual, ao contrário do ultimo aplicativo usado.";
+"mc_INCLUDED_SECTIONS" = "Habilitado";
+"mc_EXCLUDED_SECTIONS" = "Não Habilitado";
 
 /* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Arrastando para cima da tela do canto inferior irá invocar as ações acima.";
-"hc_LEFT_ACTION" = "Ação Esquerda";
-"hc_RIGHT_ACTION" = "Ação Direita";
-"hc_GO_TO_HOME_SCREEN" = "Ir para Tela Inicial";
-"hc_QUICK_SWITCHER" = "Troca Rápida";
-"hc_NONE" = "Nenhum";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Se 'Bloquear Pela Tela' estiver ativado, fazer essa ação na Tela Inicial irá bloquear o aparelho.\nSe 'Animação Simples de Tela' estiver ativado, então uma forma mais simples de animação deslizante vertical será usado ao invés da animação padrão do sistema.";
-"hc_LOCK_FROM_HOME" = "Bloquear Pela Tela";
-"hc_SIMPLE_HOME" = "Animação Simples de Tela";
-"hc_GESTURE_TOLERANCE" = "Tolerância do Gesto";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Isso determina o quão longe do canto você pode deslizar para ativar a função ‘Hot Corners'.";
+"hc_ACTIONS_FOOTER" = "Deslizar da parte de baixo da tela irá executar as opções acima.";
+"hc_LEFT_ACTION" = "Lado Esquerdo";
+"hc_RIGHT_ACTION" = "Lado Direito";
+"hc_GO_TO_HOME_SCREEN" = "Ir a tela inicial";
+"hc_QUICK_SWITCHER" = "Quick Switcher";
+"hc_NONE" = "Desabilitado";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema.";
+"hc_LOCK_FROM_HOME" = "Bloquear do Início";
+"hc_SIMPLE_HOME" = "Animação de Fechamento Simples";
+"hc_GESTURE_TOLERANCE" = "Tolerancia de Gesto";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Essa opção determina o quão longe dos cantos da tela pode-se iniciar a funcionalidade de Hot Corners.";
 
 /* other prefs page */
-"op_SWIPE_UP_FOOTER" = "Esta é a ação que acontece quando você desliza para cima na tela inicial, como se fosse dispensa-lo.";
-"op_SWIPE_UP" = "Ação de Deslize para Cima";
-"op_QUIT_ALL_APPS" = "Fechar Todos Apps";
-"op_SHOW_ACTION_MENU" = "Mostrar Menu de Ação";
-"op_RESPRING" = "Respring";
+"op_HOME_APP_CARD" = "Apresentação da Tela de Início";
+"op_SWIPE_UP_FOOTER" = "Essa ação será executada quando for realizado o gesto de deslizar para cima (fechar) na Tela de Início.";
+"op_SWIPE_UP" = "Deslize p/ Cima";
+"op_QUIT_ALL_APPS" = "Fechar todos os Apps";
+"op_SHOW_ACTION_MENU" = "Exibir Menu de Ações";
+"op_RESPRING" = "Reiniciar SpringBoard";
 "op_LOCK" = "Bloquear";
 "op_SHUT_DOWN" = "Desligar";
-"op_NONE" = "Nenhum";
-"op_APP_WHITELIST" = "Lista Branca de Apps";
-"op_CLOSE_NOW_PLAYING" = "Fechar App Tocando Agora";
-"op_DISMISS_AFTER" = "Dispensar Troca Posterior";
+"op_NONE" = "Desabilitado";
+"op_APP_WHITELIST" = "Exceções";
+"op_CLOSE_NOW_PLAYING" = "Finalizar App de Reproduzindo Atualmente";
+"op_DISMISS_AFTER" = "Sair do Switcher ao Fechar";
 "op_APPEARANCE" = "Aparência";
-"op_REMOVE_DARK_EFFECT" =  "Remover Seção de Efeito Escuro";
-"op_HIDE_BG" = "Esconder Fundo Fosco";
+"op_REMOVE_DARK_EFFECT" =  "Remover o Fundo Escuro";
+"op_HIDE_BG" = "Remover o Efeito de Blur";
 "op_BEHAVIOUR" = "Comportamento";
-"op_BEHAVIOUR_FOOTER" = "Se um app está na lista negra do seng, então os Hot Corners não funcionarão. O Multi Centro do seng ainda funcionará (se ativado), mas se em tela cheia, uma guia será apresentado antes da abertura (com o Centro de Controle padrão).";
-"op_BLACKLIST" = "Lista Negra";
+"op_BEHAVIOUR_FOOTER" = "Os gestos 'Hot Corners' não vão funcionar nos apps inclusos na lista de Exceções. O 'Multi Center' irá funcionar (caso habilitado) mas em Apps de tela cheia uma confirmação irá aparecer antes (assim como a Central de Controle padrão do sistema).";
+"op_BLACKLIST" = "Exceções";
 
 /* people view page */
-"pv_INFO" = "Informação";
-"pv_INFO_FOOTER" = "Para a seção de pessoas aparecer corretamente, você precisa ativar uma ou ambas das opções em Ajustes > Mail, Contatos, Calendários > Mostrar no Seletor de Aplicativos.";
+"pv_INFO" = "Informações";
+"pv_INFO_FOOTER" = "Para a sessão Contatos Favoritos/Recentes ser exibida, ao menos uma delas deve estar habilitada em 'Ajustes > Mail, Contatos & Calendários> Mostrar no Seletor de Aplicativos'.";
 
 /* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Mostrar Apenas Quando Tocando";
-"mv_HIDE_WHEN_PLAYING" = "Ocultar Quando Tocando";
+"mv_SHOW_WHEN_PLAYING" = "Exibir Somente ao Reproduzir";
+"mv_HIDE_WHEN_PLAYING" = "Desabilitar ao Reproduzir";
 
 /* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Ocultar Quando Indisponível";
+"as_HIDE_WHEN_UNAVAILABLE" = "Desabilitar Quando Indisponível";
 
 /* scroll view pages */
 "sv_HORIZONTAL" = "Horizontal";
 "sv_VERTICAL" = "Vertical";
-"sv_RESETS_TO_FIRST" = "Resetar para Primeira Página";
-"sv_RESET_TO_FIRST_FOOTER" = "’Resetar para Primeira Página' irá setar a rolagem para a primeira página cada vez que você reabrir um app switcher.";
-"sv_INCLUDED_SECTIONS" = "Seções Incluídas";
-"sv_EXCLUDED_SECTIONS" = "Seções Excluídas";
-"sv_SCROLLING_STYLE" = "Estilo da Rolagem";
+"sv_RESETS_TO_FIRST" = "Voltar a Primeira Página";
+"sv_RESET_TO_FIRST_FOOTER" = "'Voltar a Primeira Página' vai retornar sempre a primeira página ao reabrir App Switcher (multitarefa).";
+"sv_INCLUDED_SECTIONS" = "Sessões Habilitadas";
+"sv_EXCLUDED_SECTIONS" = "Sessões Desabilitadas";
+"sv_SCROLLING_STYLE" = "Direção da Rolagem";
 
 /* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Volume Slider";
-"st_BRIGHTNESS" = "Brilho Slider";
-"st_SMALL_SCROLL" = "Scroll View Pequeno";
-"st_BIG_SCROLL" = "Scroll View Grande";
-"st_DEFAULT_MEDIA" = "Controle de Mídia Padrão";
-"st_TOGGLES" = "Botões Toggle";
-"st_QUICK_LAUNCH" = "Botões de Acesso Rápido";
-"st_MEDIA_TITLES" = "Ver Títulos de Mídia";
-"st_MEDIA_BUTTONS" = "Botões de Transporte de Mídia";
-"st_PEOPLE" = "Contatos Favoritos";
+"st_AIR_STUFF" = "AirDrop e AirPlay";
+"st_VOLUME" = "Barra de Volume";
+"st_BRIGHTNESS" = "Barra de Brilho";
+"st_SMALL_SCROLL" = "Área de Rolagem Pequena";
+"st_BIG_SCROLL" = "Área de Rolagem Grande";
+"st_DEFAULT_MEDIA" = "Controles de Mídia Padrão";
+"st_TOGGLES" = "Botões Liga/Desliga";
+"st_QUICK_LAUNCH" = "Botões Apps Rápidos";
+"st_MEDIA_TITLES" = "Informações de Mídia";
+"st_MEDIA_BUTTONS" = "Controles de Mídia";
+"st_MEDIA_SCRUBBER" = "Barra de Controle de Mídia";
+"st_PEOPLE" = "Contatos Favoritos/Recentes";
 
 /* alerts */
-"al_ENTER_VALUE" = "Por favor entre um valor entre %.01f e %.01f.";
-"al_ENTER" = "Enter";
+"al_ENTER_VALUE" = "Entre com um valor entre %.01f e %.01f.";
+"al_ENTER" = "OK";
 "al_CANCEL" = "Cancelar";
-"al_NEGATE" = "Negar";
-"al_POINT" = "Ponto";
+"al_NEGATE" = "Negate";
+"al_POINT" = "Point";
 "al_ERROR" = "Erro";
-"al_VALID_VALE" = "Por favor assegure-se que colocou um valor válido.";
+"al_VALID_VALE" = "Favor entrar somente com valores válidos.";
 "al_OK" = "OK";
-"al_TWEET_ERROR" = "Incapaz de twittar nesse momento.";
-"al_EMAIL_ERROR" = "Você está incapaz de enviar e-mails.";
+"al_TWEET_ERROR" = "Não foi possível tuítar nesse momento.";
+"al_EMAIL_ERROR" = "Parece não ser possível enviar emails.";
 
 /* twitter */
-"TWITTER_MESSAGE" = "Estou usando seng (by @friggog) para mudar de apps com estilo!";
+"TWITTER_MESSAGE" = "Estou usando o tweak seng (de @friggog) para trocar de apps com estilo!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "Apps do Sistema";
+"el_USER_APPLICATIONS" = "Apps Instaladas";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Problemas de Compatibilidade";
+"sp_COMPAT_FOOTER" = "Alguns tweaks têm problemas de compatibilidade conhecidos com seng. Em caso de problemas, tente desabilitar ou remover esses tweaks:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Problemas com a Barra de Brilho";
+"sp_BRIGHTNESS_FOOTER" = "Há um problema conhecido com o tweak SimpleCenters que ocorre ao ajustar a barra de brilho usando seng. Para evita-lo, desabilite todas as opções que envolvem a Barra de Brilho nas configurações do tweak SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Entre em Contato";
+"sp_INFO" = "Em caso de dúvidas, sugestões, envio de traduções, ou se você for um desenvolvedor e gostaria de adicionar compatibilidade com seu tweak, não hesite em me contatar via email.";
+"sp_EMAIL" = "Email";
