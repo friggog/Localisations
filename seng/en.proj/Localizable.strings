@@ -63,7 +63,7 @@
 "op_APPEARANCE" = "Appearance";
 "op_REMOVE_DARK_EFFECT" =  "Remove Dark Section Effect";
 "op_HIDE_BG" = "Hide Background Blur";
-"op_BEHAVIOUR" = "Behaviour";
+"op_BEHAVIOUR" = "Behavior";
 "op_BEHAVIOUR_FOOTER" = "If seng is blacklisted in an app then hot corners will not function. The seng multi center will still function (if enabled) but if in fullscreen a tab will be presented before opening (as with the default control center).";
 "op_BLACKLIST" = "Blacklist";
 
@@ -99,7 +99,7 @@
 "st_MEDIA_TITLES" = "Media Titles View";
 "st_MEDIA_BUTTONS" = "Media Transport Buttons";
 "st_MEDIA_SCRUBBER" = "Media Scrubber";
-"st_PEOPLE" = "Favourite Contacts";
+"st_PEOPLE" = "Favorite Contacts";
 
 /* alerts */
 "al_ENTER_VALUE" = "Please enter a value between %.01f and %.01f.";
