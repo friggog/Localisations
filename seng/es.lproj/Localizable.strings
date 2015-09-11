@@ -35,7 +35,7 @@
 "mc_EXCLUDED_SECTIONS" = "No incluido";
 
 /* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará los acciones de arriba";
+"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará los acciones de arriba.";
 "hc_LEFT_ACTION" = "Acción izquierda";
 "hc_RIGHT_ACTION" = "Acción derecha";
 "hc_GO_TO_HOME_SCREEN" = "Ir a la pantalla de Inicio";
@@ -97,7 +97,8 @@
 "st_TOGGLES" = "Botones de Acceso rápido";
 "st_QUICK_LAUNCH" = "Botones de Inicio rápido";
 "st_MEDIA_TITLES" = "Visualización de título musical";
-"st_MEDIA_BUTTONS" = "Botones de control de música";
+"st_MEDIA_BUTTONS" = "Botones de control musical";
+"ST_MEDIA_SCRUBBER" = "Barra de duración musical";
 "st_PEOPLE" = "Contactos favoritos";
 
 /* alerts */
