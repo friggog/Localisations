@@ -1,11 +1,11 @@
 /* in tweak labels */
 "tw_HOME" = "Layar Utama";
-"tw_ACTION_MENU" = "Menu Aksi";
-"tw_SHUT_DOWN" = "Mematikan Telepon";
-"tw_REBOOT" = "Restart Telepon";
+"tw_ACTION_MENU" = "Menu Pilihan";
+"tw_SHUT_DOWN" = "Mematikan Peranti";
+"tw_REBOOT" = "Restart Peranti";
 "tw_SAFE_MODE" = "Safe Mode";
 "tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Menghentikan Seluruh Aplikasi";
+"tw_QUIT_ALL" = "Menutup Seluruh Aplikasi";
 "tw_CANCEL" = "Batalkan";
 
 /* prefs */
@@ -17,62 +17,62 @@
 "SUPPORT" = "Dukungan";
 
 /* multi centre page */
-"mc_ENABLED" = "Diaktifkan";
+"mc_ENABLED" = "Aktifkan";
 "mc_CONTROL_SECTIONS_TITLE" = "Bagian Kontrol";
 "mc_TOP" = "Bagian Atas";
 "mc_BOTTOM" = "Bagian Bawah";
-"mc_CONTROL_SECTIONS_FOOTER" = "Bagian kontrol termasuk di bagian atas dan bagian bawah pada Multi Center seng.";
-"mc_ICON_STYLE_TITLE" = "Gaya Ikon";
-"mc_ICON_STYLE_FOOTER" = "Gaya ikon-ikon yang disajikan di dalam Pengalih App.";
+"mc_CONTROL_SECTIONS_FOOTER" = "Pengaturan ini untuk mengatur bagian atas dan bagian bawah pada tampilan Multi Center seng.";
+"mc_ICON_STYLE_TITLE" = "Letak Ikon";
+"mc_ICON_STYLE_FOOTER" = "Letak ikon yang disajikan di dalam Pengalih App.";
 "mc_ICON_STYLE_STANDARD" = "Standar";
-"mc_ICON_STYLE_OVERLAPPED" = "Tumpang tindih";
+"mc_ICON_STYLE_OVERLAPPED" = "Tumpang Tindih";
 "mc_ICON_STYLE_HIDDEN" = "Tersembunyi";
 "mc_GESTURE_ANIMATIONS" = "Gerakan Animasi";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Jika animasi diaktifkan, gerakannya akan terkontrol ketika mengaktifkan dan menonaktifkan Pengalih App (sama seperti standar Pusat Kontrol/Pusat Pemberitahuan).\nMemaksa untuk membuka Aplikasi yang sedang berjalan selalu aktif.";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Jika animasi ini diaktifkan, saat anda menggeser Kartu App di Pengalih App ke bawah layar, maka gerakannya akan halus & teratur (sama seperti standar Pusat Kontrol/Pusat Pemberitahuan).\nPengaturan ini memaksa untuk membuka Kartu Aplikasi yang sedang berjalan selalu aktif.";
 "mc_OPEN_TO_CURRENT" = "Membuka Aplikasi yang sedang berjalan";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Jika diaktifkan, Pengalih App akan membuka Aplikasi yang sedang berjalan, daripada Aplakisi yang terakhir dibuka..";
-"mc_INCLUDED_SECTIONS" = "Termasuk";
-"mc_EXCLUDED_SECTIONS" = "Tidak Termasuk";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Jika diaktifkan, Pengalih App tidak menunjukkan Kartu Aplikasi yang terakhir dibuka, tetapi akan selalu menunjukkan Kartu Aplikasi yang sedang berjalan";
+"mc_INCLUDED_SECTIONS" = "Aktif";
+"mc_EXCLUDED_SECTIONS" = "Tidak Aktif";
 
 /* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Menyeret sudut layar dari bagian bawah ke bagian atas akan mengaktifkan tindakan-tindakan di atas.";
-"hc_LEFT_ACTION" = "Tindakan sebelah Kiri";
-"hc_RIGHT_ACTION" = "Tindakan sebelah Kanan";
-"hc_GO_TO_HOME_SCREEN" = "Ke Layar Utama";
+"hc_ACTIONS_FOOTER" = "Menyeret sudut layar dari bagian bawah ke bagian atas akan mengaktifkan tindakan-tindakan yang anda pilih di atas.";
+"hc_LEFT_ACTION" = "Seret dari Kiri Bawah Keatas";
+"hc_RIGHT_ACTION" = "Seret dari Kanan Bawah Keatas";
+"hc_GO_TO_HOME_SCREEN" = "Kembali Ke Layar Utama";
 "hc_QUICK_SWITCHER" = "Pengalih Cepat";
-"hc_NONE" = "Tidak Satupun";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Mengunci dari Layar Utama' diaktifkan, melakukan gerakan ini di Layar Utama akan mengunci peranti.\nJika 'Animasi Sederhana Layar Utama' diaktifkan, maka animasi skala bawaan sistem akan digantikan oleh animasi peluncuran vertikal yang sederhana.";
+"hc_NONE" = "Non Aktif";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Mengunci dari Layar Utama' diaktifkan, maka anda dapat mengunci peranti di Layar Utama dengan cara menyeret layar dari pojok kanan bawah ke atas.\nJika 'Animasi Menutup App yang Simpel' diaktifkan, maka animasi menutup App bawaan sistem akan digantikan oleh animasi menutup App secara vertikal yang simpel.";
 "hc_LOCK_FROM_HOME" = "Mengunci dari Layar Utama";
-"hc_SIMPLE_HOME" = "Animasi Sederhana Layar Utama";
-"hc_GESTURE_TOLERANCE" = "Toleransi Gerakan";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Ini menetapkan seberapa jauh sudut yang anda geser untuk mengaktifkan fungsi Hot Corners.";
+"hc_SIMPLE_HOME" = "Animasi Menutup App yang Simpel";
+"hc_GESTURE_TOLERANCE" = "Toleransi Kepekaan Geseran";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Pengaturan ini menetapkan seberapa peka sudut yang anda geser untuk mengaktifkan fungsi Hot Corners.";
 
 /* other prefs page */
-"op_HOME_APP_CARD" = "Kartu App Layar Utama";
-"op_SWIPE_UP_FOOTER" = "Ini adalah tindakan ketika anda menggeser kartu app layar utama ke atas, This is the action which happens when you swipe up on the home screen app card in the switcher, seolah-olah untuk membuangnya.";
-"op_SWIPE_UP" = "Tindakan Menggeser ke Atas";
-"op_QUIT_ALL_APPS" = "Menghentikan Seluruh Aplikasi";
-"op_SHOW_ACTION_MENU" = "Memunculkan Menu Aksi";
+"op_HOME_APP_CARD" = "Kartu App di Pengalih App";
+"op_SWIPE_UP_FOOTER" = "Ini adalah tindakan ketika anda menggeser kartu app layar utama ke atas, seolah-olah anda membuang kartu ke atas.";
+"op_SWIPE_UP" = "Seret Ke Atas";
+"op_QUIT_ALL_APPS" = "Menutup Seluruh Aplikasi";
+"op_SHOW_ACTION_MENU" = "Memunculkan Menu Pilihan";
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Mengunci";
-"op_SHUT_DOWN" = "Mematikan Telepon";
+"op_SHUT_DOWN" = "Mematikan Peranti";
 "op_NONE" = "Tidak Satupun";
 "op_APP_WHITELIST" = "Aplikasi Whitelist";
 "op_CLOSE_NOW_PLAYING" = "Menutup Aplikasi Yang Sedang Diputar";
-"op_DISMISS_AFTER" = "Menutup Pengalih Otomatis";
-"op_APPEARANCE" = "Penampilan";
-"op_REMOVE_DARK_EFFECT" =  "Menghilangkan Bagian Efek yang Gelap";
-"op_HIDE_BG" = "Menyembunyikan Blur Background";
+"op_DISMISS_AFTER" = "Menutup Pengalih Secara Otomatis";
+"op_APPEARANCE" = "Tampilan";
+"op_REMOVE_DARK_EFFECT" =  "Menghilangkan Bagian Efek Gelap Pada CC";
+"op_HIDE_BG" = "Menyembunyikan Efek Blur Pada Background";
 "op_BEHAVIOUR" = "Kebiasaan";
-"op_BEHAVIOUR_FOOTER" = "Jika seng diblacklist di suatu aplikasi, maka Hot Corners tidak akan berfungsi. Multi Center seng akan tetap berfungsi (jika diaktifkan), sebelum membuka Multi Center di dalam mode layar penuh, sebuah tab akan disajikan (seperti membuka Pusat Kontrol bawaan).";
+"op_BEHAVIOUR_FOOTER" = "Jika seng diblacklist di suatu aplikasi, maka Hot Corners tidak akan berfungsi, tetapi Multi Center seng akan tetap berfungsi (jika Multi Center diaktifkan), sebuah tanda akan muncul jika anda menyeret bagian bawah tengah layar naik ke atas di Aplikasi Blacklist, lalu seret ke atas lagi untuk memunculkan Multi Center (seperti membuka Pusat Kontrol bawaan).";
 "op_BLACKLIST" = "Blacklist";
 
 /* people view page */
 "pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "Agar daftar pilihan kontak ini muncul, anda harus mengaktifkan salah satu atau kedua pilihan di Pengaturan > Mail, Kontak, Kalender > Tampilkan Di Pengalih App.";
+"pv_INFO_FOOTER" = "Agar panel daftar pilihan kontak ini muncul, anda harus mengaktifkan terlebih dahulu salah satu atau kedua pilihan di Pengaturan > Mail, Kontak, Kalender > Tampilkan Di Pengalih App.";
 
 /* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Hanya Muncul Ketika Diputar";
+"mv_SHOW_WHEN_PLAYING" = "Munculkan Ketika Diputar";
 "mv_HIDE_WHEN_PLAYING" = "Sembunyikan Ketika Diputar";
 
 /* air stuff page */
@@ -91,14 +91,14 @@
 "st_AIR_STUFF" = "AirDrop & AirPlay";
 "st_VOLUME" = "Penggeser Volume";
 "st_BRIGHTNESS" = "Penggeser Kecerahan";
-"st_SMALL_SCROLL" = "Visual Penggeser Kecil";
-"st_BIG_SCROLL" = "Visual Penggeser Besar";
+"st_SMALL_SCROLL" = "Panel Kecil";
+"st_BIG_SCROLL" = "Panel Besar";
 "st_DEFAULT_MEDIA" = "Media Kontrol Bawaan";
 "st_TOGGLES" = "Tombol Alih";
 "st_QUICK_LAUNCH" = "Tombol Akses Cepat";
-"st_MEDIA_TITLES" = "Visual Judul Media";
-"st_MEDIA_BUTTONS" = "Tombol Transport Media";
-"st_MEDIA_SCRUBBER" = "Penggeser Media";
+"st_MEDIA_TITLES" = "Panel Judul Media";
+"st_MEDIA_BUTTONS" = "Tombol Kontrol Media";
+"st_MEDIA_SCRUBBER" = "Penggeser Waktu Media";
 "st_PEOPLE" = "Kontak Favorit";
 
 /* alerts */
@@ -106,7 +106,7 @@
 "al_ENTER" = "Masukkan";
 "al_CANCEL" = "Batalkan";
 "al_NEGATE" = "Tiadakan";
-"al_POINT" = "Poin";
+"al_POINT" = "Titik";
 "al_ERROR" = "Error";
 "al_VALID_VALE" = "Pastikan anda memasukkan nilai yang benar.";
 "al_OK" = "OK";
@@ -118,7 +118,7 @@
 
 /* blacklist/whitelist section titles */
 "el_SYSTEM_APPLICATIONS" = "Aplikasi-Aplikasi Sistem";
-"el_USER_APPLICATIONS" = "Aplikasi-Aplikasi Pemakai";
+"el_USER_APPLICATIONS" = "Aplikasi-Aplikasi User";
 
 /* support page */
 "sp_COMPAT_TITLE" = "Masalah Kompatibilitas";
@@ -126,5 +126,5 @@
 "sp_BRIGHTNESS_TITLE" = "Penggeser Kecerahan Crash";
 "sp_BRIGHTNESS_FOOTER" = "Masalah ini diketahui bahwa tweak SimpleCenters mengacaukan Penggeser Kecerahan pada seng ketika anda mengatur kecerahan layar. Untuk memperbaikinya, nonaktifkan semua Penggeser Kecerahan di pengaturan pada tweak SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Tetap Berkomunikasi";
-"sp_INFO" = "Jika anda mempunyai masalah-masalah lain, permintaan, ingin membantu menerjemahkan atau seorang developer dan ingin menambakan kompatibilitas untuk tweak anda, jangan ragu untuk mengirim email kepada saya.";
+"sp_INFO" = "Jika anda mempunyai masalah-masalah lain, permintaan, ingin membantu menerjemahkan atau seorang developer dan ingin menambahkan kompatibilitas untuk tweak anda, jangan ragu untuk mengirim email kepada saya.";
 "sp_EMAIL" = "Email";
