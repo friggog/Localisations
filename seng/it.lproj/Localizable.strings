@@ -122,9 +122,9 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problemi di compatibilità";
-"sp_COMPAT_FOOTER" = "Alcuni tweak sono incopatibili con seng, se hai dei problemi prova a disabilitare o rimuovere prima questo:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Alcuni tweak sono incompatibili con seng, se stai riscontrando problemi prova innanzitutto a disabilitare o rimuovere questi:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Crash dello slider della luminosità";
-"sp_BRIGHTNESS_FOOTER" = "C'è un problema conosciuto con SimpleCenters che si verifica modificando la luminosità dallo slider apposito in seng. Per sistemare, disabilità tutte le opzioni relative allo slider della luminosità in SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Rimaniamo in contatto";
-"sp_INFO" = "Se hai altri problemi, richieste, vuoi aiutare nelle traduzioni sei uno sviluppatore e vuoi aggiungere la compatibilità a seng del tuo tweak non esitare a contattarmi.";
+"sp_BRIGHTNESS_FOOTER" = "C'è un problema noto con SimpleCenters che si verifica modificando la luminosità dallo slider apposito in seng. Per risolvere il problema, disabilita tutte le opzioni relative allo slider della luminosità in SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Contatti";
+"sp_INFO" = "Se stai riscontrando altri problemi, hai richieste da fare, vorresti aiutare con la traduzione oppure sei uno sviluppatore e vuoi aggiungere la compatibilità del tuo tweak con seng non esitare a contattarmi via email.";
 "sp_EMAIL" = "Email";
