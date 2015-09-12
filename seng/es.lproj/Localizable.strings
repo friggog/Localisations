@@ -35,7 +35,7 @@
 "mc_EXCLUDED_SECTIONS" = "No incluido";
 
 /* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará los acciones de arriba.";
+"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará las acciones de arriba.";
 "hc_LEFT_ACTION" = "Acción izquierda";
 "hc_RIGHT_ACTION" = "Acción derecha";
 "hc_GO_TO_HOME_SCREEN" = "Ir a la pantalla de Inicio";
@@ -98,7 +98,7 @@
 "st_QUICK_LAUNCH" = "Botones de Inicio rápido";
 "st_MEDIA_TITLES" = "Visualización de título musical";
 "st_MEDIA_BUTTONS" = "Botones de control musical";
-"ST_MEDIA_SCRUBBER" = "Barra de duración musical";
+"st_MEDIA_SCRUBBER" = "Barra de duración musical";
 "st_PEOPLE" = "Contactos favoritos";
 
 /* alerts */
@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Sobre la compatibilidad";
-"sp_COMPAT_FOOTER" = "Hay algunos tweaks que son incompatibles con seng, si tienes problemas intenta deshabilitar o eliminar antes estos:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Hay algunos tweaks que son incompatibles con seng, si tienes problemas intenta deshabilitar o eliminar antes estos:\n- CCControls\n- Speed Intensifier";
 "sp_BRIGHTNESS_TITLE" = "Relacionado con el Control de brillo";
 "sp_BRIGHTNESS_FOOTER" = "Hay un error conocido con SimpleCenters cuando se ajusta el brillo con seng. Para solucionar esto debes deshabilitar todas las opciones de control de brillo en SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Estar en contacto";

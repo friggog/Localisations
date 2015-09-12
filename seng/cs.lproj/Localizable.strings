@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Potíže s kopatibilitou";
-"sp_COMPAT_FOOTER" = "O některých 'tweaks' je známo, že nejsou kompatibilní s Seng pokud vám způsobují potíže, vypněte je:\n- CCControls";
+"sp_COMPAT_FOOTER" = "O některých 'tweaks' je známo, že nejsou kompatibilní s Seng pokud vám způsobují potíže, vypněte je:\n- CCControls\n- Speed Intensifier";
 "sp_BRIGHTNESS_TITLE" = "Crash kvůli posuvníku jasu";
 "sp_BRIGHTNESS_FOOTER" = "There are know issues with CCLiveBrightness and SimpleCenters when adjusting the brightness slider in seng. To fix this remove CCLiveBrightness or disable all brightness slider settings in SimpleCenters.";
 "sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";

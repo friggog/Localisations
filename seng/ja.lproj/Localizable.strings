@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "互換性の問題";
-"sp_COMPAT_FOOTER" = "いくつかのTweakではsengと互換性がありません。使用に問題がある時にはまず下記のTweakを無効化またはアンインストールしてみてください:\n- CCControls";
+"sp_COMPAT_FOOTER" = "いくつかのTweakではsengと互換性がありません。使用に問題がある時にはまず下記のTweakを無効化またはアンインストールしてみてください:\n- CCControls\n- Speed Intensifier";
 "sp_BRIGHTNESS_TITLE" = "画面の明るさのスライダーの問題";
 "sp_BRIGHTNESS_FOOTER" = "この問題はSimpleCentersとsengの画面の明るさのスライダーを使った時に発生します。この問題を解決するにはSimpleCentersの設定で'brightness slider'を無効化してください。";
 "sp_GET_IN_TOUCH" = "問い合わせ";

@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problémy s kompatibilitou";
-"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls\n- Speed Intensifier";
 "sp_BRIGHTNESS_TITLE" = "Posuvník Jasu zhavaroval";
 "sp_BRIGHTNESS_FOOTER" = "Známa chyba nastáva pri nastavovaní jasu v Seng-u, ak máte nainštalovaný SimpleCenters. Na opravu tejto chyby vypnite všetky nastavenia 'Posuvníka Jasu' v SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Skontaktovať";

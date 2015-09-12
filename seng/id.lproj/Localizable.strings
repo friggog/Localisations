@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Masalah Kompatibilitas";
-"sp_COMPAT_FOOTER" = "Beberapa tweaks diketahui tidak cocok dengan seng, jika anda memiliki masalah, coba untuk menonaktifkan atau menghapus ini terlebih dahulu:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Beberapa tweaks diketahui tidak cocok dengan seng, jika anda memiliki masalah, coba untuk menonaktifkan atau menghapus ini terlebih dahulu:\n- CCControls\n- Speed Intensifier";
 "sp_BRIGHTNESS_TITLE" = "Penggeser Kecerahan Crash";
 "sp_BRIGHTNESS_FOOTER" = "Masalah ini diketahui bahwa tweak SimpleCenters mengacaukan Penggeser Kecerahan pada seng ketika anda mengatur kecerahan layar. Untuk memperbaikinya, nonaktifkan semua Penggeser Kecerahan di pengaturan pada tweak SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Tetap Berkomunikasi";
