@@ -128,3 +128,7 @@
 "sp_GET_IN_TOUCH" = "Get In Touch";
 "sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";
 "sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Reduce Motion";
+"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";

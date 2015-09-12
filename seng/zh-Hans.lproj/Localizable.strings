@@ -70,7 +70,7 @@
 "op_RESPRING" = "注销";
 "op_SHOW_ACTION_MENU" = "显示动作菜单";
 "op_SHUT_DOWN" = "关机";
-"op_SWIPE_UP" = "主屏幕页面上划动作菜单";
+"op_SWIPE_UP" = "主屏幕页面上划动作";
 "op_SWIPE_UP_FOOTER" = "这是当你向上划动主屏幕卡片时会执行的动作。";
 
 /* people view page */
@@ -84,6 +84,7 @@
 "st_DEFAULT_MEDIA" = "默认媒体控制";
 "st_MEDIA_BUTTONS" = "媒体收藏按钮";
 "st_MEDIA_TITLES" = "媒体标题显示";
+"st_MEDIA_SCRUBBER" = "媒体音乐进度条";
 "st_PEOPLE" = "收藏的联系人";
 "st_QUICK_LAUNCH" = "快速启动按钮";
 "st_SMALL_SCROLL" = "小滚动模块";
@@ -108,3 +109,16 @@
 "tw_RESPRING" = "注销";
 "tw_SAFE_MODE" = "安全模式";
 "tw_SHUT_DOWN" = "关机";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "系统应用程序";
+"el_USER_APPLICATIONS" = "用户应用程序";
+
+/* support page */
+"sp_COMPAT_TITLE" = "兼容性问题";
+"sp_COMPAT_FOOTER" = "一些已知的插件不与seng兼容, 如果您有问题可以尝试先禁用或卸载这些插件:\n- CCControls\n- Speed Intensifier";
+"sp_BRIGHTNESS_TITLE" = "亮度滑块失效";
+"sp_BRIGHTNESS_FOOTER" = "目前已知SimpleCenters会影响生的亮度滑块功能. 为了解决这个问题请禁用SimpleCenters所有亮度滑块选项.";
+"sp_GET_IN_TOUCH" = "取得联系";
+"sp_INFO" = "如果您有任何问题,请求,希望协助翻译或者你是一个开发者以及希望为您的插件添加的兼容性,请不要犹豫给我发电子邮件.";
+"sp_EMAIL" = "发送电子邮件";
