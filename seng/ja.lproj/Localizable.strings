@@ -1,6 +1,6 @@
 /* in tweak labels */
 "tw_HOME" = "ホーム";
-"tw_ACTION_MENU" = "メニューを表示";
+"tw_ACTION_MENU" = "動作を選択";
 "tw_SHUT_DOWN" = "電源オフ";
 "tw_REBOOT" = "再起動";
 "tw_SAFE_MODE" = "セーフモード";
@@ -21,14 +21,14 @@
 "mc_CONTROL_SECTIONS_TITLE" = "コントロール";
 "mc_TOP" = "上部";
 "mc_BOTTOM" = "下部";
-"mc_CONTROL_SECTIONS_FOOTER" = "‘コントロール’ではsengマルチセンターの上部と下部の表示を変更できます。";
+"mc_CONTROL_SECTIONS_FOOTER" = "'コントロール'ではsengマルチセンターの上部と下部の表示を変更できます。";
 "mc_ICON_STYLE_TITLE" = "アイコンの表示方法";
 "mc_ICON_STYLE_FOOTER" = "Appスイッチャーに表示されるアイコンの表示方法を変更できます。";
 "mc_ICON_STYLE_STANDARD" = "通常";
 "mc_ICON_STYLE_OVERLAPPED" = "重ねて表示";
 "mc_ICON_STYLE_HIDDEN" = "隠す";
 "mc_GESTURE_ANIMATIONS" = "アニメーションを使う";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "この設定を適用するとAppスイッチャーは通常のコントロールセンターや通知センターのように滑らかに表示されます。\nまた、’現在のアプリを開く’が有効になります。";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "この設定を適用するとAppスイッチャーは通常のコントロールセンターや通知センターのように滑らかに表示されます。\nまた、'現在のアプリを開く'が有効になります。";
 "mc_OPEN_TO_CURRENT" = "現在のアプリを開く";
 "mc_OPEN_TO_CURRENT_FOOTER" = "Appスイッチャーを1つ前に使ったAppではなく現在使用中のAppで開くようにします。";
 "mc_INCLUDED_SECTIONS" = "使用する";
@@ -41,13 +41,14 @@
 "hc_GO_TO_HOME_SCREEN" = "ホーム画面に戻る";
 "hc_QUICK_SWITCHER" = "クイックスイッチャー";
 "hc_NONE" = "何もしない";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "‘ホーム画面からロック’を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。\n’シンプルなアニメーション’を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "'ホーム画面からロック'を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。\n'シンプルなアニメーション'を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。";
 "hc_LOCK_FROM_HOME" = "ホーム画面からロック";
 "hc_SIMPLE_HOME" = "シンプルなアニメーション";
 "hc_GESTURE_TOLERANCE" = "ジェスチャーの適用範囲";
 "hc_GESTURE_TOLERANCE_FOOTER" = "スワイプでホットコーナーを起動することができる範囲を指定します。";
 
 /* other prefs page */
+"op_HOME_APP_CARD" = "ホーム画面のサムネイル";
 "op_SWIPE_UP_FOOTER" = "Appスイッチャーでホーム画面を引き上げた時の動作を設定します。";
 "op_SWIPE_UP" = "ホーム画面の動作";
 "op_QUIT_ALL_APPS" = "すべてのAppを閉じる";
@@ -97,6 +98,7 @@
 "st_QUICK_LAUNCH" = "Appショートカット";
 "st_MEDIA_TITLES" = "再生中のタイトル";
 "st_MEDIA_BUTTONS" = "コントローラ";
+"st_MEDIA_SCRUBBER" ="シークバー";
 "st_PEOPLE" = "お気に入りの連絡先";
 
 /* alerts */
@@ -113,3 +115,16 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "システム・アプリケーション";
+"el_USER_APPLICATIONS" = "ユーザー・アプリケーション";
+
+/* support page */
+"sp_COMPAT_TITLE" = "互換性の問題";
+"sp_COMPAT_FOOTER" = "いくつかのTweakではsengと互換性がありません。使用に問題がある時にはまず下記のTweakを無効化またはアンインストールしてみてください:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "画面の明るさのスライダーの問題";
+"sp_BRIGHTNESS_FOOTER" = "この問題はSimpleCentersとsengの画面の明るさのスライダーを使った時に発生します。この問題を解決するにはSimpleCentersの設定で'brightness slider'を無効化してください。";
+"sp_GET_IN_TOUCH" = "問い合わせ";
+"sp_INFO" = "もしその他の問題やリクエスト、翻訳やあなたのtweakとの互換性の修正などがあれば連絡してください。";
+"sp_EMAIL" = "メール";
