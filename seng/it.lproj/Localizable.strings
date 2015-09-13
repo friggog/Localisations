@@ -128,3 +128,7 @@
 "sp_GET_IN_TOUCH" = "Contatti";
 "sp_INFO" = "Se stai riscontrando altri problemi, hai richieste da fare, vorresti aiutare con la traduzione oppure sei uno sviluppatore e vuoi aggiungere la compatibilità del tuo tweak con seng non esitare a contattarmi via email.";
 "sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Riduci Movimento";
+"rm_FOOTER" = "Attualmente hai attivato Riduci Movimento. Seng modificherà le sue animazioni per adattarsi al meglio, di conseguenza alcune opzioni non saranno più disponibili. Le animazioni gestuali verranno disabilitate e l'animazione per tornare alla Home sarà rimpiazzata da una leggera dissolvenza.";
