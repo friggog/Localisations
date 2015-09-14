@@ -100,7 +100,7 @@
 "st_QUICK_LAUNCH" = "Các Nút Mở Nhanh";
 "st_MEDIA_TITLES" = "Hiển Thi Media Dạng Ô";
 "st_MEDIA_BUTTONS" = "Các Nút Media";
-
+"st_MEDIA_SCRUBBER" = "Bộ Lọc Media";
 "st_PEOPLE" = "Danh Bạ Yêu Thích";
 
 /* alerts */
@@ -131,7 +131,6 @@
 "sp_INFO" = "Nếu bạn có bất cứ vấn đề khác, yêu cầu, muốn giúp phiên dịch hoặc là một lập trình viên và muốn tương thích với tweak của bạn đừng ngại email cho tôi.";
 "sp_EMAIL" = "Email";
 
-
-
-
-
+/* reduce motion */
+"rm_TITLE" = "Giảm Chuyển Động";
+"rm_FOOTER" = "Bạn đang bật Giảm Chuyển Động. Seng sẽ tự điều chỉnh chuyển động của nó cho phù hợp, do đó một số tuỳ chọn sẽ không khả dụng. Thao tác chuyển động sẽ được tắt và chuyển động ‘Vê Màn Hình Chủ' sẽ được thay thế bằng chuyển động mờ dần.";

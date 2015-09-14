@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "'ホーム画面からロック'を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。\n'シンプルなアニメーション'を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。";
 "hc_LOCK_FROM_HOME" = "ホーム画面からロック";
 "hc_SIMPLE_HOME" = "シンプルなアニメーション";
+//"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+//"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
 "hc_GESTURE_TOLERANCE" = "ジェスチャーの適用範囲";
 "hc_GESTURE_TOLERANCE_FOOTER" = "スワイプでホットコーナーを起動することができる範囲を指定します。";
 
