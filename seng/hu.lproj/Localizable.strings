@@ -113,3 +113,23 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "A seng tweaket használom, melyet @friggog fejlesztett ki, hogy stílusosan váltsak alkalmazásaim közt!";
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "Rendszeralkalmazások";
+"el_USER_APPLICATIONS" = "Felhasználói alkalmazások";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Kompatibilítási hibák";
+"sp_COMPAT_FOOTER" = "Néhány tweak inkompatibilis a seng-el, így ha ilyen problémád van először próbáld meg letiltani ezeket:\n- CCControls";
+
+"sp_BRIGHTNESS_TITLE" = "Fényerő csúszka hiba";
+"sp_BRIGHTNESS_FOOTER" = "Egy ismert hiba van a SimpleCenters-el amikor a fényerőt állítod. Hogy kijavítsd, tilts le minden fényerőcsúszka beállítást a SimpleCenters-ben.";
+
+"sp_GET_IN_TOUCH" = "Kapcsolat";
+"sp_INFO" = "Ha akármi más hibát tapasztalsz, vagy szeretnél segíteni fordítással, esetleg fejlesztő vagy és kompatibilítást szeretnél a tweakeddel, kérlek írj emailt.";
+
+"sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Mozgás csökkentése";
+"rm_FOOTER" = "Jelenleg engedélyezve van a mozgás csökkentése. A seng megpróbál ehhez legjobban alkalmazkodni, így néhány opció elérhetetlen lesz. A gesztus animációk le vannak tiltva és a 'Menj a Főképernyore' animáció egy áttűnéssel lett lecserélve";
+
