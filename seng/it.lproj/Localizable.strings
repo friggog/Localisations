@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Se 'Blocca Dalla Home' è attivo, eseguire questo gesto dalla Home Screen bloccherà il dispositivo.\nSe 'Animazione Home semplice' è attivo, allora verrà usata un’animazione più semplice di scorrimento verticale invece che l’animazione di scalatura di sistema.";
 "hc_LOCK_FROM_HOME" = "Blocca Dalla Home";
 "hc_SIMPLE_HOME" = "Animazione Home semplice";
+"hc_ALT_QUICK_SWITCHER" = "Usa stile alternativo";
+"hc_QUICK_SWITCHER_FOOTER" = "Lo stile alternativo si comporta come il quick switcher di Tage, mentre lo standard è più come Auxo.";
 "hc_GESTURE_TOLERANCE" = "Tolleranza dei Gesti";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Questo determina quanto distante dagli angoli è possibile effettuare lo swipe per attivare le funzionalità degli Angoli Attivi.";
 

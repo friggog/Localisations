@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "若啟用「從主畫面鎖定」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n若啟用「簡單動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
 "hc_LOCK_FROM_HOME" = "從主畫面鎖定";
 "hc_SIMPLE_HOME" = "簡單動畫";
+"hc_ALT_QUICK_SWITCHER" = "使用替代樣式";
+"hc_QUICK_SWITCHER_FOOTER" = "替代樣式的效果類似於 tage 的 Quick Switcher，預設樣式則類似於 Auxo 的效果";
 "hc_GESTURE_TOLERANCE" = "手勢容許範圍";
 "hc_GESTURE_TOLERANCE_FOOTER" = "調整離角落多少距離內可觸發熱點功能。";
 
@@ -128,3 +130,7 @@
 "sp_GET_IN_TOUCH" = "取得聯繫";
 "sp_INFO" = "若你有任何問題、請求、願意協助翻譯 seng ，或是想要讓你的外掛相容於 seng 的開發者，歡迎隨時發送 Email 給我";
 "sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "減少動態效果";
+"rm_FOOTER" = "你已啟用減少動態效果，Seng 將會修改動態特效來適應其功能，因此一些功能將無法使用：手勢動畫會被停用、「回到主畫面」的動態效果以淡出效果取代";
