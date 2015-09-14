@@ -116,7 +116,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "兼容性问题";
-"sp_COMPAT_FOOTER" = "一些已知的插件不与seng兼容, 如果您有问题可以尝试先禁用或卸载这些插件:\n- CCControls\n- Speed Intensifier";
+"sp_COMPAT_FOOTER" = "一些已知的插件不与seng兼容, 如果您有问题可以尝试先禁用或卸载这些插件:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "亮度滑块失效";
 "sp_BRIGHTNESS_FOOTER" = "目前已知SimpleCenters会影响生的亮度滑块功能. 为了解决这个问题请禁用SimpleCenters所有亮度滑块选项.";
 "sp_GET_IN_TOUCH" = "取得联系";

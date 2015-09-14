@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problemi di compatibilità";
-"sp_COMPAT_FOOTER" = "Alcuni tweak sono incompatibili con seng, se stai riscontrando problemi prova innanzitutto a disabilitare o rimuovere questi:\n- CCControls\n- Speed Intensifier";
+"sp_COMPAT_FOOTER" = "Alcuni tweak sono incompatibili con seng, se stai riscontrando problemi prova innanzitutto a disabilitare o rimuovere questi:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Crash dello slider della luminosità";
 "sp_BRIGHTNESS_FOOTER" = "C'è un problema noto con SimpleCenters che si verifica modificando la luminosità dallo slider apposito in seng. Per risolvere il problema, disabilita tutte le opzioni relative allo slider della luminosità in SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Contatti";

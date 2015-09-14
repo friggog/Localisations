@@ -122,7 +122,7 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "相容性問題";
-"sp_COMPAT_FOOTER" = "目前已知有些外掛程式無法與 seng 相容，若你使用上遇到問題請先試著關閉或移除這些外掛程式：\n CCControls\n- Speed Intensifier";
+"sp_COMPAT_FOOTER" = "目前已知有些外掛程式無法與 seng 相容，若你使用上遇到問題請先試著關閉或移除這些外掛程式：\n CCControls";
 "sp_BRIGHTNESS_TITLE" = "亮度滑桿失效";
 "sp_BRIGHTNESS_FOOTER" = "目前已知 SimpleCenters 會影響 seng 的亮度滑桿功能，請先在 SimpleCenters 中關閉任何亮度滑桿選項來修復此功能";
 "sp_GET_IN_TOUCH" = "取得聯繫";
