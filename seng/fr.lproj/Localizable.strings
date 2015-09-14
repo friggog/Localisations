@@ -1,0 +1,136 @@
+/* in tweak labels */
+"tw_HOME" = "Acceuil";
+"tw_ACTION_MENU" = "Menu";
+"tw_SHUT_DOWN" = "Éteindre";
+"tw_REBOOT" = "Redémarrer";
+"tw_SAFE_MODE" = "Safe Mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Quitter toutes les apps";
+"tw_CANCEL" = "Annuler";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multi-tâche";
+"HOT_CORNERS" = "Défilement Rapide";
+"OTHER" = "Autres Options";
+"SUPPORT" = "Aide";
+
+/* multi centre page */
+"mc_ENABLED" = "Activé";
+"mc_CONTROL_SECTIONS_TITLE" = "Sections de Contrôles";
+"mc_TOP" = "Haut";
+"mc_BOTTOM" = "Bas";
+"mc_CONTROL_SECTIONS_FOOTER" = "Les contrôles inclus en haut et en bas de la vue du multi-tâche de Seng.";
+"mc_ICON_STYLE_TITLE" = "Affichage de l'Icône";
+"mc_ICON_STYLE_FOOTER" = "Cette option détermine l'affichage de l'icône dans le multi-tâche.";
+"mc_ICON_STYLE_STANDARD" = "Standard";
+"mc_ICON_STYLE_OVERLAPPED" = "Superposé";
+"mc_ICON_STYLE_HIDDEN" = "Caché";
+"mc_GESTURE_ANIMATIONS" = "Gestes d'Animations";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Si activé, les animations seront standardes (comme le centre de contrôle/centre de notifiaction) pendant l'activation et la désactivation du multitâche.\nOblige Ouvrir à l'Application Actuelle à être activée";
+"mc_OPEN_TO_CURRENT" = "Ouvrir à l'application actuelle";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Si activé, le multitâche s'ouvrira sur l'application actuellement utilisé, plutôt que la dernière application ouverte.";
+"mc_INCLUDED_SECTIONS" = "Inclus";
+"mc_EXCLUDED_SECTIONS" = "Exclus";
+
+/* hot corners page */
+"hc_ACTIONS_FOOTER" = "Glisser vers le haut depuis les angles du bas de l'écran auront les effets suivants.";
+"hc_LEFT_ACTION" = "Glisser Depuis Gauche";
+"hc_RIGHT_ACTION" = "Glisser Depuis Droite";
+"hc_GO_TO_HOME_SCREEN" = "Aller au Springboard";
+"hc_QUICK_SWITCHER" = "Défilement Rapide";
+"hc_NONE" = "Aucun";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Aller au Springboard' est activé, faire ce geste depuis le Springboard vérouillera l'appareil.\nSi 'Animation simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défault.";
+"hc_LOCK_FROM_HOME" = "Vérouillé Depuis le Springboard";
+"hc_SIMPLE_HOME" = "Animation Simple";
+"hc_ALT_QUICK_SWITCHER" = "Style Alternatif";
+"hc_QUICK_SWITCHER_FOOTER" = "Le style alternatif ressemble au défilement rapide de Tage, tandis que le standard ressemble plus à celui d'Auxo.";
+"hc_GESTURE_TOLERANCE" = "Sensitivté";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Cette option détermine à quelle distance des angles vous pouvez glisser pour activer le défilement rapide.";
+
+/* other prefs page */
+"op_HOME_APP_CARD" = "Aperçu du Springboard";
+"op_SWIPE_UP_FOOTER" = "Cette option determine l'action qui se produit lorsque vous glissez du haut vers le bas depuis l'aperçu du Springboard, comme si vous vouliez le fermer.";
+"op_SWIPE_UP" = "Actions";
+"op_QUIT_ALL_APPS" = "Quitter Toutes Les Apps";
+"op_SHOW_ACTION_MENU" = "Afficher Le Menu";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Vérouiller";
+"op_SHUT_DOWN" = "Éteindre";
+"op_NONE" = "Aucun";
+"op_APP_WHITELIST" = "Liste Blanche";
+"op_CLOSE_NOW_PLAYING" = "Fermer l'Application Musicale";
+"op_DISMISS_AFTER" = "Quitter Le Multi-Tâche Après";
+"op_APPEARANCE" = "Apparence";
+"op_REMOVE_DARK_EFFECT" =  "Enlever Les Effets Sombres";
+"op_HIDE_BG" = "Cacher Le Fond Flouté";
+"op_BEHAVIOUR" = "Autres";
+"op_BEHAVIOUR_FOOTER" = "Si une application est sur liste noire, alors le féfilement rapide ne marchera pas. Le multi-tâche de Senf marchera toujours (si il est activé) mais en paysage, une fenêtre sera affiché avant l'ouverture (comme le contrôle center par défault).";
+"op_BLACKLIST" = "Liste Noire";
+
+/* people view page */
+"pv_INFO" = "Infos";
+"pv_INFO_FOOTER" = "Pour que la section 'Favoris' marche correctement, vous devez d'abord une ou plusieurs des options dans Réglages > Mal, Contactes & Calendriers > Afficher dans le multi-tache.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Afficher Seulement Quand Utilisé";
+"mv_HIDE_WHEN_PLAYING" = "Caché Quand Utilisé";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Caché Quand Indisponible";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Horizontale";
+"sv_VERTICAL" = "Verticale";
+"sv_RESETS_TO_FIRST" = "Retour à La Première Page";
+"sv_RESET_TO_FIRST_FOOTER" = "'Retour à La Première Page' repositionnera le 'défileur' à la première page chaque fois que vous rouvrirez le multi-tâche.";
+"sv_INCLUDED_SECTIONS" = "Inclus";
+"sv_EXCLUDED_SECTIONS" = "Exclus";
+"sv_SCROLLING_STYLE" = "Style du défilement";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Volume";
+"st_BRIGHTNESS" = "Luminosité";
+"st_SMALL_SCROLL" = "Petit défileur";
+"st_BIG_SCROLL" = "Gros défileur";
+"st_DEFAULT_MEDIA" = "Controle Des Médias Standard";
+"st_TOGGLES" = "Toggles";
+"st_QUICK_LAUNCH" = "Lancement Rapide";
+"st_MEDIA_TITLES" = "Titre Du Média";
+"st_MEDIA_BUTTONS" = "Action Pour Le Média";
+"st_MEDIA_SCRUBBER" = "Media Scrubber";
+"st_PEOPLE" = "Contacts Favoris";
+
+/* alerts */
+"al_ENTER_VALUE" = "Entrez une valeure entre %.01f Et %.01f s'il vous plaît.";
+"al_ENTER" = "Entrer";
+"al_CANCEL" = "Annuler";
+"al_NEGATE" = "Negate";
+"al_POINT" = "Point";
+"al_ERROR" = "Erreur";
+"al_VALID_VALE" = "Assurez vous d'avoir rentré une valeure correct s'il vous plaît.";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "Impossible d'envoyer un Tweet pour le moment. Réessayez ultièrement.";
+"al_EMAIL_ERROR" = "Impossible d'envoyer un mail pour le moment. Réessayez ultièrement.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "J'utilise Seng (de @friggog) pour naviguer entre mes apps <3 !";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "Applications Système";
+"el_USER_APPLICATIONS" = "Applications Personelles";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Problème de compatibilité";
+"sp_COMPAT_FOOTER" = "Certains tweaks sont connus pour être incompatible avec Seng, si vous rencontrez des problèmes, essayez de désactiver ou désinstaller ceux la en premier:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Crash Slider De Luminosité";
+"sp_BRIGHTNESS_FOOTER" = "Un bug est connu avec SimpleCenters lorsque l'on ajuste la luminosité avec Seng. Pour le résoudre, désactivez toutes les options concernant la luminosité dans SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Restons En Contact";
+"sp_INFO" = "Si vous rencontrez d'autres problèmes, avez des suggestions, ou voulez aider pour les traductions ou êtes un développeur et voulez ajouter la compatibilité de vos tweaks, n'hésitez pas à me contacter par Mail.";
+"sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Animation Réduite";
+"rm_FOOTER" = "Vous avez actuellement activé 'Reduire les animations'. Seng va modifié ces animations pour s'adapter au mieux, mais certaines options ne seront plus disponibles.";
