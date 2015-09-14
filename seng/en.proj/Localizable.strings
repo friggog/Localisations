@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation.";
 "hc_LOCK_FROM_HOME" = "Lock From Home";
 "hc_SIMPLE_HOME" = "Simple Home Animation";
+"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
 "hc_GESTURE_TOLERANCE" = "Gesture Tolerance";
 "hc_GESTURE_TOLERANCE_FOOTER" = "This determines how far in from the corners you can swipe to activate the hot corners functionality.";
 
