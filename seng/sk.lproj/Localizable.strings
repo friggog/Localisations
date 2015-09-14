@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia.";
 "hc_LOCK_FROM_HOME" = "Zamknúť z plochy";
 "hc_SIMPLE_HOME" = "Jednoduchšia animácia";
+"hc_ALT_QUICK_SWITCHER" = "Alternatívny štýl";
+"hc_QUICK_SWITCHER_FOOTER" = "'Alternatívny štýl' sa správa ako Rýchly prepínač v doplnku Tage, zatiaľ čo štandardný je viac ako Rýchly prepínač v Auxo.";
 "hc_GESTURE_TOLERANCE" = "Tolerancia gest";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavenie determinuje ako ďaleko od rohu bude gesto funkčné.";
 
@@ -122,9 +124,13 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problémy s kompatibilitou";
-"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls\n- Speed Intensifier";
+"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Posuvník Jasu zhavaroval";
 "sp_BRIGHTNESS_FOOTER" = "Známa chyba nastáva pri nastavovaní jasu v Seng-u, ak máte nainštalovaný SimpleCenters. Na opravu tejto chyby vypnite všetky nastavenia 'Posuvníka Jasu' v SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Skontaktovať";
 "sp_INFO" = "Ak máte nejaké ďaľšie problémy, žiadosti, chcete pomôcť s prekladom alebo ste vývojár a chcete pridať kompatibilitu so svojím doplnkom, neváhajte ma kontaktovať na e-mail.";
 "sp_EMAIL" = "E-mail";
+
+/* reduce motion */
+"rm_TITLE" = "Obmedziť pohyb";
+"rm_FOOTER" = "Momentálne máte zapnutú funkciu 'Obmedziť pohyb'. Seng modifikuje svoje animácie aby sa tomu čo najlepšie prispôsobil, teda niektoré možnosti nebudú dostupné. 'Animácia gesta' bude vypnutá a animácia 'Prejsť na plochu' bude nahradená plynulým prechodom.";
