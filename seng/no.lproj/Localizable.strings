@@ -13,7 +13,7 @@
 /* main page */
 "MULTI_CENTRE" = "Multisenter";
 "HOT_CORNERS" = "Hurtighjørner";
-"OTHER" = "Andre instillinger";
+"OTHER" = "Andre Instillinger";
 "SUPPORT" = "Hjelp";
 
 /* multi centre page */
@@ -28,7 +28,7 @@
 "mc_ICON_STYLE_OVERLAPPED" = "Overlappet";
 "mc_ICON_STYLE_HIDDEN" = "Skjult";
 "mc_GESTURE_ANIMATIONS" = "Bevegelsesanimasjoner";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Om aktivert, vil animasjonene ved åpning og lukking av appveksleren, bli styrt av bevegelse (som standar Kontroll-/Varslingssenter). Aktiverer automatisk Åpne til aktiv app.";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Om aktivert, vil animasjonene ved åpning og lukking av appveksleren, bli styrt av bevegelse (som standar Kontroll-/Varslingssenter). Aktiverer automatisk 'Åpne til aktiv app'.";
 "mc_OPEN_TO_CURRENT" = "Åpne til aktiv app";
 "mc_OPEN_TO_CURRENT_FOOTER" = "Om denne er aktivert vil appveksleren åpnes til den aktive appen, i stedet for den forrige appen";
 "mc_INCLUDED_SECTIONS" = "Inkludert";
@@ -49,8 +49,8 @@
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Hjemskjerm appkort";
-"op_SWIPE_UP_FOOTER" = "Dette er handlingen når du sveiper opp på hjemskjerm appkortet, som for å lukke det.";
-"op_SWIPE_UP" = "Sveip opp handling";
+"op_SWIPE_UP_FOOTER" = "Dette er handlingen når du sveiper opp appkortet på hjemskjermen, som for å lukke det.";
+"op_SWIPE_UP" = "Sveip Opp Handling";
 "op_QUIT_ALL_APPS" = "Avslutt Alle Apper";
 "op_SHOW_ACTION_MENU" = "Vis Handlingsmeny";
 "op_RESPRING" = "Respring";
@@ -58,7 +58,7 @@
 "op_SHUT_DOWN" = "Skru Av";
 "op_NONE" = "Ingenting";
 "op_APP_WHITELIST" = "Hvitlistede apper";
-"op_CLOSE_NOW_PLAYING" = "Lukk spillende app";
+"op_CLOSE_NOW_PLAYING" = "Lukk Spillende App";
 "op_DISMISS_AFTER" = "Lukk Appveksler Etterpå";
 "op_APPEARANCE" = "Visning";
 "op_REMOVE_DARK_EFFECT" =  "Fjern mørke seksjoner";
@@ -69,7 +69,7 @@
 
 /* people view page */
 "pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "For at kontaktseksjonen til å vises riktig, må du aktivere én eller begge av valgenen i Innstillinger > Mail, Kontaker & Kalender > Vis i Appveksler.";
+"pv_INFO_FOOTER" = "For at kontaktseksjonen skal vises riktig, må du aktivere én eller begge av valgene i Innstillinger > Mail, Kontaker & Kalender > Vis i Appveksler.";
 
 /* media view pages */
 "mv_SHOW_WHEN_PLAYING" = "Vis kun når musikk spilles";
@@ -85,7 +85,7 @@
 "sv_RESET_TO_FIRST_FOOTER" = "'Reset til første side' vil vise den første siden når du åpner appvelgeren";
 "sv_INCLUDED_SECTIONS" = "Inkluderte Seksjoner";
 "sv_EXCLUDED_SECTIONS" = "Ekskluderte Seksjoner";
-"sv_SCROLLING_STYLE" = "Skrolle Stil";
+"sv_SCROLLING_STYLE" = "Skrollestil";
 
 /* section titles */
 "st_AIR_STUFF" = "AirDrop & AirPlay";
@@ -111,20 +111,20 @@
 "al_VALID_VALE" = "Vennligst se om du har skrevet inn et gyldig tall.";
 "al_OK" = "OK";
 "al_TWEET_ERROR" = "Klarte ikke tweete på dette tidspunktet.";
-"al_EMAIL_ERROR" = "Det virker som du ikke er i stand til å sende email.";
+"al_EMAIL_ERROR" = "Det virker som du ikke kan sende denne eposten.";
 
 /* twitter */
 "TWITTER_MESSAGE" = "Jeg bruker seng (av @friggog) for å bytte apper med stil!";
 
 /* blacklist/whitelist section titles */
 "el_SYSTEM_APPLICATIONS" = "System Applikasjoner";
-"el_USER_APPLICATIONS" = "User Applikasjoner";
+"el_USER_APPLICATIONS" = "Bruker Applikasjoner";
 
 /* support page */
 "sp_COMPAT_TITLE" = "Kompatibilitetsproblemer";
-"sp_COMPAT_FOOTER" = "Noen tweaks er kjent for å være inkompatible med seng, hvis du har problemer Forsøk å deaktivere eller fjerne disse først:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Lysstyrke Slider Krasj";
-"sp_BRIGHTNESS_FOOTER" = "Det er et kjent problem med SimpleCenters når du justerer lysstyrke slideren i seng. For å fikse dette deaktiver alle lysstyrkeslider-alternativene i SimpleCenters.";
+"sp_COMPAT_FOOTER" = "Noen tweaks er kjent for å være inkompatible med seng, hvis du har problemer forsøk å deaktivere eller fjerne disse først:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Lysstyrkeslider Krasj";
+"sp_BRIGHTNESS_FOOTER" = "Det er et kjent problem med SimpleCenters når du justerer lysstyrkeslideren i seng. For å fikse dette deaktiver alle lysstyrkeslider-alternativene i SimpleCenters.";
 "sp_GET_IN_TOUCH" = "Ta kontakt";
 "sp_INFO" = "Hvis du har andre spørsmål, forespørsler, ønsker å hjelpe til med oversettelse eller er en utvikler og ønsker å legge til kompatibilitet for en tweak, ikke nøl med å sende meg en epost.";
 "sp_EMAIL" = "Epost";
