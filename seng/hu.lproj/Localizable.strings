@@ -44,10 +44,13 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor.";
 "hc_LOCK_FROM_HOME" = "Főképernyőn lezárás";
 "hc_SIMPLE_HOME" = "Egyszerűsített animáció";
+"hc_ALT_QUICK_SWITCHER" = "Alternatív kinézet használata";
+"hc_QUICK_SWITCHER_FOOTER" = "Az alternatív stílus úgy viselkedik mint a Tage gyors váltója, amig a sztenderd jobban hasonlít az Auxo-ra.";
 "hc_GESTURE_TOLERANCE" = "Gesztus tolerancia";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Ez az érték adja meg, hogy a sarkoktól milyen messzire tudod aktiválni az adott funkciót.";
 
 /* other prefs page */
+"op_HOME_APP_CARD" = "Főképernyő alkalmazáskártya";
 "op_SWIPE_UP_FOOTER" = "Ez a lehetőség fog aktiválódni, amikor a Főképernyő kártyáját húzod fel.";
 "op_SWIPE_UP" = "Főképernyő fel gesztus";
 "op_QUIT_ALL_APPS" = "Minden alkalmazás bezárása";
@@ -97,6 +100,7 @@
 "st_QUICK_LAUNCH" = "Gyorsgombok";
 "st_MEDIA_TITLES" = "Játszott média címe";
 "st_MEDIA_BUTTONS" = "Médiakezelő gombok";
+"st_MEDIA_SCRUBBER" = "Médiacsúszka";
 "st_PEOPLE" = "Kedvenc kontaktok";
 
 /* alerts */
