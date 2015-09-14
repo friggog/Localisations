@@ -133,4 +133,4 @@
 
 /* reduce motion */
 "rm_TITLE" = "Kurangi Gerakan";
-"rm_FOOTER" = "Anda sekarang sedang menggunakan mode Kurangi Gerakan (di bagian Aksesibilitas). Seng akan memodifikasi animasi bawaan dengan animasi terbaik yang telah disediakan, maka dari itu beberapa pengaturan tidak tersedia dalam mode ini. Gerakan Animasi otomatis menjadi tidak aktif dan animasi "Kembali Ke Layar Utama" akan diganti dengan animasi memudar secara halus.";
+"rm_FOOTER" = "Anda sekarang sedang menggunakan mode Kurangi Gerakan (di bagian Aksesibilitas). Seng akan memodifikasi animasi bawaan dengan animasi terbaik yang telah disediakan, maka dari itu beberapa pengaturan tidak tersedia dalam mode ini. Gerakan Animasi otomatis menjadi tidak aktif dan animasi \"Kembali Ke Layar Utama\" akan diganti dengan animasi memudar secara halus.";
