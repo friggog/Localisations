@@ -44,6 +44,8 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Mengunci dari Layar Utama' diaktifkan, maka anda dapat mengunci peranti di Layar Utama dengan cara menyeret layar dari pojok kanan bawah ke atas.\nJika 'Animasi Menutup App yang Simpel' diaktifkan, maka animasi menutup App bawaan sistem akan digantikan oleh animasi menutup App secara vertikal yang simpel.";
 "hc_LOCK_FROM_HOME" = "Mengunci dari Layar Utama";
 "hc_SIMPLE_HOME" = "Animasi Menutup App yang Simpel";
+"hc_ALT_QUICK_SWITCHER" = "Tampilan Alternatif Pengalih Cepat";
+"hc_QUICK_SWITCHER_FOOTER" = "Tampilan alternatif seperti tampilan Pengalih Cepat di tweak Tage, jika non aktif tampilan standarnya lebih mirip Pengalih Cepat Auxo.";
 "hc_GESTURE_TOLERANCE" = "Toleransi Kepekaan Geseran";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Pengaturan ini menetapkan seberapa peka sudut yang anda geser untuk mengaktifkan fungsi Hot Corners.";
 
@@ -128,3 +130,7 @@
 "sp_GET_IN_TOUCH" = "Tetap Berkomunikasi";
 "sp_INFO" = "Jika anda mempunyai masalah-masalah lain, permintaan, ingin membantu menerjemahkan atau seorang developer dan ingin menambahkan kompatibilitas untuk tweak anda, jangan ragu untuk mengirim email kepada saya.";
 "sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Kurangi Gerakan";
+"rm_FOOTER" = "Anda sekarang sedang menggunakan mode Kurangi Gerakan (di bagian Aksesibilitas). Seng akan memodifikasi animasi bawaan dengan animasi terbaik yang telah disediakan, maka dari itu beberapa pengaturan tidak tersedia dalam mode ini. Gerakan Animasi otomatis menjadi tidak aktif dan animasi "Kembali Ke Layar Utama" akan diganti dengan animasi memudar secara halus.";
