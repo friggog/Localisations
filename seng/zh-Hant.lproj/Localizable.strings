@@ -45,7 +45,7 @@
 "hc_LOCK_FROM_HOME" = "從主畫面鎖定";
 "hc_SIMPLE_HOME" = "簡單動畫";
 "hc_ALT_QUICK_SWITCHER" = "使用替代樣式";
-"hc_QUICK_SWITCHER_FOOTER" = "替代樣式的效果類似於 tage 的 Quick Switcher，預設樣式則類似於 Auxo 的效果";
+"hc_QUICK_SWITCHER_FOOTER" = "替代樣式的效果類似於 Tage 的 Quick Switcher，預設樣式則類似於 Auxo 的效果";
 "hc_GESTURE_TOLERANCE" = "手勢容許範圍";
 "hc_GESTURE_TOLERANCE_FOOTER" = "調整離角落多少距離內可觸發熱點功能。";
 
