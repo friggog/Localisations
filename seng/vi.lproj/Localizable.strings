@@ -1,0 +1,114 @@
+/* in tweak labels */
+"tw_HOME" = "Màn Hình Chủ";
+"tw_ACTION_MENU" = "Thao Tác";
+"tw_SHUT_DOWN" = "Tắt Nguồn";
+"tw_REBOOT" = "Khởi Động Lại";
+"tw_SAFE_MODE" = "Safe Mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Thoát Hết Ứng Dụng";
+"tw_CANCEL" = "Huỷ";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Trung Tâm Chung";
+"HOT_CORNERS" = "Góc Nóng";
+"OTHER" = "Tuỳ Chọn Khác";
+"SUPPORT" = "Hỗ Trợ";
+
+/* multi centre page */
+"mc_ENABLED" = "Bật";
+"mc_CONTROL_SECTIONS_TITLE" = "Các Mục Điều Khiển";
+"mc_TOP" = "Trên";
+"mc_BOTTOM" = "Dưới";
+"mc_CONTROL_SECTIONS_FOOTER" = "Các mục điều khiển bao gồm các trung tâm trên và dưới của seng.";
+"mc_ICON_STYLE_TITLE" = "Kiểu Biểu Tượng";
+"mc_ICON_STYLE_FOOTER" = "Kiểu biểu tượng ở thanh đa nhiệm.";
+"mc_ICON_STYLE_STANDARD" = "Thường";
+"mc_ICON_STYLE_OVERLAPPED" = "Che Phủ";
+"mc_ICON_STYLE_HIDDEN" = "Ẩn";
+"mc_GESTURE_ANIMATIONS" = "Chuyển Động Thao Tác";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Nếu bật chuyển động khi kích hoạt đa nhiệm s điều khiển được chuyển động (như là Trung Tâm Thông Báo/Điều Khiển gốc).\Ép Mở ở Ứng Dụng Hiện Tại được bật.";
+"mc_OPEN_TO_CURRENT" = "Mở ở Ứng DỤng Hiện Tại";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Nếu kích hoạt thì đa nhiệm sẽ được mở tại ứng dụng đang chạy, không phải tại ứng dụng mới nhất.";
+"mc_INCLUDED_SECTIONS" = "Bao Gồm";
+"mc_EXCLUDED_SECTIONS" = "Không Bao Gồm";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Kéo từ góc dưới màn hình sẽ kích hoạt tác vụ.";
+"hc_LEFT_ACTION" = "Trái";
+"hc_RIGHT_ACTION" = "Phải";
+"hc_GO_TO_HOME_SCREEN" = "Về Màn Hình Chủ";
+"hc_QUICK_SWITCHER" = "Đa Nhiệm Nhanh";
+"hc_NONE" = "Không";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Nếu ‘Khoá Từ Home' được bật, làm thao tác này ở màn hình chủ sẽ khoá máy.\nNếu ‘Hiệu Ứng Về Home Đơn Giản' được bật một hiệu ứng vuốt lên đơn giản sẽ được thay thế cho chuyển động gốc.";
+"hc_LOCK_FROM_HOME" = "Khoá Từ Home";
+"hc_SIMPLE_HOME" = "Hiệu Ứng Về Home Đơn Giản";
+"hc_GESTURE_TOLERANCE" = "Sai Số Thao Tác";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Nó xác định ban vuốt lên bao xa từ góc để kích hoạt tính năng góc nóng.";
+
+/* other prefs page */
+"op_SWIPE_UP_FOOTER" = "Đây là hành động sẽ xảy ra khi bạn vuốt lên từ thẻ màn hình chủ, như để tắt nó.";
+"op_SWIPE_UP" = "Hành Động Vuốt Lên MHC";
+"op_QUIT_ALL_APPS" = "Thoát Hết Ứng Dụng";
+"op_SHOW_ACTION_MENU" = "Hiện Menu Các Hành Động";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Khoá";
+"op_SHUT_DOWN" = "Tắt Máy";
+"op_APP_WHITELIST" = "Danh Sách Trắng Ứng Dụng";
+"op_CLOSE_NOW_PLAYING" = "Thoát Ứng Dụng Đang Chạy";
+"op_DISMISS_AFTER" = "Tắt Đa Nhiệm Sau";
+"op_APPEARANCE" = "Giao Diện";
+"op_REMOVE_DARK_EFFECT" =  "Bỏ Hiệu Ứng Cắt Đen";
+"op_HIDE_BG" = "Ẩn Nền Mờ";
+"op_BEHAVIOUR" = "Cách Xử Lý";
+"op_BEHAVIOUR_FOOTER" = "Néu seng được cho vào danh sách đen trong 1 ứng dụng thì góc nóng sẽ không dùng được. Trung tâm chung của seng sẽ vẫn dùng được (nếu bật) nhưng nếu nó là ứng dụng toàn màn hình thì một bảng sẽ hiện lên trước khi mở (như là trung tâm điều khiển gốc).";
+"op_BLACKLIST" = "Danh Sách Đen";
+
+/* people view page */
+"pv_INFO" = "Thông Tin";
+"pv_INFO_FOOTER" = "Để cho thông tin mọi người hiện lên chính xác bạn phải bật một hoặc tất cả các lựa chọn sau trong Cài Đặt > Mail, Danh Bạ & Lịch > Hiện Trong Đa Nhiệm.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Chỉ Hiện Khi Đang Chơi";
+"mv_HIDE_WHEN_PLAYING" = "Ẩn Khi Đang Chơi";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Ẩn Khi Không Khả Dụng";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Chiều Ngang";
+"sv_VERTICAL" = "Chiều Dọc";
+"sv_RESETS_TO_FIRST" = "Về Trang Nhất";
+"sv_RESET_TO_FIRST_FOOTER" = "’Về Trang Nhất' sẽ đặt về trang nhất khi bạn mở đa nhiệm.";
+"sv_INCLUDED_SECTIONS" = "Có Phân Chia";
+"sv_EXCLUDED_SECTIONS" = "không Phân Chia";
+"sv_SCROLLING_STYLE" = "Kiểu Cuộn";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Thanh Volume";
+"st_BRIGHTNESS" = "Thanh Độ Sáng";
+"st_SMALL_SCROLL" = "Hiển Thị Nhỏ";
+"st_BIG_SCROLL" = "Hiển Thị To";
+"st_DEFAULT_MEDIA" = "Điểu Khiện Media Mặc Định";
+"st_TOGGLES" = "Các Nút Toggle";
+"st_QUICK_LAUNCH" = "Các Nút Mở Nhanh";
+"st_MEDIA_TITLES" = "Hiển Thi Media Dạng Ô";
+"st_MEDIA_BUTTONS" = "Các Nút Media";
+"st_PEOPLE" = "Danh Bạ Yêu Thích";
+
+/* alerts */
+"al_ENTER_VALUE" = "Hãy nhập giá trị giữa %.01f và %.01f.";
+"al_ENTER" = "Nhập";
+"al_CANCEL" = "Huỷ";
+"al_NEGATE" = "Phủ Định";
+"al_POINT" = "Điểm";
+"al_ERROR" = "Lỗi";
+"al_VALID_VALE" = "Hãy chắc bạn đã nhập giá trị thích hợp.";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "Không thể tweet lúc này.";
+"al_EMAIL_ERROR" = "Dường như bạn không thể gửi mail.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "Tôi đang dùng seng (của @friggog) để chuyển ứng dụng thật phong cách!";
