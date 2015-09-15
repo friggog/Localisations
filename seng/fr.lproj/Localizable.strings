@@ -12,7 +12,7 @@
 /* \n represents a new line, just leave them alone */
 /* main page */
 "MULTI_CENTRE" = "Multi-tâche";
-"HOT_CORNERS" = "Défilement Rapide";
+"HOT_CORNERS" = "Gestes de Glisser";
 "OTHER" = "Autres Options";
 "SUPPORT" = "Aide";
 
@@ -21,16 +21,16 @@
 "mc_CONTROL_SECTIONS_TITLE" = "Sections de Contrôles";
 "mc_TOP" = "Haut";
 "mc_BOTTOM" = "Bas";
-"mc_CONTROL_SECTIONS_FOOTER" = "Les contrôles inclus en haut et en bas de la vue du multi-tâche de Seng.";
+"mc_CONTROL_SECTIONS_FOOTER" = "Contrôles inclus en haut et en bas de la vue du multi-tâche de Seng.";
 "mc_ICON_STYLE_TITLE" = "Affichage de l'Icône";
 "mc_ICON_STYLE_FOOTER" = "Cette option détermine l'affichage de l'icône dans le multi-tâche.";
 "mc_ICON_STYLE_STANDARD" = "Standard";
 "mc_ICON_STYLE_OVERLAPPED" = "Superposé";
 "mc_ICON_STYLE_HIDDEN" = "Caché";
 "mc_GESTURE_ANIMATIONS" = "Gestes d'Animations";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Si activé, les animations seront standard (comme le centre de contrôle/centre de notifications) pendant l'activation et la désactivation du multitâche.\nOblige Ouvrir à l'Application Actuelle à être activée";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Si activé, les animations seront standard (comme le centre de contrôle/centre de notifications) pendant l'activation et la désactivation du multitâche.\nOblige \"Ouvrir à l'Application Actuelle\" à être activée";
 "mc_OPEN_TO_CURRENT" = "Ouvrir à l'application actuelle";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Si activé, le multitâche s'ouvrira sur l'application actuellement utilisé, plutôt que la dernière application ouverte.";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Si activé, le multitâche s'ouvrira sur l’application en cours d’utilisation, plutôt que la dernière application ouverte.";
 "mc_INCLUDED_SECTIONS" = "Inclus";
 "mc_EXCLUDED_SECTIONS" = "Exclus";
 
@@ -38,12 +38,12 @@
 "hc_ACTIONS_FOOTER" = "Glisser vers le haut depuis les angles du bas de l'écran auront les effets suivants.";
 "hc_LEFT_ACTION" = "Glisser Depuis Gauche";
 "hc_RIGHT_ACTION" = "Glisser Depuis Droite";
-"hc_CLOSE_APP" = "Fermer l'App";
-"hc_QUIT_APP" = "Quitter l'App";
+"hc_CLOSE_APP" = "Fermer App";
+"hc_QUIT_APP" = "Quitter App";
 "hc_QUICK_SWITCHER" = "Défilement Rapide";
 "hc_NONE" = "Aucun";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Aller a l’écran d’accueil' est activé, faire ce geste depuis le Springboard verrouillera l'appareil.\nSi 'Animation simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut.";
-"hc_LOCK_FROM_HOME" = "Verrouiller Depuis le Springboard";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si ‘Verrouiller depuis le SpringBoard’ est activé, glisser depuis le bas droit verrouillera l'appareil.\nSi 'Animation Simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut.";
+"hc_LOCK_FROM_HOME" = "Verrouiller Depuis le SpringBoard";
 "hc_SIMPLE_HOME" = "Animation Simple";
 "hc_ALT_QUICK_SWITCHER" = "Style Alternatif";
 "hc_QUICK_SWITCHER_FOOTER" = "Le style alternatif ressemble au défilement rapide de Tage, tandis que le standard ressemble plus à celui d'Auxo.";
@@ -52,7 +52,7 @@
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Aperçu du SpringBoard";
-"op_SWIPE_UP_FOOTER" = "Cette option determine l'action qui se produit lorsque vous glissez du haut vers le bas depuis l'aperçu du SpringBoard, comme si vous vouliez le fermer.";
+"op_SWIPE_UP_FOOTER" = "Cette option determine l'action qui se produit lorsque vous glissez du haut vers le bas depuis l'aperçu du Multi-tâches, comme si vous vouliez le fermer.";
 "op_SWIPE_UP" = "Actions";
 "op_QUIT_ALL_APPS" = "Quitter Toutes Les Apps";
 "op_SHOW_ACTION_MENU" = "Afficher Le Menu";
@@ -62,9 +62,9 @@
 "op_NONE" = "Aucun";
 "op_APP_WHITELIST" = "Liste Blanche";
 "op_CLOSE_NOW_PLAYING" = "Fermer l'Application Musique";
-"op_DISMISS_AFTER" = "Quitter Le Multi-Tâches Après";
+"op_DISMISS_AFTER" = "Revenir sur le SpringBoard";
 "op_APPEARANCE" = "Apparence";
-"op_REMOVE_DARK_EFFECT" =  "Enlever Les Effets Sombres";
+"op_REMOVE_DARK_EFFECT" =  "Enlever L’effet Sombre";
 "op_HIDE_BG" = "Cacher Le Fond Floué";
 "op_BEHAVIOUR" = "Autres";
 "op_BEHAVIOUR_FOOTER" = "Si une application est sur liste noire, alors le défilement rapide ne marchera pas. Le multi-tâche de Seng marchera toujours (si il est activé) mais en paysage, une fenêtre sera affiché avant l'ouverture (comme le centre de contrôle par défaut).";
@@ -100,7 +100,7 @@
 "st_TOGGLES" = "Toggles";
 "st_QUICK_LAUNCH" = "Lancement Rapide";
 "st_MEDIA_TITLES" = "Titre Du Média";
-"st_MEDIA_BUTTONS" = "Action Pour Le Média";
+"st_MEDIA_BUTTONS" = "Bouttons Média";
 "st_MEDIA_SCRUBBER" = "Media Scrubber";
 "st_PEOPLE" = "Contacts Favoris";
 
@@ -108,13 +108,13 @@
 "al_ENTER_VALUE" = "Entrez une valeur comprise entre %.01f Et %.01f s'il vous plaît.";
 "al_ENTER" = "Entrer";
 "al_CANCEL" = "Annuler";
-"al_NEGATE" = "Negate";
+"al_NEGATE" = "Négatif";
 "al_POINT" = "Point";
 "al_ERROR" = "Erreur";
 "al_VALID_VALE" = "Assurez vous d'avoir rentré une valeur correct s'il vous plaît.";
 "al_OK" = "OK";
-"al_TWEET_ERROR" = "Impossible d'envoyer un Tweet pour le moment. Réessayez ultèrieurement.";
-"al_EMAIL_ERROR" = "Impossible d'envoyer un mail pour le moment. Réessayez ultèrieurement.";
+"al_TWEET_ERROR" = "Impossible d'envoyer un Tweet pour le moment. Réessayez ultérieurement.";
+"al_EMAIL_ERROR" = "Impossible d'envoyer un mail pour le moment. Réessayez ultérieurement.";
 
 /* twitter */
 "TWITTER_MESSAGE" = "J'utilise Seng (de @friggog) pour naviguer entre mes apps <3 !";
@@ -125,10 +125,10 @@
 
 /* support page */
 "sp_COMPAT_TITLE" = "Problème de compatibilité";
-"sp_COMPAT_FOOTER" = "Certains tweaks sont connus pour être incompatible avec Seng, si vous rencontrez des problèmes, désactivé ou supprimé pour commencer:\n- CCControls";
+"sp_COMPAT_FOOTER" = "Certains tweaks sont connus pour être incompatible avec seng, si vous rencontrez des problèmes, désactivé ou supprimé pour commencer:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Crash Barre De Luminosité";
-"sp_BRIGHTNESS_FOOTER" = "Un bug est connu avec SimpleCenters lorsque l'on ajuste la luminosité avec Seng. Pour le résoudre, désactivez toutes les options concernant la luminosité dans SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Restons En Contact";
+"sp_BRIGHTNESS_FOOTER" = "Un bug avec SimpleCenters est connu, lorsque l'on ajuste la luminosité avec Seng. Pour le résoudre, désactivez toutes les options concernant la luminosité dans SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Contact";
 "sp_INFO" = "Si vous rencontrez d'autres problèmes, avez des suggestions, ou voulez aider pour les traductions ou êtes un développeur et voulez ajouter la compatibilité de vos tweaks, n'hésitez pas à me contacter par Mail.";
 "sp_EMAIL" = "Email";
 
