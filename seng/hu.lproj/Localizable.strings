@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "A kijelző alsó sarkaitól felhúzva ezeket érheted el.";
 "hc_LEFT_ACTION" = "Bal oldali lehetőség";
 "hc_RIGHT_ACTION" = "Jobb oldali lehetőség";
-"hc_GO_TO_HOME_SCREEN" = "Vissza a Főképernyőre";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Gyors alkalmazásváltó";
 "hc_NONE" = "Semmi";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor.";

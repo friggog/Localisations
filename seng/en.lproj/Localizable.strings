@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "Dragging up from the screen's bottom corners will invoke the above actions.";
 "hc_LEFT_ACTION" = "Left Action";
 "hc_RIGHT_ACTION" = "Right Action";
-"hc_GO_TO_HOME_SCREEN" = "Go To Home Screen";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "None";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation.";

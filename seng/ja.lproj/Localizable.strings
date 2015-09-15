@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "スクリーン下部の隅から引き上げた時の動作を設定します。";
 "hc_LEFT_ACTION" = "左側の動作";
 "hc_RIGHT_ACTION" = "右側の動作";
-"hc_GO_TO_HOME_SCREEN" = "ホーム画面に戻る";
+"hc_CLOSE_APP" = "のAppを閉じる";
+"hc_QUIT_APP" = "のAppを終了して";
 "hc_QUICK_SWITCHER" = "クイックスイッチャー";
 "hc_NONE" = "何もしない";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "'ホーム画面からロック'を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。\n'シンプルなアニメーション'を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。";

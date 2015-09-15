@@ -38,12 +38,15 @@
 "hc_ACTIONS_FOOTER" = "Dra opp fra skjermens nedre hjørner for å aktivere valgene over.";
 "hc_LEFT_ACTION" = "Venstre Handling";
 "hc_RIGHT_ACTION" = "Høyre Handling";
-"hc_GO_TO_HOME_SCREEN" = "Gå til hjemskjerm";
+"hc_CLOSE_APP" = "Lukk App";
+"hc_QUIT_APP" = "Avslutt App";
 "hc_QUICK_SWITCHER" = "Hurtigvelger";
 "hc_NONE" = "Ingen";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Om 'Lås Fra Hjemskjerm' er aktivert, vil denne handlingen låse enheten. Hvis 'Enkel Hjemanimasjon' er aktivert vil en enklere og vertikal bevegelse bli brukt framfor standar zoomeffekt i iOS.";
 "hc_LOCK_FROM_HOME" = "Lås Fra Hjemskjerm";
 "hc_SIMPLE_HOME" = "Enkel Hjemanimasjon";
+"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
 "hc_GESTURE_TOLERANCE" = "Bevegelsestoleranse";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Dette avgjør hvor langt inn på skjermen du kan sveipe for å aktivere hurtighjørnene";
 
@@ -128,3 +131,7 @@
 "sp_GET_IN_TOUCH" = "Ta kontakt";
 "sp_INFO" = "Hvis du har andre spørsmål, forespørsler, ønsker å hjelpe til med oversettelse eller er en utvikler og ønsker å legge til kompatibilitet for en tweak, ikke nøl med å sende meg en epost.";
 "sp_EMAIL" = "Epost";
+
+/* reduce motion */
+"rm_TITLE" = "Reduce Motion";
+"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";

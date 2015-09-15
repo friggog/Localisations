@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "从屏幕角落向上拖拽即可触发以上动作。";
 "hc_LEFT_ACTION" = "左下角动作区";
 "hc_RIGHT_ACTION" = "右下角动作区";
-"hc_GO_TO_HOME_SCREEN" = "返回主屏幕";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "快速切换";
 "hc_NONE" = "无";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "如果打开“于主屏幕锁定”选项，在主屏幕页使用该手势即可锁定机器。\n如果打开“简洁动画”选项，滚动动画将比系统默认的更加简洁。";

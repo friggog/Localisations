@@ -18,7 +18,8 @@
 "hc_ALT_QUICK_SWITCHER" = "Alternatif Stil";
 "hc_GESTURE_TOLERANCE" = "Hareket Hassasiyeti";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Köşelerin işlevselliğini etkinleştirip kaydırabilir ve ne kadar mesafede etkin olacağını belirliyebirsiniz.";
-"hc_GO_TO_HOME_SCREEN" = "Ana Ekrana Git";
+"hc_CLOSE_APP" = "Uygulama Kapat";
+"hc_QUIT_APP" = "Uygulama Çık";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Eğer \"Ana Ekranda Sağ Köşeden Kilitle\" etkin ise sağ köşeden yukarı sürükleme yaptığınızda ekran kilitlenir. \"Basit Kaydırma Animasyonu\" etkin ise yukarı sürükleme animasyonunu değiştirir.";
 "hc_LEFT_ACTION" = "Sol Köşe Eylemi";
 "hc_LOCK_FROM_HOME" = "Ana Ekranda Sağ Köşeden Kilitle";

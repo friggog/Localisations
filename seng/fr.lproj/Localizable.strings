@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "Glisser vers le haut depuis les angles du bas de l'écran auront les effets suivants.";
 "hc_LEFT_ACTION" = "Glisser Depuis Gauche";
 "hc_RIGHT_ACTION" = "Glisser Depuis Droite";
-"hc_GO_TO_HOME_SCREEN" = "Aller au Springboard";
+"hc_CLOSE_APP" = "Fermer l'App";
+"hc_QUIT_APP" = "Quitter l'App";
 "hc_QUICK_SWITCHER" = "Défilement Rapide";
 "hc_NONE" = "Aucun";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Aller a l’écran d’accueil' est activé, faire ce geste depuis le Springboard verrouillera l'appareil.\nSi 'Animation simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut.";

@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "Tarik dari bucu skrin bawah akan mengaktifkan aksi diatas.";
 "hc_LEFT_ACTION" = "Aksi Kiri";
 "hc_RIGHT_ACTION" = "Aksi Kanan";
-"hc_GO_TO_HOME_SCREEN" = "Pergi ke Skrin Rumah";
+"hc_CLOSE_APP" = "Singkir App";
+"hc_QUIT_APP" = "Tutup App";
 "hc_QUICK_SWITCHER" = "Switcher Pantas";
 "hc_NONE" = "Tiada";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem.";

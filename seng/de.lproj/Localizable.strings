@@ -1,3 +1,4 @@
+/* alerts */
 "al_CANCEL" = "Abbrechen";
 "al_EMAIL_ERROR" = "Es scheint, als könnten Sie keine eMails versenden.";
 "al_ENTER" = "Eingeben";
@@ -8,13 +9,28 @@
 "al_POINT" = "Punkt";
 "al_TWEET_ERROR" = "Unable to tweet at this time.";
 "al_VALID_VALE" = "Bitte stellen Sie sicher, dass Sie einen gültigen Wert eingeben haben.";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"HOT_CORNERS" = "Heiße Ecken";
+"SUPPORT" = "Support";
+"MULTI_CENTRE" = "Multi Center";
+"OTHER" = "Andere Optionen";
+
+/* air stuff page */
 "as_HIDE_WHEN_UNAVAILABLE" = "Ausblenden wenn nicht verfügbar";
+
+/* blacklist/whitelist section titles */
 "el_SYSTEM_APPLICATIONS" = "System Anwendungen";
 "el_USER_APPLICATIONS" = "Benutzer Anwendungen";
+
+/* hot corners pag */
 "hc_ACTIONS_FOOTER" = "Ziehen aus unteren Ecken des Bildschirms, werden die oben genannten Aktionen ausgeführt.";
 "hc_GESTURE_TOLERANCE" = "Gesten Toleranz";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Dies bestimmt, wie weit in den Ecken Sie streichen können, um die heißen Ecken Funktionalität zu aktivieren.";
-"hc_GO_TO_HOME_SCREEN" = "Wechseln zum Home-Bildschirm";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation.";
 "hc_LEFT_ACTION" = "Linke Aktion";
 "hc_LOCK_FROM_HOME" = "Sperren vom Home";
@@ -22,7 +38,10 @@
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_RIGHT_ACTION" = "Rechte Aktion";
 "hc_SIMPLE_HOME" = "Einfache Home Animation";
-"HOT_CORNERS" = "Heiße Ecken";
+"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
+
+/* multi centre page */
 "mc_BOTTOM" = "Unten";
 "mc_CONTROL_SECTIONS_FOOTER" = "Die Steuerungselemente in der oberen und unteren Seng-Multicenter Ansicht anpassen.";
 "mc_CONTROL_SECTIONS_TITLE" = "Steuer Elemente";
@@ -39,9 +58,12 @@
 "mc_OPEN_TO_CURRENT" = "Öffnen zur aktuellen App";
 "mc_OPEN_TO_CURRENT_FOOTER" = "Wenn aktiviert, der App-Switcher öffnet sich bei aktuell geöffneten App, anstatt bei der zuletzt geöffneten App.";
 "mc_TOP" = "Oben";
-"MULTI_CENTRE" = "Multi Center";
+
+/* media view pages */
 "mv_HIDE_WHEN_PLAYING" = "Ausblenden bei der Wiedergabe";
 "mv_SHOW_WHEN_PLAYING" = "Zeigen Sie nur bei der Wiedergabe";
+
+/* other prefs page */
 "op_APP_WHITELIST" = "App Whitelist";
 "op_APPEARANCE" = "Erscheinung";
 "op_BEHAVIOUR" = "Verhalten";
@@ -60,21 +82,26 @@
 "op_SHUT_DOWN" = "Ausschalten";
 "op_SWIPE_UP" = "Schiebe hoch Aktion";
 "op_SWIPE_UP_FOOTER" = "Dies ist die Aktion, die geschieht, wenn Sie auf dem Home-Bildschirm die App-Karte in den Switcher nach oben schieben.";
-"OTHER" = "Andere Optionen";
+
+/* people view page */
 "pv_INFO" = "Info";
 "pv_INFO_FOOTER" = "In order for the people section to correctly show up you must enable one or both of the options in Settings > Mail, Contacts & Calenders > Show In App Switcher.";
+
+/* section titles */
 "st_AIR_STUFF" = "AirDrop & AirPlay";
 "st_BIG_SCROLL" = "Big Scroll View";
 "st_BRIGHTNESS" = "Helligkeiksschieber";
 "st_DEFAULT_MEDIA" = "Standard-Mediensteuerung";
 "st_MEDIA_BUTTONS" = "Media Transport Buttons";
 "st_MEDIA_TITLES" = "Medien Title Anzeige";
+"st_MEDIA_SCRUBBER" = "Media Scrubber";
 "st_PEOPLE" = "Lieblings Kontakte";
 "st_QUICK_LAUNCH" = "Quick Launch Buttons";
 "st_SMALL_SCROLL" = "Small Scroll View";
 "st_TOGGLES" = "Toggle Buttons";
 "st_VOLUME" = "Volume Slider";
-"SUPPORT" = "Support";
+
+/* scroll view pages */
 "sv_EXCLUDED_SECTIONS" = "Excluded Sections";
 "sv_HORIZONTAL" = "Horizontal";
 "sv_INCLUDED_SECTIONS" = "Included Sections";
@@ -82,6 +109,8 @@
 "sv_RESETS_TO_FIRST" = "Reset to First Page";
 "sv_SCROLLING_STYLE" = "Scrolling Style";
 "sv_VERTICAL" = "Vertical";
+
+/* in tweak labels */
 "tw_ACTION_MENU" = "Aktion Menü";
 "tw_CANCEL" = "Abbrechen";
 "tw_HOME" = "Start";
@@ -90,4 +119,19 @@
 "tw_RESPRING" = "Respring";
 "tw_SAFE_MODE" = "Safe Mode";
 "tw_SHUT_DOWN" = "Ausschalten";
+
+/* twitter */
 "TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Compatibility Issues";
+"sp_COMPAT_FOOTER" = "Some tweaks are known to be incompatible with seng, if you are having issues try disabling or removing these first:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Brightness Slider Crash";
+"sp_BRIGHTNESS_FOOTER" = "There is a known issue with SimpleCenters when adjusting the brightness slider in seng. To fix this disable all brightness slider options in SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Get In Touch";
+"sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";
+"sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Reduce Motion";
+"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";

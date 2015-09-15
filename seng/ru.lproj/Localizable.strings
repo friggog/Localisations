@@ -38,12 +38,15 @@
 "hc_ACTIONS_FOOTER" = "Жест вверх из нижних углов экрана будет активировать выбранные действия.";
 "hc_LEFT_ACTION" = "Действие слева";
 "hc_RIGHT_ACTION" = "Действие справа";
-"hc_GO_TO_HOME_SCREEN" = "Свернуть приложение";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Быстрый переключатель приложений";
 "hc_NONE" = "Без действия";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Если 'Блокировать с домашнего экрана' включено, то выполнение жеста будет блокировать устройство с домашнего экрана.\nЕсли 'Простая анимация домашнего экрана' включена, то для Домашнего экрана в вертикальной развертке будет использоваться более простая анимация.";
 "hc_LOCK_FROM_HOME" = "Блокировать с домашнего экрана";
 "hc_SIMPLE_HOME" = "Простая анимация домашнего экрана";
+"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
 "hc_GESTURE_TOLERANCE" = "Дальность жеста";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Это позволит вам задать расстояние от углов (к центру), на котором жесты будут срабатывать.";
 
@@ -125,5 +128,10 @@
 "sp_COMPAT_FOOTER" = "Некоторые твики несовместимы c Seng, если у Вас есть проблемы с совместимостью попробуйте отключить или удалить:\n- CCControls";
 "sp_BRIGHTNESS_TITLE" = "Ошибка слайдера яркости";
 "sp_BRIGHTNESS_FOOTER" = "Чтобы решить конфликты с CCLiveBrightness и SimpleCenters (при настройке слайдеров яркости) удалите CCLiveBrightness Или отключите все настройки для слайдера яркости в SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Get In Touch";
 "sp_INFO" = "Если у вас есть иные несовместимые твики, пожелания, или вы хотите помочь мне перевести твик на другие языки, пожалуйста напишите мне на почту.";
 "sp_EMAIL" = "Почта";
+
+/* reduce motion */
+"rm_TITLE" = "Reduce Motion";
+"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";

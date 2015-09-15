@@ -38,14 +38,15 @@
 "hc_ACTIONS_FOOTER" = "Deslizar da parte de baixo da tela irá executar as opções acima.";
 "hc_LEFT_ACTION" = "Lado Esquerdo";
 "hc_RIGHT_ACTION" = "Lado Direito";
-"hc_GO_TO_HOME_SCREEN" = "Ir a tela inicial";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Desabilitado";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema.";
 "hc_LOCK_FROM_HOME" = "Bloquear do Início";
 "hc_SIMPLE_HOME" = "Animação de Fechamento Simples";
-//"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
-//"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
+"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
+"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
 "hc_GESTURE_TOLERANCE" = "Tolerancia de Gesto";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Essa opção determina o quão longe dos cantos da tela pode-se iniciar a funcionalidade de Hot Corners.";
 
@@ -132,5 +133,5 @@
 "sp_EMAIL" = "Email";
 
 /* reduce motion */
-//"rm_TITLE" = "Reduce Motion";
-//"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";
+"rm_TITLE" = "Reduce Motion";
+"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";

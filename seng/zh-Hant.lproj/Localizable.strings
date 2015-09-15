@@ -38,7 +38,8 @@
 "hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動來執行以上動作。";
 "hc_LEFT_ACTION" = "左側角落動作";
 "hc_RIGHT_ACTION" = "右側角落動作";
-"hc_GO_TO_HOME_SCREEN" = "回主畫面";
+"hc_CLOSE_APP" = "Close App";
+"hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "快速切換";
 "hc_NONE" = "不做任何動作";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "若啟用「從主畫面鎖定」，在主畫面執行回到主畫面的手勢時將鎖定裝置。\n若啟用「簡單動畫」，將使用簡化的垂直向上滑出動畫以取代系統預設的縮放動畫。";
