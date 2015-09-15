@@ -4,7 +4,7 @@
 "tw_SHUT_DOWN" = "Desligar";
 "tw_REBOOT" = "Reiniciar";
 "tw_SAFE_MODE" = "Modo de Segurança";
-"tw_RESPRING" = "Reiniciar o SpringBoard";
+"tw_RESPRING" = "Reiniciar SpringBoard";
 "tw_QUIT_ALL" = "Fechar todos os Apps";
 "tw_CANCEL" = "Cancelar";
 
@@ -13,24 +13,24 @@
 /* main page */
 "MULTI_CENTRE" = "Multi Center";
 "HOT_CORNERS" = "Hot Corners";
-"OTHER" = "Outras Opções";
+"OTHER" = "Mais Opções";
 "SUPPORT" = "Suporte";
 
 /* multi centre page */
 "mc_ENABLED" = "Habilitado";
 "mc_CONTROL_SECTIONS_TITLE" = "Sessões de Controle";
-"mc_TOP" = "Cima";
-"mc_BOTTOM" = "Baixo";
-"mc_CONTROL_SECTIONS_FOOTER" = "As Sessões de Controle que serão apresentadas nas áreas de Cima e de Baixo no Multi Center (Multitarefa).";
+"mc_TOP" = "Área Superior";
+"mc_BOTTOM" = "Área Inferior";
+"mc_CONTROL_SECTIONS_FOOTER" = "As Sessões de Controle que serão apresentadas nas áreas Superior e Inferior no Multi Center (Multitarefa).";
 "mc_ICON_STYLE_TITLE" = "Estilo dos Ícones";
 "mc_ICON_STYLE_FOOTER" = "Estilo dos ícones apresentados no App Switcher.";
 "mc_ICON_STYLE_STANDARD" = "Padrão";
 "mc_ICON_STYLE_OVERLAPPED" = "Sobreposto";
 "mc_ICON_STYLE_HIDDEN" = "Desabilitado";
-"mc_GESTURE_ANIMATIONS" = "Animações de Gesto";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Caso habilitado, as animações acompanharão o toque ao entrar e sair do App Switcher (assim como a Central de Controle/Central de Notificações).\nFaz com que a opção Abrir para o aplicativo atual fique mandatóriamente habilitada.";
-"mc_OPEN_TO_CURRENT" = "Abrir para o aplicativo atual";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Caso habilitado, o App Switcher irá abrir para o aplicativo atual, ao contrário do ultimo aplicativo usado.";
+"mc_GESTURE_ANIMATIONS" = "Animações Gestuais";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Caso habilitado, as animações acompanharão o toque ao entrar e sair do App Switcher (assim como a Central de Controle/Central de Notificações).\nFaz com que a opção 'Abrir para o Aplicativo Atual' fique obrigatoriamente habilitada.";
+"mc_OPEN_TO_CURRENT" = "Abrir para o Aplicativo Atual";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Caso habilitado, o App Switcher irá abrir para o aplicativo atual, ao invés do último aplicativo usado.";
 "mc_INCLUDED_SECTIONS" = "Habilitado";
 "mc_EXCLUDED_SECTIONS" = "Não Habilitado";
 
@@ -45,29 +45,29 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema.";
 "hc_LOCK_FROM_HOME" = "Bloquear do Início";
 "hc_SIMPLE_HOME" = "Animação de Fechamento Simples";
-"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
-"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
+"hc_ALT_QUICK_SWITCHER" = "Usar Estilo Diferenciado";
+"hc_QUICK_SWITCHER_FOOTER" = "O Estilo Diferenciado faz o Quick Switcher se parecer mais com o do tweak Tage, já o padrão se parece mais com o do tweak Auxo.";
 "hc_GESTURE_TOLERANCE" = "Tolerancia de Gesto";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Essa opção determina o quão longe dos cantos da tela pode-se iniciar a funcionalidade de Hot Corners.";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Apresentação da Tela de Início";
-"op_SWIPE_UP_FOOTER" = "Essa ação será executada quando for realizado o gesto de deslizar para cima (fechar) na Tela de Início.";
+"op_SWIPE_UP_FOOTER" = "Essa ação será executada quando for realizado o gesto de deslizar para cima (fechar) no card da Tela de Início no App Switcher (Multitarefa).";
 "op_SWIPE_UP" = "Deslize p/ Cima";
-"op_QUIT_ALL_APPS" = "Fechar todos os Apps";
+"op_QUIT_ALL_APPS" = "Fechar Todos os Apps";
 "op_SHOW_ACTION_MENU" = "Exibir Menu de Ações";
 "op_RESPRING" = "Reiniciar SpringBoard";
 "op_LOCK" = "Bloquear";
 "op_SHUT_DOWN" = "Desligar";
 "op_NONE" = "Desabilitado";
 "op_APP_WHITELIST" = "Exceções";
-"op_CLOSE_NOW_PLAYING" = "Finalizar App de Reproduzindo Atualmente";
+"op_CLOSE_NOW_PLAYING" = "Fechar App Reproduzindo Audio";
 "op_DISMISS_AFTER" = "Sair do Switcher ao Fechar";
 "op_APPEARANCE" = "Aparência";
 "op_REMOVE_DARK_EFFECT" =  "Remover o Fundo Escuro";
 "op_HIDE_BG" = "Remover o Efeito de Blur";
 "op_BEHAVIOUR" = "Comportamento";
-"op_BEHAVIOUR_FOOTER" = "Os gestos 'Hot Corners' não vão funcionar nos apps inclusos na lista de Exceções. O 'Multi Center' irá funcionar (caso habilitado) mas em Apps de tela cheia uma confirmação irá aparecer antes (assim como a Central de Controle padrão do sistema).";
+"op_BEHAVIOUR_FOOTER" = "Os gestos 'Hot Corners' não vão funcionar nos apps inclusos na lista de Exceções. O 'Multi Center' irá funcionar (caso habilitado) mas, em Apps de tela cheia, uma confirmação aparecerá antes (assim como a Central de Controle padrão do sistema).";
 "op_BLACKLIST" = "Exceções";
 
 /* people view page */
@@ -94,8 +94,8 @@
 "st_AIR_STUFF" = "AirDrop e AirPlay";
 "st_VOLUME" = "Barra de Volume";
 "st_BRIGHTNESS" = "Barra de Brilho";
-"st_SMALL_SCROLL" = "Área de Rolagem Pequena";
-"st_BIG_SCROLL" = "Área de Rolagem Grande";
+"st_SMALL_SCROLL" = "Área Rolável Pequena";
+"st_BIG_SCROLL" = "Área Rolável Grande";
 "st_DEFAULT_MEDIA" = "Controles de Mídia Padrão";
 "st_TOGGLES" = "Botões Liga/Desliga";
 "st_QUICK_LAUNCH" = "Botões Apps Rápidos";
@@ -114,7 +114,7 @@
 "al_VALID_VALE" = "Favor entrar somente com valores válidos.";
 "al_OK" = "OK";
 "al_TWEET_ERROR" = "Não foi possível tuítar nesse momento.";
-"al_EMAIL_ERROR" = "Parece não ser possível enviar emails.";
+"al_EMAIL_ERROR" = "Parece não ser possível enviar o email no momento.";
 
 /* twitter */
 "TWITTER_MESSAGE" = "Estou usando o tweak seng (de @friggog) para trocar de apps com estilo!";
@@ -133,5 +133,5 @@
 "sp_EMAIL" = "Email";
 
 /* reduce motion */
-"rm_TITLE" = "Reduce Motion";
-"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";
+"rm_TITLE" = "Reduzir Movimento";
+"rm_FOOTER" = "Atualmente, a opção 'Reduzir Movimento' está ativada. Seng vai modificar suas animações para se adaptar melhor a essa opção e, com isso, algumas opções ficarão indisponíveis. A opção 'Animações Gestuais' ficará desabilitada e a animação de 'Ir a Tela Inicial' será substituída por uma animação de fade.";
