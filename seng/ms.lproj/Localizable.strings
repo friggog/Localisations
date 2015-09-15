@@ -44,10 +44,13 @@
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem.";
 "hc_LOCK_FROM_HOME" = "Kunci Dari Rumah";
 "hc_SIMPLE_HOME" = "Animasi Rumah Mudah";
+"hc_ALT_QUICK_SWITCHER" = "Gunakan Stail Alternatif";
+"hc_QUICK_SWITCHER_FOOTER" = "Stail alternatif itu berkelakuan seperti quick switcher Tage, manakala yang biasa lebih seperti Auxo.";
 "hc_GESTURE_TOLERANCE" = "Pergerakan Toleransi";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Ini memastikan berapa jauh dari bucu yang kamu boleh sapu untuk mengaktifkan fungsi bucu panas.";
 
 /* other prefs page */
+"op_HOME_APP_CARD" = "Kad App Skrin Rumah";
 "op_SWIPE_UP_FOOTER" = "Ini adalah aksi yang berlaku apabila kamu sapu atas pada kad app skrin rumah, sebagaimana mahu menutupnya.";
 "op_SWIPE_UP" = "Aksi Sapu ke Atas SR";
 "op_QUIT_ALL_APPS" = "Tutup Semua App";
@@ -97,6 +100,7 @@
 "st_QUICK_LAUNCH" = "Butang Pelancaran Cepat";
 "st_MEDIA_TITLES" = "Paparan Tajuk Media";
 "st_MEDIA_BUTTONS" = "Butang Pengankutan Media";
+"st_MEDIA_SCRUBBER" = "Penggahar Media";
 "st_PEOPLE" = "Kenalan Kegemaran";
 
 /* alerts */
@@ -113,3 +117,20 @@
 
 /* twitter */
 "TWITTER_MESSAGE" = "Saya menggunakan seng (oleh @friggog) untuk menukar apps dengan penuh gaya!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "Applikasi Sistem";
+"el_USER_APPLICATIONS" = "Applikasi Pengguna";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Isu Keserasian";
+"sp_COMPAT_FOOTER" = "Beberapa tweak diketahui tidak serasi dengan seng, jika kamu mempunyai isu cuba melumpuhkan atau buang ini terdahulu:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Slider Kecerahan Rosak";
+"sp_BRIGHTNESS_FOOTER" = "Ada isu yang telah diketahui dengan SimpleCenters apabila mengubah slider kecerahan dalam seng. Untuk membetulkannya, batalkan semua pilihan slider kecerahan dalam SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Cara Berhubung";
+"sp_INFO" = "Jika kamu mempunyai isu yang lain, permintaan, ingin membantu dengan penterjemahan atau kamu adalah dev yang ingin menambah keserasian untuk tweak kamu, jangan teragak-agak untuk emel saya.";
+"sp_EMAIL" = "Emel";
+
+/* reduce motion */
+"rm_TITLE" = "Gerakan Kurang";
+"rm_FOOTER" = "Sekarang kamu telah membolehkan gerakan kurang. Seng akan mengubah animasi untuk menampungnya dengan terbaik, akibatnya beberapa pilihan akan tiada lagi. Animasi gerakan akan dilumpuhkan dan animasi 'Pergi ke Skrin Rumah' akan digantikan dengan pudar lancar.";
