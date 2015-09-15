@@ -38,8 +38,8 @@
 "hc_ACTIONS_FOOTER" = "Ťahanie, prstom smerom hore zo spodných rohov displeja, vyvolá príslušné akcie.";
 "hc_LEFT_ACTION" = "Akcia ľavého rohu";
 "hc_RIGHT_ACTION" = "Akcia pravého rohu";
-"hc_CLOSE_APP" = "Zatvoriť Aplikácie";
-"hc_QUIT_APP" = "Ukončiť Aplikácie";
+"hc_CLOSE_APP" = "Zatvoriť Aplikáciu";
+"hc_QUIT_APP" = "Ukončiť Aplikáciu";
 "hc_QUICK_SWITCHER" = "Rýchly prepínač";
 "hc_NONE" = "Nič";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia.";
