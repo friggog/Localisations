@@ -39,7 +39,7 @@
 "hc_LEFT_ACTION" = "Acción Izquierda";
 "hc_RIGHT_ACTION" = "Acción Derecha";
 "hc_CLOSE_APP" = "Cerrar la Aplicación";
-"hc_QUIT_APP" = "Salir de la Aplicación”;
+"hc_QUIT_APP" = "Salir de la Aplicación";
 "hc_QUICK_SWITCHER" = "Selector Rápido";
 "hc_NONE" = "Nada";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema.";

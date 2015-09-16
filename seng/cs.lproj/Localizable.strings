@@ -41,13 +41,13 @@
 "hc_CLOSE_APP" = "Zavřít Aplikaci";
 "hc_QUIT_APP" = "Vypnout Aplikaci";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
-"hc_NONE" = "None";
+"hc_NONE" = "Nic";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.\nPokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace.";
-"hc_LOCK_FROM_HOME" = "Zamknout z hlavní stránky";
-"hc_SIMPLE_HOME" = "Jednodužší animace";
-"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
-"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
-"hc_GESTURE_TOLERANCE" = "Tolerance gest";
+"hc_LOCK_FROM_HOME" = "Zamknout z Hlavní Stránky";
+"hc_SIMPLE_HOME" = "Jednodužší Animace";
+"hc_ALT_QUICK_SWITCHER" = "Použít Alternativní Styl";
+"hc_QUICK_SWITCHER_FOOTER" = "Alternativni styl aktivního rohu se zobrazuje jako v původních verích Seng, standartní mód se snaží co nejvíce přiblížit tweaku Auxo.";
+"hc_GESTURE_TOLERANCE" = "Tolerance Gest";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavení determinuje jak daleko od rohu bude gesto funkční.";
 
 /* other prefs page */
@@ -67,7 +67,7 @@
 "op_REMOVE_DARK_EFFECT" =  "Odstranit Tmavý effekt";
 "op_HIDE_BG" = "Skrýt rozmazání pozadí";
 "op_BEHAVIOUR" = "Chování";
-"op_BEHAVIOUR_FOOTER" = "Pokud bude aplikace b blacklistu, aktivní rohy Seng v ní nebudou funkční. Multi centrum bude stále fungovat (pokud je povoleno), ale nejdříve se objeví 'tahátko' jako u Control centra.";
+"op_BEHAVIOUR_FOOTER" = "Pokud bude aplikace v blacklistu, aktivní rohy Seng v ní nebudou funkční. Multi centrum bude stále fungovat (pokud je povoleno), ale nejdříve se objeví 'tahátko' jako u Control centra.";
 "op_BLACKLIST" = "Blacklist";
 
 /* people view page */
@@ -133,5 +133,5 @@
 "sp_EMAIL" = "Email";
 
 /* reduce motion */
-"rm_TITLE" = "Reduce Motion";
-"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";
+"rm_TITLE" = "Omezit pohyb";
+"rm_FOOTER" = "Omezit pohyb je povoleno. Seng upraví svoje animace aby tomuto nastavení odpovídali. Animace gest jsou vypnuty a animace 'zavřít aplikaci' je změněna na prosté zprůhlednění.";
