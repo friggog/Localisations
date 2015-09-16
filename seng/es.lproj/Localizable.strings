@@ -32,15 +32,15 @@
 "mc_OPEN_TO_CURRENT" = "Abrir la app activa";
 "mc_OPEN_TO_CURRENT_FOOTER" = "Si está habilitada esta opción la multitarea se abrirá en la aplicación activa, en lugar de la última aplicación abierta.";
 "mc_INCLUDED_SECTIONS" = "Incluido";
-"mc_EXCLUDED_SECTIONS" = "No incluido";
+"mc_EXCLUDED_SECTIONS" = "No Incluido";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará las acciones de arriba.";
-"hc_LEFT_ACTION" = "Acción izquierda";
-"hc_RIGHT_ACTION" = "Acción derecha";
+"hc_LEFT_ACTION" = "Acción Izquierda";
+"hc_RIGHT_ACTION" = "Acción Derecha";
 "hc_CLOSE_APP" = "Cerrar la Aplicación";
-"hc_QUIT_APP" = "Dejar la Aplicación";
-"hc_QUICK_SWITCHER" = "Selector rápido";
+"hc_QUIT_APP" = "Salir de la Aplicación”;
+"hc_QUICK_SWITCHER" = "Selector Rápido";
 "hc_NONE" = "Nada";
 "hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema.";
 "hc_LOCK_FROM_HOME" = "Bloquear desde Inicio";
@@ -54,7 +54,7 @@
 "op_HOME_APP_CARD" = "Ficha de Inicio";
 "op_SWIPE_UP_FOOTER" = "Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.";
 "op_SWIPE_UP" = "Deslizar hacia arriba desde Inicio";
-"op_QUIT_ALL_APPS" = "Dejar todas las aplicaciones";
+"op_QUIT_ALL_APPS" = "Cerrar todas las aplicaciones";
 "op_SHOW_ACTION_MENU" = "Mostrar Menú de acción";
 "op_RESPRING" = "Respring";
 "op_LOCK" = "Bloquear";
