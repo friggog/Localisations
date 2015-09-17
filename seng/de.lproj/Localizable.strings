@@ -1,20 +1,20 @@
 /* alerts */
 "al_CANCEL" = "Abbrechen";
-"al_EMAIL_ERROR" = "Es scheint, als könnten Sie keine eMails versenden.";
+"al_EMAIL_ERROR" = "Es scheint, als könnten Sie keine e-Mails versenden.";
 "al_ENTER" = "Eingeben";
-"al_ENTER_VALUE" = "Bitte geben Sie einen Wert zwischen %.01f und %.01f.";
+"al_ENTER_VALUE" = "Bitte geben Sie einen Wert zwischen %.01f und %.01f ein.";
 "al_ERROR" = "Fehler";
-"al_NEGATE" = "Negate";
+"al_NEGATE" = "Negieren";
 "al_OK" = "OK";
 "al_POINT" = "Punkt";
-"al_TWEET_ERROR" = "Unable to tweet at this time.";
-"al_VALID_VALE" = "Bitte stellen Sie sicher, dass Sie einen gültigen Wert eingeben haben.";
+"al_TWEET_ERROR" = "Tweet senden nicht möglich.";
+"al_VALID_VALE" = "Bitte stellen Sie sicher, dass Sie einen gültigen Wert eingegeben haben.";
 
 /* prefs */
 /* \n represents a new line, just leave them alone */
 /* main page */
 "HOT_CORNERS" = "Heiße Ecken";
-"SUPPORT" = "Support";
+"SUPPORT" = "Unterstützung";
 "MULTI_CENTRE" = "Multi Center";
 "OTHER" = "Andere Optionen";
 
@@ -26,92 +26,92 @@
 "el_USER_APPLICATIONS" = "Benutzer Anwendungen";
 
 /* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Ziehen aus unteren Ecken des Bildschirms, werden die oben genannten Aktionen ausgeführt.";
-"hc_GESTURE_TOLERANCE" = "Gesten Toleranz";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Dies bestimmt, wie weit in den Ecken Sie streichen können, um die heißen Ecken Funktionalität zu aktivieren.";
-"hc_CLOSE_APP" = "Close App";
-"hc_QUIT_APP" = "Quit App";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation.";
+"hc_ACTIONS_FOOTER" = "Beim Ziehen aus den unteren Ecken des Bildschirms, werden die oben genannten Aktionen ausgeführt.";
+"hc_GESTURE_TOLERANCE" = "Gestentoleranz";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Dies bestimmt, wie weit Sie in den Ecken streichen können, um die 'Heiße Ecken' Funktionalität zu aktivieren.";
+"hc_CLOSE_APP" = "App schließen";
+"hc_QUIT_APP" = "App beenden";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Wenn 'Sperren von Home' aktiviert ist wird das Ausführen dieser Geste vom Homebildschirm das Gerät sperren.\nWenn 'Einfache Home Animation' aktiviert ist, wird eine einfachere vertikale Ziehen Animation benutzt anstatt der Standard Animation.";
 "hc_LEFT_ACTION" = "Linke Aktion";
 "hc_LOCK_FROM_HOME" = "Sperren vom Home";
 "hc_NONE" = "Nichts";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_RIGHT_ACTION" = "Rechte Aktion";
 "hc_SIMPLE_HOME" = "Einfache Home Animation";
-"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
-"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
+"hc_ALT_QUICK_SWITCHER" = "Alternativen Stil benutzen";
+"hc_QUICK_SWITCHER_FOOTER" = "Der alternative Stil verhält sich wie Tage's Quick Switcher, während Standard eher wie Auxo ist.";
 
 /* multi centre page */
 "mc_BOTTOM" = "Unten";
-"mc_CONTROL_SECTIONS_FOOTER" = "Die Steuerungselemente in der oberen und unteren Seng-Multicenter Ansicht anpassen.";
-"mc_CONTROL_SECTIONS_TITLE" = "Steuer Elemente";
+"mc_CONTROL_SECTIONS_FOOTER" = "Die Steuerungselemente in der oberen und unteren Seng-Multi Center Ansicht anpassen.";
+"mc_CONTROL_SECTIONS_TITLE" = "Steuerungselemente";
 "mc_ENABLED" = "Aktiviert";
 "mc_EXCLUDED_SECTIONS" = "Nicht enthalten";
-"mc_GESTURE_ANIMATIONS" = "Gesten Animationen";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "If enabled the animations when activating and deactivating the app switcher will be gesture controlled (like the standard Control/Notification Centers).\nForces Open to Current App to be enabled.";
-"mc_ICON_STYLE_FOOTER" = "Stil wie die Icons im App-Switcher angezeigt werden.";
+"mc_GESTURE_ANIMATIONS" = "Gestenanimationen";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Wenn aktiviert, werden die Animationen beim Aktivieren und Deaktivieren des App-Umschalters von Gesten gesteuert (wie bei Control-/Notifikationszentrum).\nErzwingt Aktivierung von 'Zur aktuellen App öffnen'.";
+"mc_ICON_STYLE_FOOTER" = "Stil wie die Icons im App-Umschalter angezeigt werden.";
 "mc_ICON_STYLE_HIDDEN" = "Versteckt";
 "mc_ICON_STYLE_OVERLAPPED" = "Überlappt";
 "mc_ICON_STYLE_STANDARD" = "Standard";
 "mc_ICON_STYLE_TITLE" = "Icon Stil";
 "mc_INCLUDED_SECTIONS" = "Enthalten";
-"mc_OPEN_TO_CURRENT" = "Öffnen zur aktuellen App";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Wenn aktiviert, der App-Switcher öffnet sich bei aktuell geöffneten App, anstatt bei der zuletzt geöffneten App.";
+"mc_OPEN_TO_CURRENT" = "Zur aktuellen App öffnen";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Wenn aktiviert, öffnet sich der App-Umschalter zur aktuell geöffneten App, anstatt zur zuletzt geöffneten App.";
 "mc_TOP" = "Oben";
 
 /* media view pages */
-"mv_HIDE_WHEN_PLAYING" = "Ausblenden bei der Wiedergabe";
-"mv_SHOW_WHEN_PLAYING" = "Zeigen Sie nur bei der Wiedergabe";
+"mv_HIDE_WHEN_PLAYING" = "Ausblenden bei Wiedergabe";
+"mv_SHOW_WHEN_PLAYING" = "Zeigen nur bei Wiedergabe";
 
 /* other prefs page */
 "op_APP_WHITELIST" = "App Whitelist";
 "op_APPEARANCE" = "Erscheinung";
 "op_BEHAVIOUR" = "Verhalten";
-"op_BEHAVIOUR_FOOTER" = "If seng is blacklisted in an app then hot corners will not function. The seng multi center will still function (if enabled) but if in fullscreen a tab will be presented before opening (as with the default control center).";
+"op_BEHAVIOUR_FOOTER" = "Wenn seng in einer App blacklisted ist funktioniert 'Heiße Ecken' nicht. Der seng Multi Center funktioniert dennoch (sofern aktiviert), im Vollbildmodus wird vor dem Öffnen ein Tab zum herabziehen angezeigt (wie beim Standard Kontrollzentrum).";
 "op_BLACKLIST" = "Blacklist";
 "op_CLOSE_NOW_PLAYING" = "Schließe Wiedergabe App";
-"op_DISMISS_AFTER" = "Dismiss Switcher After";
-"op_HIDE_BG" = "verschwommener Hintergrund ausblenden";
-"op_HOME_APP_CARD" = "Startbildschirm App Karte";
+"op_DISMISS_AFTER" = "App-Umschalter danach schließen";
+"op_HIDE_BG" = "Verschwommener Hintergrund ausblenden";
+"op_HOME_APP_CARD" = "Startbildschirm App-Karte";
 "op_LOCK" = "Sperren";
 "op_NONE" = "Nichts";
 "op_QUIT_ALL_APPS" = "Beende alle Apps";
-"op_REMOVE_DARK_EFFECT" = "Entferne dunklen Abschnitt Effekt";
+"op_REMOVE_DARK_EFFECT" = "Entferne 'dunklen Abschnitt' Effekt";
 "op_RESPRING" = "Respring";
-"op_SHOW_ACTION_MENU" = "Zeige Action Menü";
+"op_SHOW_ACTION_MENU" = "Zeige Aktionsmenü";
 "op_SHUT_DOWN" = "Ausschalten";
-"op_SWIPE_UP" = "Schiebe hoch Aktion";
-"op_SWIPE_UP_FOOTER" = "Dies ist die Aktion, die geschieht, wenn Sie auf dem Home-Bildschirm die App-Karte in den Switcher nach oben schieben.";
+"op_SWIPE_UP" = "Hochschieben Aktion";
+"op_SWIPE_UP_FOOTER" = "Dies ist die Aktion, die geschieht, wenn Sie die App-Karte des Home-Bildschirms im App-Umschalter nach oben schieben.";
 
 /* people view page */
 "pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "In order for the people section to correctly show up you must enable one or both of the options in Settings > Mail, Contacts & Calenders > Show In App Switcher.";
+"pv_INFO_FOOTER" = "Damit die Kontakte angezeigt werden können muss eine oder beide Optionen unter Einstellungen > Mail, Kontakte, Kalender > Im App-Umschalter anzeigen aktiviert sein.";
 
 /* section titles */
 "st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_BIG_SCROLL" = "Big Scroll View";
-"st_BRIGHTNESS" = "Helligkeiksschieber";
+"st_BIG_SCROLL" = "Große Scrollansicht";
+"st_BRIGHTNESS" = "Helligkeitsregler";
 "st_DEFAULT_MEDIA" = "Standard-Mediensteuerung";
-"st_MEDIA_BUTTONS" = "Media Transport Buttons";
-"st_MEDIA_TITLES" = "Medien Title Anzeige";
-"st_MEDIA_SCRUBBER" = "Media Scrubber";
-"st_PEOPLE" = "Lieblings Kontakte";
-"st_QUICK_LAUNCH" = "Quick Launch Buttons";
-"st_SMALL_SCROLL" = "Small Scroll View";
-"st_TOGGLES" = "Toggle Buttons";
-"st_VOLUME" = "Volume Slider";
+"st_MEDIA_BUTTONS" = "Media Transport";
+"st_MEDIA_TITLES" = "Medientitelanzeige";
+"st_MEDIA_SCRUBBER" = "Medienscrubber";
+"st_PEOPLE" = "Lieblingskontakte";
+"st_QUICK_LAUNCH" = "Schnellzugriff";
+"st_SMALL_SCROLL" = "Kleine Scrollansicht";
+"st_TOGGLES" = "Optionen";
+"st_VOLUME" = "Lautstärkeregler";
 
 /* scroll view pages */
-"sv_EXCLUDED_SECTIONS" = "Excluded Sections";
-"sv_HORIZONTAL" = "Horizontal";
-"sv_INCLUDED_SECTIONS" = "Included Sections";
-"sv_RESET_TO_FIRST_FOOTER" = "'Reset to First Page' will set the scroll view to the first page each time you reopen the app switcher.";
-"sv_RESETS_TO_FIRST" = "Reset to First Page";
-"sv_SCROLLING_STYLE" = "Scrolling Style";
-"sv_VERTICAL" = "Vertical";
+"sv_EXCLUDED_SECTIONS" = "Nicht enthaltene Abschnitte";
+"sv_HORIZONTAL" = "horizontal";
+"sv_INCLUDED_SECTIONS" = "Enthaltene Abschnitte";
+"sv_RESET_TO_FIRST_FOOTER" = "'Zur ersten Seite zurückkehren' setzt die Scrollansicht zur ersten Seite zurück bei jedem Mal wenn der App-Umschalter neu geöffnet wird.";
+"sv_RESETS_TO_FIRST" = "Zur ersten Seite zurückkehren";
+"sv_SCROLLING_STYLE" = "Scrolling Stil";
+"sv_VERTICAL" = "vertikal";
 
 /* in tweak labels */
-"tw_ACTION_MENU" = "Aktion Menü";
+"tw_ACTION_MENU" = "Aktionsmenü";
 "tw_CANCEL" = "Abbrechen";
 "tw_HOME" = "Start";
 "tw_QUIT_ALL" = "Schließe alle Apps";
@@ -121,17 +121,17 @@
 "tw_SHUT_DOWN" = "Ausschalten";
 
 /* twitter */
-"TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+"TWITTER_MESSAGE" = "Ich benutze seng (von @friggog) um Apps mit Style zu wechseln!";
 
 /* support page */
-"sp_COMPAT_TITLE" = "Compatibility Issues";
-"sp_COMPAT_FOOTER" = "Some tweaks are known to be incompatible with seng, if you are having issues try disabling or removing these first:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Brightness Slider Crash";
-"sp_BRIGHTNESS_FOOTER" = "There is a known issue with SimpleCenters when adjusting the brightness slider in seng. To fix this disable all brightness slider options in SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Get In Touch";
-"sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";
-"sp_EMAIL" = "Email";
+"sp_COMPAT_TITLE" = "Kompatibilitätsprobleme";
+"sp_COMPAT_FOOTER" = "Einige Tweaks sind bekannt dafür, nicht mit seng kompatibel zu sein, wenn Sie Probleme haben, versuchen Sie zuerst diese Tweaks zu deaktivieren oder zu entfernen:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Helligkeitsregler Absturz";
+"sp_BRIGHTNESS_FOOTER" = "Es gibt ein bekanntes Problem mit SimpleCenters beim regeln der Helligkeit in seng. Zum Beheben deaktivieren Sie sämtliche Helligkeitsreglerfunktionen in SimpleCenters.";
+"sp_GET_IN_TOUCH" = "Kontakt aufnehmen";
+"sp_INFO" = "Wenn Sie andere Probleme oder Vorschläge haben, bei der Übersetzung helfen möchten oder ein Entwickler sind und Kompatibilität für ihren Tweak hinzufügen möchten, zögern Sie nicht mir eine e-Mail zu schreiben.";
+"sp_EMAIL" = "e-Mail";
 
 /* reduce motion */
-"rm_TITLE" = "Reduce Motion";
-"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";
+"rm_TITLE" = "Bewegung reduzieren";
+"rm_FOOTER" = "Sie haben 'Bewegung reduzieren' aktiviert. Seng wird seine Animationen anpassen um dieser Einstellung bestmöglich zu entsprechen. Einige Optionen werden deshalb nicht verfügbar sein. Gestenanimationen sind deaktiviert und 'Zum Homebildschirm zurückkehren' wird durch einen Einblendeffekt ersetzt.";

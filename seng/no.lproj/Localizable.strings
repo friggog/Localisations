@@ -134,4 +134,4 @@
 
 /* reduce motion */
 "rm_TITLE" = "Reduser Bevegelse";
-"rm_FOOTER" = "Du har for øyeblikket reduserte bevegelse aktivert. Seng vil endre sine animasjoner for å best imøtekomme dette, derfor vil noen alternativer ikke lenger være tilgjengelig. Bevegelsesanimasjoner ved åpning av appvelgeren er deaktivert og 'Gå til Hjem-skjerm "animasjon er erstattet med en jevn overgang.";
+"rm_FOOTER" = "Du har for øyeblikket reduserte bevegelse aktivert. Seng vil endre sine animasjoner for å best imøtekomme dette, derfor vil noen alternativer ikke lenger være tilgjengelig. Bevegelsesanimasjoner ved åpning av appvelgeren er deaktivert og 'Gå til Hjem-skjerm \"animasjon er erstattet med en jevn overgang.";
