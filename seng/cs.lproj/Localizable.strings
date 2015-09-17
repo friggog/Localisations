@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Safe Mode";
 "tw_RESPRING" = "Respring";
 "tw_QUIT_ALL" = "Vypnout všechny aplikace";
+"tw_LOCK" = "Zamknout";
 "tw_CANCEL" = "Zrušit";
 
 /* prefs */

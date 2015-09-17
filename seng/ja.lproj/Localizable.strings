@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "セーフモード";
 "tw_RESPRING" = "リスプリング";
 "tw_QUIT_ALL" = "すべてのAppを閉じる";
+"tw_LOCK" = "デバイスをロック";
 "tw_CANCEL" = "キャンセル";
 
 /* prefs */

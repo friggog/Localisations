@@ -118,6 +118,7 @@
 "tw_REBOOT" = "Neustart";
 "tw_RESPRING" = "Respring";
 "tw_SAFE_MODE" = "Safe Mode";
+"tw_LOCK" = "Sperren";
 "tw_SHUT_DOWN" = "Ausschalten";
 
 /* twitter */

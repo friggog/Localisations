@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Safe Mode";
 "tw_RESPRING" = "Respring";
 "tw_QUIT_ALL" = "Menutup Seluruh Aplikasi";
+"tw_LOCK" = "Mengunci";
 "tw_CANCEL" = "Batalkan";
 
 /* prefs */

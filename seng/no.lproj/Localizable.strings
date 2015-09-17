@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Sikkerhetsmodus";
 "tw_RESPRING" = "Respring";
 "tw_QUIT_ALL" = "Lukk alle apper";
+"tw_LOCK" = "Lås";
 "tw_CANCEL" = "Avbryt";
 
 /* prefs */

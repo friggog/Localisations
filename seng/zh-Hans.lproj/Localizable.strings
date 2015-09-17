@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "安全模式";
 "tw_RESPRING" = "注销";
 "tw_QUIT_ALL" = "关闭所有应用";
+"tw_LOCK" = "锁定";
 "tw_CANCEL" = "取消";
 
 /* prefs */

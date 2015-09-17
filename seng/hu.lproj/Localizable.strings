@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Biztonságos mód";
 "tw_RESPRING" = "Springboard újraindítása";
 "tw_QUIT_ALL" = "Összes alkalmazás bezárása";
+"tw_LOCK" = "Lezárás";
 "tw_CANCEL" = "Mégsem";
 
 /* prefs */

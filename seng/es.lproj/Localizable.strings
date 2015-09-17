@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Modo Seguro";
 "tw_RESPRING" = "Respring";
 "tw_QUIT_ALL" = "Cerrar Aplicaciones";
+"tw_LOCK" = "Bloquear";
 "tw_CANCEL" = "Cancelar";
 
 /* prefs */

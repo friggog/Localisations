@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Veilige Modus";
 "tw_RESPRING" = "Herspring";
 "tw_QUIT_ALL" = "Sluit Alle Apps";
+"tw_LOCK" = "Vergrendel";
 "tw_CANCEL" = "Annuleer";
 
 /* prefs */

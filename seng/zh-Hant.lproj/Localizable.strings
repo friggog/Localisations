@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "安全模式";
 "tw_RESPRING" = "Respring";
 "tw_QUIT_ALL" = "結束所有應用程式";
+"tw_LOCK" = "鎖定裝置";
 "tw_CANCEL" = "取消";
 
 /* prefs */

@@ -6,6 +6,7 @@
 "tw_SAFE_MODE" = "Modo de Segurança";
 "tw_RESPRING" = "Reiniciar SpringBoard";
 "tw_QUIT_ALL" = "Fechar todos os Apps";
+"tw_LOCK" = "Bloquear";
 "tw_CANCEL" = "Cancelar";
 
 /* prefs */
