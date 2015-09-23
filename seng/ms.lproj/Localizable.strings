@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "Jika dibolehkan, app switcher akan buka ke app yang terkini, daripada app sebelumnya.";
 "mc_INCLUDED_SECTIONS" = "Termasuk";
 "mc_EXCLUDED_SECTIONS" = "Tidak Termasuk";
+"mc_SHOW_GRABBER" = "Sentiasa Tunjuk Pemegang";
+"mc_OVERRIDE_CC" = "Ambil alih Isyarat CC";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "Tarik dari bucu skrin bawah akan mengaktifkan aksi diatas.";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "Stail alternatif itu berkelakuan seperti quick switcher Tage, manakala yang biasa lebih seperti Auxo.";
 "hc_GESTURE_TOLERANCE" = "Pergerakan Toleransi";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Ini memastikan berapa jauh dari bucu yang kamu boleh sapu untuk mengaktifkan fungsi bucu panas.";
+"hc_DEF_CC" = "Control Center";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Kad App Skrin Rumah";
