@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "如果打开此选项，多任务切换将打开当前启动的应用，而不是上一个打开的应用。";
 "mc_INCLUDED_SECTIONS" = "包括";
 "mc_EXCLUDED_SECTIONS" = "不包括";
+"mc_OVERRIDE_CC" = "控制中心覆盖手势";
+"mc_SHOW_GRABBER" = "总是显示CC拉手";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "从屏幕角落向上拖拽即可触发以上动作。";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "备用风格类似Tage的，而标准风格更像Auxo的。";
 "hc_GESTURE_TOLERANCE" = "手势触发距离";
 "hc_GESTURE_TOLERANCE_FOOTER" = "这决定了从角落划动来引发动作的距离。";
+"hc_DEF_CC" = "控制中心";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "主屏幕应用卡";

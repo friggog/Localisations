@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "אם מופעל, מרכז ריבוי המשימות יפתח לאפליקציה הנוכחית ולא לאפליקציה האחרונה שהיתה בשימוש.";
 "mc_INCLUDED_SECTIONS" = "כלולים";
 "mc_EXCLUDED_SECTIONS" = "לא כלולים";
+"mc_SHOW_GRABBER" = "תמיד הראה טאב גרירה";
+"mc_OVERRIDE_CC" = "עקוף מחוות מרכז הבקרה";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "גרירה מהפינות התחתונות של המסך יפעילו פעולות אלה.";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "הסגנון ההפוך מתנהג כמו Tage לעומת הסגנון הסטנדרטי שמתנהג כמו Auxo.";
 "hc_GESTURE_TOLERANCE" = "רגישות מחוות";
 "hc_GESTURE_TOLERANCE_FOOTER" = "ערך זה קובע כמה רחוק תוכל לגרור מהפינה של המסך בשביל להפעיל את הפינות החמות.";
+"hc_DEF_CC" = "מרכז הבקרה";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "כרטיס מסך הבית";

@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "啟用時 App 切換器會開啟至目前的應用程式，而不是上一個開啟的應用程式。";
 "mc_INCLUDED_SECTIONS" = "包含";
 "mc_EXCLUDED_SECTIONS" = "不包含";
+"mc_SHOW_GRABBER" = "永遠顯示拉鈕";
+"mc_OVERRIDE_CC" = "無視控制中心的手勢";
 
 /* hot corners page */
 "hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動來執行以上動作。";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "替代樣式的效果類似於 Tage 的 Quick Switcher，預設樣式則類似於 Auxo 的效果";
 "hc_GESTURE_TOLERANCE" = "手勢容許範圍";
 "hc_GESTURE_TOLERANCE_FOOTER" = "調整離角落多少距離內可觸發熱點功能。";
+"hc_DEF_CC" = "控制中心";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "主畫面";
