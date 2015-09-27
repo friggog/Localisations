@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "Se attivo, l’app switcher si aprirà mostrando l’app attualmente aperta, al posto che l’ultima app aperta.";
 "mc_INCLUDED_SECTIONS" = "Inclusi";
 "mc_EXCLUDED_SECTIONS" = "Non inclusi";
+"mc_SHOW_GRABBER" = "Mostra il grabber";
+"mc_OVERRIDE_CC" = "Ignora la gesture del CC";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "Eseguire uno swipe dagli angoli inferiori dello schermo invocherà le seguenti azioni.";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "Lo stile alternativo si comporta come il quick switcher di Tage, mentre lo standard è più come Auxo.";
 "hc_GESTURE_TOLERANCE" = "Tolleranza dei Gesti";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Questo determina quanto distante dagli angoli è possibile effettuare lo swipe per attivare le funzionalità degli Angoli Attivi.";
+"hc_DEF_CC" = "Control Center";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Chiusura Home";
