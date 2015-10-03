@@ -1,0 +1,142 @@
+/* in tweak labels */
+"tw_HOME" = "Hjem";
+"tw_ACTION_MENU" = "Aktions menu";
+"tw_SHUT_DOWN" = "Sluk";
+"tw_REBOOT" = "Genstart";
+"tw_SAFE_MODE" = "Safe mode";
+"tw_RESPRING" = "Respring";
+"tw_QUIT_ALL" = "Luk alle apps";
+"tw_LOCK" = "Lås";
+"tw_CANCEL" = "Anuller";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "Multi center";
+"HOT_CORNERS" = "Hjørner";
+"OTHER" = "Andre indstillinger";
+"SUPPORT" = "Support";
+
+/* multi centre page */
+"mc_ENABLED" = "Aktiver";
+"mc_CONTROL_SECTIONS_TITLE" = "Multi kontrolcenter";
+"mc_TOP" = "Top";
+"mc_BOTTOM" = "Bund";
+"mc_CONTROL_SECTIONS_FOOTER" = "Bestemte kontrol sektioner der kan være i toppen eller i bunden i seng's multi kontrolcenter.";
+"mc_ICON_STYLE_TITLE" = "Ikon stil";
+"mc_ICON_STYLE_FOOTER" = "Stilen som appens ikon skal være i Appskifteren.";
+"mc_ICON_STYLE_STANDARD" = "Normal";
+"mc_ICON_STYLE_OVERLAPPED" = "Overlap";
+"mc_ICON_STYLE_HIDDEN" = "Skjul";
+"mc_GESTURE_ANIMATIONS" = "Bevægelses animationer";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "Hvis aktiveret, vil animationerne når der åbnes og lukkes for multitasking være bevægelses kontrolleret (ligesom standard kontrolcenter og meddelsescenter).\nTvinger Åben til nuværende app til at være aktiveret.";
+"mc_OPEN_TO_CURRENT" = "Åben i nuværende app";
+"mc_OPEN_TO_CURRENT_FOOTER" = "Hvis aktiveret vil multitasking centeret vise den nuværende åben app, i stedet for den forrige app.";
+"mc_INCLUDED_SECTIONS" = "Inkluder";
+"mc_EXCLUDED_SECTIONS" = "Inkluder ikke";
+"mc_SHOW_GRABBER" = "Vis altid håndtag";
+"mc_OVERRIDE_CC" = "Tilsidesæt kontrolcenter bevægelse";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "Skub opad fra den nederste kant af skærmens hjørner, vil de ovenstående indstillinger ske.";
+"hc_LEFT_ACTION" = "Venstre hjørne";
+"hc_RIGHT_ACTION" = "Højre hjørne";
+"hc_CLOSE_APP" = "Luk app";
+"hc_QUIT_APP" = "Forlade App";
+"hc_QUICK_SWITCHER" = "Genvej til (kun) Appskifteren";
+"hc_NONE" = "Intet";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Hvis 'Lås fra hjemmeskærm ' er aktiveret, vil den her bevægelse på hjemmeskærmen låse iPhone.\nHvis 'Hvis simpel hjemmeskærms animation' er aktiveret, vil en mere simpel lodret animation blive brugt, i stedet for systemets standard animation.";
+"hc_LOCK_FROM_HOME" = "Lås fra hjemmeskærm";
+"hc_SIMPLE_HOME" = "Simpel hjemmeskærms animation";
+"hc_ALT_QUICK_SWITCHER" = "Brug alternativ stil";
+"hc_QUICK_SWITCHER_FOOTER" = "Den alternative stil er ligesom Tage's opførsel / hurtig app skifter, mens standarden er ligesom Auxo's.";
+"hc_GESTURE_TOLERANCE" = "Afstand";
+"hc_GESTURE_TOLERANCE_FOOTER" = "Det her bestemmer hvor langt afstanden fra hjørnerne du kan være, for at benytte hjørnernes funktionalitet.";
+"hc_DEF_CC" = "Kontrolcenter";
+
+
+/* other prefs page */
+"op_HOME_APP_CARD" = "Hjemmeskærm ikon stil";
+"op_SWIPE_UP_FOOTER" = "Det her vil ske hvis du trækker hjemmeskærmet op fra multitasking centeret (samme gestus man bruger når man skal lukke en app i multitasking centeret).";
+"op_SWIPE_UP" = "Hjemmeskærms træk op indstilling";
+"op_QUIT_ALL_APPS" = "Luk alle apps";
+"op_SHOW_ACTION_MENU" = "Hvis alle muligheder";
+"op_RESPRING" = "Respring";
+"op_LOCK" = "Lås";
+"op_SHUT_DOWN" = "Sluk";
+"op_NONE" = "Intet";
+"op_APP_WHITELIST" = "App undtagelser";
+"op_CLOSE_NOW_PLAYING" = "Stop igangværende musik";
+"op_DISMISS_AFTER" = "Fjern multi kontrolcenteret";
+"op_APPEARANCE" = "Udseende";
+"op_REMOVE_DARK_EFFECT" =  "Fjern mørke sektioner effekt";
+"op_HIDE_BG" = "Fjern baggrunds sløringseffekt";
+"op_BEHAVIOUR" = "Funktion";
+"op_BEHAVIOUR_FOOTER" = "Hvis seng er blacklisted i en app så vil hjørne funktionerne ikke fungere. Sengs multi kontrolcenter vil stadigvæk fungere (hvis aktiveret) men hvis den er i fuldskærm vil en lille rektangel blive vist før multi kontrolcenter åbnes (ligesom standard kontrolcenter).";
+"op_BLACKLIST" = "Blacklist";
+
+/* people view page */
+"pv_INFO" = "Info";
+"pv_INFO_FOOTER" = "For at favoritkontakt sektionen skal vises ordentligt, skal en eller begge indstillinger været slået til i Indstiller > E-mail, kontakter, > Vis i Appskifter.";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "Vis når der spilles musik";
+"mv_HIDE_WHEN_PLAYING" = "Gem når der spilles musik";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "Gem når det ikke er tilgængeligt";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "Vandret";
+"sv_VERTICAL" = "Lodret";
+"sv_RESETS_TO_FIRST" = "Vis første/nyeste app";
+"sv_RESET_TO_FIRST_FOOTER" = "'Vis første/nyeste app' vil sætte Appskifter til at vise først side/nyeste brugte app hver gang multi kontrolcenteret bliver brugt.";
+"sv_INCLUDED_SECTIONS" = "Inkluder sektioner";
+"sv_EXCLUDED_SECTIONS" = "Ekskluder sektioner";
+"sv_SCROLLING_STYLE" = "Bladre stil";
+
+/* section titles */
+"st_AIR_STUFF" = "AirDrop & AirPlay";
+"st_VOLUME" = "Lydstyrke";
+"st_BRIGHTNESS" = "Lysstyrke";
+"st_SMALL_SCROLL" = "Lille Appskifter";
+"st_BIG_SCROLL" = "Stor Appskifter";
+"st_DEFAULT_MEDIA" = "Standard musik kontrol";
+"st_TOGGLES" = "Genvej indstillinger";
+"st_QUICK_LAUNCH" = "Genvej apps";
+"st_MEDIA_TITLES" = "Sang titel";
+"st_MEDIA_BUTTONS" = "Media transport knapper";
+"st_MEDIA_SCRUBBER" = "Media spoler";
+"st_PEOPLE" = "Telefonfavoritter";
+
+/* alerts */
+"al_ENTER_VALUE" = "Skriv en værdi mellem %.01f og %.01f.";
+"al_ENTER" = "Enter";
+"al_CANCEL" = "Anuller";
+"al_NEGATE" = "Negate";
+"al_POINT" = "Point";
+"al_ERROR" = "Fejl";
+"al_VALID_VALE" = "Vær sikker på at værdien er mellem det tilladte.";
+"al_OL" = "OK";
+"al_TWEET_ERROR" = "Kan ikke tweete lige nu";
+"al_EMAIL_ERROR" = "Du kan ikke sende emails.";
+
+/* twitter */
+"TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "System Apps";
+"el_USER_APPLICATIONS" = "Brugerinstalleret Apps";
+
+/* support page */
+"sp_COMPAT_TITLE" = "Kompalitet problemer";
+"sp_COMPAT_FOOTER" = "Visse tweaks er ikke kompatibel med seng. Hvis der er problemer prøv at deaktiver/fjerne de her først:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "Lysstyrke crash";
+"sp_BRIGHTNESS_FOOTER" = "Der er et kendt problem med Simplecenters når der skal justeres på lysstyrken i seng. For at ordne problemet deaktiver alle lysstyrke muligheder i simplecenters.";
+"sp_GET_IN_TOUCH" = "Kontakt";
+"sp_INFO" = "Hvis du har andre problemer, ønsker, hjælpe med oversættelse, eller en udvikler gerne vil have at deres tweak er kompatibel, så bare send en mail til mig.";
+"sp_EMAIL" = "Email";
+
+/* reduce motion */
+"rm_TITLE" = "Formindsk bevægelse";
+"rm_FOOTER" = "Du har aktiveret \"Formindsk bevægelse\". Seng vil prøve indstille dens animation så det passer. Men visse indstillinger vil dermed ikke være mulig at bruge. Bevægelser er deaktiveret og 'Til hjemmeskærm' animation bliver erstattet med en jævn forsvindelse.";
