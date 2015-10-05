@@ -1,106 +1,133 @@
-"tw_HOME" = "الرئيسية";
-"tw_ACTION_MENU" = "قائمة الاجراءات";
-"tw_SHUT_DOWN" = "اطفاء الجهاز";
-"tw_REBOOT" = "اعادة تشغيل";
-"tw_SAFE_MODE" = "السيف مود";
-"tw_RESPRING" = "اعادة تشغيل سريع";
-"tw_QUIT_ALL" = "انهاء كل التطبيقات";
-"tw_LOCK" = "قفل الشاشة";
-"tw_CANCEL" = "الغاء";
-"MULTI_CENTRE" = "مركز تحكم متعدد";
-"HOT_CORNERS" = "زوايا الساخنة";
-"OTHER" = "خيارات اخرى";
+/* in tweak labels */
+"tw_HOME" = "الصفحة الرئيسية";
+"tw_ACTION_MENU" = "قائمة الخيارات";
+"tw_SHUT_DOWN" = "إيقاف التشغيل";
+"tw_REBOOT" = "إعادة التشغيل";
+"tw_SAFE_MODE" = "الوضع الآمن";
+"tw_RESPRING" = "إعادة تشغيل سريعة";
+"tw_QUIT_ALL" = "إغلاق كافة البرامج";
+"tw_LOCK" = "إقفال الشاشة";
+"tw_CANCEL" = "إلغاء";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "مركز تعدد المهام";
+"HOT_CORNERS" = "خيارات التنقل السريع";
+"OTHER" = "خيارات أخرى";
 "SUPPORT" = "الدعم";
+
+/* multi centre page */
 "mc_ENABLED" = "تفعيل";
-"mc_CONTROL_SECTIONS_TITLE" = "قسم التحكم";
-"mc_TOP" = "اعلى";
-"mc_BOTTOM" = "اسفل";
-"mc_CONTROL_SECTIONS_FOOTER" = "قسم التحكم  يضيف في اعلى واسفل مركز تحكم متعدد";
-"mc_ICON_STYLE_TITLE" = "شكل الايقونات";
-"mc_ICON_STYLE_FOOTER" = "شكل الايقونات المعروضة في مبدل التطبيقات";
-"mc_ICON_STYLE_STANDARD" = "افتراضي";
-"mc_ICON_STYLE_OVERLAPPED" = "فوق بعض";
-"mc_ICON_STYLE_HIDDEN" = "اخفاء";
-"mc_GESTURE_ANIMATIONS" = "حركة الايماءات";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "اذا فعلتها فان الحركة عند فتح او اغلاق مبدل التطبيقات ستكون مثل الافتراضي بمركز التحكم والاشعارات.\nاجبار الفتح عالتطبيق الحالي.";
-"mc_OPEN_TO_CURRENT" = "الفتح للتطبيق الحالي";
-"mc_OPEN_TO_CURRENT_FOOTER" = "اذا فعلتها فان مبدل التطبيقات راح يفتح للتطبيق المفتوح حاليا, بدلا من التطبيق المفتوح قبل.";
-"mc_INCLUDED_SECTIONS" = "مضاف";
-"mc_EXCLUDED_SECTIONS" = "غير مضاف";
-"hc_ACTIONS_FOOTER" = "السحب للاعلى من زوايا اسفل الشاشة سيتم تطبيق الاجراءات الي اخترتها بالاعلى";
-"hc_LEFT_ACTION" = "الزاوية يسار";
-"hc_QUICK_SWITCHER" = "التبديل السريع";
-"hc_NONE" = "لاشي";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "اذا فعلت القفل من الشاشة الرئيسية فان الاجراء الي راح يكون هو قفل الشاشة.\nاذا فعلت حركة بسيطة للشاشة الرئيسية سيتم استخدام حركة عمودية بسيطة اكثر من الحركة الافتراضية.";
-"hc_LOCK_FROM_HOME" = "قفل من الشاشة الرئيسية";
-"hc_SIMPLE_HOME" = "حركة بسيطة للشاشة الرئيسية";
-"hc_GESTURE_TOLERANCE" = "حد الحركة";
-"hc_GESTURE_TOLERANCE_FOOTER" = "هذا يحدد كم مدى من الزوايا يمكن لك السحب للاعلى لتنفيذ اجراء الزوايا الساخنة";
-"op_HOME_APP_CARD" = "بطاقة الشاشة الرئيسية";
-"op_SWIPE_UP_FOOTER" = "هذا الاجراء عشان تختار وش تبي يسوي لما تسحب بطاقة الشاشة الرئيسية للاعلى من مبدل التطبيقات, كانك تقفلها يعني.";
-"op_SWIPE_UP" = "اجراء السحب للاعلى";
-"op_QUIT_ALL_APPS" = "انهاء كل التطبيقات";
-"op_SHOW_ACTION_MENU" = "اظهار قائمة الاجراءان";
-"op_RESPRING" = "اعادة تشغيل سريع";
-"op_LOCK" = "قفل الشاشة";
-"op_SHUT_DOWN" = "اطفاء الجهاز";
-"op_NONE" = "ولاشي";
-"op_APP_WHITELIST" = "استثناء تطبيق";
-"op_CLOSE_NOW_PLAYING" = "اغلاق التطبيق الي يعمل الان";
-"op_DISMISS_AFTER" = "اخفاء المبدل بعدها";
+"mc_CONTROL_SECTIONS_TITLE" = "التحكم بالأقسام";
+"mc_TOP" = "القائمة العلوية";
+"mc_BOTTOM" = "القائمة السفلية";
+"mc_CONTROL_SECTIONS_FOOTER" = "مركز التحكم سيحوي قائمة الإختصارات العلويه والسفليه لمركز سينج لتعدد المهام.";
+"mc_ICON_STYLE_TITLE" = "ستايل الإيقونات";
+"mc_ICON_STYLE_FOOTER" = "ستايل الأيقونات في قائمة تبديل البرامجr.";
+"mc_ICON_STYLE_STANDARD" = "الإفتراضي";
+"mc_ICON_STYLE_OVERLAPPED" = "متداخلة";
+"mc_ICON_STYLE_HIDDEN" = "مخفي";
+"mc_GESTURE_ANIMATIONS" = "حركة الإيمائآت";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "إذا تم السماح بالحركه أثناء تفعيل أو إلغاء مركز التحكم فسيكون ذلك بالإيمائات، كما هو الحال عند إظهار مركز الإشعارات أو التحكم\nأختار الفتح للبرنامج الحالي للتفعيل";
+"mc_OPEN_TO_CURRENT" = "إفتح إلى التطبيق الحالي";
+"mc_OPEN_TO_CURRENT_FOOTER" = "إذا فعل هذا الخيار فإن مركز تعدد المهام سيفتح للبرنامج المفتوح حالياً بدلاً من البرنامج المفتوح أخيراً";
+"mc_INCLUDED_SECTIONS" = "مضاف إليه";
+"mc_EXCLUDED_SECTIONS" = "مستثنى منه";
+"mc_SHOW_GRABBER" = "Always Show Grabber";
+"mc_OVERRIDE_CC" = "Override CC Gesture";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "السحب للإعلى من زوايا الشاشة السفليه سينفذ أحد الأوامر التاليه.";
+"hc_LEFT_ACTION" = "الزاوية البسرى";
+"hc_RIGHT_ACTION" = "الزاوية اليمنى";
+"hc_GO_TO_HOME_SCREEN" = "إذهب للصفحة الرئيسية";
+"hc_QUICK_SWITCHER" = "المبدل السريع";
+"hc_NONE" = "لا شيء";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "إذا ما تم تفعيل خيار الإقفال من الصفحة الرئيسية، فإن القيام بإيمائة في الصفحة الرئيسية سيغلق الشاشة\nحركة الصفحة الرئيسية البسيطة سيفعل نمطاً أكثر بساطة وسرعة لتأثيرات الحركة بدلاً من نمط تأثيرات النظام الإفتراضي";
+"hc_LOCK_FROM_HOME" = "إقفال الشاشه من الرئيسية";
+"hc_SIMPLE_HOME" = "حركة تبديل بسيطة";
+"hc_GESTURE_TOLERANCE" = "مساحة الإيمائآت";
+"hc_GESTURE_TOLERANCE_FOOTER" = "هذة الخيارات ستحدد المساحة المسموح فيها لتفعيل خيارات التبديل السريع";
+"hc_DEF_CC" = "Control Centre";
+
+/* other prefs page */
+"op_HOME_APP_CARD" = "بطاقة الصفحة الرئيسية";
+"op_SWIPE_UP_FOOTER" = "هذا هو الأمر الذي سوف يتم تفعيله عند سحب بطاقة الصفحة الرئيسية لأعلى";
+"op_SWIPE_UP" = "خيارات السحب لأعلى";
+"op_QUIT_ALL_APPS" = "إغلاق كافة البرامج";
+"op_SHOW_ACTION_MENU" = "إظهار قائمة أوامر";
+"op_RESPRING" = "إعادة تشغيل سريعة";
+"op_LOCK" = "إقفال الشاشة";
+"op_SHUT_DOWN" = "إيقاف التشغيل";
+"op_APP_WHITELIST" = "القائمة البيضاء";
+"op_CLOSE_NOW_PLAYING" = "أغلاق برامج تشغيل الوسائط";
+"op_DISMISS_AFTER" = "صرف المبدل بعد";
 "op_APPEARANCE" = "المظهر";
-"op_REMOVE_DARK_EFFECT" = "ازالة تاثير الظلام";
-"op_HIDE_BG" = "اخفاء الخلفية الضبابية";
-"op_BEHAVIOUR" = "السلوك";
-"op_BEHAVIOUR_FOOTER" = "هنا تقدر تختار اي تطبيق تريد استثناءة وعدم تنشيط اجراء الزوايا الساخنة من داخل هالتطبيق.";
-"op_BLACKLIST" = "استثناء تطبيق";
+"op_REMOVE_DARK_EFFECT" =  "إلغاء الأماكن الداكنه في مركز التحكم";
+"op_HIDE_BG" = "إخفاء تمويه الخلفيه";
+"op_BEHAVIOUR" = "التعامل مع البرامج";
+"op_BEHAVIOUR_FOOTER" = "إذا حظر سينج في أحد البرامج عبر القائمة السوداء فإن خيارات التبديل السريع بن تعمل، لكن مركز التبديل السريع سوف يعمل إذا ما كان مفعلاً";
+"op_BLACKLIST" = "القائمة السوداء";
+
+/* people view page */
 "pv_INFO" = "معلومات";
-"pv_INFO_FOOTER" = "عشان تعرض جهات الاتصال المفضلة لديك لازم تكون مفعل خيار عرض في المبدل من جهات الاتصال والبريد الالكتروني.";
-"mv_SHOW_WHEN_PLAYING" = "تظهر فقط لما تكون مشغل شي";
-"mv_HIDE_WHEN_PLAYING" = "اخفاء وانت مشغل شي";
-"as_HIDE_WHEN_UNAVAILABLE" = "اخفاء اذا لم تكون متوفرة";
-"sv_HORIZONTAL" = "افقي";
-"sv_VERTICAL" = "عمودي";
-"sv_RESETS_TO_FIRST" = "الرجوع الى اول صفحة";
-"sv_RESET_TO_FIRST_FOOTER" = "الرجوع لاول صفحة راح يخلي عرض التمرير يرجع لاول صفحة كل مرة تفتح مبدل التطبيقات";
-"sv_INCLUDED_SECTIONS" = "الاقسام المضافة";
-"sv_EXCLUDED_SECTIONS" = "الاقسام المستبعدة";
-"sv_SCROLLING_STYLE" = "نمط التمرير";
-"st_AIR_STUFF" = "AirDrop و AirPlay";
-"st_VOLUME" = "شريط حجم الصوت";
-"st_BRIGHTNESS" = "شريط السطوع";
-"st_SMALL_SCROLL" = "عرض تمرير صغير";
-"st_BIG_SCROLL" = "عرض تمرير كبير";
-"st_DEFAULT_MEDIA" = "التحكم بالموسيقى الافتراضي";
-"st_TOGGLES" = "ازرار التبديل";
-"st_QUICK_LAUNCH" = "ازرار التشغيل السريع";
-"st_MEDIA_TITLES" = "عرض اسم الاغنية";
-"st_MEDIA_BUTTONS" = "ازرار توقيف, تقديم, ترجيع الموسيقى";
-"st_MEDIA_SCRUBBER" = "الشريط الي يمشي حق الاغاني";
-"st_PEOPLE" = "جهات الاتصال المفضلة";
-"al_ENTER_VALUE" = "الرجاء ادخال قيمة بين %.01f و %.01f.";
-"al_ENTER" = "ادخل";
-"al_CANCEL" = "الغاء";
-"al_NEGATE" = "Negate";
-"al_POINT" = "Point";
-"al_ERROR" = "خطا";
-"al_VALID_VALE" = "الرجاء التاكد من ادخال قيمة صالحة.";
-"al_OK" = "موافق";
-"al_TWEET_ERROR" = "ما اقدر اغرد الحين";
-"al_EMAIL_ERROR" = "الظاهر ماتقدر ترسل ايميل لانك مافعلته";
-"TWITTER_MESSAGE" = "انا استخدم اداة Seng من @friggog استبدال مبدل التطبيقات و مركز التحكم بشكل جديد , شوكرن @abo1bs";
-"el_SYSTEM_APPLICATIONS" = "تطبيقات النظام";
-"el_USER_APPLICATIONS" = "تطبيقات المستخدم";
-"sp_COMPAT_TITLE" = "مشاكل التوافق";
-"sp_COMPAT_FOOTER" = "بعض الادوات معروف انها غير متوافقة مع seng لو عندك اي مشكلة حاول تعطيل او حذف واحد من هذي الادوات:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "تحطم شريط السطوع";
-"sp_BRIGHTNESS_FOOTER" = "هناك مشكلة معروفة مع SimpleCenters عند ضبط شريع السطوع, لاطلاح المشكلة قم بتعطيل جميع خيارات شريط السطوع في SimpleCenters.";
-"sp_GET_IN_TOUCH" = "تواصل معنا";
-"sp_INFO" = "اذا عندك اي مشكلة يشنب او طلب او تبي تساعد بالترجمة او انت مطور وتبي تضيف توافق لاداتك لا تتردد بارسال ايميل";
-"sp_EMAIL" = "الايميل";
-"rm_FOOTER" = "انت مفعل عندك تقليل الحركة, اداة Seng ايضن راح تعدل حركتها من اجل استيعاب هذا افضل, بالتالي فان بعض الخيارات لم تعد متاحة. حركة الايماءات معطله ويتم استبدال حركة الذهاب للشاشة الرئيسية مع تلاشي سلس.";
-"rm_TITLE" = "تقليل الحركة";
-"hc_QUIT_APP" = "انهاء التطبيق";
-"hc_CLOSE_APP" = "اغلاق التطبيق";
-"hc_QUICK_SWITCHER_FOOTER" = "الاسلوب البديل يعمل مثل المبدل السريع في اداة Tage, ولكن الاسلوب العادي هو اشبه باداة Auxo.";
-"hc_ALT_QUICK_SWITCHER" = "استخدام الاسلوب البديل";
+"pv_INFO_FOOTER" = "لتظهر قائمة جهات الإتصال بصورة صحيحه، قم بتفعيل أحد الخيارات أو كلاهما في الخيارات > البريد وجهات الإتصال والتقويم > إظهار في مركز التحكم تحت خيارات الأسماء";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "أظهر فقط عندما تكون قائمة الوسائط تعمل";
+"mv_HIDE_WHEN_PLAYING" = "أخفي قائمة الوسائط دائماً";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "أخفى قائمة الوسائط عندما تكون غير متاحه";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "أفقي";
+"sv_VERTICAL" = "رأسي";
+"sv_RESETS_TO_FIRST" = "عد دائماً للصفحة الأولى";
+"sv_RESET_TO_FIRST_FOOTER" = "'تفعيل خيار العودة للصحفة الأولى سيقوم بإظهار الصفحة الأولى لقائمة الإختصارات في كل مره تقوم فيها بفتح مركز تعدد المهام";
+"sv_INCLUDED_SECTIONS" = "الأقسام المضافة";
+"sv_EXCLUDED_SECTIONS" = "الأقسام المستبعدة";
+"sv_SCROLLING_STYLE" = "شكل السحب";
+
+/* section titles */
+"st_AIR_STUFF" = "الإير بلاي والإير دروب";
+"st_VOLUME" = "مؤشر الصوت";
+"st_BRIGHTNESS" = "مؤشر الإضاءة";
+"st_SMALL_SCROLL" = "قائمة الإختصارات الصغيرة";
+"st_BIG_SCROLL" = "قائمة الإختصارات الكبيرة";
+"st_DEFAULT_MEDIA" = "قائمة الوسائط الإفتراضية";
+"st_TOGGLES" = "أزرار الإختصارات";
+"st_QUICK_LAUNCH" = "أزرار التشغيل السريع";
+"st_MEDIA_TITLES" = "عناوين الوسائط";
+"st_MEDIA_BUTTONS" = "أزرار التحكم بالوسائط";
+"st_MEDIA_SCRUBBER" = "وسائط مختصره";
+"st_PEOPLE" = "جهات الإتصال المفضلة";
+
+/* alerts */
+"al_ENTER_VALUE" = "أدخل قيمة بين %.01f و %.01f.";
+"al_ENTER" = "أدخل";
+"al_CANCEL" = "إلغاء";
+"al_NEGATE" = "لا شيء";
+"al_POINT" = "نقطة";
+"al_ERROR" = "خطأ";
+"al_VALID_VALE" = "تأكد من إدخالك لقيمة صحيحة";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "لا يمكن إرسال تغريده في هذة اللحظه";
+"al_EMAIL_ERROR" = "يبدو إنك لا تستطيع إرسال بريد في الوقت الحالي";
+
+/* twitter */
+"TWITTER_MESSAGE" = "أنا أستخدم أداة سينج (بواسطه @friggog) مركز التحكم الرائع والأنيق";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "برامج النظام";
+"el_USER_APPLICATIONS" = "برامج المستخدم";
+
+/* support page */
+"sp_COMPAT_TITLE" = "مشاكل التوافقيه";
+"sp_COMPAT_FOOTER" = "بعض الأدوات لديها مشاكل توافق مع سينج، إذا كان لديك مشاكل مع إي أداة حاول إيقافها أو حذفها:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "لقد إنهار مؤشر الإضاءة";
+"sp_BRIGHTNESS_FOOTER" = "هناك مشكلة معروفه مع أداة  SimpleCenters تحدث عند تغيير مؤشر الإضاءه عبر سينج. لإصلاحها قم بإلغاء جميع مؤشرات الإضاءه في SimpleCenters.";
+"sp_GET_IN_TOUCH" = "تواصل معي";
+"sp_INFO" = "إذا كانت لديك إي مشاكل أو إقتراحات أو كانت لديك الرغبه في الترجمة، أو كنت أحد المطورين وترغب بتوافق أدواتك وبرامجك مع سينج فلا تترد في مراسلتي بالبريد";
+"sp_EMAIL" = "البريد الإلكتروني";
