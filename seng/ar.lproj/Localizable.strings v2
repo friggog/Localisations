@@ -1,0 +1,129 @@
+/* in tweak labels */
+"tw_HOME" = "الصفحة الرئيسية";
+"tw_ACTION_MENU" = "قائمة الخيارات";
+"tw_SHUT_DOWN" = "إيقاف التشغيل";
+"tw_REBOOT" = "إعادة التشغيل";
+"tw_SAFE_MODE" = "الوضع الآمن";
+"tw_RESPRING" = "إعادة تشغيل سريعة";
+"tw_QUIT_ALL" = "إغلاق كافة البرامج";
+"tw_CANCEL" = "إلغاء";
+
+/* prefs */
+/* \n represents a new line, just leave them alone */
+/* main page */
+"MULTI_CENTRE" = "مركز تعدد المهام";
+"HOT_CORNERS" = "خيارات التنقل السريع";
+"OTHER" = "خيارات أخرى;
+"SUPPORT" = "الدعم";
+
+/* multi centre page */
+"mc_ENABLED" = "تفعيل";
+"mc_CONTROL_SECTIONS_TITLE" = "التحكم بالأقسام";
+"mc_TOP" = "القائمة العلوية";
+"mc_BOTTOM" = "القائمة السفلية";
+"mc_CONTROL_SECTIONS_FOOTER" = "مركز التحكم سيحوي قائمة الإختصارات العلويه والسفليه لمركز سينج لتعدد المهام.";
+"mc_ICON_STYLE_TITLE" = "ستايل الإيقونات";
+"mc_ICON_STYLE_FOOTER" = "ستايل الأيقونات في قائمة تبديل البرامجr.";
+"mc_ICON_STYLE_STANDARD" = "الإفتراضي";
+"mc_ICON_STYLE_OVERLAPPED" = "متداخلة";
+"mc_ICON_STYLE_HIDDEN" = "مخفي";
+"mc_GESTURE_ANIMATIONS" = "حركة الإيمائآت";
+"mc_GESTURE_ANIMATIONS_FOOTER" = "إذا تم السماح بالحركه أثناء تفعيل أو إلغاء مركز التحكم فسيكون ذلك بالإيمائات، كما هو الحال عند إظهار مركز الإشعارات أو التحكم\nأختار الفتح للبرنامج الحالي للتفعيل";
+"mc_OPEN_TO_CURRENT" = "إفتح إلى التطبيق الحالي";
+"mc_OPEN_TO_CURRENT_FOOTER" = "إذا فعل هذا الخيار فإن مركز تعدد المهام سيفتح للبرنامج المفتوح حالياً بدلاً من البرنامج المفتوح أخيراً";
+"mc_INCLUDED_SECTIONS" = "مضاف إليه";
+"mc_EXCLUDED_SECTIONS" = "مستثنى منه";
+
+/* hot corners pag */
+"hc_ACTIONS_FOOTER" = "السحب للإعلى من زوايا الشاشة السفليه سينفذ أحد الأوامر التاليه.";
+"hc_LEFT_ACTION" = "الزاوية البسرى";
+"hc_RIGHT_ACTION" = "الزاوية اليمنى";
+"hc_GO_TO_HOME_SCREEN" = "إذهب للصفحة الرئيسية";
+"hc_QUICK_SWITCHER" = "المبدل السريع";
+"hc_NONE" = "لا شيء";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "إذا ما تم تفعيل خيار الإقفال من الصفحة الرئيسية، فإن القيام بإيمائة في الصفحة الرئيسية سيغلق الشاشة\nحركة الصفحة الرئيسية البسيطة سيفعل نمطاً أكثر بساطة وسرعة لتأثيرات الحركة بدلاً من نمط تأثيرات النظام الإفتراضي";
+"hc_LOCK_FROM_HOME" = "إقفال الشاشه من الرئيسية";
+"hc_SIMPLE_HOME" = "حركة تبديل بسيطة";
+"hc_GESTURE_TOLERANCE" = "مساحة الإيمائآت";
+"hc_GESTURE_TOLERANCE_FOOTER" = "هذة الخيارات ستحدد المساحة المسموح فيها لتفعيل خيارات التبديل السريع";
+
+/* other prefs page */
+"op_HOME_APP_CARD" = "بطاقة الصفحة الرئيسية";
+"op_SWIPE_UP_FOOTER" = "هذا هو الأمر الذي سوف يتم تفعيله عند سحب بطاقة الصفحة الرئيسية لأعلى";
+"op_SWIPE_UP" = "خيارات السحب لأعلى";
+"op_QUIT_ALL_APPS" = "إغلاق كافة البرامج";
+"op_SHOW_ACTION_MENU" = "إظهار قائمة أوامر";
+"op_RESPRING" = "إعادة تشغيل سريعة";
+"op_LOCK" = "إقفال الشاشة";
+"op_SHUT_DOWN" = "إيقاف التشغيل
+"op_APP_WHITELIST" = "القائمة البيضاء";
+"op_CLOSE_NOW_PLAYING" = "أغلاق برامج تشغيل الوسائط";
+"op_DISMISS_AFTER" = "صرف المبدل بعد";
+"op_APPEARANCE" = "المظهر";
+"op_REMOVE_DARK_EFFECT" =  "إلغاء الأماكن الداكنه في مركز التحكم";
+"op_HIDE_BG" = "إخفاء تمويه الخلفيه";
+"op_BEHAVIOUR" = "التعامل مع البرامج";
+"op_BEHAVIOUR_FOOTER" = "إذا حظر سينج في أحد البرامج عبر القائمة السوداء فإن خيارات التبديل السريع بن تعمل، لكن مركز التبديل السريع سوف يعمل إذا ما كان مفعلاً";
+"op_BLACKLIST" = "القائمة السوداء";
+
+/* people view page */
+"pv_INFO" = "معلومات";
+"pv_INFO_FOOTER" = "لتظهر قائمة جهات الإتصال بصورة صحيحه، قم بتفعيل أحد الخيارات أو كلاهما في الخيارات > البريد وجهات الإتصال والتقويم > إظهار في مركز التحكم تحت خيارات الأسماء";
+
+/* media view pages */
+"mv_SHOW_WHEN_PLAYING" = "أظهر فقط عندما تكون قائمة الوسائط تعمل";
+"mv_HIDE_WHEN_PLAYING" = "أخفي قائمة الوسائط دائماً";
+
+/* air stuff page */
+"as_HIDE_WHEN_UNAVAILABLE" = "أخفى قائمة الوسائط عندما تكون غير متاحه";
+
+/* scroll view pages */
+"sv_HORIZONTAL" = "أفقي";
+"sv_VERTICAL" = "رأسي";
+"sv_RESETS_TO_FIRST" = "عد دائماً للصفحة الأولى";
+"sv_RESET_TO_FIRST_FOOTER" = "'تفعيل خيار العودة للصحفة الأولى سيقوم بإظهار الصفحة الأولى لقائمة الإختصارات في كل مره تقوم فيها بفتح مركز تعدد المهام";
+"sv_INCLUDED_SECTIONS" = "الأقسام المضافة";
+"sv_EXCLUDED_SECTIONS" = "الأقسام المستبعدة";
+"sv_SCROLLING_STYLE" = "شكل السحب";
+
+/* section titles */
+"st_AIR_STUFF" = "الإير بلاي والإير دروب;
+"st_VOLUME" = "مؤشر الصوت";
+"st_BRIGHTNESS" = "مؤشر الإضاءة";
+"st_SMALL_SCROLL" = "قائمة الإختصارات الصغيرة";
+"st_BIG_SCROLL" = "قائمة الإختصارات الكبيرة";
+"st_DEFAULT_MEDIA" = "قائمة الوسائط الإفتراضية";
+"st_TOGGLES" = "أزرار الإختصارات";
+"st_QUICK_LAUNCH" = "أزرار التشغيل السريع";
+"st_MEDIA_TITLES" = "عناوين الوسائط";
+"st_MEDIA_BUTTONS" = "أزرار التحكم بالوسائط;
+"st_MEDIA_SCRUBBER" = "وسائط مختصره";
+"st_PEOPLE" = "جهات الإتصال المفضلة";
+
+/* alerts */
+"al_ENTER_VALUE" = "أدخل قيمة بين %.01f و %.01f.";
+"al_ENTER" = "أدخل";
+"al_CANCEL" = "إلغاء";
+"al_NEGATE" = "لا شيء";
+"al_POINT" = "نقطة";
+"al_ERROR" = "خطأ";
+"al_VALID_VALE" = "تأكد من إدخالك لقيمة صحيحة";
+"al_OK" = "OK";
+"al_TWEET_ERROR" = "لا يمكن إرسال تغريده في هذة اللحظه";
+"al_EMAIL_ERROR" = "يبدو إنك لا تستطيع إرسال بريد في الوقت الحالي";
+
+/* twitter */
+"TWITTER_MESSAGE" = "أنا أستخدم أداة سينج (بواسطه @friggog) مركز التحكم الرائع والأنيق";
+
+/* blacklist/whitelist section titles */
+"el_SYSTEM_APPLICATIONS" = "برامج النظام";
+"el_USER_APPLICATIONS" = "برامج المستخدم";
+
+/* support page */
+"sp_COMPAT_TITLE" = "مشاكل التوافقيه";
+"sp_COMPAT_FOOTER" = "بعض الأدوات لديها مشاكل توافق مع سينج، إذا كان لديك مشاكل مع إي أداة حاول إيقافها أو حذفها:\n- CCControls";
+"sp_BRIGHTNESS_TITLE" = "لقد إنهار مؤشر الإضاءة";
+"sp_BRIGHTNESS_FOOTER" = "هناك مشكلة معروفه مع أداة  SimpleCenters تحدث عند تغيير مؤشر الإضاءه عبر سينج. لإصلاحها قم بإلغاء جميع مؤشرات الإضاءه في SimpleCenters.";
+"sp_GET_IN_TOUCH" = "تواصل معي";
+"sp_INFO" = "إذا كانت لديك إي مشاكل أو إقتراحات أو كانت لديك الرغبه في الترجمة، أو كنت أحد المطورين وترغب بتوافق أدواتك وبرامجك مع سينج فلا تترد في مراسلتي بالبريد";
+"sp_EMAIL" = "البريد الإلكتروني";
