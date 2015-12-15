@@ -24,7 +24,7 @@
 "mc_BOTTOM" = "القائمة السفلية";
 "mc_CONTROL_SECTIONS_FOOTER" = "مركز التحكم سيحوي قائمة الإختصارات العلويه والسفليه لمركز سينج لتعدد المهام.";
 "mc_ICON_STYLE_TITLE" = "ستايل الإيقونات";
-"mc_ICON_STYLE_FOOTER" = "ستايل الأيقونات في قائمة تبديل البرامجr.";
+"mc_ICON_STYLE_FOOTER" = "ستايل الأيقونات في قائمة تبديل البرامج.";
 "mc_ICON_STYLE_STANDARD" = "الإفتراضي";
 "mc_ICON_STYLE_OVERLAPPED" = "متداخلة";
 "mc_ICON_STYLE_HIDDEN" = "مخفي";
@@ -34,8 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "إذا فعل هذا الخيار فإن مركز تعدد المهام سيفتح للبرنامج المفتوح حالياً بدلاً من البرنامج المفتوح أخيراً";
 "mc_INCLUDED_SECTIONS" = "مضاف إليه";
 "mc_EXCLUDED_SECTIONS" = "مستثنى منه";
-"mc_SHOW_GRABBER" = "Always Show Grabber";
-"mc_OVERRIDE_CC" = "Override CC Gesture";
+"mc_SHOW_GRABBER" = "قم بإظهار مؤشر السحب دائماً";
+"mc_OVERRIDE_CC" = "تجاوز إيمائات مركز التحكم";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "السحب للإعلى من زوايا الشاشة السفليه سينفذ أحد الأوامر التاليه.";
@@ -91,7 +91,7 @@
 "sv_SCROLLING_STYLE" = "شكل السحب";
 
 /* section titles */
-"st_AIR_STUFF" = "الإير بلاي والإير دروب";
+"st_AIR_STUFF" = "الإيربلاي والإيردروب";
 "st_VOLUME" = "مؤشر الصوت";
 "st_BRIGHTNESS" = "مؤشر الإضاءة";
 "st_SMALL_SCROLL" = "قائمة الإختصارات الصغيرة";
