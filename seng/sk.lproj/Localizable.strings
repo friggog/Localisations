@@ -34,6 +34,8 @@
 "mc_OPEN_TO_CURRENT_FOOTER" = "Ak je táto funkcia zapnutá, tak sa prepínač aplikácií otvorí na pozíciu práve aktívnej aplikácie, namiesto naposledy otvorenej.";
 "mc_INCLUDED_SECTIONS" = "Zahrnuté sekcie";
 "mc_EXCLUDED_SECTIONS" = "Nezahrnuté sekcie";
+"mc_SHOW_GRABBER" = "Vždy zobraziť putko";
+"mc_OVERRIDE_CC" = "Nahradiť gesto Ovládacieho centra";
 
 /* hot corners pag */
 "hc_ACTIONS_FOOTER" = "Ťahanie, prstom smerom hore zo spodných rohov displeja, vyvolá príslušné akcie.";
@@ -50,6 +52,7 @@
 "hc_QUICK_SWITCHER_FOOTER" = "'Alternatívny štýl' sa správa ako Rýchly prepínač v doplnku Tage, zatiaľ čo štandardný je viac ako Rýchly prepínač v Auxo.";
 "hc_GESTURE_TOLERANCE" = "Tolerancia gest";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavenie determinuje ako ďaleko od rohu bude gesto funkčné.";
+"hc_DEF_CC" = "Ovládacie centrum";
 
 /* other prefs page */
 "op_HOME_APP_CARD" = "Karta domovskej obrazovky";
@@ -68,7 +71,7 @@
 "op_REMOVE_DARK_EFFECT" =  "Odstrániť 'Tmavý efekt'";
 "op_HIDE_BG" = "Skryť rozmazanie pozadia";
 "op_BEHAVIOUR" = "Správanie";
-"op_BEHAVIOUR_FOOTER" = "Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'pútko' ako pri Ovládacom centre.";
+"op_BEHAVIOUR_FOOTER" = "Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'putko' ako pri Ovládacom centre.";
 "op_BLACKLIST" = "Čierna listina";
 
 /* people view page */
