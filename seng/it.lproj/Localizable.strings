@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Chiudi e Termina l'App";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Nessuna azione";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Se 'Blocca Dalla Home' è attivo, eseguire questo gesto dalla Home Screen bloccherà il dispositivo.\nSe 'Animazione Home semplice' è attivo, allora verrà usata un’animazione più semplice di scorrimento verticale invece che l’animazione di scalatura di sistema.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Se 'Blocca Dalla Home' è attivo, eseguire questo gesto dalla Home Screen bloccherà il dispositivo.\nSe 'Animazione Home semplice' è attivo, allora verrà usata un’animazione più semplice di scorrimento verticale invece che l’animazione di scalatura di sistema. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Blocca Dalla Home";
 "hc_SIMPLE_HOME" = "Animazione Home semplice";
 "hc_ALT_QUICK_SWITCHER" = "Usa stile alternativo";

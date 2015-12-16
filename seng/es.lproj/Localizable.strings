@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "Salir de la Aplicación";
 "hc_QUICK_SWITCHER" = "Selector Rápido";
 "hc_NONE" = "Nada";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Bloquear desde Inicio";
 "hc_SIMPLE_HOME" = "Animación de Inicio Simple";
 "hc_ALT_QUICK_SWITCHER" = "Utilizar Estilo alternativo";

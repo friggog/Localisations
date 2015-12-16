@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Avslutt App";
 "hc_QUICK_SWITCHER" = "Hurtigvelger";
 "hc_NONE" = "Ingen";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Om 'Lås Fra Hjemskjerm' er aktivert, vil denne handlingen låse enheten. Hvis 'Enkel Hjemanimasjon' er aktivert vil en enklere og vertikal bevegelse bli brukt framfor standar zoomeffekt i iOS.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Om 'Lås Fra Hjemskjerm' er aktivert, vil denne handlingen låse enheten. Hvis 'Enkel Hjemanimasjon' er aktivert vil en enklere og vertikal bevegelse bli brukt framfor standar zoomeffekt i iOS. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Lås Fra Hjemskjerm";
 "hc_SIMPLE_HOME" = "Enkel Hjemanimasjon";
 "hc_ALT_QUICK_SWITCHER" = "Bruk en alternativ stil";

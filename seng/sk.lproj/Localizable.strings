@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "Ukončiť Aplikáciu";
 "hc_QUICK_SWITCHER" = "Rýchly prepínač";
 "hc_NONE" = "Nič";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Zamknúť z plochy";
 "hc_SIMPLE_HOME" = "Jednoduchšia animácia";
 "hc_ALT_QUICK_SWITCHER" = "Alternatívny štýl";
@@ -73,6 +73,8 @@
 "op_BEHAVIOUR" = "Správanie";
 "op_BEHAVIOUR_FOOTER" = "Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'putko' ako pri Ovládacom centre.";
 "op_BLACKLIST" = "Čierna listina";
+"op_SWIPE_SWITCH" = "Gesto na prepínanie aplikácií";
+"op_SWIPE_SWITCH_FOOTER" = "Potiahnutie dovnútra z ľavého/pravého spodného rohu obrazovky, vyvolá prepnutie na predchádzajúcu/ďalšiu aplikáciu.";
 
 /* people view page */
 "pv_INFO" = "Informácie";

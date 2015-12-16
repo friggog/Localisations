@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Thoát Ứng Dụng";
 "hc_QUICK_SWITCHER" = "Đa Nhiệm Nhanh";
 "hc_NONE" = "Không";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Nếu ‘Khoá Từ Home' được bật, làm thao tác này ở màn hình chủ sẽ khoá máy.\nNếu ‘Hiệu Ứng Về Home Đơn Giản' được bật một hiệu ứng vuốt lên đơn giản sẽ được thay thế cho chuyển động gốc.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Nếu ‘Khoá Từ Home' được bật, làm thao tác này ở màn hình chủ sẽ khoá máy.\nNếu ‘Hiệu Ứng Về Home Đơn Giản' được bật một hiệu ứng vuốt lên đơn giản sẽ được thay thế cho chuyển động gốc. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Khoá Từ Home";
 "hc_SIMPLE_HOME" = "Hiệu Ứng Về Home Đơn Giản";
 "hc_ALT_QUICK_SWITCHER" = "Dùng Kiểu Khác";

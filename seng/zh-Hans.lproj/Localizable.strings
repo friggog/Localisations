@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "退出应用程序";
 "hc_QUICK_SWITCHER" = "快速切换";
 "hc_NONE" = "无";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "如果打开“于主屏幕锁定”选项，在主屏幕页使用该手势即可锁定机器。\n如果打开“简洁动画”选项，滚动动画将比系统默认的更加简洁。";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "如果打开“于主屏幕锁定”选项，在主屏幕页使用该手势即可锁定机器。\n如果打开“简洁动画”选项，滚动动画将比系统默认的更加简洁。 (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "于主屏幕锁定";
 "hc_SIMPLE_HOME" = "简洁动画";
 "hc_ALT_QUICK_SWITCHER" = "使用备用风格";

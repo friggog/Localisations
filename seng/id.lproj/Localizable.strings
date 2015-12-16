@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Keluar Aplikasi";
 "hc_QUICK_SWITCHER" = "Pengalih Cepat";
 "hc_NONE" = "Non Aktif";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Mengunci dari Layar Utama' diaktifkan, maka anda dapat mengunci peranti di Layar Utama dengan cara menyeret layar dari pojok kanan bawah ke atas.\nJika 'Animasi Menutup App yang Simpel' diaktifkan, maka animasi menutup App bawaan sistem akan digantikan oleh animasi menutup App secara vertikal yang simpel.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Mengunci dari Layar Utama' diaktifkan, maka anda dapat mengunci peranti di Layar Utama dengan cara menyeret layar dari pojok kanan bawah ke atas.\nJika 'Animasi Menutup App yang Simpel' diaktifkan, maka animasi menutup App bawaan sistem akan digantikan oleh animasi menutup App secara vertikal yang simpel. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Mengunci dari Layar Utama";
 "hc_SIMPLE_HOME" = "Animasi Menutup App yang Simpel";
 "hc_ALT_QUICK_SWITCHER" = "Tampilan Alternatif Pengalih Cepat";

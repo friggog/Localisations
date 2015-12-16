@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "Forlade App";
 "hc_QUICK_SWITCHER" = "Genvej til (kun) Appskifteren";
 "hc_NONE" = "Intet";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Hvis 'Lås fra hjemmeskærm ' er aktiveret, vil den her bevægelse på hjemmeskærmen låse iPhone.\nHvis 'Hvis simpel hjemmeskærms animation' er aktiveret, vil en mere simpel lodret animation blive brugt, i stedet for systemets standard animation.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Hvis 'Lås fra hjemmeskærm ' er aktiveret, vil den her bevægelse på hjemmeskærmen låse iPhone.\nHvis 'Hvis simpel hjemmeskærms animation' er aktiveret, vil en mere simpel lodret animation blive brugt, i stedet for systemets standard animation. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Lås fra hjemmeskærm";
 "hc_SIMPLE_HOME" = "Simpel hjemmeskærms animation";
 "hc_ALT_QUICK_SWITCHER" = "Brug alternativ stil";

@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "App beenden";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Nichts";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Wenn 'Sperren auf Home' aktiviert ist und keine App im Vordergrund ist, wird das Gerät beim Ausführen der Geste gesperrt.\nWenn 'Einfache Home Animation' aktiviert ist, wird eine einfache vertikale ziehen Animation benutzt, anstatt der Standard Animation.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Wenn 'Sperren auf Home' aktiviert ist und keine App im Vordergrund ist, wird das Gerät beim Ausführen der Geste gesperrt.\nWenn 'Einfache Home Animation' aktiviert ist, wird eine einfache vertikale ziehen Animation benutzt, anstatt der Standard Animation. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Sperren auf Home";
 "hc_SIMPLE_HOME" = "Einfache Home Animation";
 "hc_ALT_QUICK_SWITCHER" = "Alternativen Stil benutzen";

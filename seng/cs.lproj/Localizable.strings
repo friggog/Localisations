@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Vypnout Aplikaci";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Nic";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.\nPokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.\nPokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Zamknout z Hlavní Stránky";
 "hc_SIMPLE_HOME" = "Jednodužší Animace";
 "hc_ALT_QUICK_SWITCHER" = "Použít Alternativní Styl";

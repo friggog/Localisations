@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Stop Applicatie";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Geen";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Als 'Vergrendel Via Thuis' is ingeschakeld zal het uitvoeren van dit gebaar op het Thuis Scherm het apparaat vergrendelen.\nAls 'Simpele Thuis Animatie' is ingeschakeld zal er een simpelere verticale schuif animatie gebruikt worden in plaats van de standaard schaal animatie.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Als 'Vergrendel Via Thuis' is ingeschakeld zal het uitvoeren van dit gebaar op het Thuis Scherm het apparaat vergrendelen.\nAls 'Simpele Thuis Animatie' is ingeschakeld zal er een simpelere verticale schuif animatie gebruikt worden in plaats van de standaard schaal animatie. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Vergrendel Via Thuis";
 "hc_SIMPLE_HOME" = "Simpele Thuis Animatie";
 "hc_ALT_QUICK_SWITCHER" = "Gebruik Alternatieve Stijl";
@@ -136,4 +136,3 @@
 /* reduce motion */
 "rm_TITLE" = "Verminder Beweging";
 "rm_FOOTER" = "Je hebt op dit moment verminder beweging ingeschakeld. Seng zal de animaties aanpassen om dit zo goed mogelijk te laten verlopen, hierdoor zullen sommige opties niet beschikbaar zijn. Gebaren animaties zijn uitgeschakeld en de 'Ga naar Thuis Scherm' animatie is vervangen door een geleidelijke overgang.";
-

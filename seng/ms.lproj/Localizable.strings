@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "Tutup App";
 "hc_QUICK_SWITCHER" = "Switcher Pantas";
 "hc_NONE" = "Tiada";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Kunci Dari Rumah";
 "hc_SIMPLE_HOME" = "Animasi Rumah Mudah";
 "hc_ALT_QUICK_SWITCHER" = "Gunakan Stail Alternatif";

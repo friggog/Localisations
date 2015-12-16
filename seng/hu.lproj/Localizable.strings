@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Gyors alkalmazásváltó";
 "hc_NONE" = "Semmi";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Főképernyőn lezárás";
 "hc_SIMPLE_HOME" = "Egyszerűsített animáció";
 "hc_ALT_QUICK_SWITCHER" = "Alternatív kinézet használata";

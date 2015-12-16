@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Quitter App";
 "hc_QUICK_SWITCHER" = "Défilement Rapide";
 "hc_NONE" = "Aucun";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si ‘Verrouiller depuis le SpringBoard’ est activé, glisser depuis le bas droit verrouillera l'appareil.\nSi 'Animation Simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si ‘Verrouiller depuis le SpringBoard’ est activé, glisser depuis le bas droit verrouillera l'appareil.\nSi 'Animation Simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Verrouiller Depuis le SpringBoard";
 "hc_SIMPLE_HOME" = "Animation Simple";
 "hc_ALT_QUICK_SWITCHER" = "Style Alternatif";

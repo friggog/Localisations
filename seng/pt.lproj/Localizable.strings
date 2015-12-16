@@ -43,7 +43,7 @@
 "hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "Desabilitado";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Bloquear do Início";
 "hc_SIMPLE_HOME" = "Animação de Fechamento Simples";
 "hc_ALT_QUICK_SWITCHER" = "Usar Estilo Diferenciado";

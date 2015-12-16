@@ -45,7 +45,7 @@
 "hc_QUIT_APP" = "Quit App";
 "hc_QUICK_SWITCHER" = "Quick Switcher";
 "hc_NONE" = "None";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation.";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "If 'Lock From Home' is enabled performing this gesture on the Home Screen will lock the device.\nIf 'Simple Home Animation' is enabled then a more simple vertical slide animation will be used rather than the system default scale animation. (iOS 8 only).";
 "hc_LOCK_FROM_HOME" = "Lock From Home";
 "hc_SIMPLE_HOME" = "Simple Home Animation";
 "hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
