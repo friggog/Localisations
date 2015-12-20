@@ -20,7 +20,7 @@
 "hc_DEF_CC" = "Denetim Merkezi";
 "hc_GESTURE_TOLERANCE" = "Hareket Hassasiyeti";
 "hc_GESTURE_TOLERANCE_FOOTER" = "Köşelerin işlevselliğini etkinleştirip kaydırabilir ve ne kadar mesafede etkin olacağını belirliyebirsiniz.";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Eğer \"Ana Ekranda Sağ Köşeden Kilitle\" etkin ise sağ köşeden yukarı sürükleme yaptığınızda ekran kilitlenir. \"Basit Kaydırma Animasyonu\" etkin ise yukarı sürükleme animasyonunu değiştirir. (iOS 8 only)";
+"hc_GO_TO_HOME_SCREEN_FOOTER" = "Eğer \"Ana Ekranda Sağ Köşeden Kilitle\" etkin ise sağ köşeden yukarı sürükleme yaptığınızda ekran kilitlenir. \"Basit Kaydırma Animasyonu\" etkin ise yukarı sürükleme animasyonunu değiştirir.";
 "hc_LEFT_ACTION" = "Sol Köşe Eylemi";
 "hc_LOCK_FROM_HOME" = "Ana Ekranda Sağ Köşeden Kilitle";
 "hc_NONE" = "Hiçbiri";
@@ -54,13 +54,11 @@
 "op_BEHAVIOUR" = "Davranış";
 "op_BEHAVIOUR_FOOTER" = "\"Devre Dışı Uygulamalar\" bölümüne eklediğiniz programlarınız için kenar köşe eylemleriniz çalışmaz.";
 "op_BLACKLIST" = "Devre Dışı Uygulamalar";
-"op_BOTTOM_THIRD" = "Alt Kenar";
 "op_CLOSE_NOW_PLAYING" = "Medya Çalarken Kapat";
 "op_DISMISS_AFTER" = "Ana Ekrana Dön";
 "op_HIDE_BG" = "Arka Plan Bulanıklığı Kapat";
 "op_HOME_APP_CARD" = "Ana Ekran Uygulama Kartı";
 "op_LOCK" = "Kilitle";
-"op_MIDDLE_THIRD" = "Orta Kenar";
 "op_NONE" = "Hiçbirşey";
 "op_QUIT_ALL_APPS" = "Tüm Uygulamalardan Çık";
 "op_REMOVE_DARK_EFFECT" = "Koyuluk Efektini Kaldır";
@@ -68,10 +66,9 @@
 "op_SHOW_ACTION_MENU" = "Menü Ekranı Göster";
 "op_SHUT_DOWN" = "Kapat";
 "op_SWIPE_SWITCH" = "Uygulama Değiştirme İçin Sürükle";
-"op_SWIPE_SWITCH_FOOTER" = "Önceki ve sonraki uygulamalar arasında geçiş sağlamak için ekranın belirlediğiniz kenar noktalarından sürükleyin.";
+"op_SWIPE_SWITCH_FOOTER" = "Önceki ve sonraki uygulamalar arasında geçiş sağlamak için ekranın sol alt çeyreğinden sürükleyin.";
 "op_SWIPE_UP" = "Yukarı Sürükle Eylemi";
 "op_SWIPE_UP_FOOTER" = "Uygulama değiştirici ekranında \"Ana Ekran\" kartı'nı yukarı sürüklediğinizde yukarıdaki sıralı eylemlerden seçiminiz aktif olur.";
-"op_TOP_THIRD" = "Üst Kenar";
 "pv_INFO" = "Bilgi";
 "pv_INFO_FOOTER" = "Doğru şekilde göstermek için, bir veya iki seçeneği ayarlar'dan etkinleştirmelisiniz. Ayarlar > Mail, Kişiler & Takvim > Uygulama değiştiricide gösterir.";
 "rm_FOOTER" = "Eğer seng'i daha iyi ve akıcı kullanmak istiyorsanız, \"Ayarlar-Genel-Erişilebilirlik-Hareketi Azalt\" seçeneğini etkinleştirin.";

@@ -4,7 +4,7 @@
 "tw_SHUT_DOWN" = "關機";
 "tw_REBOOT" = "重新啟動";
 "tw_SAFE_MODE" = "安全模式";
-"tw_RESPRING" = "Respring";
+"tw_RESPRING" = "重新啟動主畫面";
 "tw_QUIT_ALL" = "結束所有應用程式";
 "tw_LOCK" = "鎖定裝置";
 "tw_CANCEL" = "取消";
@@ -35,7 +35,7 @@
 "mc_INCLUDED_SECTIONS" = "包含";
 "mc_EXCLUDED_SECTIONS" = "不包含";
 "mc_SHOW_GRABBER" = "永遠顯示拉鈕";
-"mc_OVERRIDE_CC" = "無視控制中心的手勢";
+"mc_OVERRIDE_CC" = "取代控制中心的手勢";
 
 /* hot corners page */
 "hc_ACTIONS_FOOTER" = "由螢幕下方的角落往上滑動來執行以上動作。";
@@ -60,7 +60,7 @@
 "op_SWIPE_UP" = "主畫面向上滑動的動作";
 "op_QUIT_ALL_APPS" = "結束所有應用程式";
 "op_SHOW_ACTION_MENU" = "顯示動作選單";
-"op_RESPRING" = "Respring";
+"op_RESPRING" = "重新啟動主畫面";
 "op_LOCK" = "鎖定裝置";
 "op_SHUT_DOWN" = "關機";
 "op_NONE" = "不做任何動作";
@@ -73,6 +73,8 @@
 "op_BEHAVIOUR" = "行為";
 "op_BEHAVIOUR_FOOTER" = "若將應用程式列入 seng 的黑名單，則熱點不會在該程式中作用，seng 的多工中心仍然有作用（如有啟用）。若在全螢幕時，多工中心開啟前會先顯示小型拉鈕（如同預設的控制中心）。";
 "op_BLACKLIST" = "黑名單";
+"op_SWIPE_SWITCH" = "輕掃以切換 App";
+"op_SWIPE_SWITCH_FOOTER" = "由螢幕下方四分之一處，左側/右側邊緣由外向內輕掃，以切換前一個/後一個 App。";
 
 /* people view page */
 "pv_INFO" = "資訊";
@@ -121,7 +123,7 @@
 "al_EMAIL_ERROR" = "看起來您無法寄送郵件。";
 
 /* twitter */
-"TWITTER_MESSAGE" = "我正使用 seng （開發者 @friggog） 以新潮的方式切換App！";
+"TWITTER_MESSAGE" = "我正使用 seng （開發者 @friggog） 以新潮的方式切換 App！";
 
 /* blacklist/whitelist section titles */
 "el_SYSTEM_APPLICATIONS" = "系統應用程式";
@@ -131,11 +133,11 @@
 "sp_COMPAT_TITLE" = "相容性問題";
 "sp_COMPAT_FOOTER" = "目前已知有些外掛程式無法與 seng 相容，若你使用上遇到問題請先試著關閉或移除這些外掛程式：\n CCControls";
 "sp_BRIGHTNESS_TITLE" = "亮度滑桿失效";
-"sp_BRIGHTNESS_FOOTER" = "目前已知 SimpleCenters 會影響 seng 的亮度滑桿功能，請先在 SimpleCenters 中關閉任何亮度滑桿選項來修復此功能";
+"sp_BRIGHTNESS_FOOTER" = "目前已知 SimpleCenters 會影響 seng 的亮度滑桿功能，請先在 SimpleCenters 中關閉任何亮度滑桿選項來修復此功能。";
 "sp_GET_IN_TOUCH" = "取得聯繫";
-"sp_INFO" = "若你有任何問題、請求、願意協助翻譯 seng ，或是想要讓你的外掛相容於 seng 的開發者，歡迎隨時發送 Email 給我";
+"sp_INFO" = "若您有任何問題、請求、願意協助翻譯 seng ，或是開發者想要讓您的外掛相容於 seng，歡迎隨時發送 Email 給我。";
 "sp_EMAIL" = "Email";
 
 /* reduce motion */
 "rm_TITLE" = "減少動態效果";
-"rm_FOOTER" = "你已啟用「減少動態效果」，seng 將會調整動態特效來適應其功能，因此部分功能將自動停用。手勢動畫會被停用，「回到主畫面」的動態效果以淡出效果取代";
+"rm_FOOTER" = "您已啟用「減少動態效果」，seng 將會調整動畫以符合效果，因此部分功能將自動停用。手勢動畫會被停用，「回到主畫面」的動態效果以淡出效果取代。";

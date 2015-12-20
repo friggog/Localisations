@@ -74,7 +74,10 @@
 "op_BEHAVIOUR_FOOTER" = "If seng is blacklisted in an app then hot corners will not function. The seng multi centre will still function (if enabled) but if in fullscreen a tab will be presented before opening (as with the default control centre).";
 "op_BLACKLIST" = "Blacklist";
 "op_SWIPE_SWITCH" = "Swipe to Switch App";
-"op_SWIPE_SWITCH_FOOTER" = "Swipe in from the bottom quarter of the left/right edge of the screen to switch to the previous/next app.";
+"op_SWIPE_SWITCH_FOOTER" = "Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app.";
+"op_BOTTOM_THIRD" = "Bottom";
+"op_MIDDLE_THIRD" = "Middle";
+"op_TOP_THIRD" = "Top";
 
 /* people view page */
 "pv_INFO" = "Info";
