@@ -74,7 +74,7 @@
 "op_BEHAVIOUR_FOOTER" = "若將應用程式列入 seng 的黑名單，則熱點不會在該程式中作用，seng 的多工中心仍然有作用（如有啟用）。若在全螢幕時，多工中心開啟前會先顯示小型拉鈕（如同預設的控制中心）。";
 "op_BLACKLIST" = "黑名單";
 "op_SWIPE_SWITCH" = "輕掃以切換 App";
-"op_SWIPE_SWITCH_FOOTER" = "於螢幕下方特定區域，左側/右側邊緣由外向內輕掃，以切換前一個/後一個 App。";
+"op_SWIPE_SWITCH_FOOTER" = "於螢幕特定區域，左側/右側邊緣由外向內輕掃，以切換前一個/後一個 App。";
 "op_BOTTOM_THIRD" = "下方";
 "op_MIDDLE_THIRD" = "中間";
 "op_TOP_THIRD" = "上方";
