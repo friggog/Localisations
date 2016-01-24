@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Domů";
-"tw_ACTION_MENU" = "Menu akcí";
-"tw_SHUT_DOWN" = "Vypnout";
-"tw_REBOOT" = "Reboot";
-"tw_SAFE_MODE" = "Safe Mode";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Vypnout všechny aplikace";
-"tw_LOCK" = "Zamknout";
-"tw_CANCEL" = "Zrušit";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi Centrum";
-"HOT_CORNERS" = "Aktivní rohy";
-"OTHER" = "Ostatní nastavení";
-"SUPPORT" = "Support";
-
-/* multi centre page */
-"mc_ENABLED" = "Zapnout";
-"mc_CONTROL_SECTIONS_TITLE" = "Ovládací sekce";
-"mc_TOP" = "Vršek";
-"mc_BOTTOM" = "Spodek";
-"mc_CONTROL_SECTIONS_FOOTER" = "Ovládací sekce obsažené ve spodním a vrchnim pohledu multi centra.";
-"mc_ICON_STYLE_TITLE" = "Styl ikon";
-"mc_ICON_STYLE_FOOTER" = "Styl ikon v app switcheru";
-"mc_ICON_STYLE_STANDARD" = "Standartní";
-"mc_ICON_STYLE_OVERLAPPED" = "Překrytí";
-"mc_ICON_STYLE_HIDDEN" = "Skryté";
-"mc_GESTURE_ANIMATIONS" = "Animace gest";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Pokud je povoleno, tak animace při aktivaci a deaktivaci app switcheru bude ovládána pomocí gesta (její průběh půjde s prstem). Stejně jako animace control centra.\nVynutí aby Otevřít do aktivní aplikace bylo povoleno.";
-"mc_OPEN_TO_CURRENT" = "Otevřít do aktivní aplikace";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Pokud je toto nastavení povoleno, tak se app swither otevře na pozici právě aktivní aplikace namísto aplikace naposledy otevřené.";
-"mc_INCLUDED_SECTIONS" = "Zahrnuto";
-"mc_EXCLUDED_SECTIONS" = "Není zahrnuto";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Tažení prstem vzhůru ze spodních rohů displeje vyvolá příslušně zvolené akce.";
-"hc_LEFT_ACTION" = "Akce levého rohu";
-"hc_RIGHT_ACTION" = "Akce pravého rohu";
-"hc_CLOSE_APP" = "Zavřít Aplikaci";
-"hc_QUIT_APP" = "Vypnout Aplikaci";
-"hc_QUICK_SWITCHER" = "Quick Switcher";
-"hc_NONE" = "Nic";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.\nPokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Zamknout z Hlavní Stránky";
-"hc_SIMPLE_HOME" = "Jednodužší Animace";
-"hc_ALT_QUICK_SWITCHER" = "Použít Alternativní Styl";
-"hc_QUICK_SWITCHER_FOOTER" = "Alternativni styl aktivního rohu se zobrazuje jako v původních verích Seng, standartní mód se snaží co nejvíce přiblížit tweaku Auxo.";
-"hc_GESTURE_TOLERANCE" = "Tolerance Gest";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavení determinuje jak daleko od rohu bude gesto funkční.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "HS karta v app switcheru";
-"op_SWIPE_UP_FOOTER" = "Tato akce se provede pokud v app switcheru vysunete kartu domácí obrazovky vzhůru.";
-"op_SWIPE_UP" = "HS Přejetí nahoru";
-"op_QUIT_ALL_APPS" = "Vypnout všechny aplikace";
-"op_SHOW_ACTION_MENU" = "Zobrazit menu akcí";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Zamknout";
-"op_SHUT_DOWN" = "Vypnout";
-"op_NONE" = "Nic";
-"op_APP_WHITELIST" = "Vyjímky aplikací";
-"op_CLOSE_NOW_PLAYING" = "Zavřít 'Právě hrající' aplikaci";
-"op_DISMISS_AFTER" = "Po provedení zavřít switcher";
-"op_APPEARANCE" = "Zobrazení";
-"op_REMOVE_DARK_EFFECT" =  "Odstranit Tmavý effekt";
-"op_HIDE_BG" = "Skrýt rozmazání pozadí";
-"op_BEHAVIOUR" = "Chování";
-"op_BEHAVIOUR_FOOTER" = "Pokud bude aplikace v blacklistu, aktivní rohy Seng v ní nebudou funkční. Multi centrum bude stále fungovat (pokud je povoleno), ale nejdříve se objeví 'tahátko' jako u Control centra.";
-"op_BLACKLIST" = "Blacklist";
-
-/* people view page */
-"pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "In order for the people section to correctly show up you must enable one or both of the options in Settings > Mail, Contacts & Calenders > Show In App Switcher.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Zobrazit pouze pokud se přehrává";
-"mv_HIDE_WHEN_PLAYING" = "Skrýt pokud se přehrává";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Skrýt pokud není k dispozici";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontálně";
-"sv_VERTICAL" = "Vertikálně";
-"sv_RESETS_TO_FIRST" = "Restartovat na první stránku";
-"sv_RESET_TO_FIRST_FOOTER" = "'Restartovat na první stránku' ukáže první stránku scrollu při znovuzapnutí app switcheru.";
-"sv_INCLUDED_SECTIONS" = "Zahrnuté sekce";
-"sv_EXCLUDED_SECTIONS" = "Nezahrnuté sekce";
-"sv_SCROLLING_STYLE" = "Styl scrollu";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Posuvník Hlasitosti";
-"st_BRIGHTNESS" = "Posuvník Jasu";
-"st_SMALL_SCROLL" = "Malý Scroll View";
-"st_BIG_SCROLL" = "Velký Scroll View";
-"st_DEFAULT_MEDIA" = "Defaultní Ovládání Médií";
-"st_TOGGLES" = "Přepínače funkcí";
-"st_QUICK_LAUNCH" = "Rychlé Spouštění";
-"st_MEDIA_TITLES" = "Titul Média";
-"st_MEDIA_BUTTONS" = "Media - like a share";
-"st_MEDIA_SCRUBBER" = "Posuvník dobry přehrávání";
-"st_PEOPLE" = "Oblíbené kontakty";
-
-/* alerts */
-"al_ENTER_VALUE" = "Zadejte hodnotu mezi %.01f a %.01f.";
-"al_ENTER" = "Potvrdit";
-"al_CANCEL" = "Zrušit";
-"al_NEGATE" = "Negate";
-"al_POINT" = "Point";
-"al_ERROR" = "Chyba";
-"al_VALID_VALE" = "Prosíme ujistěte se, že zadáváte správnou hodnotu.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "V tuto chvíli je nemožné tweetovat";
-"al_EMAIL_ERROR" = "Email nelze v tuto chvíli odeslat.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Heeej! Používám Seng  (by @friggog) a přepínám appky se stylem!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Systemové aplikace";
-"el_USER_APPLICATIONS" = "Aplikace uživatele";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Potíže s kopatibilitou";
-"sp_COMPAT_FOOTER" = "O některých 'tweaks' je známo, že nejsou kompatibilní s Seng pokud vám způsobují potíže, vypněte je:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Crash kvůli posuvníku jasu";
-"sp_BRIGHTNESS_FOOTER" = "There are know issues with CCLiveBrightness and SimpleCenters when adjusting the brightness slider in seng. To fix this remove CCLiveBrightness or disable all brightness slider settings in SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Get In Touch";
-"sp_INFO" = "If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Omezit pohyb";
-"rm_FOOTER" = "Omezit pohyb je povoleno. Seng upraví svoje animace aby tomuto nastavení odpovídali. Animace gest jsou vypnuty a animace 'zavřít aplikaci' je změněna na prosté zprůhlednění.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Aktivní rohy</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi Centrum</string>
+	<key>OTHER</key>
+	<string>Ostatní nastavení</string>
+	<key>SUPPORT</key>
+	<string>Support</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Heeej! Používám Seng  (by @friggog) a přepínám appky se stylem!</string>
+	<key>al_CANCEL</key>
+	<string>Zrušit</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Email nelze v tuto chvíli odeslat.</string>
+	<key>al_ENTER</key>
+	<string>Potvrdit</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Zadejte hodnotu mezi %.01f a %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Chyba</string>
+	<key>al_NEGATE</key>
+	<string>Negate</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Point</string>
+	<key>al_TWEET_ERROR</key>
+	<string>V tuto chvíli je nemožné tweetovat</string>
+	<key>al_VALID_VALE</key>
+	<string>Prosíme ujistěte se, že zadáváte správnou hodnotu.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Skrýt pokud není k dispozici</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Systemové aplikace</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Aplikace uživatele</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Tažení prstem vzhůru ze spodních rohů displeje vyvolá příslušně zvolené akce.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Použít Alternativní Styl</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Zavřít Aplikaci</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Tolerance Gest</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Toto nastavení determinuje jak daleko od rohu bude gesto funkční.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Pokud je 'Zamknout z hlavní stránky' povoleno, provedení tohoto gesta na Hlavní stránce zařízení uzamkne.
+Pokud je povoleno 'Jednodužší animace', jsou namísto systémově defaultních animací použity jednodužší vertikální animace. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Akce levého rohu</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Zamknout z Hlavní Stránky</string>
+	<key>hc_NONE</key>
+	<string>Nic</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Quick Switcher</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Alternativni styl aktivního rohu se zobrazuje jako v původních verích Seng, standartní mód se snaží co nejvíce přiblížit tweaku Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Vypnout Aplikaci</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Akce pravého rohu</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Jednodužší Animace</string>
+	<key>mc_BOTTOM</key>
+	<string>Spodek</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Ovládací sekce obsažené ve spodním a vrchnim pohledu multi centra.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Ovládací sekce</string>
+	<key>mc_ENABLED</key>
+	<string>Zapnout</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Není zahrnuto</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Animace gest</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Pokud je povoleno, tak animace při aktivaci a deaktivaci app switcheru bude ovládána pomocí gesta (její průběh půjde s prstem). Stejně jako animace control centra.
+Vynutí aby Otevřít do aktivní aplikace bylo povoleno.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Styl ikon v app switcheru</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Skryté</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Překrytí</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Standartní</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Styl ikon</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Zahrnuto</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Otevřít do aktivní aplikace</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Pokud je toto nastavení povoleno, tak se app swither otevře na pozici právě aktivní aplikace namísto aplikace naposledy otevřené.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Vršek</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Skrýt pokud se přehrává</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Zobrazit pouze pokud se přehrává</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Zobrazení</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Vyjímky aplikací</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Chování</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Pokud bude aplikace v blacklistu, aktivní rohy Seng v ní nebudou funkční. Multi centrum bude stále fungovat (pokud je povoleno), ale nejdříve se objeví 'tahátko' jako u Control centra.</string>
+	<key>op_BLACKLIST</key>
+	<string>Blacklist</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Zavřít 'Právě hrající' aplikaci</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Po provedení zavřít switcher</string>
+	<key>op_HIDE_BG</key>
+	<string>Skrýt rozmazání pozadí</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>HS karta v app switcheru</string>
+	<key>op_LOCK</key>
+	<string>Zamknout</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Nic</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Vypnout všechny aplikace</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Odstranit Tmavý effekt</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Zobrazit menu akcí</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Vypnout</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>HS Přejetí nahoru</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Tato akce se provede pokud v app switcheru vysunete kartu domácí obrazovky vzhůru.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Info</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>In order for the people section to correctly show up you must enable one or both of the options in Settings &gt; Mail, Contacts &amp; Calenders &gt; Show In App Switcher.</string>
+	<key>rm_FOOTER</key>
+	<string>Omezit pohyb je povoleno. Seng upraví svoje animace aby tomuto nastavení odpovídali. Animace gest jsou vypnuty a animace 'zavřít aplikaci' je změněna na prosté zprůhlednění.</string>
+	<key>rm_TITLE</key>
+	<string>Omezit pohyb</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>There are know issues with CCLiveBrightness and SimpleCenters when adjusting the brightness slider in seng. To fix this remove CCLiveBrightness or disable all brightness slider settings in SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Crash kvůli posuvníku jasu</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>O některých 'tweaks' je známo, že nejsou kompatibilní s Seng pokud vám způsobují potíže, vypněte je:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Potíže s kopatibilitou</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Get In Touch</string>
+	<key>sp_INFO</key>
+	<string>If you have any other issues, requests, would like to help with translation or are a dev and want to add compatibility for your tweak don't hesitate to email me.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Velký Scroll View</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Posuvník Jasu</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Defaultní Ovládání Médií</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Media - like a share</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Posuvník dobry přehrávání</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Titul Média</string>
+	<key>st_PEOPLE</key>
+	<string>Oblíbené kontakty</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Rychlé Spouštění</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Malý Scroll View</string>
+	<key>st_TOGGLES</key>
+	<string>Přepínače funkcí</string>
+	<key>st_VOLUME</key>
+	<string>Posuvník Hlasitosti</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Nezahrnuté sekce</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontálně</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Zahrnuté sekce</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Restartovat na první stránku</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Restartovat na první stránku' ukáže první stránku scrollu při znovuzapnutí app switcheru.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Styl scrollu</string>
+	<key>sv_VERTICAL</key>
+	<string>Vertikálně</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu akcí</string>
+	<key>tw_CANCEL</key>
+	<string>Zrušit</string>
+	<key>tw_HOME</key>
+	<string>Domů</string>
+	<key>tw_LOCK</key>
+	<string>Zamknout</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Vypnout všechny aplikace</string>
+	<key>tw_REBOOT</key>
+	<string>Reboot</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Safe Mode</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Vypnout</string>
+</dict>
+</plist>

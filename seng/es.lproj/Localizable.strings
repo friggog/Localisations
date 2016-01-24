@@ -1,141 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Inicio";
-"tw_ACTION_MENU" = "Menú de Acciones";
-"tw_SHUT_DOWN" = "Apagar";
-"tw_REBOOT" = "Reiniciar";
-"tw_SAFE_MODE" = "Modo Seguro";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Cerrar Aplicaciones";
-"tw_LOCK" = "Bloquear";
-"tw_CANCEL" = "Cancelar";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multicentro";
-"HOT_CORNERS" = "Esquinas Calientes";
-"OTHER" = "Otras opciones";
-"SUPPORT" = "Soporte";
-
-/* multi centre page */
-"mc_ENABLED" = "Habilitado";
-"mc_CONTROL_SECTIONS_TITLE" = "Secciones de Control";
-"mc_TOP" = "Arriba";
-"mc_BOTTOM" = "Abajo";
-"mc_CONTROL_SECTIONS_FOOTER" = "Las secciones de control incluidas arriba y abajo de la vista Multicentro de seng.";
-"mc_ICON_STYLE_TITLE" = "Estilo del icono";
-"mc_ICON_STYLE_FOOTER" = "Estilo de los iconos presentados en el selector.";
-"mc_ICON_STYLE_STANDARD" = "Estándar";
-"mc_ICON_STYLE_OVERLAPPED" = "Superpuesto";
-"mc_ICON_STYLE_HIDDEN" = "Oculto";
-"mc_GESTURE_ANIMATIONS" = "Animación por gestos";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Si está habilitado, cuando se active o desactive la multitarea será controlada por gestos (como el Centro de Control/Centro de notificaciones).\nFuerza la activación de Abrir la app activa.";
-"mc_OPEN_TO_CURRENT" = "Abrir la app activa";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Si está habilitada esta opción la multitarea se abrirá en la aplicación activa, en lugar de la última aplicación abierta.";
-"mc_INCLUDED_SECTIONS" = "Incluido";
-"mc_EXCLUDED_SECTIONS" = "No Incluido";
-"mc_SHOW_GRABBER" = "Mostrar siempre lengüeta";
-"mc_OVERRIDE_CC" = "Anular gesto del CC";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Deslizar desde las esquinas inferiores invocará las acciones de arriba.";
-"hc_LEFT_ACTION" = "Acción Izquierda";
-"hc_RIGHT_ACTION" = "Acción Derecha";
-"hc_CLOSE_APP" = "Cerrar la Aplicación";
-"hc_QUIT_APP" = "Salir de la Aplicación";
-"hc_QUICK_SWITCHER" = "Selector Rápido";
-"hc_NONE" = "Nada";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.\nSi 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Bloquear desde Inicio";
-"hc_SIMPLE_HOME" = "Animación de Inicio Simple";
-"hc_ALT_QUICK_SWITCHER" = "Utilizar Estilo alternativo";
-"hc_QUICK_SWITCHER_FOOTER" = "El comportamiento del Estilo alternativo es como el del selector rápido de Tage, mientras que el estándar es un estilo más como el de Auxo.";
-"hc_GESTURE_TOLERANCE" = "Tolerancia del gesto";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Esto determina desde que extremo de las esquinas puedes activar la funcionalidad de Esquinas Calientes.";
-"hc_DEF_CC" = "Centro de control";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Ficha de Inicio";
-"op_SWIPE_UP_FOOTER" = "Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.";
-"op_SWIPE_UP" = "Deslizar hacia arriba desde Inicio";
-"op_QUIT_ALL_APPS" = "Cerrar todas las aplicaciones";
-"op_SHOW_ACTION_MENU" = "Mostrar Menú de acción";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Bloquear";
-"op_SHUT_DOWN" = "Apagar";
-"op_NONE" = "Nada";
-"op_APP_WHITELIST" = "Lista blanca de aplicaciones";
-"op_CLOSE_NOW_PLAYING" = "Cerrar aplicaciones con música activa";
-"op_DISMISS_AFTER" = "Después descartar selector";
-"op_APPEARANCE" = "Apariencia";
-"op_REMOVE_DARK_EFFECT" =  "Eliminar oscuridad en secciones";
-"op_HIDE_BG" = "Ocultar desenfoque de fondo";
-"op_BEHAVIOUR" = "Comportamiento";
-"op_BEHAVIOUR_FOOTER" = "Si seng tiene una aplicación en la Lista negra entonces las Esquinas Calientes no funcionarán. La opción de Multicentro de seng sí seguirá funcionado (si está habilitado) pero si se está en pantalla completa se mostrará una lengüeta antes (como hace por defecto el Centro de Control).";
-"op_BLACKLIST" = "Lista negra";
-
-/* people view page */
-"pv_INFO" = "Información";
-"pv_INFO_FOOTER" = "Para que la sección de contactos se muestre correctamente debes habilitar una o dos de las opciones en Ajustes > Correo, contactos, calend. > En el selector de aplicación.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Mostrar sólo si está sonando";
-"mv_HIDE_WHEN_PLAYING" = "Oculto cuando está sonando";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Oculto cuando no está disponible";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontal";
-"sv_VERTICAL" = "Vertical";
-"sv_RESETS_TO_FIRST" = "Resetear a la primera página";
-"sv_RESET_TO_FIRST_FOOTER" = "'Resetear a la primera página' ubicará la selección en la primera página cada vez que se abra la multitarea.";
-"sv_INCLUDED_SECTIONS" = "Secciones incluidas";
-"sv_EXCLUDED_SECTIONS" = "Secciones excluidas";
-"sv_SCROLLING_STYLE" = "Estilo del deslizador";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop y AirPlay";
-"st_VOLUME" = "Control de volumen";
-"st_BRIGHTNESS" = "Control de brillo";
-"st_SMALL_SCROLL" = "Vista del deslizador pequeño";
-"st_BIG_SCROLL" = "Vista del deslizador grande";
-"st_DEFAULT_MEDIA" = "Controles de música por defecto";
-"st_TOGGLES" = "Botones de Acceso rápido";
-"st_QUICK_LAUNCH" = "Botones de Inicio rápido";
-"st_MEDIA_TITLES" = "Visualización de título musical";
-"st_MEDIA_BUTTONS" = "Botones de control musical";
-"st_MEDIA_SCRUBBER" = "Barra de duración musical";
-"st_PEOPLE" = "Contactos favoritos";
-
-/* alerts */
-"al_ENTER_VALUE" = "Por favor, introduce un valor entre %.01f y %.01f.";
-"al_ENTER" = "Entrar";
-"al_CANCEL" = "Cancelar";
-"al_NEGATE" = "Negar";
-"al_POINT" = "Punto";
-"al_ERROR" = "Error";
-"al_VALID_VALE" = "Por favor, asegúrate de que el valor introducido es válido.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Imposible twitear en este momento.";
-"al_EMAIL_ERROR" = "Parece que no puedes enviar correos electrónicos.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "¡Estoy usando seng (por @friggog) para seleccionar mis apps con estilo!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Aplicaciones del Sistema";
-"el_USER_APPLICATIONS" = "Aplicaciones del Usuario";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Sobre la compatibilidad";
-"sp_COMPAT_FOOTER" = "Hay algunos tweaks que son incompatibles con seng, si tienes problemas intenta deshabilitar o eliminar antes estos:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Relacionado con el Control de brillo";
-"sp_BRIGHTNESS_FOOTER" = "Hay un error conocido con SimpleCenters cuando se ajusta el brillo con seng. Para solucionar esto debes deshabilitar todas las opciones de control de brillo en SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Estar en contacto";
-"sp_INFO" = "Si tienes algún otro problema, petición, quieres ayudar a traducir o eres desarrollador y quieres añadir compatibilidad a tu tweak, no dudes en enviarme un correo electrónico.";
-"sp_EMAIL" = "Correo electrónico";
-
-/* reduce motion */
-"rm_TITLE" = "Reducir movimiento";
-"rm_FOOTER" = "Actualmente tienes la opción Reducir movimiento activada. Seng modificará sus animaciones para funcionar de la mejor manera con esta característica, por tanto algunas opciones no estarán disponibles. Animación por gestos estará deshabilitada y la animación de 'Ir a la pantalla de Inicio' será reemplazada por un efecto suave.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Esquinas Calientes</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multicentro</string>
+	<key>OTHER</key>
+	<string>Otras opciones</string>
+	<key>SUPPORT</key>
+	<string>Soporte</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>¡Estoy usando seng (por @friggog) para seleccionar mis apps con estilo!</string>
+	<key>al_CANCEL</key>
+	<string>Cancelar</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Parece que no puedes enviar correos electrónicos.</string>
+	<key>al_ENTER</key>
+	<string>Entrar</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Por favor, introduce un valor entre %.01f y %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Error</string>
+	<key>al_NEGATE</key>
+	<string>Negar</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Punto</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Imposible twitear en este momento.</string>
+	<key>al_VALID_VALE</key>
+	<string>Por favor, asegúrate de que el valor introducido es válido.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Oculto cuando no está disponible</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Aplicaciones del Sistema</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Aplicaciones del Usuario</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Deslizar desde las esquinas inferiores invocará las acciones de arriba.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Utilizar Estilo alternativo</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Cerrar la Aplicación</string>
+	<key>hc_DEF_CC</key>
+	<string>Centro de control</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Tolerancia del gesto</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Esto determina desde que extremo de las esquinas puedes activar la funcionalidad de Esquinas Calientes.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Si 'Bloquear desde Inicio' está habilitado cuando se realice este gesti en la pantalla de Inicio el dispositivo será bloqueado.
+Si 'Animación de Inicio Simple' está habilitado la animación utilizada será más simple que la animación por defecto del sistema. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Acción Izquierda</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Bloquear desde Inicio</string>
+	<key>hc_NONE</key>
+	<string>Nada</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Selector Rápido</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>El comportamiento del Estilo alternativo es como el del selector rápido de Tage, mientras que el estándar es un estilo más como el de Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Salir de la Aplicación</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Acción Derecha</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Animación de Inicio Simple</string>
+	<key>mc_BOTTOM</key>
+	<string>Abajo</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Las secciones de control incluidas arriba y abajo de la vista Multicentro de seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Secciones de Control</string>
+	<key>mc_ENABLED</key>
+	<string>Habilitado</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>No Incluido</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Animación por gestos</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Si está habilitado, cuando se active o desactive la multitarea será controlada por gestos (como el Centro de Control/Centro de notificaciones).
+Fuerza la activación de Abrir la app activa.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Estilo de los iconos presentados en el selector.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Oculto</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Superpuesto</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Estándar</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Estilo del icono</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Incluido</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Abrir la app activa</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Si está habilitada esta opción la multitarea se abrirá en la aplicación activa, en lugar de la última aplicación abierta.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Anular gesto del CC</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Mostrar siempre lengüeta</string>
+	<key>mc_TOP</key>
+	<string>Arriba</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Oculto cuando está sonando</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Mostrar sólo si está sonando</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Apariencia</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Lista blanca de aplicaciones</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Comportamiento</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Si seng tiene una aplicación en la Lista negra entonces las Esquinas Calientes no funcionarán. La opción de Multicentro de seng sí seguirá funcionado (si está habilitado) pero si se está en pantalla completa se mostrará una lengüeta antes (como hace por defecto el Centro de Control).</string>
+	<key>op_BLACKLIST</key>
+	<string>Lista negra</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Cerrar aplicaciones con música activa</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Después descartar selector</string>
+	<key>op_HIDE_BG</key>
+	<string>Ocultar desenfoque de fondo</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Ficha de Inicio</string>
+	<key>op_LOCK</key>
+	<string>Bloquear</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Nada</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Cerrar todas las aplicaciones</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Eliminar oscuridad en secciones</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Mostrar Menú de acción</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Apagar</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Deslizar hacia arriba desde Inicio</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Esta es la acción que se realiza cuando deslizas hacia arriba la ficha perteneciente a la pantalla de Inicio, como para cerrarla.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Información</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Para que la sección de contactos se muestre correctamente debes habilitar una o dos de las opciones en Ajustes &gt; Correo, contactos, calend. &gt; En el selector de aplicación.</string>
+	<key>rm_FOOTER</key>
+	<string>Actualmente tienes la opción Reducir movimiento activada. Seng modificará sus animaciones para funcionar de la mejor manera con esta característica, por tanto algunas opciones no estarán disponibles. Animación por gestos estará deshabilitada y la animación de 'Ir a la pantalla de Inicio' será reemplazada por un efecto suave.</string>
+	<key>rm_TITLE</key>
+	<string>Reducir movimiento</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Hay un error conocido con SimpleCenters cuando se ajusta el brillo con seng. Para solucionar esto debes deshabilitar todas las opciones de control de brillo en SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Relacionado con el Control de brillo</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Hay algunos tweaks que son incompatibles con seng, si tienes problemas intenta deshabilitar o eliminar antes estos:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Sobre la compatibilidad</string>
+	<key>sp_EMAIL</key>
+	<string>Correo electrónico</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Estar en contacto</string>
+	<key>sp_INFO</key>
+	<string>Si tienes algún otro problema, petición, quieres ayudar a traducir o eres desarrollador y quieres añadir compatibilidad a tu tweak, no dudes en enviarme un correo electrónico.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop y AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Vista del deslizador grande</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Control de brillo</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Controles de música por defecto</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Botones de control musical</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Barra de duración musical</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Visualización de título musical</string>
+	<key>st_PEOPLE</key>
+	<string>Contactos favoritos</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Botones de Inicio rápido</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Vista del deslizador pequeño</string>
+	<key>st_TOGGLES</key>
+	<string>Botones de Acceso rápido</string>
+	<key>st_VOLUME</key>
+	<string>Control de volumen</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Secciones excluidas</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontal</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Secciones incluidas</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Resetear a la primera página</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Resetear a la primera página' ubicará la selección en la primera página cada vez que se abra la multitarea.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Estilo del deslizador</string>
+	<key>sv_VERTICAL</key>
+	<string>Vertical</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menú de Acciones</string>
+	<key>tw_CANCEL</key>
+	<string>Cancelar</string>
+	<key>tw_HOME</key>
+	<string>Inicio</string>
+	<key>tw_LOCK</key>
+	<string>Bloquear</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Cerrar Aplicaciones</string>
+	<key>tw_REBOOT</key>
+	<string>Reiniciar</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Modo Seguro</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Apagar</string>
+</dict>
+</plist>

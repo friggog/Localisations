@@ -1,115 +1,244 @@
-"HOT_CORNERS" = "ホットコーナー";
-"MULTI_CENTRE" = "マルチセンター";
-"OTHER" = "その他の動作";
-"SUPPORT" = "サポート";
-"TWTTER_MESSAGGE" = "I'm using seng (by @friggog) to switch apps in style!";
-"al_CANCEL" = "キャンセル";
-"al_EMAIL_ERROR" = "メールが送信できませんでした。";
-"al_ENTER" = "決定";
-"al_ENTER_VALUE" = "%.01f から %.01fの間の値を入力してください";
-"al_ERROR" = "エラー";
-"al_NEGATE" = "無効";
-"al_OK" = "了解";
-"al_POINT" = "ポイント";
-"al_TWEET_ERROR" = "ツイートに失敗しました。";
-"al_VALID_VALE" = "有効な値が入力されているか確認して下さい。";
-"as_HIDE_WHEN_UNAVAILABLE" = "利用できない時は隠す";
-"el_SYSTEM_APPLICATIONS" = "システム・アプリケーション";
-"el_USER_APPLICATIONS" = "ユーザー・アプリケーション";
-"hc_ACTIONS_FOOTER" = "スクリーン下部の隅から引き上げた時の動作を設定します。";
-"hc_ALT_QUICK_SWITCHER" = "替わりのアニメーション";
-"hc_CLOSE_APP" = "Appを閉じる";
-"hc_DEF_CC" = "コントロールセンター";
-"hc_GESTURE_TOLERANCE" = "ジェスチャーの適用範囲";
-"hc_GESTURE_TOLERANCE_FOOTER" = "スワイプでホットコーナーを起動することができる範囲を指定します。";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "'ホーム画面からロック'を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。\n'シンプルなアニメーション'を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。";
-"hc_LEFT_ACTION" = "左側の動作";
-"hc_LOCK_FROM_HOME" = "ホーム画面からロック";
-"hc_NONE" = "何もしない";
-"hc_QUICK_SWITCHER" = "クイックスイッチャー";
-"hc_QUICK_SWITCHER_FOOTER" = "替わりのアニメーションではTageのようなクイックスイッチャーを用います。元のアニメーションはよりAuxoのようなアニメーションになります。";
-"hc_QUIT_APP" = "Appを終了する";
-"hc_RIGHT_ACTION" = "右側の動作";
-"hc_SIMPLE_HOME" = "シンプルなアニメーション";
-"mc_BOTTOM" = "下部";
-"mc_CONTROL_SECTIONS_FOOTER" = "'コントロール'ではsengマルチセンターの上部と下部の表示を変更できます。";
-"mc_CONTROL_SECTIONS_TITLE" = "コントロール";
-"mc_ENABLED" = "有効";
-"mc_EXCLUDED_SECTIONS" = "使用しない";
-"mc_GESTURE_ANIMATIONS" = "アニメーションを使う";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "この設定を適用するとAppスイッチャーはiOS標準のコントロールセンターや通知センターのように滑らかに表示されます。\nまた、'現在のAppを開く'が有効になります。";
-"mc_ICON_STYLE_FOOTER" = "Appスイッチャーに表示されるAppアイコンの表示方法を変更できます。";
-"mc_ICON_STYLE_HIDDEN" = "隠す";
-"mc_ICON_STYLE_OVERLAPPED" = "重ねて表示";
-"mc_ICON_STYLE_STANDARD" = "通常";
-"mc_ICON_STYLE_TITLE" = "アイコンの表示方法";
-"mc_INCLUDED_SECTIONS" = "使用する";
-"mc_OPEN_TO_CURRENT" = "現在のAppを開く";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Appスイッチャーを1つ前に使ったAppではなく現在使用中のAppを中心に開くようにします。";
-"mc_OVERRIDE_CC" = "CCジェスチャーを置き換える";
-"mc_SHOW_GRABBER" = "つまみを表示";
-"mc_TOP" = "上部";
-"mv_HIDE_WHEN_PLAYING" = "再生中は隠す";
-"mv_SHOW_WHEN_PLAYING" = "再生中のみ表示";
-"op_APPEARANCE" = "外観";
-"op_APP_WHITELIST" = "除外するApp";
-"op_BEHAVIOUR" = "動作";
-"op_BEHAVIOUR_FOOTER" = "無効化するAppではホットコーナーが無効化されますがsengマルチセンターは動作します。フルスクリーン時ではsengマルチセンターが開く前にデフォルトのコントロールセンターのようにタブが表示されます";
-"op_BLACKLIST" = "無効化するApp";
-"op_BOTTOM_THIRD" = "下部";
-"op_CLOSE_NOW_PLAYING" = "再生中のAppを閉じる";
-"op_DISMISS_AFTER" = "動作後に閉じる";
-"op_HIDE_BG" = "ぼかしを削除する";
-"op_HOME_APP_CARD" = "ホーム画面のサムネイル";
-"op_LOCK" = "デバイスをロック";
-"op_MIDDLE_THIRD" = "中部";
-"op_NONE" = "何もしない";
-"op_QUIT_ALL_APPS" = "すべてのAppを閉じる";
-"op_REMOVE_DARK_EFFECT" = "暗い部分を削除する";
-"op_RESPRING" = "リスプリング";
-"op_SHOW_ACTION_MENU" = "メニューを表示";
-"op_SHUT_DOWN" = "電源オフ";
-"op_SWIPE_SWITCH" = "スワイプでAppを切り替える";
-"op_SWIPE_SWITCH_FOOTER" = "画面横からスワイプすることで前/次のAppへの切り替えをします。";
-"op_SWIPE_UP" = "ホーム画面の動作";
-"op_SWIPE_UP_FOOTER" = "Appスイッチャーでホーム画面を引き上げた時の動作を設定します。";
-"op_TOP_THIRD" = "上部";
-"pv_INFO" = "情報";
-"pv_INFO_FOOTER" = "連絡先のよく使う項目と履歴を表示させるには 設定 &gt; メール/連絡先/カレンダー &gt; Appスイッチャーに表示 をオンにする必要があります。";
-"rm_FOOTER" = "'視差効果がを減らす'がオンになっているためSengでは視差効果を減らして動作を最適化しています。結果としていくつかの動作が変更されます。マルチセンターのアニメーションは無効化され、'ホーム画面に戻る'のアニメーションはフェードに置き換わります。";
-"rm_TITLE" = "視差効果を減らす";
-"sp_BRIGHTNESS_FOOTER" = "この問題はSimpleCentersとsengの画面の明るさのスライダーを使った時に発生します。この問題を解決するにはSimpleCentersの設定で'brightness slider'を無効化してください。";
-"sp_BRIGHTNESS_TITLE" = "画面の明るさのスライダーの問題";
-"sp_COMPAT_FOOTER" = "いくつかのTweakではsengと互換性がありません。使用に問題がある時にはまず下記のTweakを無効化またはアンインストールしてみてください:\n- CCControls\n- Tage";
-"sp_COMPAT_TITLE" = "互換性の問題";
-"sp_EMAIL" = "メール";
-"sp_GET_IN_TOUCH" = "問い合わせ";
-"sp_INFO" = "もしその他の問題やリクエスト、翻訳やあなたのtweakとの互換性の修正などがあれば連絡してください。";
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_BIG_SCROLL" = "スクロールビュー(大)";
-"st_BRIGHTNESS" = "画面の明るさ";
-"st_DEFAULT_MEDIA" = "標準のコントローラー";
-"st_MEDIA_BUTTONS" = "音楽コントローラー";
-"st_MEDIA_SCRUBBER" = "シークバー";
-"st_MEDIA_TITLES" = "再生中のタイトル";
-"st_PEOPLE" = "お気に入りの連絡先";
-"st_QUICK_LAUNCH" = "Appショートカット";
-"st_SMALL_SCROLL" = "スクロールビュー(小)";
-"st_TOGGLES" = "トグル";
-"st_VOLUME" = "音量";
-"sv_EXCLUDED_SECTIONS" = "使用しない";
-"sv_HORIZONTAL" = "水平";
-"sv_INCLUDED_SECTIONS" = "使用する";
-"sv_RESETS_TO_FIRST" = "常に１ページ目を開く";
-"sv_RESET_TO_FIRST_FOOTER" = "'常に１ページ目を開く'を適用するとAppスイッチャーを開くたびに常に１ページ目を開きます。";
-"sv_SCROLLING_STYLE" = "スクロール方法";
-"sv_VERTICAL" = "垂直";
-"tw_ACTION_MENU" = "動作を選択";
-"tw_CANCEL" = "キャンセル";
-"tw_HOME" = "ホーム";
-"tw_LOCK" = "デバイスをロック";
-"tw_QUIT_ALL" = "すべてのAppを閉じる";
-"tw_REBOOT" = "再起動";
-"tw_RESPRING" = "リスプリング";
-"tw_SAFE_MODE" = "セーフモード";
-"tw_SHUT_DOWN" = "電源オフ";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>ホットコーナー</string>
+	<key>MULTI_CENTRE</key>
+	<string>マルチセンター</string>
+	<key>OTHER</key>
+	<string>その他の動作</string>
+	<key>SUPPORT</key>
+	<string>サポート</string>
+	<key>TWTTER_MESSAGGE</key>
+	<string>I'm using seng (by @friggog) to switch apps in style!</string>
+	<key>al_CANCEL</key>
+	<string>キャンセル</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>メールが送信できませんでした。</string>
+	<key>al_ENTER</key>
+	<string>決定</string>
+	<key>al_ENTER_VALUE</key>
+	<string>%.01f から %.01fの間の値を入力してください</string>
+	<key>al_ERROR</key>
+	<string>エラー</string>
+	<key>al_NEGATE</key>
+	<string>無効</string>
+	<key>al_OK</key>
+	<string>了解</string>
+	<key>al_POINT</key>
+	<string>ポイント</string>
+	<key>al_TWEET_ERROR</key>
+	<string>ツイートに失敗しました。</string>
+	<key>al_VALID_VALE</key>
+	<string>有効な値が入力されているか確認して下さい。</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>利用できない時は隠す</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>システム・アプリケーション</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>ユーザー・アプリケーション</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>スクリーン下部の隅から引き上げた時の動作を設定します。</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>替わりのアニメーション</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Appを閉じる</string>
+	<key>hc_DEF_CC</key>
+	<string>コントロールセンター</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>ジェスチャーの適用範囲</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>スワイプでホットコーナーを起動することができる範囲を指定します。</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>'ホーム画面からロック'を適用するとホーム画面時にこのジェスチャーでデバイスをロックします。
+'シンプルなアニメーション'を適用すると通常の縮小アニメーションの代わりにスライドアニメーションを使います。</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>左側の動作</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>ホーム画面からロック</string>
+	<key>hc_NONE</key>
+	<string>何もしない</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>クイックスイッチャー</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>替わりのアニメーションではTageのようなクイックスイッチャーを用います。元のアニメーションはよりAuxoのようなアニメーションになります。</string>
+	<key>hc_QUIT_APP</key>
+	<string>Appを終了する</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>右側の動作</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>シンプルなアニメーション</string>
+	<key>mc_BOTTOM</key>
+	<string>下部</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>'コントロール'ではsengマルチセンターの上部と下部の表示を変更できます。</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>コントロール</string>
+	<key>mc_ENABLED</key>
+	<string>有効</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>使用しない</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>アニメーションを使う</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>この設定を適用するとAppスイッチャーはiOS標準のコントロールセンターや通知センターのように滑らかに表示されます。
+また、'現在のAppを開く'が有効になります。</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Appスイッチャーに表示されるAppアイコンの表示方法を変更できます。</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>隠す</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>重ねて表示</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>通常</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>アイコンの表示方法</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>使用する</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>現在のAppを開く</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Appスイッチャーを1つ前に使ったAppではなく現在使用中のAppを中心に開くようにします。</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>CCジェスチャーを置き換える</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>つまみを表示</string>
+	<key>mc_TOP</key>
+	<string>上部</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>再生中は隠す</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>再生中のみ表示</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>外観</string>
+	<key>op_APP_WHITELIST</key>
+	<string>除外するApp</string>
+	<key>op_BEHAVIOUR</key>
+	<string>動作</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>無効化するAppではホットコーナーが無効化されますがsengマルチセンターは動作します。フルスクリーン時ではsengマルチセンターが開く前にデフォルトのコントロールセンターのようにタブが表示されます</string>
+	<key>op_BLACKLIST</key>
+	<string>無効化するApp</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>下部</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>再生中のAppを閉じる</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>動作後に閉じる</string>
+	<key>op_HIDE_BG</key>
+	<string>ぼかしを削除する</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>ホーム画面のサムネイル</string>
+	<key>op_LOCK</key>
+	<string>デバイスをロック</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>中部</string>
+	<key>op_NONE</key>
+	<string>何もしない</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>すべてのAppを閉じる</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>暗い部分を削除する</string>
+	<key>op_RESPRING</key>
+	<string>リスプリング</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>メニューを表示</string>
+	<key>op_SHUT_DOWN</key>
+	<string>電源オフ</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>スワイプでAppを切り替える</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>ホーム画面の動作</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Appスイッチャーでホーム画面を引き上げた時の動作を設定します。</string>
+	<key>op_TOP_THIRD</key>
+	<string>上部</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>情報</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>連絡先のよく使う項目と履歴を表示させるには 設定 &amp;gt; メール/連絡先/カレンダー &amp;gt; Appスイッチャーに表示 をオンにする必要があります。</string>
+	<key>rm_FOOTER</key>
+	<string>'視差効果がを減らす'がオンになっているためSengでは視差効果を減らして動作を最適化しています。結果としていくつかの動作が変更されます。マルチセンターのアニメーションは無効化され、'ホーム画面に戻る'のアニメーションはフェードに置き換わります。</string>
+	<key>rm_TITLE</key>
+	<string>視差効果を減らす</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>この問題はSimpleCentersとsengの画面の明るさのスライダーを使った時に発生します。この問題を解決するにはSimpleCentersの設定で'brightness slider'を無効化してください。</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>画面の明るさのスライダーの問題</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>いくつかのTweakではsengと互換性がありません。使用に問題がある時にはまず下記のTweakを無効化またはアンインストールしてみてください:
+- CCControls
+- Tage</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>互換性の問題</string>
+	<key>sp_EMAIL</key>
+	<string>メール</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>問い合わせ</string>
+	<key>sp_INFO</key>
+	<string>もしその他の問題やリクエスト、翻訳やあなたのtweakとの互換性の修正などがあれば連絡してください。</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>スクロールビュー(大)</string>
+	<key>st_BRIGHTNESS</key>
+	<string>画面の明るさ</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>標準のコントローラー</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>音楽コントローラー</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>シークバー</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>再生中のタイトル</string>
+	<key>st_PEOPLE</key>
+	<string>お気に入りの連絡先</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Appショートカット</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>スクロールビュー(小)</string>
+	<key>st_TOGGLES</key>
+	<string>トグル</string>
+	<key>st_VOLUME</key>
+	<string>音量</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>使用しない</string>
+	<key>sv_HORIZONTAL</key>
+	<string>水平</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>使用する</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>常に１ページ目を開く</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'常に１ページ目を開く'を適用するとAppスイッチャーを開くたびに常に１ページ目を開きます。</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>スクロール方法</string>
+	<key>sv_VERTICAL</key>
+	<string>垂直</string>
+	<key>tw_ACTION_MENU</key>
+	<string>動作を選択</string>
+	<key>tw_CANCEL</key>
+	<string>キャンセル</string>
+	<key>tw_HOME</key>
+	<string>ホーム</string>
+	<key>tw_LOCK</key>
+	<string>デバイスをロック</string>
+	<key>tw_QUIT_ALL</key>
+	<string>すべてのAppを閉じる</string>
+	<key>tw_REBOOT</key>
+	<string>再起動</string>
+	<key>tw_RESPRING</key>
+	<string>リスプリング</string>
+	<key>tw_SAFE_MODE</key>
+	<string>セーフモード</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>電源オフ</string>
+</dict>
+</plist>

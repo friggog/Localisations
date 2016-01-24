@@ -1,133 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "الصفحة الرئيسية";
-"tw_ACTION_MENU" = "قائمة الخيارات";
-"tw_SHUT_DOWN" = "إيقاف التشغيل";
-"tw_REBOOT" = "إعادة التشغيل";
-"tw_SAFE_MODE" = "الوضع الآمن";
-"tw_RESPRING" = "إعادة تشغيل سريعة";
-"tw_QUIT_ALL" = "إغلاق كافة البرامج";
-"tw_LOCK" = "إقفال الشاشة";
-"tw_CANCEL" = "إلغاء";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "مركز تعدد المهام";
-"HOT_CORNERS" = "خيارات التنقل السريع";
-"OTHER" = "خيارات أخرى";
-"SUPPORT" = "الدعم";
-
-/* multi centre page */
-"mc_ENABLED" = "تفعيل";
-"mc_CONTROL_SECTIONS_TITLE" = "التحكم بالأقسام";
-"mc_TOP" = "القائمة العلوية";
-"mc_BOTTOM" = "القائمة السفلية";
-"mc_CONTROL_SECTIONS_FOOTER" = "مركز التحكم سيحوي قائمة الإختصارات العلويه والسفليه لمركز سينج لتعدد المهام.";
-"mc_ICON_STYLE_TITLE" = "ستايل الإيقونات";
-"mc_ICON_STYLE_FOOTER" = "ستايل الأيقونات في قائمة تبديل البرامج.";
-"mc_ICON_STYLE_STANDARD" = "الإفتراضي";
-"mc_ICON_STYLE_OVERLAPPED" = "متداخلة";
-"mc_ICON_STYLE_HIDDEN" = "مخفي";
-"mc_GESTURE_ANIMATIONS" = "حركة الإيمائآت";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "إذا تم السماح بالحركه أثناء تفعيل أو إلغاء مركز التحكم فسيكون ذلك بالإيمائات، كما هو الحال عند إظهار مركز الإشعارات أو التحكم\nأختار الفتح للبرنامج الحالي للتفعيل";
-"mc_OPEN_TO_CURRENT" = "إفتح إلى التطبيق الحالي";
-"mc_OPEN_TO_CURRENT_FOOTER" = "إذا فعل هذا الخيار فإن مركز تعدد المهام سيفتح للبرنامج المفتوح حالياً بدلاً من البرنامج المفتوح أخيراً";
-"mc_INCLUDED_SECTIONS" = "مضاف إليه";
-"mc_EXCLUDED_SECTIONS" = "مستثنى منه";
-"mc_SHOW_GRABBER" = "قم بإظهار مؤشر السحب دائماً";
-"mc_OVERRIDE_CC" = "تجاوز إيمائات مركز التحكم";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "السحب للإعلى من زوايا الشاشة السفليه سينفذ أحد الأوامر التاليه.";
-"hc_LEFT_ACTION" = "الزاوية البسرى";
-"hc_RIGHT_ACTION" = "الزاوية اليمنى";
-"hc_GO_TO_HOME_SCREEN" = "إذهب للصفحة الرئيسية";
-"hc_QUICK_SWITCHER" = "المبدل السريع";
-"hc_NONE" = "لا شيء";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "إذا ما تم تفعيل خيار الإقفال من الصفحة الرئيسية، فإن القيام بإيمائة في الصفحة الرئيسية سيغلق الشاشة\nحركة الصفحة الرئيسية البسيطة سيفعل نمطاً أكثر بساطة وسرعة لتأثيرات الحركة بدلاً من نمط تأثيرات النظام الإفتراضي (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "إقفال الشاشه من الرئيسية";
-"hc_SIMPLE_HOME" = "حركة تبديل بسيطة";
-"hc_GESTURE_TOLERANCE" = "مساحة الإيمائآت";
-"hc_GESTURE_TOLERANCE_FOOTER" = "هذة الخيارات ستحدد المساحة المسموح فيها لتفعيل خيارات التبديل السريع";
-"hc_DEF_CC" = "مركز التحكم";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "بطاقة الصفحة الرئيسية";
-"op_SWIPE_UP_FOOTER" = "هذا هو الأمر الذي سوف يتم تفعيله عند سحب بطاقة الصفحة الرئيسية لأعلى";
-"op_SWIPE_UP" = "خيارات السحب لأعلى";
-"op_QUIT_ALL_APPS" = "إغلاق كافة البرامج";
-"op_SHOW_ACTION_MENU" = "إظهار قائمة أوامر";
-"op_RESPRING" = "إعادة تشغيل سريعة";
-"op_LOCK" = "إقفال الشاشة";
-"op_SHUT_DOWN" = "إيقاف التشغيل";
-"op_APP_WHITELIST" = "القائمة البيضاء";
-"op_CLOSE_NOW_PLAYING" = "أغلاق برامج تشغيل الوسائط";
-"op_DISMISS_AFTER" = "صرف المبدل بعد";
-"op_APPEARANCE" = "المظهر";
-"op_REMOVE_DARK_EFFECT" =  "إلغاء الأماكن الداكنه في مركز التحكم";
-"op_HIDE_BG" = "إخفاء تمويه الخلفيه";
-"op_BEHAVIOUR" = "التعامل مع البرامج";
-"op_BEHAVIOUR_FOOTER" = "إذا حظر سينج في أحد البرامج عبر القائمة السوداء فإن خيارات التبديل السريع لن تعمل، لكن مركز التبديل السريع سوف يعمل إذا ما كان مفعلاً";
-"op_BLACKLIST" = "القائمة السوداء";
-
-/* people view page */
-"pv_INFO" = "معلومات";
-"pv_INFO_FOOTER" = "لتظهر قائمة جهات الإتصال بصورة صحيحه، قم بتفعيل أحد الخيارات أو كلاهما في الخيارات > البريد وجهات الإتصال والتقويم > إظهار في مركز التحكم تحت خيارات الأسماء";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "أظهر فقط عندما تكون قائمة الوسائط تعمل";
-"mv_HIDE_WHEN_PLAYING" = "أخفي قائمة الوسائط دائماً";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "أخفى قائمة الوسائط عندما تكون غير متاحه";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "أفقي";
-"sv_VERTICAL" = "رأسي";
-"sv_RESETS_TO_FIRST" = "عد دائماً للصفحة الأولى";
-"sv_RESET_TO_FIRST_FOOTER" = "'تفعيل خيار العودة للصحفة الأولى سيقوم بإظهار الصفحة الأولى لقائمة الإختصارات في كل مره تقوم فيها بفتح مركز تعدد المهام";
-"sv_INCLUDED_SECTIONS" = "الأقسام المضافة";
-"sv_EXCLUDED_SECTIONS" = "الأقسام المستبعدة";
-"sv_SCROLLING_STYLE" = "شكل السحب";
-
-/* section titles */
-"st_AIR_STUFF" = "الإيربلاي والإيردروب";
-"st_VOLUME" = "مؤشر الصوت";
-"st_BRIGHTNESS" = "مؤشر الإضاءة";
-"st_SMALL_SCROLL" = "قائمة الإختصارات الصغيرة";
-"st_BIG_SCROLL" = "قائمة الإختصارات الكبيرة";
-"st_DEFAULT_MEDIA" = "قائمة الوسائط الإفتراضية";
-"st_TOGGLES" = "أزرار الإختصارات";
-"st_QUICK_LAUNCH" = "أزرار التشغيل السريع";
-"st_MEDIA_TITLES" = "عناوين الوسائط";
-"st_MEDIA_BUTTONS" = "أزرار التحكم بالوسائط";
-"st_MEDIA_SCRUBBER" = "وسائط مختصره";
-"st_PEOPLE" = "جهات الإتصال المفضلة";
-
-/* alerts */
-"al_ENTER_VALUE" = "أدخل قيمة بين %.01f و %.01f.";
-"al_ENTER" = "أدخل";
-"al_CANCEL" = "إلغاء";
-"al_NEGATE" = "لا شيء";
-"al_POINT" = "نقطة";
-"al_ERROR" = "خطأ";
-"al_VALID_VALE" = "تأكد من إدخالك لقيمة صحيحة";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "لا يمكن إرسال تغريده في هذة اللحظه";
-"al_EMAIL_ERROR" = "يبدو إنك لا تستطيع إرسال بريد في الوقت الحالي";
-
-/* twitter */
-"TWITTER_MESSAGE" = "أنا أستخدم أداة سينج (بواسطه @friggog) مركز التحكم الرائع والأنيق";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "برامج النظام";
-"el_USER_APPLICATIONS" = "برامج المستخدم";
-
-/* support page */
-"sp_COMPAT_TITLE" = "مشاكل التوافقيه";
-"sp_COMPAT_FOOTER" = "بعض الأدوات لديها مشاكل توافق مع سينج، إذا كان لديك مشاكل مع إي أداة حاول إيقافها أو حذفها:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "لقد إنهار مؤشر الإضاءة";
-"sp_BRIGHTNESS_FOOTER" = "هناك مشكلة معروفه مع أداة  SimpleCenters تحدث عند تغيير مؤشر الإضاءه عبر سينج. لإصلاحها قم بإلغاء جميع مؤشرات الإضاءه في SimpleCenters.";
-"sp_GET_IN_TOUCH" = "تواصل معي";
-"sp_INFO" = "إذا كانت لديك إي مشاكل أو إقتراحات أو كانت لديك الرغبه في الترجمة، أو كنت أحد المطورين وترغب بتوافق أدواتك وبرامجك مع سينج فلا تترد في مراسلتي بالبريد";
-"sp_EMAIL" = "البريد الإلكتروني";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>خيارات التنقل السريع</string>
+	<key>MULTI_CENTRE</key>
+	<string>مركز تعدد المهام</string>
+	<key>OTHER</key>
+	<string>خيارات أخرى</string>
+	<key>SUPPORT</key>
+	<string>الدعم</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>أنا أستخدم أداة سينج (بواسطه @friggog) مركز التحكم الرائع والأنيق</string>
+	<key>al_CANCEL</key>
+	<string>إلغاء</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>يبدو إنك لا تستطيع إرسال بريد في الوقت الحالي</string>
+	<key>al_ENTER</key>
+	<string>أدخل</string>
+	<key>al_ENTER_VALUE</key>
+	<string>أدخل قيمة بين %.01f و %.01f.</string>
+	<key>al_ERROR</key>
+	<string>خطأ</string>
+	<key>al_NEGATE</key>
+	<string>لا شيء</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>نقطة</string>
+	<key>al_TWEET_ERROR</key>
+	<string>لا يمكن إرسال تغريده في هذة اللحظه</string>
+	<key>al_VALID_VALE</key>
+	<string>تأكد من إدخالك لقيمة صحيحة</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>أخفى قائمة الوسائط عندما تكون غير متاحه</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>برامج النظام</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>برامج المستخدم</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>السحب للإعلى من زوايا الشاشة السفليه سينفذ أحد الأوامر التاليه.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Use Alternate Style</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Close App</string>
+	<key>hc_DEF_CC</key>
+	<string>مركز التحكم</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>مساحة الإيمائآت</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>هذة الخيارات ستحدد المساحة المسموح فيها لتفعيل خيارات التبديل السريع</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>إذا ما تم تفعيل خيار الإقفال من الصفحة الرئيسية، فإن القيام بإيمائة في الصفحة الرئيسية سيغلق الشاشة
+حركة الصفحة الرئيسية البسيطة سيفعل نمطاً أكثر بساطة وسرعة لتأثيرات الحركة بدلاً من نمط تأثيرات النظام الإفتراضي (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>الزاوية البسرى</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>إقفال الشاشه من الرئيسية</string>
+	<key>hc_NONE</key>
+	<string>لا شيء</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>المبدل السريع</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Quit App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>الزاوية اليمنى</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>حركة تبديل بسيطة</string>
+	<key>mc_BOTTOM</key>
+	<string>القائمة السفلية</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>مركز التحكم سيحوي قائمة الإختصارات العلويه والسفليه لمركز سينج لتعدد المهام.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>التحكم بالأقسام</string>
+	<key>mc_ENABLED</key>
+	<string>تفعيل</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>مستثنى منه</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>حركة الإيمائآت</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>إذا تم السماح بالحركه أثناء تفعيل أو إلغاء مركز التحكم فسيكون ذلك بالإيمائات، كما هو الحال عند إظهار مركز الإشعارات أو التحكم
+أختار الفتح للبرنامج الحالي للتفعيل</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>ستايل الأيقونات في قائمة تبديل البرامج.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>مخفي</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>متداخلة</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>الإفتراضي</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>ستايل الإيقونات</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>مضاف إليه</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>إفتح إلى التطبيق الحالي</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>إذا فعل هذا الخيار فإن مركز تعدد المهام سيفتح للبرنامج المفتوح حالياً بدلاً من البرنامج المفتوح أخيراً</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>تجاوز إيمائات مركز التحكم</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>قم بإظهار مؤشر السحب دائماً</string>
+	<key>mc_TOP</key>
+	<string>القائمة العلوية</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>أخفي قائمة الوسائط دائماً</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>أظهر فقط عندما تكون قائمة الوسائط تعمل</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>المظهر</string>
+	<key>op_APP_WHITELIST</key>
+	<string>القائمة البيضاء</string>
+	<key>op_BEHAVIOUR</key>
+	<string>التعامل مع البرامج</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>إذا حظر سينج في أحد البرامج عبر القائمة السوداء فإن خيارات التبديل السريع لن تعمل، لكن مركز التبديل السريع سوف يعمل إذا ما كان مفعلاً</string>
+	<key>op_BLACKLIST</key>
+	<string>القائمة السوداء</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>أغلاق برامج تشغيل الوسائط</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>صرف المبدل بعد</string>
+	<key>op_HIDE_BG</key>
+	<string>إخفاء تمويه الخلفيه</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>بطاقة الصفحة الرئيسية</string>
+	<key>op_LOCK</key>
+	<string>إقفال الشاشة</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Nothing</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>إغلاق كافة البرامج</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>إلغاء الأماكن الداكنه في مركز التحكم</string>
+	<key>op_RESPRING</key>
+	<string>إعادة تشغيل سريعة</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>إظهار قائمة أوامر</string>
+	<key>op_SHUT_DOWN</key>
+	<string>إيقاف التشغيل</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>خيارات السحب لأعلى</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>هذا هو الأمر الذي سوف يتم تفعيله عند سحب بطاقة الصفحة الرئيسية لأعلى</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>معلومات</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>لتظهر قائمة جهات الإتصال بصورة صحيحه، قم بتفعيل أحد الخيارات أو كلاهما في الخيارات &gt; البريد وجهات الإتصال والتقويم &gt; إظهار في مركز التحكم تحت خيارات الأسماء</string>
+	<key>rm_FOOTER</key>
+	<string>You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.</string>
+	<key>rm_TITLE</key>
+	<string>Reduce Motion</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>هناك مشكلة معروفه مع أداة  SimpleCenters تحدث عند تغيير مؤشر الإضاءه عبر سينج. لإصلاحها قم بإلغاء جميع مؤشرات الإضاءه في SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>لقد إنهار مؤشر الإضاءة</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>بعض الأدوات لديها مشاكل توافق مع سينج، إذا كان لديك مشاكل مع إي أداة حاول إيقافها أو حذفها:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>مشاكل التوافقيه</string>
+	<key>sp_EMAIL</key>
+	<string>البريد الإلكتروني</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>تواصل معي</string>
+	<key>sp_INFO</key>
+	<string>إذا كانت لديك إي مشاكل أو إقتراحات أو كانت لديك الرغبه في الترجمة، أو كنت أحد المطورين وترغب بتوافق أدواتك وبرامجك مع سينج فلا تترد في مراسلتي بالبريد</string>
+	<key>st_AIR_STUFF</key>
+	<string>الإيربلاي والإيردروب</string>
+	<key>st_BIG_SCROLL</key>
+	<string>قائمة الإختصارات الكبيرة</string>
+	<key>st_BRIGHTNESS</key>
+	<string>مؤشر الإضاءة</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>قائمة الوسائط الإفتراضية</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>أزرار التحكم بالوسائط</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>وسائط مختصره</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>عناوين الوسائط</string>
+	<key>st_PEOPLE</key>
+	<string>جهات الإتصال المفضلة</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>أزرار التشغيل السريع</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>قائمة الإختصارات الصغيرة</string>
+	<key>st_TOGGLES</key>
+	<string>أزرار الإختصارات</string>
+	<key>st_VOLUME</key>
+	<string>مؤشر الصوت</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>الأقسام المستبعدة</string>
+	<key>sv_HORIZONTAL</key>
+	<string>أفقي</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>الأقسام المضافة</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>عد دائماً للصفحة الأولى</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'تفعيل خيار العودة للصحفة الأولى سيقوم بإظهار الصفحة الأولى لقائمة الإختصارات في كل مره تقوم فيها بفتح مركز تعدد المهام</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>شكل السحب</string>
+	<key>sv_VERTICAL</key>
+	<string>رأسي</string>
+	<key>tw_ACTION_MENU</key>
+	<string>قائمة الخيارات</string>
+	<key>tw_CANCEL</key>
+	<string>إلغاء</string>
+	<key>tw_HOME</key>
+	<string>الصفحة الرئيسية</string>
+	<key>tw_LOCK</key>
+	<string>إقفال الشاشة</string>
+	<key>tw_QUIT_ALL</key>
+	<string>إغلاق كافة البرامج</string>
+	<key>tw_REBOOT</key>
+	<string>إعادة التشغيل</string>
+	<key>tw_RESPRING</key>
+	<string>إعادة تشغيل سريعة</string>
+	<key>tw_SAFE_MODE</key>
+	<string>الوضع الآمن</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>إيقاف التشغيل</string>
+</dict>
+</plist>

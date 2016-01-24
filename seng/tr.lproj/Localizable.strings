@@ -1,113 +1,240 @@
-"HOT_CORNERS" = "Kenar Köşeler";
-"MULTI_CENTRE" = "Çoklu Pencere";
-"OTHER" = "Diğer Ayarlar";
-"SUPPORT" = "Destek";
-"TWITTER_MESSAGE" = "seng kullanıyorum. (by @friggog) Yeni stil uygulama değiştiriciniz!";
-"al_CANCEL" = "İptal";
-"al_EMAIL_ERROR" = "E-posta göndermek mümkün görünmemektedir.";
-"al_ENTER" = "Giriş";
-"al_ENTER_VALUE" = "%.01f ve %.01f arasında bir değer girin.";
-"al_ERROR" = "Hata";
-"al_NEGATE" = "Reddet";
-"al_OK" = "Tamam";
-"al_POINT" = "Nokta";
-"al_TWEET_ERROR" = "Şu anda tweet açılamıyor.";
-"al_VALID_VALE" = "Geçerli bir değer girdiğinizden emin olun.";
-"as_HIDE_WHEN_UNAVAILABLE" = "Kullanılmıyorsa Gizle";
-"hc_ACTIONS_FOOTER" = "Ekranın alt köşesinden yukarıya sürükleme yukarıdaki işlemleri çağırır.";
-"hc_ALT_QUICK_SWITCHER" = "Alternatif Stil";
-"hc_CLOSE_APP" = "Uygulama Kapat";
-"hc_DEF_CC" = "Denetim Merkezi";
-"hc_GESTURE_TOLERANCE" = "Hareket Hassasiyeti";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Köşelerin işlevselliğini etkinleştirip kaydırabilir ve ne kadar mesafede etkin olacağını belirliyebirsiniz.";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Eğer \"Ana Ekranda Sağ Köşeden Kilitle\" etkin ise sağ köşeden yukarı sürükleme yaptığınızda ekran kilitlenir. \"Basit Kaydırma Animasyonu\" etkin ise yukarı sürükleme animasyonunu değiştirir. (iOS 8 only)";
-"hc_LEFT_ACTION" = "Sol Köşe Eylemi";
-"hc_LOCK_FROM_HOME" = "Ana Ekranda Sağ Köşeden Kilitle";
-"hc_NONE" = "Hiçbiri";
-"hc_QUICK_SWITCHER" = "Hızlı Uygulama Değişimi";
-"hc_QUICK_SWITCHER_FOOTER" = "Eğer \"Alternatif Stil\" etkin ise Tage değiştirici animasyonu etkin olur. Standart animasyon ise Auxo değiştirici ile aynıdır.";
-"hc_QUIT_APP" = "Uygulama Çık";
-"hc_RIGHT_ACTION" = "Sağ Köşe Eylemi";
-"hc_SIMPLE_HOME" = "Basit Kaydırma Animasyonu";
-"mc_BOTTOM" = "Alt Kısım";
-"mc_CONTROL_SECTIONS_FOOTER" = "Kontrol bölümleri üst ve alt kısım olarak iki gruptan oluşur.";
-"mc_CONTROL_SECTIONS_TITLE" = "Kontrol Bölümleri";
-"mc_ENABLED" = "Etkinleştir";
-"mc_EXCLUDED_SECTIONS" = "Dahil Değil";
-"mc_GESTURE_ANIMATIONS" = "Uygulama Değişimi Hareket Animasyonu";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Uygulama değişimi ekranında iken, uygulama kartına dokunup aşağı sürükleyerek ana ekrana düşmesini sağlar.";
-"mc_ICON_STYLE_FOOTER" = "Uygulama değiştirici için sunulan simge stilleriniz.";
-"mc_ICON_STYLE_HIDDEN" = "Gizli";
-"mc_ICON_STYLE_OVERLAPPED" = "Üst Üste";
-"mc_ICON_STYLE_STANDARD" = "Klasik IOS";
-"mc_ICON_STYLE_TITLE" = "Simge Stili";
-"mc_INCLUDED_SECTIONS" = "Dahil";
-"mc_OPEN_TO_CURRENT" = "Geçerli Uygulamada Aç";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Eğer geçerli uygulamada aç düğmesi etkin ise, son uygulamaya göre kart sıralaması açılır.";
-"mc_OVERRIDE_CC" = "D.Merkezi Kaydırma Devre Dışı";
-"mc_SHOW_GRABBER" = "Tutucuları Daima Göster";
-"mc_TOP" = "Üst Kısım";
-"mv_HIDE_WHEN_PLAYING" = "Medyada Gizle";
-"mv_SHOW_WHEN_PLAYING" = "Sadece Medyada Göster";
-"op_APPEARANCE" = "Görünüm";
-"op_APP_WHITELIST" = "Etkin Uygulamalar";
-"op_BEHAVIOUR" = "Davranış";
-"op_BEHAVIOUR_FOOTER" = "\"Devre Dışı Uygulamalar\" bölümüne eklediğiniz programlarınız için kenar köşe eylemleriniz çalışmaz.";
-"op_BLACKLIST" = "Devre Dışı Uygulamalar";
-"op_BOTTOM_THIRD" = "Alt Kenar";
-"op_CLOSE_NOW_PLAYING" = "Medya Çalarken Kapat";
-"op_DISMISS_AFTER" = "Ana Ekrana Dön";
-"op_HIDE_BG" = "Arka Plan Bulanıklığı Kapat";
-"op_HOME_APP_CARD" = "Ana Ekran Uygulama Kartı";
-"op_LOCK" = "Kilitle";
-"op_MIDDLE_THIRD" = "Orta Kenar";
-"op_NONE" = "Hiçbirşey";
-"op_QUIT_ALL_APPS" = "Tüm Uygulamalardan Çık";
-"op_REMOVE_DARK_EFFECT" = "Koyuluk Efektini Kaldır";
-"op_RESPRING" = "Yenile";
-"op_SHOW_ACTION_MENU" = "Menü Ekranı Göster";
-"op_SHUT_DOWN" = "Kapat";
-"op_SWIPE_SWITCH" = "Uygulama Değiştirme İçin Sürükle";
-"op_SWIPE_SWITCH_FOOTER" = "Önceki ve sonraki uygulamalar arasında geçiş sağlamak için ekranın belirlediğiniz kenar noktalarından sürükleyin.";
-"op_SWIPE_UP" = "Yukarı Sürükle Eylemi";
-"op_SWIPE_UP_FOOTER" = "Uygulama değiştirici ekranında \"Ana Ekran\" kartı'nı yukarı sürüklediğinizde yukarıdaki sıralı eylemlerden seçiminiz aktif olur.";
-"op_TOP_THIRD" = "Üst Kenar";
-"pv_INFO" = "Bilgi";
-"pv_INFO_FOOTER" = "Doğru şekilde göstermek için, bir veya iki seçeneği ayarlar'dan etkinleştirmelisiniz. Ayarlar > Mail, Kişiler & Takvim > Uygulama değiştiricide gösterir.";
-"rm_FOOTER" = "Eğer seng'i daha iyi ve akıcı kullanmak istiyorsanız, \"Ayarlar-Genel-Erişilebilirlik-Hareketi Azalt\" seçeneğini etkinleştirin.";
-"rm_TITLE" = "Hareketi Azaltın";
-"sp_BRIGHTNESS_FOOTER" = "Parlaklık Kaydırıcı hatası bilinen bir hata.";
-"sp_BRIGHTNESS_TITLE" = "Parlaklık Kaydırıcı Hatası";
-"sp_COMPAT_FOOTER" = "Bazı kullandığınız tweak'ler seng ile uyumluluk sorunu yaratabilir.Lütfen bildirin.";
-"sp_COMPAT_TITLE" = "Uyumluluk Sorunları";
-"sp_EMAIL" = "E-Posta";
-"sp_GET_IN_TOUCH" = "E-Posta Yazısına Dokunun";
-"sp_INFO" = "Başka sorunlar varsa, istekler, çeviri ile yardımcı olmak isterseniz bana e-posta yollamak için lütfen çekinmeyin.";
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_BIG_SCROLL" = "Büyük Kaydırma Görünümü";
-"st_BRIGHTNESS" = "Parlaklık Kaydırıcı";
-"st_DEFAULT_MEDIA" = "Varsayılan Medya Kontrolleri";
-"st_MEDIA_BUTTONS" = "Medya Taşıma Düğmeleri";
-"st_MEDIA_SCRUBBER" = "Medya Temizleyici";
-"st_MEDIA_TITLES" = "Medya Başlık Görünümü";
-"st_PEOPLE" = "Favori Kişiler";
-"st_QUICK_LAUNCH" = "Hızlı Çalıştır Düğmeleri";
-"st_SMALL_SCROLL" = "Küçük Kaydırma Görünümü";
-"st_TOGGLES" = "Geçiş Düğmeleri";
-"st_VOLUME" = "Ses Kaydırıcı";
-"sv_EXCLUDED_SECTIONS" = "Kullanılmayan Bölümler";
-"sv_HORIZONTAL" = "Yatay";
-"sv_INCLUDED_SECTIONS" = "Kullanılan Bölümler";
-"sv_RESETS_TO_FIRST" = "Birinci Bölmede Aç";
-"sv_RESET_TO_FIRST_FOOTER" = "\"Birinci Bölmede Aç\" etkin ise dahil olan bölümler kendi içeriğinde kaydırma yapılsa bile her uygulama değiştirici ekranına girdiğinizde ilk bölmede açılır.";
-"sv_SCROLLING_STYLE" = "Kaydırma Stili";
-"sv_VERTICAL" = "Dikey";
-"tw_ACTION_MENU" = "Eylem Menüsü";
-"tw_CANCEL" = "İptal";
-"tw_HOME" = "Ana Ekran";
-"tw_LOCK" = "Kilitle";
-"tw_QUIT_ALL" = "Tüm Uygulamalardan Çık";
-"tw_REBOOT" = "Yeniden Başlat";
-"tw_RESPRING" = "Yenile";
-"tw_SAFE_MODE" = "Güvenli Alan";
-"tw_SHUT_DOWN" = "Kapat";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Kenar Köşeler</string>
+	<key>MULTI_CENTRE</key>
+	<string>Çoklu Pencere</string>
+	<key>OTHER</key>
+	<string>Diğer Ayarlar</string>
+	<key>SUPPORT</key>
+	<string>Destek</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>seng kullanıyorum. (by @friggog) Yeni stil uygulama değiştiriciniz!</string>
+	<key>al_CANCEL</key>
+	<string>İptal</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>E-posta göndermek mümkün görünmemektedir.</string>
+	<key>al_ENTER</key>
+	<string>Giriş</string>
+	<key>al_ENTER_VALUE</key>
+	<string>%.01f ve %.01f arasında bir değer girin.</string>
+	<key>al_ERROR</key>
+	<string>Hata</string>
+	<key>al_NEGATE</key>
+	<string>Reddet</string>
+	<key>al_OK</key>
+	<string>Tamam</string>
+	<key>al_POINT</key>
+	<string>Nokta</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Şu anda tweet açılamıyor.</string>
+	<key>al_VALID_VALE</key>
+	<string>Geçerli bir değer girdiğinizden emin olun.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Kullanılmıyorsa Gizle</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>System Applications</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>User Applications</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Ekranın alt köşesinden yukarıya sürükleme yukarıdaki işlemleri çağırır.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Alternatif Stil</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Uygulama Kapat</string>
+	<key>hc_DEF_CC</key>
+	<string>Denetim Merkezi</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Hareket Hassasiyeti</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Köşelerin işlevselliğini etkinleştirip kaydırabilir ve ne kadar mesafede etkin olacağını belirliyebirsiniz.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Eğer "Ana Ekranda Sağ Köşeden Kilitle" etkin ise sağ köşeden yukarı sürükleme yaptığınızda ekran kilitlenir. "Basit Kaydırma Animasyonu" etkin ise yukarı sürükleme animasyonunu değiştirir. (iOS 8 only)</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Sol Köşe Eylemi</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Ana Ekranda Sağ Köşeden Kilitle</string>
+	<key>hc_NONE</key>
+	<string>Hiçbiri</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Hızlı Uygulama Değişimi</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Eğer "Alternatif Stil" etkin ise Tage değiştirici animasyonu etkin olur. Standart animasyon ise Auxo değiştirici ile aynıdır.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Uygulama Çık</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Sağ Köşe Eylemi</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Basit Kaydırma Animasyonu</string>
+	<key>mc_BOTTOM</key>
+	<string>Alt Kısım</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Kontrol bölümleri üst ve alt kısım olarak iki gruptan oluşur.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Kontrol Bölümleri</string>
+	<key>mc_ENABLED</key>
+	<string>Etkinleştir</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Dahil Değil</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Uygulama Değişimi Hareket Animasyonu</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Uygulama değişimi ekranında iken, uygulama kartına dokunup aşağı sürükleyerek ana ekrana düşmesini sağlar.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Uygulama değiştirici için sunulan simge stilleriniz.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Gizli</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Üst Üste</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Klasik IOS</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Simge Stili</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Dahil</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Geçerli Uygulamada Aç</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Eğer geçerli uygulamada aç düğmesi etkin ise, son uygulamaya göre kart sıralaması açılır.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>D.Merkezi Kaydırma Devre Dışı</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Tutucuları Daima Göster</string>
+	<key>mc_TOP</key>
+	<string>Üst Kısım</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Medyada Gizle</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Sadece Medyada Göster</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Görünüm</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Etkin Uygulamalar</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Davranış</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>"Devre Dışı Uygulamalar" bölümüne eklediğiniz programlarınız için kenar köşe eylemleriniz çalışmaz.</string>
+	<key>op_BLACKLIST</key>
+	<string>Devre Dışı Uygulamalar</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Alt Kenar</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Medya Çalarken Kapat</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Ana Ekrana Dön</string>
+	<key>op_HIDE_BG</key>
+	<string>Arka Plan Bulanıklığı Kapat</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Ana Ekran Uygulama Kartı</string>
+	<key>op_LOCK</key>
+	<string>Kilitle</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Orta Kenar</string>
+	<key>op_NONE</key>
+	<string>Hiçbirşey</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Tüm Uygulamalardan Çık</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Koyuluk Efektini Kaldır</string>
+	<key>op_RESPRING</key>
+	<string>Yenile</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Menü Ekranı Göster</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Kapat</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Uygulama Değiştirme İçin Sürükle</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Yukarı Sürükle Eylemi</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Uygulama değiştirici ekranında "Ana Ekran" kartı'nı yukarı sürüklediğinizde yukarıdaki sıralı eylemlerden seçiminiz aktif olur.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Üst Kenar</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Bilgi</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Doğru şekilde göstermek için, bir veya iki seçeneği ayarlar'dan etkinleştirmelisiniz. Ayarlar &gt; Mail, Kişiler &amp; Takvim &gt; Uygulama değiştiricide gösterir.</string>
+	<key>rm_FOOTER</key>
+	<string>Eğer seng'i daha iyi ve akıcı kullanmak istiyorsanız, "Ayarlar-Genel-Erişilebilirlik-Hareketi Azalt" seçeneğini etkinleştirin.</string>
+	<key>rm_TITLE</key>
+	<string>Hareketi Azaltın</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Parlaklık Kaydırıcı hatası bilinen bir hata.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Parlaklık Kaydırıcı Hatası</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Bazı kullandığınız tweak'ler seng ile uyumluluk sorunu yaratabilir.Lütfen bildirin.</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Uyumluluk Sorunları</string>
+	<key>sp_EMAIL</key>
+	<string>E-Posta</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>E-Posta Yazısına Dokunun</string>
+	<key>sp_INFO</key>
+	<string>Başka sorunlar varsa, istekler, çeviri ile yardımcı olmak isterseniz bana e-posta yollamak için lütfen çekinmeyin.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Büyük Kaydırma Görünümü</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Parlaklık Kaydırıcı</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Varsayılan Medya Kontrolleri</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Medya Taşıma Düğmeleri</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Medya Temizleyici</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Medya Başlık Görünümü</string>
+	<key>st_PEOPLE</key>
+	<string>Favori Kişiler</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Hızlı Çalıştır Düğmeleri</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Küçük Kaydırma Görünümü</string>
+	<key>st_TOGGLES</key>
+	<string>Geçiş Düğmeleri</string>
+	<key>st_VOLUME</key>
+	<string>Ses Kaydırıcı</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Kullanılmayan Bölümler</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Yatay</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Kullanılan Bölümler</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Birinci Bölmede Aç</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>"Birinci Bölmede Aç" etkin ise dahil olan bölümler kendi içeriğinde kaydırma yapılsa bile her uygulama değiştirici ekranına girdiğinizde ilk bölmede açılır.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Kaydırma Stili</string>
+	<key>sv_VERTICAL</key>
+	<string>Dikey</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Eylem Menüsü</string>
+	<key>tw_CANCEL</key>
+	<string>İptal</string>
+	<key>tw_HOME</key>
+	<string>Ana Ekran</string>
+	<key>tw_LOCK</key>
+	<string>Kilitle</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Tüm Uygulamalardan Çık</string>
+	<key>tw_REBOOT</key>
+	<string>Yeniden Başlat</string>
+	<key>tw_RESPRING</key>
+	<string>Yenile</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Güvenli Alan</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Kapat</string>
+</dict>
+</plist>

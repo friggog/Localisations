@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Домашний экран";
-"tw_ACTION_MENU" = "Меню действий";
-"tw_SHUT_DOWN" = "Выключение";
-"tw_REBOOT" = "Перезагрузка";
-"tw_SAFE_MODE" = "Режим Safe Mode";
-"tw_RESPRING" = "Перезапуск SpringBoard";
-"tw_QUIT_ALL" = "Закрыть все приложения";
-"tw_LOCK" = "Блокировка";
-"tw_CANCEL" = "Отмена";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Мультицентр";
-"HOT_CORNERS" = "Горячие углы";
-"OTHER" = "Другие настройки";
-"SUPPORT" = "Поддержка";
-
-/* multi centre page */
-"mc_ENABLED" = "Включить";
-"mc_CONTROL_SECTIONS_TITLE" = "Разделы отображения";
-"mc_TOP" = "Сверху";
-"mc_BOTTOM" = "Снизу";
-"mc_CONTROL_SECTIONS_FOOTER" = "Настройка отображения разделов сверху и снизу.";
-"mc_ICON_STYLE_TITLE" = "Стиль иконок";
-"mc_ICON_STYLE_FOOTER" = "Стиль иконок от приложений.";
-"mc_ICON_STYLE_STANDARD" = "Стандартные";
-"mc_ICON_STYLE_OVERLAPPED" = "Поверх карточки";
-"mc_ICON_STYLE_HIDDEN" = "Спрятанные";
-"mc_GESTURE_ANIMATIONS" = "Ручной контроль анимации";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Если включено, то анимации открытия и закрытия мультицентра будут контролироваться вручную (как стандартные \"Пункт управления\Центр уведомлений).\nЗаставляет пункт \"открывать на этом же приложении\" быть включенным.";
-"mc_OPEN_TO_CURRENT" = "Открывать на этом же приложении";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Если включено, мультицентр будет открываться с активным окном по центру, вместо последнего открытого приложения.";
-"mc_INCLUDED_SECTIONS" = "Включено";
-"mc_EXCLUDED_SECTIONS" = " Не включено";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Жест вверх из нижних углов экрана будет активировать выбранные действия.";
-"hc_LEFT_ACTION" = "Действие слева";
-"hc_RIGHT_ACTION" = "Действие справа";
-"hc_CLOSE_APP" = "Close App";
-"hc_QUIT_APP" = "Quit App";
-"hc_QUICK_SWITCHER" = "Быстрый переключатель приложений";
-"hc_NONE" = "Без действия";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Если 'Блокировать с домашнего экрана' включено, то выполнение жеста будет блокировать устройство с домашнего экрана.\nЕсли 'Простая анимация домашнего экрана' включена, то для Домашнего экрана в вертикальной развертке будет использоваться более простая анимация. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Блокировать с домашнего экрана";
-"hc_SIMPLE_HOME" = "Простая анимация домашнего экрана";
-"hc_ALT_QUICK_SWITCHER" = "Use Alternate Style";
-"hc_QUICK_SWITCHER_FOOTER" = "The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.";
-"hc_GESTURE_TOLERANCE" = "Дальность жеста";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Это позволит вам задать расстояние от углов (к центру), на котором жесты будут срабатывать.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Карточка домашнего экрана";
-"op_SWIPE_UP_FOOTER" = "Действие, которое будет выполняться при свайпе вверх по карточке домашнего экрана (как будто вы хотите закрыть его).";
-"op_SWIPE_UP" = "Свайп вверх";
-"op_QUIT_ALL_APPS" = "Закрыть все приложения";
-"op_SHOW_ACTION_MENU" = "Показать меню действий";
-"op_RESPRING" = "Перезапуск SpringBoard";
-"op_LOCK" = "Блокировка";
-"op_SHUT_DOWN" = "Выключение";
-"op_NONE" = "Ничего не делать";
-"op_APP_WHITELIST" = "Белый лист приложений";
-"op_CLOSE_NOW_PLAYING" = "Закрыть играющие";
-"op_DISMISS_AFTER" = "Выйти из мультицентра после";
-"op_APPEARANCE" = "Внешний вид";
-"op_REMOVE_DARK_EFFECT" =  "Убрать эффект темных секций";
-"op_HIDE_BG" = "Убрать размытие";
-"op_BEHAVIOUR" = "Поведение в приложениях";
-"op_BEHAVIOUR_FOOTER" = "В выбранных приложениях горячие углы не имеют функций. Мультцентр будет работать (если включен).";
-"op_BLACKLIST" = "Черный список";
-
-/* people view page */
-"pv_INFO" = "Информация";
-"pv_INFO_FOOTER" = "Для корректного отображения выключите один или оба переключателя по пути: Настройки > Почта, Адреса, Календари > Показ в Перекл. программ.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Показывать только при проигрывании";
-"mv_HIDE_WHEN_PLAYING" = "Спрятать при проигрывании";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Спрятать если недоступно";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Горизонтальный";
-"sv_VERTICAL" = "Вертикальный";
-"sv_RESETS_TO_FIRST" = "Возвращаться к первой странице";
-"sv_RESET_TO_FIRST_FOOTER" = "'Возвращаться к первой странице' будет возвращать меню переключателей (пролистывающихся) на первую страницу после повторного открытия мультицентра.";
-"sv_INCLUDED_SECTIONS" = "Включенные секции";
-"sv_EXCLUDED_SECTIONS" = "Исключенные секции";
-"sv_SCROLLING_STYLE" = "Стиль пролистывания";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop и AirPlay";
-"st_VOLUME" = "Слайдер громкости";
-"st_BRIGHTNESS" = "Слайдер яркости";
-"st_SMALL_SCROLL" = "Маленькие переключатели (пролистывание)";
-"st_BIG_SCROLL" = "Крупные переключатели (пролистывание)";
-"st_DEFAULT_MEDIA" = "Стандартный пункт управления музыкой";
-"st_TOGGLES" = "Переключатели";
-"st_QUICK_LAUNCH" = "Кнопки быстрого доступа";
-"st_MEDIA_TITLES" = "Название песни";
-"st_MEDIA_BUTTONS" = "Кнопки управления Медиа";
-"st_MEDIA_SCRUBBER" = "Скребок для Медиа";
-"st_PEOPLE" = "Избранные контакты";
-
-/* alerts */
-"al_ENTER_VALUE" = "Пожалуйста, введите значение от %.01f до %.01f.";
-"al_ENTER" = "Принять";
-"al_CANCEL" = "Отмена";
-"al_NEGATE" = "Инвертировать";
-"al_POINT" = "Точка";
-"al_ERROR" = "Ошибка";
-"al_VALID_VALE" = "Пожалуйста, убедитесь в корректности вводимого числа.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Невозможно твитнуть.";
-"al_EMAIL_ERROR" = "Кажется, вы отключили отправку почты.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Я использую seng (от @friggog) для крутого центра многозадачности!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Системные приложения";
-"el_USER_APPLICATIONS" = "Пользовательские приложения";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Проблемы совместимости";
-"sp_COMPAT_FOOTER" = "Некоторые твики несовместимы c Seng, если у Вас есть проблемы с совместимостью попробуйте отключить или удалить:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Ошибка слайдера яркости";
-"sp_BRIGHTNESS_FOOTER" = "Чтобы решить конфликты с CCLiveBrightness и SimpleCenters (при настройке слайдеров яркости) удалите CCLiveBrightness Или отключите все настройки для слайдера яркости в SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Get In Touch";
-"sp_INFO" = "Если у вас есть иные несовместимые твики, пожелания, или вы хотите помочь мне перевести твик на другие языки, пожалуйста напишите мне на почту.";
-"sp_EMAIL" = "Почта";
-
-/* reduce motion */
-"rm_TITLE" = "Reduce Motion";
-"rm_FOOTER" = "You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Горячие углы</string>
+	<key>MULTI_CENTRE</key>
+	<string>Мультицентр</string>
+	<key>OTHER</key>
+	<string>Другие настройки</string>
+	<key>SUPPORT</key>
+	<string>Поддержка</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Я использую seng (от @friggog) для крутого центра многозадачности!</string>
+	<key>al_CANCEL</key>
+	<string>Отмена</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Кажется, вы отключили отправку почты.</string>
+	<key>al_ENTER</key>
+	<string>Принять</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Пожалуйста, введите значение от %.01f до %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Ошибка</string>
+	<key>al_NEGATE</key>
+	<string>Инвертировать</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Точка</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Невозможно твитнуть.</string>
+	<key>al_VALID_VALE</key>
+	<string>Пожалуйста, убедитесь в корректности вводимого числа.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Спрятать если недоступно</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Системные приложения</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Пользовательские приложения</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Жест вверх из нижних углов экрана будет активировать выбранные действия.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Use Alternate Style</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Close App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Дальность жеста</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Это позволит вам задать расстояние от углов (к центру), на котором жесты будут срабатывать.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Если 'Блокировать с домашнего экрана' включено, то выполнение жеста будет блокировать устройство с домашнего экрана.
+Если 'Простая анимация домашнего экрана' включена, то для Домашнего экрана в вертикальной развертке будет использоваться более простая анимация. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Действие слева</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Блокировать с домашнего экрана</string>
+	<key>hc_NONE</key>
+	<string>Без действия</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Быстрый переключатель приложений</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>The alternate style behaves like Tage's quick switcher, while the standard is more like Auxo's.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Quit App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Действие справа</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Простая анимация домашнего экрана</string>
+	<key>mc_BOTTOM</key>
+	<string>Снизу</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Настройка отображения разделов сверху и снизу.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Разделы отображения</string>
+	<key>mc_ENABLED</key>
+	<string>Включить</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string> Не включено</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Ручной контроль анимации</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Если включено, то анимации открытия и закрытия мультицентра будут контролироваться вручную (как стандартные "Пункт управленияЦентр уведомлений).
+Заставляет пункт "открывать на этом же приложении" быть включенным.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Стиль иконок от приложений.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Спрятанные</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Поверх карточки</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Стандартные</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Стиль иконок</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Включено</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Открывать на этом же приложении</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Если включено, мультицентр будет открываться с активным окном по центру, вместо последнего открытого приложения.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Сверху</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Спрятать при проигрывании</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Показывать только при проигрывании</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Внешний вид</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Белый лист приложений</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Поведение в приложениях</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>В выбранных приложениях горячие углы не имеют функций. Мультцентр будет работать (если включен).</string>
+	<key>op_BLACKLIST</key>
+	<string>Черный список</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Закрыть играющие</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Выйти из мультицентра после</string>
+	<key>op_HIDE_BG</key>
+	<string>Убрать размытие</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Карточка домашнего экрана</string>
+	<key>op_LOCK</key>
+	<string>Блокировка</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Ничего не делать</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Закрыть все приложения</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Убрать эффект темных секций</string>
+	<key>op_RESPRING</key>
+	<string>Перезапуск SpringBoard</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Показать меню действий</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Выключение</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Свайп вверх</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Действие, которое будет выполняться при свайпе вверх по карточке домашнего экрана (как будто вы хотите закрыть его).</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Информация</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Для корректного отображения выключите один или оба переключателя по пути: Настройки &gt; Почта, Адреса, Календари &gt; Показ в Перекл. программ.</string>
+	<key>rm_FOOTER</key>
+	<string>You currently have reduce motion enabled. Seng will modify it's animations in order to best accomodate this, consequently some options will no longer be available. Gesture animations are disabled and the 'Go to Home Screen' animation is replaced with a smooth fade.</string>
+	<key>rm_TITLE</key>
+	<string>Reduce Motion</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Чтобы решить конфликты с CCLiveBrightness и SimpleCenters (при настройке слайдеров яркости) удалите CCLiveBrightness Или отключите все настройки для слайдера яркости в SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Ошибка слайдера яркости</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Некоторые твики несовместимы c Seng, если у Вас есть проблемы с совместимостью попробуйте отключить или удалить:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Проблемы совместимости</string>
+	<key>sp_EMAIL</key>
+	<string>Почта</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Get In Touch</string>
+	<key>sp_INFO</key>
+	<string>Если у вас есть иные несовместимые твики, пожелания, или вы хотите помочь мне перевести твик на другие языки, пожалуйста напишите мне на почту.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop и AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Крупные переключатели (пролистывание)</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Слайдер яркости</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Стандартный пункт управления музыкой</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Кнопки управления Медиа</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Скребок для Медиа</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Название песни</string>
+	<key>st_PEOPLE</key>
+	<string>Избранные контакты</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Кнопки быстрого доступа</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Маленькие переключатели (пролистывание)</string>
+	<key>st_TOGGLES</key>
+	<string>Переключатели</string>
+	<key>st_VOLUME</key>
+	<string>Слайдер громкости</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Исключенные секции</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Горизонтальный</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Включенные секции</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Возвращаться к первой странице</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Возвращаться к первой странице' будет возвращать меню переключателей (пролистывающихся) на первую страницу после повторного открытия мультицентра.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Стиль пролистывания</string>
+	<key>sv_VERTICAL</key>
+	<string>Вертикальный</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Меню действий</string>
+	<key>tw_CANCEL</key>
+	<string>Отмена</string>
+	<key>tw_HOME</key>
+	<string>Домашний экран</string>
+	<key>tw_LOCK</key>
+	<string>Блокировка</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Закрыть все приложения</string>
+	<key>tw_REBOOT</key>
+	<string>Перезагрузка</string>
+	<key>tw_RESPRING</key>
+	<string>Перезапуск SpringBoard</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Режим Safe Mode</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Выключение</string>
+</dict>
+</plist>

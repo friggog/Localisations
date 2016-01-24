@@ -1,141 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Rumah";
-"tw_ACTION_MENU" = "Menu Aksi";
-"tw_SHUT_DOWN" = "Tutup";
-"tw_REBOOT" = "Reboot";
-"tw_SAFE_MODE" = "Mod Selamat";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Tutup Semua App";
-"tw_LOCK" = "Kunci";
-"tw_CANCEL" = "Batal";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Pusat Pelbagai";
-"HOT_CORNERS" = "Bucu Panas";
-"OTHER" = "Pilihan Lain";
-"SUPPORT" = "Bantuan";
-
-/* multi centre page */
-"mc_ENABLED" = "Membolehkan";
-"mc_CONTROL_SECTIONS_TITLE" = "Bahagian Kawalan";
-"mc_TOP" = "Atas";
-"mc_BOTTOM" = "Bawah";
-"mc_CONTROL_SECTIONS_FOOTER" = "Bahagian kawalan juga terdapat pada pandangan atas dan bawah pusat pelbagai seng.";
-"mc_ICON_STYLE_TITLE" = "Stail Icon";
-"mc_ICON_STYLE_FOOTER" = "Stail Icon yang ditunjuk di app switcher.";
-"mc_ICON_STYLE_STANDARD" = "Biasa";
-"mc_ICON_STYLE_OVERLAPPED" = "Bertindih";
-"mc_ICON_STYLE_HIDDEN" = "Sorok";
-"mc_GESTURE_ANIMATIONS" = "Gerakan Animasi";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Jika dibolehkan, animasi apabila mengaktifkan dan menyahaktifkan app switcher akan dikawal gerakan (seperti biasa Control/Notification Centres).\nPaksa buka ke App Terkini bila dibolehkan.";
-"mc_OPEN_TO_CURRENT" = "Buka ke App Terkini";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Jika dibolehkan, app switcher akan buka ke app yang terkini, daripada app sebelumnya.";
-"mc_INCLUDED_SECTIONS" = "Termasuk";
-"mc_EXCLUDED_SECTIONS" = "Tidak Termasuk";
-"mc_SHOW_GRABBER" = "Sentiasa Tunjuk Pemegang";
-"mc_OVERRIDE_CC" = "Ambil alih Isyarat CC";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Tarik dari bucu skrin bawah akan mengaktifkan aksi diatas.";
-"hc_LEFT_ACTION" = "Aksi Kiri";
-"hc_RIGHT_ACTION" = "Aksi Kanan";
-"hc_CLOSE_APP" = "Singkir App";
-"hc_QUIT_APP" = "Tutup App";
-"hc_QUICK_SWITCHER" = "Switcher Pantas";
-"hc_NONE" = "Tiada";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.\nJika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Kunci Dari Rumah";
-"hc_SIMPLE_HOME" = "Animasi Rumah Mudah";
-"hc_ALT_QUICK_SWITCHER" = "Gunakan Stail Alternatif";
-"hc_QUICK_SWITCHER_FOOTER" = "Stail alternatif itu berkelakuan seperti quick switcher Tage, manakala yang biasa lebih seperti Auxo.";
-"hc_GESTURE_TOLERANCE" = "Pergerakan Toleransi";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Ini memastikan berapa jauh dari bucu yang kamu boleh sapu untuk mengaktifkan fungsi bucu panas.";
-"hc_DEF_CC" = "Control Center";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Kad App Skrin Rumah";
-"op_SWIPE_UP_FOOTER" = "Ini adalah aksi yang berlaku apabila kamu sapu atas pada kad app skrin rumah, sebagaimana mahu menutupnya.";
-"op_SWIPE_UP" = "Aksi Sapu ke Atas SR";
-"op_QUIT_ALL_APPS" = "Tutup Semua App";
-"op_SHOW_ACTION_MENU" = "Tunjuk Menu Aksi";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Kunci";
-"op_SHUT_DOWN" = "Tutup";
-"op_NONE" = "Tiada";
-"op_APP_WHITELIST" = "Senarai Putih App";
-"op_CLOSE_NOW_PLAYING" = "Tutup App yang tengah main";
-"op_DISMISS_AFTER" = "Tutup Switcher Selepas";
-"op_APPEARANCE" = "Rupa";
-"op_REMOVE_DARK_EFFECT" =  "Buang Efek Seksyen Gelap";
-"op_HIDE_BG" = "Sembunyi Kabur Belakang";
-"op_BEHAVIOUR" = "Perangai";
-"op_BEHAVIOUR_FOOTER" = "Jika app disenarai hitam oleh seng, bucu panas tidak akan berfungsi. Pusat pelbagai seng akan masih berfungsi (jika dibolehkan) tapi jika dalam skrin penuh, satu tab akan ditunjuk sebelum membuka (sebagaimana dengan control centre asal).";
-"op_BLACKLIST" = "Senarai Hitam";
-
-/* people view page */
-"pv_INFO" = "Maklumat";
-"pv_INFO_FOOTER" = "Untuk memastikan seksyen orang untuk tunjuk dengan betul, kamu mesti membolehkan satu atau kedua-dua pilihan dalam Settings > Mail, Contacts & Calenders > Show In App Switcher.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Tunjuk Bila Main";
-"mv_HIDE_WHEN_PLAYING" = "Sorok Bila Main";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Sorok Jika Tiada";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Melintang";
-"sv_VERTICAL" = "Menegak";
-"sv_RESETS_TO_FIRST" = "Menetapkan Semula ke Muka Pertama";
-"sv_RESET_TO_FIRST_FOOTER" = "'Menetapkan Semula ke Muka Pertama' akan menetapkan paparan tatal ke muka pertama setiap kali kamu membuka app switcher.";
-"sv_INCLUDED_SECTIONS" = "Seksyen yang Termasuk";
-"sv_EXCLUDED_SECTIONS" = "Seksyen yang Tidak Termasuk";
-"sv_SCROLLING_STYLE" = "Gaya Menatal";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Slider Suara";
-"st_BRIGHTNESS" = "Slider Kecerahan";
-"st_SMALL_SCROLL" = "Paparan Tatal Kecil";
-"st_BIG_SCROLL" = "Paparan Tatal Besar";
-"st_DEFAULT_MEDIA" = "Kawalan Media Asal";
-"st_TOGGLES" = "Butang Togol";
-"st_QUICK_LAUNCH" = "Butang Pelancaran Cepat";
-"st_MEDIA_TITLES" = "Paparan Tajuk Media";
-"st_MEDIA_BUTTONS" = "Butang Pengankutan Media";
-"st_MEDIA_SCRUBBER" = "Penggahar Media";
-"st_PEOPLE" = "Kenalan Kegemaran";
-
-/* alerts */
-"al_ENTER_VALUE" = "Sila masukkan nilai diantara %.01f dan %.01f.";
-"al_ENTER" = "Masuk";
-"al_CANCEL" = "Batal";
-"al_NEGATE" = "Nafi";
-"al_POINT" = "Titik";
-"al_ERROR" = "Ralat";
-"al_VALID_VALE" = "Sila pastikan kamu memasukkan nilai yang betul.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Tidak berjaya tweet pada masa ini.";
-"al_EMAIL_ERROR" = "Nampaknya kamu tidak berjaya menghantar email.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Saya menggunakan seng (oleh @friggog) untuk menukar apps dengan penuh gaya!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Applikasi Sistem";
-"el_USER_APPLICATIONS" = "Applikasi Pengguna";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Isu Keserasian";
-"sp_COMPAT_FOOTER" = "Beberapa tweak diketahui tidak serasi dengan seng, jika kamu mempunyai isu cuba melumpuhkan atau buang ini terdahulu:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Slider Kecerahan Rosak";
-"sp_BRIGHTNESS_FOOTER" = "Ada isu yang telah diketahui dengan SimpleCenters apabila mengubah slider kecerahan dalam seng. Untuk membetulkannya, batalkan semua pilihan slider kecerahan dalam SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Cara Berhubung";
-"sp_INFO" = "Jika kamu mempunyai isu yang lain, permintaan, ingin membantu dengan penterjemahan atau kamu adalah dev yang ingin menambah keserasian untuk tweak kamu, jangan teragak-agak untuk emel saya.";
-"sp_EMAIL" = "Emel";
-
-/* reduce motion */
-"rm_TITLE" = "Gerakan Kurang";
-"rm_FOOTER" = "Sekarang kamu telah membolehkan gerakan kurang. Seng akan mengubah animasi untuk menampungnya dengan terbaik, akibatnya beberapa pilihan akan tiada lagi. Animasi gerakan akan dilumpuhkan dan animasi 'Pergi ke Skrin Rumah' akan digantikan dengan pudar lancar.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Bucu Panas</string>
+	<key>MULTI_CENTRE</key>
+	<string>Pusat Pelbagai</string>
+	<key>OTHER</key>
+	<string>Pilihan Lain</string>
+	<key>SUPPORT</key>
+	<string>Bantuan</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Saya menggunakan seng (oleh @friggog) untuk menukar apps dengan penuh gaya!</string>
+	<key>al_CANCEL</key>
+	<string>Batal</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Nampaknya kamu tidak berjaya menghantar email.</string>
+	<key>al_ENTER</key>
+	<string>Masuk</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Sila masukkan nilai diantara %.01f dan %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Ralat</string>
+	<key>al_NEGATE</key>
+	<string>Nafi</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Titik</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Tidak berjaya tweet pada masa ini.</string>
+	<key>al_VALID_VALE</key>
+	<string>Sila pastikan kamu memasukkan nilai yang betul.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Sorok Jika Tiada</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Applikasi Sistem</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Applikasi Pengguna</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Tarik dari bucu skrin bawah akan mengaktifkan aksi diatas.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Gunakan Stail Alternatif</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Singkir App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Pergerakan Toleransi</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Ini memastikan berapa jauh dari bucu yang kamu boleh sapu untuk mengaktifkan fungsi bucu panas.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Jika 'Kunci Dari Rumah' telah dibolehkan, melakukan gerakan pada skrin Rumah akan mengunci peranti anda.
+Jika 'Animasi Rumah Biasa' telah diaktifkan, jadi animasi slaid menegak yang lebih mudah akan digunakan berbanding sekala animasi asal sistem. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Aksi Kiri</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Kunci Dari Rumah</string>
+	<key>hc_NONE</key>
+	<string>Tiada</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Switcher Pantas</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Stail alternatif itu berkelakuan seperti quick switcher Tage, manakala yang biasa lebih seperti Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Tutup App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Aksi Kanan</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Animasi Rumah Mudah</string>
+	<key>mc_BOTTOM</key>
+	<string>Bawah</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Bahagian kawalan juga terdapat pada pandangan atas dan bawah pusat pelbagai seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Bahagian Kawalan</string>
+	<key>mc_ENABLED</key>
+	<string>Membolehkan</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Tidak Termasuk</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Gerakan Animasi</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Jika dibolehkan, animasi apabila mengaktifkan dan menyahaktifkan app switcher akan dikawal gerakan (seperti biasa Control/Notification Centres).
+Paksa buka ke App Terkini bila dibolehkan.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Stail Icon yang ditunjuk di app switcher.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Sorok</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Bertindih</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Biasa</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Stail Icon</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Termasuk</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Buka ke App Terkini</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Jika dibolehkan, app switcher akan buka ke app yang terkini, daripada app sebelumnya.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Ambil alih Isyarat CC</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Sentiasa Tunjuk Pemegang</string>
+	<key>mc_TOP</key>
+	<string>Atas</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Sorok Bila Main</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Tunjuk Bila Main</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Rupa</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Senarai Putih App</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Perangai</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Jika app disenarai hitam oleh seng, bucu panas tidak akan berfungsi. Pusat pelbagai seng akan masih berfungsi (jika dibolehkan) tapi jika dalam skrin penuh, satu tab akan ditunjuk sebelum membuka (sebagaimana dengan control centre asal).</string>
+	<key>op_BLACKLIST</key>
+	<string>Senarai Hitam</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Tutup App yang tengah main</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Tutup Switcher Selepas</string>
+	<key>op_HIDE_BG</key>
+	<string>Sembunyi Kabur Belakang</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Kad App Skrin Rumah</string>
+	<key>op_LOCK</key>
+	<string>Kunci</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Tiada</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Tutup Semua App</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Buang Efek Seksyen Gelap</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Tunjuk Menu Aksi</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Tutup</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Aksi Sapu ke Atas SR</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Ini adalah aksi yang berlaku apabila kamu sapu atas pada kad app skrin rumah, sebagaimana mahu menutupnya.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Maklumat</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Untuk memastikan seksyen orang untuk tunjuk dengan betul, kamu mesti membolehkan satu atau kedua-dua pilihan dalam Settings &gt; Mail, Contacts &amp; Calenders &gt; Show In App Switcher.</string>
+	<key>rm_FOOTER</key>
+	<string>Sekarang kamu telah membolehkan gerakan kurang. Seng akan mengubah animasi untuk menampungnya dengan terbaik, akibatnya beberapa pilihan akan tiada lagi. Animasi gerakan akan dilumpuhkan dan animasi 'Pergi ke Skrin Rumah' akan digantikan dengan pudar lancar.</string>
+	<key>rm_TITLE</key>
+	<string>Gerakan Kurang</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Ada isu yang telah diketahui dengan SimpleCenters apabila mengubah slider kecerahan dalam seng. Untuk membetulkannya, batalkan semua pilihan slider kecerahan dalam SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Slider Kecerahan Rosak</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Beberapa tweak diketahui tidak serasi dengan seng, jika kamu mempunyai isu cuba melumpuhkan atau buang ini terdahulu:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Isu Keserasian</string>
+	<key>sp_EMAIL</key>
+	<string>Emel</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Cara Berhubung</string>
+	<key>sp_INFO</key>
+	<string>Jika kamu mempunyai isu yang lain, permintaan, ingin membantu dengan penterjemahan atau kamu adalah dev yang ingin menambah keserasian untuk tweak kamu, jangan teragak-agak untuk emel saya.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Paparan Tatal Besar</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Slider Kecerahan</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Kawalan Media Asal</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Butang Pengankutan Media</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Penggahar Media</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Paparan Tajuk Media</string>
+	<key>st_PEOPLE</key>
+	<string>Kenalan Kegemaran</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Butang Pelancaran Cepat</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Paparan Tatal Kecil</string>
+	<key>st_TOGGLES</key>
+	<string>Butang Togol</string>
+	<key>st_VOLUME</key>
+	<string>Slider Suara</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Seksyen yang Tidak Termasuk</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Melintang</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Seksyen yang Termasuk</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Menetapkan Semula ke Muka Pertama</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Menetapkan Semula ke Muka Pertama' akan menetapkan paparan tatal ke muka pertama setiap kali kamu membuka app switcher.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Gaya Menatal</string>
+	<key>sv_VERTICAL</key>
+	<string>Menegak</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu Aksi</string>
+	<key>tw_CANCEL</key>
+	<string>Batal</string>
+	<key>tw_HOME</key>
+	<string>Rumah</string>
+	<key>tw_LOCK</key>
+	<string>Kunci</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Tutup Semua App</string>
+	<key>tw_REBOOT</key>
+	<string>Reboot</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Mod Selamat</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Tutup</string>
+</dict>
+</plist>

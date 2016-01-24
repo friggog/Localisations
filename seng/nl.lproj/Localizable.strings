@@ -1,138 +1,243 @@
-﻿/* in tweak labels */
-"tw_HOME" = "Thuis";
-"tw_ACTION_MENU" = "Actie Menu";
-"tw_SHUT_DOWN" = "Zet Uit";
-"tw_REBOOT" = "Herstart";
-"tw_SAFE_MODE" = "Veilige Modus";
-"tw_RESPRING" = "Herspring";
-"tw_QUIT_ALL" = "Sluit Alle Apps";
-"tw_LOCK" = "Vergrendel";
-"tw_CANCEL" = "Annuleer";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi Center";
-"HOT_CORNERS" = "Hot Corners";
-"OTHER" = "Andere Opties";
-"SUPPORT" = "Help";
-
-/* multi centre page */
-"mc_ENABLED" = "Ingeschakeld";
-"mc_CONTROL_SECTIONS_TITLE" = "Beheer Secties";
-"mc_TOP" = "Boven";
-"mc_BOTTOM" = "Onder";
-"mc_CONTROL_SECTIONS_FOOTER" = "De beheer secties aan de boven- en onderkant van seng multi center.";
-"mc_ICON_STYLE_TITLE" = "Pictogram Stijl";
-"mc_ICON_STYLE_FOOTER" = "Stijl van de pictogrammen in de app switcher.";
-"mc_ICON_STYLE_STANDARD" = "Standaard";
-"mc_ICON_STYLE_OVERLAPPED" = "Overlappend";
-"mc_ICON_STYLE_HIDDEN" = "Verborgen";
-"mc_GESTURE_ANIMATIONS" = "Gebaren Animaties";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Indien ingeschakeld zullen de animaties bij het activeren en deactiveren bediend worden door gebaren (Zoals de standaard Control/Notification Centers).\nOpen naar huidige app staat hierdoor altijd aan.";
-"mc_OPEN_TO_CURRENT" = "Open naar huidige app";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Indien ingeschakeld zal de app switcher automatisch naar de huidig geopende app gaan, in plaats van de laatst open app.";
-"mc_INCLUDED_SECTIONS" = "Inbegrepen";
-"mc_EXCLUDED_SECTIONS" = "Niet Inbregrepen";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Sleep van de hoeken aan de onderkant van het scherm naar boven om de bovenstaande acties uit te voeren.";
-"hc_LEFT_ACTION" = "Linker Actie";
-"hc_RIGHT_ACTION" = "Rechter Actie";
-"hc_CLOSE_APP" = "Sluit Applicatie";
-"hc_QUIT_APP" = "Stop Applicatie";
-"hc_QUICK_SWITCHER" = "Quick Switcher";
-"hc_NONE" = "Geen";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Als 'Vergrendel Via Thuis' is ingeschakeld zal het uitvoeren van dit gebaar op het Thuis Scherm het apparaat vergrendelen.\nAls 'Simpele Thuis Animatie' is ingeschakeld zal er een simpelere verticale schuif animatie gebruikt worden in plaats van de standaard schaal animatie. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Vergrendel Via Thuis";
-"hc_SIMPLE_HOME" = "Simpele Thuis Animatie";
-"hc_ALT_QUICK_SWITCHER" = "Gebruik Alternatieve Stijl";
-"hc_QUICK_SWITCHER_FOOTER" = "De alternatieve stijl gedraagt zich meer zoals Tage's quick switcher, terwijl de standaard meer lijkt op die van Auxo.";
-"hc_GESTURE_TOLERANCE" = "Gebaar Tolerantie";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Dit bepaalt hoe ver je van de hoek kunt slepen om de hot corners functie in te schakelen.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Thuis Scherm App Kaart";
-"op_SWIPE_UP_FOOTER" = "Dit is de actie die uitgevoerd wordt wanneer je omhoog sleept op de thuis scherm app kaart in de switcher, zoals je een app afsluit.";
-"op_SWIPE_UP" = "Omhoog Sleep Actie";
-"op_QUIT_ALL_APPS" = "Stop Alle Apps";
-"op_SHOW_ACTION_MENU" = "Toon Actie Menu";
-"op_RESPRING" = "Herspring";
-"op_LOCK" = "Vergrendel";
-"op_SHUT_DOWN" = "Zet Uit";
-"op_NONE" = "Niets";
-"op_APP_WHITELIST" = "Toegestane Apps";
-"op_CLOSE_NOW_PLAYING" = "Sluit Nu Spelende App";
-"op_DISMISS_AFTER" = "Sluit Switcher Na";
-"op_APPEARANCE" = "Uiterlijk";
-"op_REMOVE_DARK_EFFECT" =  "Verwijder Donker Gebied Effect";
-"op_HIDE_BG" = "Verberg Achtergrond Blur";
-"op_BEHAVIOUR" = "Gedrag";
-"op_BEHAVIOUR_FOOTER" = "Als seng is geblokkeerd in een app zullen de hot corners niet werken. De seng multi center zal nog steeds werken (indien ingeschakeld) maar als hij in volledig scherm is geopend zal er eerst een tabblad worden getoond (net als bij het standaard control center).";
-"op_BLACKLIST" = "Geblokkeerde Apps";
-
-/* people view page */
-"pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "Om ervoor te zorgen dat het Contacten gedeelte goed wordt weergegeven moet je een of beide opties in Instellingen > Mail, Contacten & Agenda > Toon In App Switcher inschakelen.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Toon Alleen Als Er Afgespeeld Wordt";
-"mv_HIDE_WHEN_PLAYING" = "Verberg Als Er Afgespeeld Wordt";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Verberg Indien Niet Beschikbaar";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontaal";
-"sv_VERTICAL" = "Verticaal";
-"sv_RESETS_TO_FIRST" = "Reset naar Eerste Pagina";
-"sv_RESET_TO_FIRST_FOOTER" = "'Reset naar Eerste Pagina' zal de eerste pagina tonen elke keer als je de app switcher opent.";
-"sv_INCLUDED_SECTIONS" = "Inbegrepen Secties";
-"sv_EXCLUDED_SECTIONS" = "Niet Inbegrepen Secties";
-"sv_SCROLLING_STYLE" = "Scrol Stijl";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Volume Regelaar";
-"st_BRIGHTNESS" = "Helderheid Regelaar";
-"st_SMALL_SCROLL" = "Klein Scroll Gedeelte";
-"st_BIG_SCROLL" = "Groot Scroll Gedeelte";
-"st_DEFAULT_MEDIA" = "Standaard Mediabediening";
-"st_TOGGLES" = "Bedieningsknoppen";
-"st_QUICK_LAUNCH" = "Snel Start Knoppen";
-"st_MEDIA_TITLES" = "Media Titels";
-"st_MEDIA_BUTTONS" = "Media Transport Knoppen";
-"st_MEDIA_SCRUBBER" = "Media Scrubber";
-"st_PEOPLE" = "Favoriete Contacten";
-
-/* alerts */
-"al_ENTER_VALUE" = "Vul een waarde in tussen %.01f en %.01f.";
-"al_ENTER" = "Enter";
-"al_CANCEL" = "Annuleer";
-"al_NEGATE" = "Negeer";
-"al_POINT" = "Punt";
-"al_ERROR" = "Error";
-"al_VALID_VALE" = "Zorg ervoor dat je een geldige waarde invult.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Niet in staat om te tweeten op het moment.";
-"al_EMAIL_ERROR" = "Het lijkt erop dat je geen mails kunt verzenden.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Ik gebruik seng (gemaakt door @friggog) om tussen apps te switchen in stijl!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Systeem Applicaties";
-"el_USER_APPLICATIONS" = "Gebruiker Applicaties";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Compatibiliteitsproblemen";
-"sp_COMPAT_FOOTER" = "Sommige tweaks werken niet met seng, als je problemen hebt probeer dan eerste de volgende tweaks uit te schakelen of te verwijderen:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Helderheid Regelaar Crash";
-"sp_BRIGHTNESS_FOOTER" = "Er is een bekend probleem met SimpleCenters wanneer je de helderheid aanpast met seng. Om dit op te lossen moeten alle Helderheid Regelaar opties in SimpleCenters uitgeschakeld worden.";
-"sp_GET_IN_TOUCH" = "Neem Contact Op";
-"sp_INFO" = "Als je problemen, verzoeken hebt, je wilt helpen met vertalen of je bent een ontwikkelaar en je wilt compatibiliteit voor je tweak, twijfel niet maar stuur me een mail.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Verminder Beweging";
-"rm_FOOTER" = "Je hebt op dit moment verminder beweging ingeschakeld. Seng zal de animaties aanpassen om dit zo goed mogelijk te laten verlopen, hierdoor zullen sommige opties niet beschikbaar zijn. Gebaren animaties zijn uitgeschakeld en de 'Ga naar Thuis Scherm' animatie is vervangen door een geleidelijke overgang.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Hot Corners</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi Center</string>
+	<key>OTHER</key>
+	<string>Andere Opties</string>
+	<key>SUPPORT</key>
+	<string>Help</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Ik gebruik seng (gemaakt door @friggog) om tussen apps te switchen in stijl!</string>
+	<key>al_CANCEL</key>
+	<string>Annuleer</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Het lijkt erop dat je geen mails kunt verzenden.</string>
+	<key>al_ENTER</key>
+	<string>Enter</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Vul een waarde in tussen %.01f en %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Error</string>
+	<key>al_NEGATE</key>
+	<string>Negeer</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Punt</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Niet in staat om te tweeten op het moment.</string>
+	<key>al_VALID_VALE</key>
+	<string>Zorg ervoor dat je een geldige waarde invult.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Verberg Indien Niet Beschikbaar</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Systeem Applicaties</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Gebruiker Applicaties</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Sleep van de hoeken aan de onderkant van het scherm naar boven om de bovenstaande acties uit te voeren.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Gebruik Alternatieve Stijl</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Sluit Applicatie</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Gebaar Tolerantie</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Dit bepaalt hoe ver je van de hoek kunt slepen om de hot corners functie in te schakelen.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Als 'Vergrendel Via Thuis' is ingeschakeld zal het uitvoeren van dit gebaar op het Thuis Scherm het apparaat vergrendelen.
+Als 'Simpele Thuis Animatie' is ingeschakeld zal er een simpelere verticale schuif animatie gebruikt worden in plaats van de standaard schaal animatie. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Linker Actie</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Vergrendel Via Thuis</string>
+	<key>hc_NONE</key>
+	<string>Geen</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Quick Switcher</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>De alternatieve stijl gedraagt zich meer zoals Tage's quick switcher, terwijl de standaard meer lijkt op die van Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Stop Applicatie</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Rechter Actie</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Simpele Thuis Animatie</string>
+	<key>mc_BOTTOM</key>
+	<string>Onder</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>De beheer secties aan de boven- en onderkant van seng multi center.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Beheer Secties</string>
+	<key>mc_ENABLED</key>
+	<string>Ingeschakeld</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Niet Inbregrepen</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Gebaren Animaties</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Indien ingeschakeld zullen de animaties bij het activeren en deactiveren bediend worden door gebaren (Zoals de standaard Control/Notification Centers).
+Open naar huidige app staat hierdoor altijd aan.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Stijl van de pictogrammen in de app switcher.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Verborgen</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Overlappend</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Standaard</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Pictogram Stijl</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Inbegrepen</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Open naar huidige app</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Indien ingeschakeld zal de app switcher automatisch naar de huidig geopende app gaan, in plaats van de laatst open app.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Boven</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Verberg Als Er Afgespeeld Wordt</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Toon Alleen Als Er Afgespeeld Wordt</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Uiterlijk</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Toegestane Apps</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Gedrag</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Als seng is geblokkeerd in een app zullen de hot corners niet werken. De seng multi center zal nog steeds werken (indien ingeschakeld) maar als hij in volledig scherm is geopend zal er eerst een tabblad worden getoond (net als bij het standaard control center).</string>
+	<key>op_BLACKLIST</key>
+	<string>Geblokkeerde Apps</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Sluit Nu Spelende App</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Sluit Switcher Na</string>
+	<key>op_HIDE_BG</key>
+	<string>Verberg Achtergrond Blur</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Thuis Scherm App Kaart</string>
+	<key>op_LOCK</key>
+	<string>Vergrendel</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Niets</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Stop Alle Apps</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Verwijder Donker Gebied Effect</string>
+	<key>op_RESPRING</key>
+	<string>Herspring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Toon Actie Menu</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Zet Uit</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Omhoog Sleep Actie</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Dit is de actie die uitgevoerd wordt wanneer je omhoog sleept op de thuis scherm app kaart in de switcher, zoals je een app afsluit.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Info</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Om ervoor te zorgen dat het Contacten gedeelte goed wordt weergegeven moet je een of beide opties in Instellingen &gt; Mail, Contacten &amp; Agenda &gt; Toon In App Switcher inschakelen.</string>
+	<key>rm_FOOTER</key>
+	<string>Je hebt op dit moment verminder beweging ingeschakeld. Seng zal de animaties aanpassen om dit zo goed mogelijk te laten verlopen, hierdoor zullen sommige opties niet beschikbaar zijn. Gebaren animaties zijn uitgeschakeld en de 'Ga naar Thuis Scherm' animatie is vervangen door een geleidelijke overgang.</string>
+	<key>rm_TITLE</key>
+	<string>Verminder Beweging</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Er is een bekend probleem met SimpleCenters wanneer je de helderheid aanpast met seng. Om dit op te lossen moeten alle Helderheid Regelaar opties in SimpleCenters uitgeschakeld worden.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Helderheid Regelaar Crash</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Sommige tweaks werken niet met seng, als je problemen hebt probeer dan eerste de volgende tweaks uit te schakelen of te verwijderen:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Compatibiliteitsproblemen</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Neem Contact Op</string>
+	<key>sp_INFO</key>
+	<string>Als je problemen, verzoeken hebt, je wilt helpen met vertalen of je bent een ontwikkelaar en je wilt compatibiliteit voor je tweak, twijfel niet maar stuur me een mail.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Groot Scroll Gedeelte</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Helderheid Regelaar</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Standaard Mediabediening</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Media Transport Knoppen</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Media Scrubber</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Media Titels</string>
+	<key>st_PEOPLE</key>
+	<string>Favoriete Contacten</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Snel Start Knoppen</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Klein Scroll Gedeelte</string>
+	<key>st_TOGGLES</key>
+	<string>Bedieningsknoppen</string>
+	<key>st_VOLUME</key>
+	<string>Volume Regelaar</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Niet Inbegrepen Secties</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontaal</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Inbegrepen Secties</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Reset naar Eerste Pagina</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Reset naar Eerste Pagina' zal de eerste pagina tonen elke keer als je de app switcher opent.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Scrol Stijl</string>
+	<key>sv_VERTICAL</key>
+	<string>Verticaal</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Actie Menu</string>
+	<key>tw_CANCEL</key>
+	<string>Annuleer</string>
+	<key>tw_HOME</key>
+	<string>Thuis</string>
+	<key>tw_LOCK</key>
+	<string>Vergrendel</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Sluit Alle Apps</string>
+	<key>tw_REBOOT</key>
+	<string>Herstart</string>
+	<key>tw_RESPRING</key>
+	<string>Herspring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Veilige Modus</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Zet Uit</string>
+</dict>
+</plist>

@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Accueil";
-"tw_ACTION_MENU" = "Menu";
-"tw_SHUT_DOWN" = "Éteindre";
-"tw_REBOOT" = "Redémarrer";
-"tw_SAFE_MODE" = "Safe Mode";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Quitter toutes les apps";
-"tw_LOCK" = "Vérrouiller";
-"tw_CANCEL" = "Annuler";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi-tâche";
-"HOT_CORNERS" = "Gestes de Glisser";
-"OTHER" = "Autres Options";
-"SUPPORT" = "Aide";
-
-/* multi centre page */
-"mc_ENABLED" = "Activé";
-"mc_CONTROL_SECTIONS_TITLE" = "Sections de Contrôles";
-"mc_TOP" = "Haut";
-"mc_BOTTOM" = "Bas";
-"mc_CONTROL_SECTIONS_FOOTER" = "Contrôles inclus en haut et en bas de la vue du multi-tâche de Seng.";
-"mc_ICON_STYLE_TITLE" = "Affichage de l'Icône";
-"mc_ICON_STYLE_FOOTER" = "Cette option détermine l'affichage de l'icône dans le multi-tâche.";
-"mc_ICON_STYLE_STANDARD" = "Standard";
-"mc_ICON_STYLE_OVERLAPPED" = "Superposé";
-"mc_ICON_STYLE_HIDDEN" = "Caché";
-"mc_GESTURE_ANIMATIONS" = "Gestes d'Animations";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Si activé, les animations seront standard (comme le centre de contrôle/centre de notifications) pendant l'activation et la désactivation du multitâche.\nOblige \"Ouvrir à l'Application Actuelle\" à être activée";
-"mc_OPEN_TO_CURRENT" = "Ouvrir à l'application actuelle";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Si activé, le multitâche s'ouvrira sur l’application en cours d’utilisation, plutôt que la dernière application ouverte.";
-"mc_INCLUDED_SECTIONS" = "Inclus";
-"mc_EXCLUDED_SECTIONS" = "Exclus";
-
-/* hot corners page */
-"hc_ACTIONS_FOOTER" = "Glisser vers le haut depuis les angles du bas de l'écran auront les effets suivants.";
-"hc_LEFT_ACTION" = "Glisser Depuis Gauche";
-"hc_RIGHT_ACTION" = "Glisser Depuis Droite";
-"hc_CLOSE_APP" = "Fermer App";
-"hc_QUIT_APP" = "Quitter App";
-"hc_QUICK_SWITCHER" = "Défilement Rapide";
-"hc_NONE" = "Aucun";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Si ‘Verrouiller depuis le SpringBoard’ est activé, glisser depuis le bas droit verrouillera l'appareil.\nSi 'Animation Simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Verrouiller Depuis le SpringBoard";
-"hc_SIMPLE_HOME" = "Animation Simple";
-"hc_ALT_QUICK_SWITCHER" = "Style Alternatif";
-"hc_QUICK_SWITCHER_FOOTER" = "Le style alternatif ressemble au défilement rapide de Tage, tandis que le standard ressemble plus à celui d'Auxo.";
-"hc_GESTURE_TOLERANCE" = "Sensibilité";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Cette option détermine à quelle distance des angles vous pouvez glisser pour activer le défilement rapide.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Aperçu du SpringBoard";
-"op_SWIPE_UP_FOOTER" = "Cette option determine l'action qui se produit lorsque vous glissez du haut vers le bas depuis l'aperçu du Multi-tâches, comme si vous vouliez le fermer.";
-"op_SWIPE_UP" = "Actions";
-"op_QUIT_ALL_APPS" = "Quitter Toutes Les Apps";
-"op_SHOW_ACTION_MENU" = "Afficher Le Menu";
-"op_RESPRING" = "Relancer";
-"op_LOCK" = "Vérrouiller";
-"op_SHUT_DOWN" = "Éteindre";
-"op_NONE" = "Aucun";
-"op_APP_WHITELIST" = "Liste Blanche";
-"op_CLOSE_NOW_PLAYING" = "Fermer l'Application Musique";
-"op_DISMISS_AFTER" = "Revenir sur le SpringBoard";
-"op_APPEARANCE" = "Apparence";
-"op_REMOVE_DARK_EFFECT" =  "Enlever L’effet Sombre";
-"op_HIDE_BG" = "Cacher Le Fond Floué";
-"op_BEHAVIOUR" = "Autres";
-"op_BEHAVIOUR_FOOTER" = "Si une application est sur liste noire, alors le défilement rapide ne marchera pas. Le multi-tâche de Seng marchera toujours (si il est activé) mais en paysage, une fenêtre sera affiché avant l'ouverture (comme le centre de contrôle par défaut).";
-"op_BLACKLIST" = "Liste Noire";
-
-/* people view page */
-"pv_INFO" = "Infos";
-"pv_INFO_FOOTER" = "Pour que la section 'Favoris' marche correctement, vous devez d'abord activer une ou plusieurs des options dans Réglages > Mail, Contacts, Calendrier > Afficher dans le multi-tache.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Afficher Quand Utilisé";
-"mv_HIDE_WHEN_PLAYING" = "Cacher Quand Utilisé";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Caché Quand Indisponible";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontale";
-"sv_VERTICAL" = "Verticale";
-"sv_RESETS_TO_FIRST" = "Retour à La Page d’accueil";
-"sv_RESET_TO_FIRST_FOOTER" = "'Retour à La Page d’accueil’ repositionne le ‘défilement’ à la première page chaque fois que vous rouvrirez le multi-tâche.";
-"sv_INCLUDED_SECTIONS" = "Inclus";
-"sv_EXCLUDED_SECTIONS" = "Exclus";
-"sv_SCROLLING_STYLE" = "Style du défilement";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Volume";
-"st_BRIGHTNESS" = "Luminosité";
-"st_SMALL_SCROLL" = "Petit défilement";
-"st_BIG_SCROLL" = "Gros défilement";
-"st_DEFAULT_MEDIA" = "Contrôle Des Médias Standard";
-"st_TOGGLES" = "Toggles";
-"st_QUICK_LAUNCH" = "Lancement Rapide";
-"st_MEDIA_TITLES" = "Titre Du Média";
-"st_MEDIA_BUTTONS" = "Bouttons Média";
-"st_MEDIA_SCRUBBER" = "Media Scrubber";
-"st_PEOPLE" = "Contacts Favoris";
-
-/* alerts */
-"al_ENTER_VALUE" = "Entrez une valeur comprise entre %.01f Et %.01f s'il vous plaît.";
-"al_ENTER" = "Entrer";
-"al_CANCEL" = "Annuler";
-"al_NEGATE" = "Négatif";
-"al_POINT" = "Point";
-"al_ERROR" = "Erreur";
-"al_VALID_VALE" = "Assurez vous d'avoir rentré une valeur correct s'il vous plaît.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Impossible d'envoyer un Tweet pour le moment. Réessayez ultérieurement.";
-"al_EMAIL_ERROR" = "Impossible d'envoyer un mail pour le moment. Réessayez ultérieurement.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "J'utilise Seng (de @friggog) pour naviguer entre mes apps <3 !";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Applications Système";
-"el_USER_APPLICATIONS" = "Applications Personnelles";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Problème de compatibilité";
-"sp_COMPAT_FOOTER" = "Certains tweaks sont connus pour être incompatible avec seng, si vous rencontrez des problèmes, désactivé ou supprimé pour commencer:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Crash Barre De Luminosité";
-"sp_BRIGHTNESS_FOOTER" = "Un bug avec SimpleCenters est connu, lorsque l'on ajuste la luminosité avec Seng. Pour le résoudre, désactivez toutes les options concernant la luminosité dans SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Contact";
-"sp_INFO" = "Si vous rencontrez d'autres problèmes, avez des suggestions, ou voulez aider pour les traductions ou êtes un développeur et voulez ajouter la compatibilité de vos tweaks, n'hésitez pas à me contacter par Mail.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Animation Réduite";
-"rm_FOOTER" = "Vous avez actuellement activé 'Réduire les animations'. Seng va modifié ces animations pour s'adapter au mieux, mais certaines options ne seront plus disponibles.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Gestes de Glisser</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi-tâche</string>
+	<key>OTHER</key>
+	<string>Autres Options</string>
+	<key>SUPPORT</key>
+	<string>Aide</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>J'utilise Seng (de @friggog) pour naviguer entre mes apps &lt;3 !</string>
+	<key>al_CANCEL</key>
+	<string>Annuler</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Impossible d'envoyer un mail pour le moment. Réessayez ultérieurement.</string>
+	<key>al_ENTER</key>
+	<string>Entrer</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Entrez une valeur comprise entre %.01f Et %.01f s'il vous plaît.</string>
+	<key>al_ERROR</key>
+	<string>Erreur</string>
+	<key>al_NEGATE</key>
+	<string>Négatif</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Point</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Impossible d'envoyer un Tweet pour le moment. Réessayez ultérieurement.</string>
+	<key>al_VALID_VALE</key>
+	<string>Assurez vous d'avoir rentré une valeur correct s'il vous plaît.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Caché Quand Indisponible</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Applications Système</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Applications Personnelles</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Glisser vers le haut depuis les angles du bas de l'écran auront les effets suivants.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Style Alternatif</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Fermer App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Sensibilité</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Cette option détermine à quelle distance des angles vous pouvez glisser pour activer le défilement rapide.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Si ‘Verrouiller depuis le SpringBoard’ est activé, glisser depuis le bas droit verrouillera l'appareil.
+Si 'Animation Simple' est activé alors une animation verticale plus simple sera utilisé à la place de l'animation par défaut. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Glisser Depuis Gauche</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Verrouiller Depuis le SpringBoard</string>
+	<key>hc_NONE</key>
+	<string>Aucun</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Défilement Rapide</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Le style alternatif ressemble au défilement rapide de Tage, tandis que le standard ressemble plus à celui d'Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Quitter App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Glisser Depuis Droite</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Animation Simple</string>
+	<key>mc_BOTTOM</key>
+	<string>Bas</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Contrôles inclus en haut et en bas de la vue du multi-tâche de Seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Sections de Contrôles</string>
+	<key>mc_ENABLED</key>
+	<string>Activé</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Exclus</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Gestes d'Animations</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Si activé, les animations seront standard (comme le centre de contrôle/centre de notifications) pendant l'activation et la désactivation du multitâche.
+Oblige "Ouvrir à l'Application Actuelle" à être activée</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Cette option détermine l'affichage de l'icône dans le multi-tâche.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Caché</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Superposé</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Standard</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Affichage de l'Icône</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Inclus</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Ouvrir à l'application actuelle</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Si activé, le multitâche s'ouvrira sur l’application en cours d’utilisation, plutôt que la dernière application ouverte.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Haut</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Cacher Quand Utilisé</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Afficher Quand Utilisé</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Apparence</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Liste Blanche</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Autres</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Si une application est sur liste noire, alors le défilement rapide ne marchera pas. Le multi-tâche de Seng marchera toujours (si il est activé) mais en paysage, une fenêtre sera affiché avant l'ouverture (comme le centre de contrôle par défaut).</string>
+	<key>op_BLACKLIST</key>
+	<string>Liste Noire</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Fermer l'Application Musique</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Revenir sur le SpringBoard</string>
+	<key>op_HIDE_BG</key>
+	<string>Cacher Le Fond Floué</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Aperçu du SpringBoard</string>
+	<key>op_LOCK</key>
+	<string>Vérrouiller</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Aucun</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Quitter Toutes Les Apps</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Enlever L’effet Sombre</string>
+	<key>op_RESPRING</key>
+	<string>Relancer</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Afficher Le Menu</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Éteindre</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Actions</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Cette option determine l'action qui se produit lorsque vous glissez du haut vers le bas depuis l'aperçu du Multi-tâches, comme si vous vouliez le fermer.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Infos</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Pour que la section 'Favoris' marche correctement, vous devez d'abord activer une ou plusieurs des options dans Réglages &gt; Mail, Contacts, Calendrier &gt; Afficher dans le multi-tache.</string>
+	<key>rm_FOOTER</key>
+	<string>Vous avez actuellement activé 'Réduire les animations'. Seng va modifié ces animations pour s'adapter au mieux, mais certaines options ne seront plus disponibles.</string>
+	<key>rm_TITLE</key>
+	<string>Animation Réduite</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Un bug avec SimpleCenters est connu, lorsque l'on ajuste la luminosité avec Seng. Pour le résoudre, désactivez toutes les options concernant la luminosité dans SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Crash Barre De Luminosité</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Certains tweaks sont connus pour être incompatible avec seng, si vous rencontrez des problèmes, désactivé ou supprimé pour commencer:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Problème de compatibilité</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Contact</string>
+	<key>sp_INFO</key>
+	<string>Si vous rencontrez d'autres problèmes, avez des suggestions, ou voulez aider pour les traductions ou êtes un développeur et voulez ajouter la compatibilité de vos tweaks, n'hésitez pas à me contacter par Mail.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Gros défilement</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Luminosité</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Contrôle Des Médias Standard</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Bouttons Média</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Media Scrubber</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Titre Du Média</string>
+	<key>st_PEOPLE</key>
+	<string>Contacts Favoris</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Lancement Rapide</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Petit défilement</string>
+	<key>st_TOGGLES</key>
+	<string>Toggles</string>
+	<key>st_VOLUME</key>
+	<string>Volume</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Exclus</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontale</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Inclus</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Retour à La Page d’accueil</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Retour à La Page d’accueil’ repositionne le ‘défilement’ à la première page chaque fois que vous rouvrirez le multi-tâche.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Style du défilement</string>
+	<key>sv_VERTICAL</key>
+	<string>Verticale</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu</string>
+	<key>tw_CANCEL</key>
+	<string>Annuler</string>
+	<key>tw_HOME</key>
+	<string>Accueil</string>
+	<key>tw_LOCK</key>
+	<string>Vérrouiller</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Quitter toutes les apps</string>
+	<key>tw_REBOOT</key>
+	<string>Redémarrer</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Safe Mode</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Éteindre</string>
+</dict>
+</plist>

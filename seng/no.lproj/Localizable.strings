@@ -1,138 +1,241 @@
-/* in tweak labels */
-"tw_HOME" = "Hjem";
-"tw_ACTION_MENU" = "Handlingsmeny";
-"tw_SHUT_DOWN" = "Skru av";
-"tw_REBOOT" = "Restart";
-"tw_SAFE_MODE" = "Sikkerhetsmodus";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Lukk alle apper";
-"tw_LOCK" = "Lås";
-"tw_CANCEL" = "Avbryt";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multisenter";
-"HOT_CORNERS" = "Hurtighjørner";
-"OTHER" = "Andre Instillinger";
-"SUPPORT" = "Hjelp";
-
-/* multi centre page */
-"mc_ENABLED" = "Aktivert";
-"mc_CONTROL_SECTIONS_TITLE" = "Konstrollseksjoner";
-"mc_TOP" = "Topp";
-"mc_BOTTOM" = "Bunn";
-"mc_CONTROL_SECTIONS_FOOTER" = "Kontrollseksjonene inkludert i topp- og bunnvisningene.";
-"mc_ICON_STYLE_TITLE" = "Ikon Visning";
-"mc_ICON_STYLE_FOOTER" = "Visningen av ikonene i appveksler";
-"mc_ICON_STYLE_STANDARD" = "Standard";
-"mc_ICON_STYLE_OVERLAPPED" = "Overlappet";
-"mc_ICON_STYLE_HIDDEN" = "Skjult";
-"mc_GESTURE_ANIMATIONS" = "Bevegelsesanimasjoner";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Om aktivert, vil animasjonene ved åpning og lukking av appveksleren, bli styrt av bevegelse (som standar Kontroll-/Varslingssenter). Aktiverer automatisk 'Åpne til aktiv app'.";
-"mc_OPEN_TO_CURRENT" = "Åpne til aktiv app";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Om denne er aktivert vil appveksleren åpnes til den aktive appen, i stedet for den forrige appen";
-"mc_INCLUDED_SECTIONS" = "Inkludert";
-"mc_EXCLUDED_SECTIONS" = "Ikke Inkludert";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Dra opp fra skjermens nedre hjørner for å aktivere valgene over.";
-"hc_LEFT_ACTION" = "Venstre Handling";
-"hc_RIGHT_ACTION" = "Høyre Handling";
-"hc_CLOSE_APP" = "Lukk App";
-"hc_QUIT_APP" = "Avslutt App";
-"hc_QUICK_SWITCHER" = "Hurtigvelger";
-"hc_NONE" = "Ingen";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Om 'Lås Fra Hjemskjerm' er aktivert, vil denne handlingen låse enheten. Hvis 'Enkel Hjemanimasjon' er aktivert vil en enklere og vertikal bevegelse bli brukt framfor standar zoomeffekt i iOS. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Lås Fra Hjemskjerm";
-"hc_SIMPLE_HOME" = "Enkel Hjemanimasjon";
-"hc_ALT_QUICK_SWITCHER" = "Bruk en alternativ stil";
-"hc_QUICK_SWITCHER_FOOTER" = "Den alternative stilen oppfører seg som hurtigvelgeren Tage, mens standars er mer lik den i Auxo.";
-"hc_GESTURE_TOLERANCE" = "Bevegelsestoleranse";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Dette avgjør hvor langt inn på skjermen du kan sveipe for å aktivere hurtighjørnene";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Hjemskjerm appkort";
-"op_SWIPE_UP_FOOTER" = "Dette er handlingen når du sveiper opp appkortet på hjemskjermen, som for å lukke det.";
-"op_SWIPE_UP" = "Sveip Opp Handling";
-"op_QUIT_ALL_APPS" = "Avslutt Alle Apper";
-"op_SHOW_ACTION_MENU" = "Vis Handlingsmeny";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Lås";
-"op_SHUT_DOWN" = "Skru Av";
-"op_NONE" = "Ingenting";
-"op_APP_WHITELIST" = "Hvitlistede apper";
-"op_CLOSE_NOW_PLAYING" = "Lukk Spillende App";
-"op_DISMISS_AFTER" = "Lukk Appveksler Etterpå";
-"op_APPEARANCE" = "Visning";
-"op_REMOVE_DARK_EFFECT" =  "Fjern mørke seksjoner";
-"op_HIDE_BG" = "Skjul Bakgrunnsuskarphet";
-"op_BEHAVIOUR" = "Oppførsel";
-"op_BEHAVIOUR_FOOTER" = "Om seng er sortelistet i noen apper, vil ikke hurtighjørner fungere. Seng multisenter vil fremdeles fungere (om aktivert), men i fullskjerm vil en fane vises før åpning (som i standar Kontrollsenter).";
-"op_BLACKLIST" = "Svarteliste";
-
-/* people view page */
-"pv_INFO" = "Info";
-"pv_INFO_FOOTER" = "For at kontaktseksjonen skal vises riktig, må du aktivere én eller begge av valgene i Innstillinger > Mail, Kontaker & Kalender > Vis i Appveksler.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Vis kun når musikk spilles";
-"mv_HIDE_WHEN_PLAYING" = "Skjul når musikk spilles";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Skjul når utilgjengelig";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horisontal";
-"sv_VERTICAL" = "Vertikal";
-"sv_RESETS_TO_FIRST" = "Reset til første side";
-"sv_RESET_TO_FIRST_FOOTER" = "'Reset til første side' vil vise den første siden når du åpner appvelgeren";
-"sv_INCLUDED_SECTIONS" = "Inkluderte Seksjoner";
-"sv_EXCLUDED_SECTIONS" = "Ekskluderte Seksjoner";
-"sv_SCROLLING_STYLE" = "Skrollestil";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Volumslider";
-"st_BRIGHTNESS" = "Lysstyrkeslider";
-"st_SMALL_SCROLL" = "Liten Skrollevisning";
-"st_BIG_SCROLL" = "Stor Skrollevisning";
-"st_DEFAULT_MEDIA" = "Standar Mediakontroller";
-"st_TOGGLES" = "Toggle Knapper";
-"st_QUICK_LAUNCH" = "Hurtigåpneknapper";
-"st_MEDIA_TITLES" = "Media Tittel Visning";
-"st_MEDIA_BUTTONS" = "Media Transport Visning";
-"st_MEDIA_SCRUBBER" = "Media Markør";
-"st_PEOPLE" = "Favorittkontaker";
-
-/* alerts */
-"al_ENTER_VALUE" = "Vennligst velg en verdi mellom %.01f og %.01f.";
-"al_ENTER" = "Angi";
-"al_CANCEL" = "Avbryt";
-"al_NEGATE" = "Annullere";
-"al_POINT" = "Punkt";
-"al_ERROR" = "Feil";
-"al_VALID_VALE" = "Vennligst se om du har skrevet inn et gyldig tall.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Klarte ikke tweete på dette tidspunktet.";
-"al_EMAIL_ERROR" = "Det virker som du ikke kan sende denne eposten.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Jeg bruker seng (av @friggog) for å bytte apper med stil!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Systemapplikasjoner";
-"el_USER_APPLICATIONS" = "Brukerapplikasjoner";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Kompatibilitetsproblemer";
-"sp_COMPAT_FOOTER" = "Noen tweaks er kjent for å være inkompatible med seng, hvis du har problemer forsøk å deaktivere eller fjerne disse først:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Lysstyrkeslider Krasj";
-"sp_BRIGHTNESS_FOOTER" = "Det er et kjent problem med SimpleCenters når du justerer lysstyrkeslideren i seng. For å fikse dette deaktiver alle lysstyrkeslider-alternativene i SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Ta kontakt";
-"sp_INFO" = "Hvis du har andre spørsmål, forespørsler, ønsker å hjelpe til med oversettelse eller er en utvikler og ønsker å legge til kompatibilitet for en tweak, ikke nøl med å sende meg en epost.";
-"sp_EMAIL" = "Epost";
-
-/* reduce motion */
-"rm_TITLE" = "Reduser Bevegelse";
-"rm_FOOTER" = "Du har for øyeblikket reduserte bevegelse aktivert. Seng vil endre sine animasjoner for å best imøtekomme dette, derfor vil noen alternativer ikke lenger være tilgjengelig. Bevegelsesanimasjoner ved åpning av appvelgeren er deaktivert og 'Gå til Hjem-skjerm \"animasjon er erstattet med en jevn overgang.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Hurtighjørner</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multisenter</string>
+	<key>OTHER</key>
+	<string>Andre Instillinger</string>
+	<key>SUPPORT</key>
+	<string>Hjelp</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Jeg bruker seng (av @friggog) for å bytte apper med stil!</string>
+	<key>al_CANCEL</key>
+	<string>Avbryt</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Det virker som du ikke kan sende denne eposten.</string>
+	<key>al_ENTER</key>
+	<string>Angi</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Vennligst velg en verdi mellom %.01f og %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Feil</string>
+	<key>al_NEGATE</key>
+	<string>Annullere</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Punkt</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Klarte ikke tweete på dette tidspunktet.</string>
+	<key>al_VALID_VALE</key>
+	<string>Vennligst se om du har skrevet inn et gyldig tall.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Skjul når utilgjengelig</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Systemapplikasjoner</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Brukerapplikasjoner</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Dra opp fra skjermens nedre hjørner for å aktivere valgene over.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Bruk en alternativ stil</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Lukk App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Bevegelsestoleranse</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Dette avgjør hvor langt inn på skjermen du kan sveipe for å aktivere hurtighjørnene</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Om 'Lås Fra Hjemskjerm' er aktivert, vil denne handlingen låse enheten. Hvis 'Enkel Hjemanimasjon' er aktivert vil en enklere og vertikal bevegelse bli brukt framfor standar zoomeffekt i iOS. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Venstre Handling</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Lås Fra Hjemskjerm</string>
+	<key>hc_NONE</key>
+	<string>Ingen</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Hurtigvelger</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Den alternative stilen oppfører seg som hurtigvelgeren Tage, mens standars er mer lik den i Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Avslutt App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Høyre Handling</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Enkel Hjemanimasjon</string>
+	<key>mc_BOTTOM</key>
+	<string>Bunn</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Kontrollseksjonene inkludert i topp- og bunnvisningene.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Konstrollseksjoner</string>
+	<key>mc_ENABLED</key>
+	<string>Aktivert</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Ikke Inkludert</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Bevegelsesanimasjoner</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Om aktivert, vil animasjonene ved åpning og lukking av appveksleren, bli styrt av bevegelse (som standar Kontroll-/Varslingssenter). Aktiverer automatisk 'Åpne til aktiv app'.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Visningen av ikonene i appveksler</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Skjult</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Overlappet</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Standard</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Ikon Visning</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Inkludert</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Åpne til aktiv app</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Om denne er aktivert vil appveksleren åpnes til den aktive appen, i stedet for den forrige appen</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Topp</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Skjul når musikk spilles</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Vis kun når musikk spilles</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Visning</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Hvitlistede apper</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Oppførsel</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Om seng er sortelistet i noen apper, vil ikke hurtighjørner fungere. Seng multisenter vil fremdeles fungere (om aktivert), men i fullskjerm vil en fane vises før åpning (som i standar Kontrollsenter).</string>
+	<key>op_BLACKLIST</key>
+	<string>Svarteliste</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Lukk Spillende App</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Lukk Appveksler Etterpå</string>
+	<key>op_HIDE_BG</key>
+	<string>Skjul Bakgrunnsuskarphet</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Hjemskjerm appkort</string>
+	<key>op_LOCK</key>
+	<string>Lås</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Ingenting</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Avslutt Alle Apper</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Fjern mørke seksjoner</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Vis Handlingsmeny</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Skru Av</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Sveip Opp Handling</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Dette er handlingen når du sveiper opp appkortet på hjemskjermen, som for å lukke det.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Info</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>For at kontaktseksjonen skal vises riktig, må du aktivere én eller begge av valgene i Innstillinger &gt; Mail, Kontaker &amp; Kalender &gt; Vis i Appveksler.</string>
+	<key>rm_FOOTER</key>
+	<string>Du har for øyeblikket reduserte bevegelse aktivert. Seng vil endre sine animasjoner for å best imøtekomme dette, derfor vil noen alternativer ikke lenger være tilgjengelig. Bevegelsesanimasjoner ved åpning av appvelgeren er deaktivert og 'Gå til Hjem-skjerm "animasjon er erstattet med en jevn overgang.</string>
+	<key>rm_TITLE</key>
+	<string>Reduser Bevegelse</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Det er et kjent problem med SimpleCenters når du justerer lysstyrkeslideren i seng. For å fikse dette deaktiver alle lysstyrkeslider-alternativene i SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Lysstyrkeslider Krasj</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Noen tweaks er kjent for å være inkompatible med seng, hvis du har problemer forsøk å deaktivere eller fjerne disse først:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Kompatibilitetsproblemer</string>
+	<key>sp_EMAIL</key>
+	<string>Epost</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Ta kontakt</string>
+	<key>sp_INFO</key>
+	<string>Hvis du har andre spørsmål, forespørsler, ønsker å hjelpe til med oversettelse eller er en utvikler og ønsker å legge til kompatibilitet for en tweak, ikke nøl med å sende meg en epost.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Stor Skrollevisning</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Lysstyrkeslider</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Standar Mediakontroller</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Media Transport Visning</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Media Markør</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Media Tittel Visning</string>
+	<key>st_PEOPLE</key>
+	<string>Favorittkontaker</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Hurtigåpneknapper</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Liten Skrollevisning</string>
+	<key>st_TOGGLES</key>
+	<string>Toggle Knapper</string>
+	<key>st_VOLUME</key>
+	<string>Volumslider</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Ekskluderte Seksjoner</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horisontal</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Inkluderte Seksjoner</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Reset til første side</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Reset til første side' vil vise den første siden når du åpner appvelgeren</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Skrollestil</string>
+	<key>sv_VERTICAL</key>
+	<string>Vertikal</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Handlingsmeny</string>
+	<key>tw_CANCEL</key>
+	<string>Avbryt</string>
+	<key>tw_HOME</key>
+	<string>Hjem</string>
+	<key>tw_LOCK</key>
+	<string>Lås</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Lukk alle apper</string>
+	<key>tw_REBOOT</key>
+	<string>Restart</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Sikkerhetsmodus</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Skru av</string>
+</dict>
+</plist>

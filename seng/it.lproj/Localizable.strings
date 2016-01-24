@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Home";
-"tw_ACTION_MENU" = "Menu Azioni";
-"tw_SHUT_DOWN" = "Spegni";
-"tw_REBOOT" = "Riavvia";
-"tw_SAFE_MODE" = "Safe Mode";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Chiudi Tutte Le App";
-"tw_LOCK" = "Blocca lo Schermo";
-"tw_CANCEL" = "Annulla";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi Centre";
-"HOT_CORNERS" = "Angoli Attivi";
-"OTHER" = "Altre Opzioni";
-"SUPPORT" = "Aiuto";
-
-/* multi centre page */
-"mc_ENABLED" = "Abilita";
-"mc_CONTROL_SECTIONS_TITLE" = "Sezioni Di Controllo";
-"mc_TOP" = "Alto";
-"mc_BOTTOM" = "Basso";
-"mc_CONTROL_SECTIONS_FOOTER" = "Le sezioni di controllo incluse nella parte alta e bassa del Multi Centre di seng.";
-"mc_ICON_STYLE_TITLE" = "Stile Delle Icone";
-"mc_ICON_STYLE_FOOTER" = "Lo stile delle icone mostrate nell’app switcher.";
-"mc_ICON_STYLE_STANDARD" = "Standard";
-"mc_ICON_STYLE_OVERLAPPED" = "Sovrapposte";
-"mc_ICON_STYLE_HIDDEN" = "Nascoste";
-"mc_GESTURE_ANIMATIONS" = "Animazioni Gestuali";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Se attivate, le animazioni di apertura e chiusura dell’app switcher saranno controllate dai gesti (come le animazioni standard del Control Center e Centro Notifiche).\nForzerà l’attivazione dell’opzione Apri sull’app attuale.";
-"mc_OPEN_TO_CURRENT" = "Apri sull’app attuale";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Se attivo, l’app switcher si aprirà mostrando l’app attualmente aperta, al posto che l’ultima app aperta.";
-"mc_INCLUDED_SECTIONS" = "Inclusi";
-"mc_EXCLUDED_SECTIONS" = "Non inclusi";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Eseguire uno swipe dagli angoli inferiori dello schermo invocherà le seguenti azioni.";
-"hc_LEFT_ACTION" = "Azione di Sinistra";
-"hc_RIGHT_ACTION" = "Azione di Destra";
-"hc_CLOSE_APP" = "Chiudi l'App";
-"hc_QUIT_APP" = "Chiudi e Termina l'App";
-"hc_QUICK_SWITCHER" = "Quick Switcher";
-"hc_NONE" = "Nessuna azione";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Se 'Blocca Dalla Home' è attivo, eseguire questo gesto dalla Home Screen bloccherà il dispositivo.\nSe 'Animazione Home semplice' è attivo, allora verrà usata un’animazione più semplice di scorrimento verticale invece che l’animazione di scalatura di sistema. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Blocca Dalla Home";
-"hc_SIMPLE_HOME" = "Animazione Home semplice";
-"hc_ALT_QUICK_SWITCHER" = "Usa stile alternativo";
-"hc_QUICK_SWITCHER_FOOTER" = "Lo stile alternativo si comporta come il quick switcher di Tage, mentre lo standard è più come Auxo.";
-"hc_GESTURE_TOLERANCE" = "Tolleranza dei Gesti";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Questo determina quanto distante dagli angoli è possibile effettuare lo swipe per attivare le funzionalità degli Angoli Attivi.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Chiusura Home";
-"op_SWIPE_UP_FOOTER" = "Questa è l’azione che viene eseguita quando la schermata Home viene trascinata verso l’alto nell’app switcher, come per chiuderla.";
-"op_SWIPE_UP" = "Swipe verso l’alto";
-"op_QUIT_ALL_APPS" = "Chiudi Tutte le App";
-"op_SHOW_ACTION_MENU" = "Mostra il Menu Azioni";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Blocca lo Schermo";
-"op_SHUT_DOWN" = "Spegni";
-"op_NONE" = "Nessuna azione";
-"op_APP_WHITELIST" = "Lista Bianca";
-"op_CLOSE_NOW_PLAYING" = "Chiudi le app in riproduzione";
-"op_DISMISS_AFTER" = "Chiudi lo Switcher dopo";
-"op_APPEARANCE" = "Aspetto";
-"op_REMOVE_DARK_EFFECT" =  "Rimuovi l’effetto scuro dalle sezioni";
-"op_HIDE_BG" = "Nascondi lo sfondo sfocato";
-"op_BEHAVIOUR" = "Comportamento";
-"op_BEHAVIOUR_FOOTER" = "Se un’app è nella Lista Nera, al suo interno gli Angoli Attivi non funzioneranno. Il Multi Centre di seng funzionerà lo stesso (se abilitato) ma, se in fullscreen, sarà mostrata una linguetta prima dell’apertura (come nel Control Center di default).";
-"op_BLACKLIST" = "Lista Nera";
-
-/* people view page */
-"pv_INFO" = "Informazioni";
-"pv_INFO_FOOTER" = "Per visualizzare correttamente la sezione Contatti Preferiti devi attivare una o entrambe le opzioni in Impostazioni > Posta, contatti, calendari > Mostra nello switcher app.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Mostra solo in riproduzione";
-"mv_HIDE_WHEN_PLAYING" = "Nascondi durante la riproduzione";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Nascondi se non disponibile";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Orizzontale";
-"sv_VERTICAL" = "Verticale";
-"sv_RESETS_TO_FIRST" = "Riporta alla Prima Pagina";
-"sv_RESET_TO_FIRST_FOOTER" = "'Riporta alla Prima Pagina' riporterà la Scroll View alla prima pagina ogni volta che riaprirai l’app switcher.";
-"sv_INCLUDED_SECTIONS" = "Sezioni Incluse";
-"sv_EXCLUDED_SECTIONS" = "Sezioni Escluse";
-"sv_SCROLLING_STYLE" = "Stile dello Scroll";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Cursore del Volume";
-"st_BRIGHTNESS" = "Cursore della Luminosità";
-"st_SMALL_SCROLL" = "Scroll View Piccola";
-"st_BIG_SCROLL" = "Scroll View Grande";
-"st_DEFAULT_MEDIA" = "Controlli Musica di Default";
-"st_TOGGLES" = "Interruttori";
-"st_QUICK_LAUNCH" = "Sezione Quick Launch";
-"st_MEDIA_TITLES" = "Visualizzazione Titoli Media";
-"st_MEDIA_BUTTONS" = "Pulsanti Spostamento tra Media";
-"st_MEDIA_SCRUBBER" = "Barra di avanzamento";
-"st_PEOPLE" = "Contatti Preferiti";
-
-/* alerts */
-"al_ENTER_VALUE" = "Per favore inserisci un valore tra %.01f e %.01f.";
-"al_ENTER" = "Inserisci";
-"al_CANCEL" = "Annulla";
-"al_NEGATE" = "Nega";
-"al_POINT" = "Indica";
-"al_ERROR" = "Errore";
-"al_VALID_VALE" = "Per favore assicurati di aver inserito un valore corretto.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Impossibile twittare in questo momento.";
-"al_EMAIL_ERROR" = "Sembra che tu non possa inviare email.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Sto usando seng (by @friggog) per spostarmi tra le app con stile!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Applicazioni di Sistema";
-"el_USER_APPLICATIONS" = "Applicazioni dell'Utente";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Problemi di compatibilità";
-"sp_COMPAT_FOOTER" = "Alcuni tweak sono incompatibili con seng, se stai riscontrando problemi prova innanzitutto a disabilitare o rimuovere questi:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Crash dello slider della luminosità";
-"sp_BRIGHTNESS_FOOTER" = "C'è un problema noto con SimpleCenters che si verifica modificando la luminosità dallo slider apposito in seng. Per risolvere il problema, disabilita tutte le opzioni relative allo slider della luminosità in SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Contatti";
-"sp_INFO" = "Se stai riscontrando altri problemi, hai richieste da fare, vorresti aiutare con la traduzione oppure sei uno sviluppatore e vuoi aggiungere la compatibilità del tuo tweak con seng non esitare a contattarmi via email.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Riduci Movimento";
-"rm_FOOTER" = "Attualmente hai attivato Riduci Movimento. Seng modificherà le sue animazioni per adattarsi al meglio, di conseguenza alcune opzioni non saranno più disponibili. Le animazioni gestuali verranno disabilitate e l'animazione per tornare alla Home sarà rimpiazzata da una leggera dissolvenza.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Angoli Attivi</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi Centre</string>
+	<key>OTHER</key>
+	<string>Altre Opzioni</string>
+	<key>SUPPORT</key>
+	<string>Aiuto</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Sto usando seng (by @friggog) per spostarmi tra le app con stile!</string>
+	<key>al_CANCEL</key>
+	<string>Annulla</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Sembra che tu non possa inviare email.</string>
+	<key>al_ENTER</key>
+	<string>Inserisci</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Per favore inserisci un valore tra %.01f e %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Errore</string>
+	<key>al_NEGATE</key>
+	<string>Nega</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Indica</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Impossibile twittare in questo momento.</string>
+	<key>al_VALID_VALE</key>
+	<string>Per favore assicurati di aver inserito un valore corretto.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Nascondi se non disponibile</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Applicazioni di Sistema</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Applicazioni dell'Utente</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Eseguire uno swipe dagli angoli inferiori dello schermo invocherà le seguenti azioni.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Usa stile alternativo</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Chiudi l'App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Tolleranza dei Gesti</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Questo determina quanto distante dagli angoli è possibile effettuare lo swipe per attivare le funzionalità degli Angoli Attivi.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Se 'Blocca Dalla Home' è attivo, eseguire questo gesto dalla Home Screen bloccherà il dispositivo.
+Se 'Animazione Home semplice' è attivo, allora verrà usata un’animazione più semplice di scorrimento verticale invece che l’animazione di scalatura di sistema. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Azione di Sinistra</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Blocca Dalla Home</string>
+	<key>hc_NONE</key>
+	<string>Nessuna azione</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Quick Switcher</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Lo stile alternativo si comporta come il quick switcher di Tage, mentre lo standard è più come Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Chiudi e Termina l'App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Azione di Destra</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Animazione Home semplice</string>
+	<key>mc_BOTTOM</key>
+	<string>Basso</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Le sezioni di controllo incluse nella parte alta e bassa del Multi Centre di seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Sezioni Di Controllo</string>
+	<key>mc_ENABLED</key>
+	<string>Abilita</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Non inclusi</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Animazioni Gestuali</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Se attivate, le animazioni di apertura e chiusura dell’app switcher saranno controllate dai gesti (come le animazioni standard del Control Center e Centro Notifiche).
+Forzerà l’attivazione dell’opzione Apri sull’app attuale.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Lo stile delle icone mostrate nell’app switcher.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Nascoste</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Sovrapposte</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Standard</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Stile Delle Icone</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Inclusi</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Apri sull’app attuale</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Se attivo, l’app switcher si aprirà mostrando l’app attualmente aperta, al posto che l’ultima app aperta.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Alto</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Nascondi durante la riproduzione</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Mostra solo in riproduzione</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Aspetto</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Lista Bianca</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Comportamento</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Se un’app è nella Lista Nera, al suo interno gli Angoli Attivi non funzioneranno. Il Multi Centre di seng funzionerà lo stesso (se abilitato) ma, se in fullscreen, sarà mostrata una linguetta prima dell’apertura (come nel Control Center di default).</string>
+	<key>op_BLACKLIST</key>
+	<string>Lista Nera</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Chiudi le app in riproduzione</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Chiudi lo Switcher dopo</string>
+	<key>op_HIDE_BG</key>
+	<string>Nascondi lo sfondo sfocato</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Chiusura Home</string>
+	<key>op_LOCK</key>
+	<string>Blocca lo Schermo</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Nessuna azione</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Chiudi Tutte le App</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Rimuovi l’effetto scuro dalle sezioni</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Mostra il Menu Azioni</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Spegni</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Swipe verso l’alto</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Questa è l’azione che viene eseguita quando la schermata Home viene trascinata verso l’alto nell’app switcher, come per chiuderla.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Informazioni</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Per visualizzare correttamente la sezione Contatti Preferiti devi attivare una o entrambe le opzioni in Impostazioni &gt; Posta, contatti, calendari &gt; Mostra nello switcher app.</string>
+	<key>rm_FOOTER</key>
+	<string>Attualmente hai attivato Riduci Movimento. Seng modificherà le sue animazioni per adattarsi al meglio, di conseguenza alcune opzioni non saranno più disponibili. Le animazioni gestuali verranno disabilitate e l'animazione per tornare alla Home sarà rimpiazzata da una leggera dissolvenza.</string>
+	<key>rm_TITLE</key>
+	<string>Riduci Movimento</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>C'è un problema noto con SimpleCenters che si verifica modificando la luminosità dallo slider apposito in seng. Per risolvere il problema, disabilita tutte le opzioni relative allo slider della luminosità in SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Crash dello slider della luminosità</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Alcuni tweak sono incompatibili con seng, se stai riscontrando problemi prova innanzitutto a disabilitare o rimuovere questi:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Problemi di compatibilità</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Contatti</string>
+	<key>sp_INFO</key>
+	<string>Se stai riscontrando altri problemi, hai richieste da fare, vorresti aiutare con la traduzione oppure sei uno sviluppatore e vuoi aggiungere la compatibilità del tuo tweak con seng non esitare a contattarmi via email.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Scroll View Grande</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Cursore della Luminosità</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Controlli Musica di Default</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Pulsanti Spostamento tra Media</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Barra di avanzamento</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Visualizzazione Titoli Media</string>
+	<key>st_PEOPLE</key>
+	<string>Contatti Preferiti</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Sezione Quick Launch</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Scroll View Piccola</string>
+	<key>st_TOGGLES</key>
+	<string>Interruttori</string>
+	<key>st_VOLUME</key>
+	<string>Cursore del Volume</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Sezioni Escluse</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Orizzontale</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Sezioni Incluse</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Riporta alla Prima Pagina</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Riporta alla Prima Pagina' riporterà la Scroll View alla prima pagina ogni volta che riaprirai l’app switcher.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Stile dello Scroll</string>
+	<key>sv_VERTICAL</key>
+	<string>Verticale</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu Azioni</string>
+	<key>tw_CANCEL</key>
+	<string>Annulla</string>
+	<key>tw_HOME</key>
+	<string>Home</string>
+	<key>tw_LOCK</key>
+	<string>Blocca lo Schermo</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Chiudi Tutte Le App</string>
+	<key>tw_REBOOT</key>
+	<string>Riavvia</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Safe Mode</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Spegni</string>
+</dict>
+</plist>

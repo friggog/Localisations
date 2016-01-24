@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Início";
-"tw_ACTION_MENU" = "Menu de Ações";
-"tw_SHUT_DOWN" = "Desligar";
-"tw_REBOOT" = "Reiniciar";
-"tw_SAFE_MODE" = "Modo de Segurança";
-"tw_RESPRING" = "Reiniciar SpringBoard";
-"tw_QUIT_ALL" = "Fechar todos os Apps";
-"tw_LOCK" = "Bloquear";
-"tw_CANCEL" = "Cancelar";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi Center";
-"HOT_CORNERS" = "Hot Corners";
-"OTHER" = "Mais Opções";
-"SUPPORT" = "Suporte";
-
-/* multi centre page */
-"mc_ENABLED" = "Habilitado";
-"mc_CONTROL_SECTIONS_TITLE" = "Sessões de Controle";
-"mc_TOP" = "Área Superior";
-"mc_BOTTOM" = "Área Inferior";
-"mc_CONTROL_SECTIONS_FOOTER" = "As Sessões de Controle que serão apresentadas nas áreas Superior e Inferior no Multi Center (Multitarefa).";
-"mc_ICON_STYLE_TITLE" = "Estilo dos Ícones";
-"mc_ICON_STYLE_FOOTER" = "Estilo dos ícones apresentados no App Switcher.";
-"mc_ICON_STYLE_STANDARD" = "Padrão";
-"mc_ICON_STYLE_OVERLAPPED" = "Sobreposto";
-"mc_ICON_STYLE_HIDDEN" = "Desabilitado";
-"mc_GESTURE_ANIMATIONS" = "Animações Gestuais";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Caso habilitado, as animações acompanharão o toque ao entrar e sair do App Switcher (assim como a Central de Controle/Central de Notificações).\nFaz com que a opção 'Abrir para o Aplicativo Atual' fique obrigatoriamente habilitada.";
-"mc_OPEN_TO_CURRENT" = "Abrir para o Aplicativo Atual";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Caso habilitado, o App Switcher irá abrir para o aplicativo atual, ao invés do último aplicativo usado.";
-"mc_INCLUDED_SECTIONS" = "Habilitado";
-"mc_EXCLUDED_SECTIONS" = "Não Habilitado";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Deslizar da parte de baixo da tela irá executar as opções acima.";
-"hc_LEFT_ACTION" = "Lado Esquerdo";
-"hc_RIGHT_ACTION" = "Lado Direito";
-"hc_CLOSE_APP" = "Close App";
-"hc_QUIT_APP" = "Quit App";
-"hc_QUICK_SWITCHER" = "Quick Switcher";
-"hc_NONE" = "Desabilitado";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. \nCaso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Bloquear do Início";
-"hc_SIMPLE_HOME" = "Animação de Fechamento Simples";
-"hc_ALT_QUICK_SWITCHER" = "Usar Estilo Diferenciado";
-"hc_QUICK_SWITCHER_FOOTER" = "O Estilo Diferenciado faz o Quick Switcher se parecer mais com o do tweak Tage, já o padrão se parece mais com o do tweak Auxo.";
-"hc_GESTURE_TOLERANCE" = "Tolerancia de Gesto";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Essa opção determina o quão longe dos cantos da tela pode-se iniciar a funcionalidade de Hot Corners.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Apresentação da Tela de Início";
-"op_SWIPE_UP_FOOTER" = "Essa ação será executada quando for realizado o gesto de deslizar para cima (fechar) no card da Tela de Início no App Switcher (Multitarefa).";
-"op_SWIPE_UP" = "Deslize p/ Cima";
-"op_QUIT_ALL_APPS" = "Fechar Todos os Apps";
-"op_SHOW_ACTION_MENU" = "Exibir Menu de Ações";
-"op_RESPRING" = "Reiniciar SpringBoard";
-"op_LOCK" = "Bloquear";
-"op_SHUT_DOWN" = "Desligar";
-"op_NONE" = "Desabilitado";
-"op_APP_WHITELIST" = "Exceções";
-"op_CLOSE_NOW_PLAYING" = "Fechar App Reproduzindo Audio";
-"op_DISMISS_AFTER" = "Sair do Switcher ao Fechar";
-"op_APPEARANCE" = "Aparência";
-"op_REMOVE_DARK_EFFECT" =  "Remover o Fundo Escuro";
-"op_HIDE_BG" = "Remover o Efeito de Blur";
-"op_BEHAVIOUR" = "Comportamento";
-"op_BEHAVIOUR_FOOTER" = "Os gestos 'Hot Corners' não vão funcionar nos apps inclusos na lista de Exceções. O 'Multi Center' irá funcionar (caso habilitado) mas, em Apps de tela cheia, uma confirmação aparecerá antes (assim como a Central de Controle padrão do sistema).";
-"op_BLACKLIST" = "Exceções";
-
-/* people view page */
-"pv_INFO" = "Informações";
-"pv_INFO_FOOTER" = "Para a sessão Contatos Favoritos/Recentes ser exibida, ao menos uma delas deve estar habilitada em 'Ajustes > Mail, Contatos & Calendários> Mostrar no Seletor de Aplicativos'.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Exibir Somente ao Reproduzir";
-"mv_HIDE_WHEN_PLAYING" = "Desabilitar ao Reproduzir";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Desabilitar Quando Indisponível";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontal";
-"sv_VERTICAL" = "Vertical";
-"sv_RESETS_TO_FIRST" = "Voltar a Primeira Página";
-"sv_RESET_TO_FIRST_FOOTER" = "'Voltar a Primeira Página' vai retornar sempre a primeira página ao reabrir App Switcher (multitarefa).";
-"sv_INCLUDED_SECTIONS" = "Sessões Habilitadas";
-"sv_EXCLUDED_SECTIONS" = "Sessões Desabilitadas";
-"sv_SCROLLING_STYLE" = "Direção da Rolagem";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop e AirPlay";
-"st_VOLUME" = "Barra de Volume";
-"st_BRIGHTNESS" = "Barra de Brilho";
-"st_SMALL_SCROLL" = "Área Rolável Pequena";
-"st_BIG_SCROLL" = "Área Rolável Grande";
-"st_DEFAULT_MEDIA" = "Controles de Mídia Padrão";
-"st_TOGGLES" = "Botões Liga/Desliga";
-"st_QUICK_LAUNCH" = "Botões Apps Rápidos";
-"st_MEDIA_TITLES" = "Informações de Mídia";
-"st_MEDIA_BUTTONS" = "Controles de Mídia";
-"st_MEDIA_SCRUBBER" = "Barra de Controle de Mídia";
-"st_PEOPLE" = "Contatos Favoritos/Recentes";
-
-/* alerts */
-"al_ENTER_VALUE" = "Entre com um valor entre %.01f e %.01f.";
-"al_ENTER" = "OK";
-"al_CANCEL" = "Cancelar";
-"al_NEGATE" = "Negate";
-"al_POINT" = "Point";
-"al_ERROR" = "Erro";
-"al_VALID_VALE" = "Favor entrar somente com valores válidos.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Não foi possível tuítar nesse momento.";
-"al_EMAIL_ERROR" = "Parece não ser possível enviar o email no momento.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Estou usando o tweak seng (de @friggog) para trocar de apps com estilo!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Apps do Sistema";
-"el_USER_APPLICATIONS" = "Apps Instaladas";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Problemas de Compatibilidade";
-"sp_COMPAT_FOOTER" = "Alguns tweaks têm problemas de compatibilidade conhecidos com seng. Em caso de problemas, tente desabilitar ou remover esses tweaks:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Problemas com a Barra de Brilho";
-"sp_BRIGHTNESS_FOOTER" = "Há um problema conhecido com o tweak SimpleCenters que ocorre ao ajustar a barra de brilho usando seng. Para evita-lo, desabilite todas as opções que envolvem a Barra de Brilho nas configurações do tweak SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Entre em Contato";
-"sp_INFO" = "Em caso de dúvidas, sugestões, envio de traduções, ou se você for um desenvolvedor e gostaria de adicionar compatibilidade com seu tweak, não hesite em me contatar via email.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Reduzir Movimento";
-"rm_FOOTER" = "Atualmente, a opção 'Reduzir Movimento' está ativada. Seng vai modificar suas animações para se adaptar melhor a essa opção e, com isso, algumas opções ficarão indisponíveis. A opção 'Animações Gestuais' ficará desabilitada e a animação de 'Ir a Tela Inicial' será substituída por uma animação de fade.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Hot Corners</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi Center</string>
+	<key>OTHER</key>
+	<string>Mais Opções</string>
+	<key>SUPPORT</key>
+	<string>Suporte</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Estou usando o tweak seng (de @friggog) para trocar de apps com estilo!</string>
+	<key>al_CANCEL</key>
+	<string>Cancelar</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Parece não ser possível enviar o email no momento.</string>
+	<key>al_ENTER</key>
+	<string>OK</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Entre com um valor entre %.01f e %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Erro</string>
+	<key>al_NEGATE</key>
+	<string>Negate</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Point</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Não foi possível tuítar nesse momento.</string>
+	<key>al_VALID_VALE</key>
+	<string>Favor entrar somente com valores válidos.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Desabilitar Quando Indisponível</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Apps do Sistema</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Apps Instaladas</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Deslizar da parte de baixo da tela irá executar as opções acima.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Usar Estilo Diferenciado</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Close App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Tolerancia de Gesto</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Essa opção determina o quão longe dos cantos da tela pode-se iniciar a funcionalidade de Hot Corners.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Caso 'Bloquear do Início' estiver habilitado, realizar esse gesto na Tela Inicial irá bloquear o dispositivo. 
+Caso 'Animação de Fechamento Simples' estiver habilitada, uma animação de fechamento vertical mais simples vai ser usada ao invés da animação padrão do sistema. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Lado Esquerdo</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Bloquear do Início</string>
+	<key>hc_NONE</key>
+	<string>Desabilitado</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Quick Switcher</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>O Estilo Diferenciado faz o Quick Switcher se parecer mais com o do tweak Tage, já o padrão se parece mais com o do tweak Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Quit App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Lado Direito</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Animação de Fechamento Simples</string>
+	<key>mc_BOTTOM</key>
+	<string>Área Inferior</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>As Sessões de Controle que serão apresentadas nas áreas Superior e Inferior no Multi Center (Multitarefa).</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Sessões de Controle</string>
+	<key>mc_ENABLED</key>
+	<string>Habilitado</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Não Habilitado</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Animações Gestuais</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Caso habilitado, as animações acompanharão o toque ao entrar e sair do App Switcher (assim como a Central de Controle/Central de Notificações).
+Faz com que a opção 'Abrir para o Aplicativo Atual' fique obrigatoriamente habilitada.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Estilo dos ícones apresentados no App Switcher.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Desabilitado</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Sobreposto</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Padrão</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Estilo dos Ícones</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Habilitado</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Abrir para o Aplicativo Atual</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Caso habilitado, o App Switcher irá abrir para o aplicativo atual, ao invés do último aplicativo usado.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Área Superior</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Desabilitar ao Reproduzir</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Exibir Somente ao Reproduzir</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Aparência</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Exceções</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Comportamento</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Os gestos 'Hot Corners' não vão funcionar nos apps inclusos na lista de Exceções. O 'Multi Center' irá funcionar (caso habilitado) mas, em Apps de tela cheia, uma confirmação aparecerá antes (assim como a Central de Controle padrão do sistema).</string>
+	<key>op_BLACKLIST</key>
+	<string>Exceções</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Fechar App Reproduzindo Audio</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Sair do Switcher ao Fechar</string>
+	<key>op_HIDE_BG</key>
+	<string>Remover o Efeito de Blur</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Apresentação da Tela de Início</string>
+	<key>op_LOCK</key>
+	<string>Bloquear</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Desabilitado</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Fechar Todos os Apps</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Remover o Fundo Escuro</string>
+	<key>op_RESPRING</key>
+	<string>Reiniciar SpringBoard</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Exibir Menu de Ações</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Desligar</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Deslize p/ Cima</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Essa ação será executada quando for realizado o gesto de deslizar para cima (fechar) no card da Tela de Início no App Switcher (Multitarefa).</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Informações</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Para a sessão Contatos Favoritos/Recentes ser exibida, ao menos uma delas deve estar habilitada em 'Ajustes &gt; Mail, Contatos &amp; Calendários&gt; Mostrar no Seletor de Aplicativos'.</string>
+	<key>rm_FOOTER</key>
+	<string>Atualmente, a opção 'Reduzir Movimento' está ativada. Seng vai modificar suas animações para se adaptar melhor a essa opção e, com isso, algumas opções ficarão indisponíveis. A opção 'Animações Gestuais' ficará desabilitada e a animação de 'Ir a Tela Inicial' será substituída por uma animação de fade.</string>
+	<key>rm_TITLE</key>
+	<string>Reduzir Movimento</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Há um problema conhecido com o tweak SimpleCenters que ocorre ao ajustar a barra de brilho usando seng. Para evita-lo, desabilite todas as opções que envolvem a Barra de Brilho nas configurações do tweak SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Problemas com a Barra de Brilho</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Alguns tweaks têm problemas de compatibilidade conhecidos com seng. Em caso de problemas, tente desabilitar ou remover esses tweaks:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Problemas de Compatibilidade</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Entre em Contato</string>
+	<key>sp_INFO</key>
+	<string>Em caso de dúvidas, sugestões, envio de traduções, ou se você for um desenvolvedor e gostaria de adicionar compatibilidade com seu tweak, não hesite em me contatar via email.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop e AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Área Rolável Grande</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Barra de Brilho</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Controles de Mídia Padrão</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Controles de Mídia</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Barra de Controle de Mídia</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Informações de Mídia</string>
+	<key>st_PEOPLE</key>
+	<string>Contatos Favoritos/Recentes</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Botões Apps Rápidos</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Área Rolável Pequena</string>
+	<key>st_TOGGLES</key>
+	<string>Botões Liga/Desliga</string>
+	<key>st_VOLUME</key>
+	<string>Barra de Volume</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Sessões Desabilitadas</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontal</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Sessões Habilitadas</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Voltar a Primeira Página</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Voltar a Primeira Página' vai retornar sempre a primeira página ao reabrir App Switcher (multitarefa).</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Direção da Rolagem</string>
+	<key>sv_VERTICAL</key>
+	<string>Vertical</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu de Ações</string>
+	<key>tw_CANCEL</key>
+	<string>Cancelar</string>
+	<key>tw_HOME</key>
+	<string>Início</string>
+	<key>tw_LOCK</key>
+	<string>Bloquear</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Fechar todos os Apps</string>
+	<key>tw_REBOOT</key>
+	<string>Reiniciar</string>
+	<key>tw_RESPRING</key>
+	<string>Reiniciar SpringBoard</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Modo de Segurança</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Desligar</string>
+</dict>
+</plist>

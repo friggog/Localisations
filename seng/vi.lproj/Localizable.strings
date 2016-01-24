@@ -1,138 +1,242 @@
-/* in tweak labels */
-"tw_HOME" = "Màn Hình Chủ";
-"tw_ACTION_MENU" = "Thao Tác";
-"tw_SHUT_DOWN" = "Tắt Nguồn";
-"tw_REBOOT" = "Khởi Động Lại";
-"tw_SAFE_MODE" = "Safe Mode";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Thoát Hết Ứng Dụng";
-"tw_LOCK" = "Khoá";
-"tw_CANCEL" = "Huỷ";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Trung Tâm Chung";
-"HOT_CORNERS" = "Góc Nóng";
-"OTHER" = "Tuỳ Chọn Khác";
-"SUPPORT" = "Hỗ Trợ";
-
-/* multi centre page */
-"mc_ENABLED" = "Bật";
-"mc_CONTROL_SECTIONS_TITLE" = "Các Mục Điều Khiển";
-"mc_TOP" = "Trên";
-"mc_BOTTOM" = "Dưới";
-"mc_CONTROL_SECTIONS_FOOTER" = "Các mục điều khiển bao gồm các trung tâm trên và dưới của seng.";
-"mc_ICON_STYLE_TITLE" = "Kiểu Biểu Tượng";
-"mc_ICON_STYLE_FOOTER" = "Kiểu biểu tượng ở thanh đa nhiệm.";
-"mc_ICON_STYLE_STANDARD" = "Thường";
-"mc_ICON_STYLE_OVERLAPPED" = "Che Phủ";
-"mc_ICON_STYLE_HIDDEN" = "Ẩn";
-"mc_GESTURE_ANIMATIONS" = "Chuyển Động Thao Tác";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Nếu bật chuyển động khi kích hoạt đa nhiệm s điều khiển được chuyển động (như là Trung Tâm Thông Báo/Điều Khiển gốc).\Ép Mở ở Ứng Dụng Hiện Tại được bật.";
-"mc_OPEN_TO_CURRENT" = "Mở ở Ứng DỤng Hiện Tại";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Nếu kích hoạt thì đa nhiệm sẽ được mở tại ứng dụng đang chạy, không phải tại ứng dụng mới nhất.";
-"mc_INCLUDED_SECTIONS" = "Bao Gồm";
-"mc_EXCLUDED_SECTIONS" = "Không Bao Gồm";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Kéo từ góc dưới màn hình sẽ kích hoạt tác vụ.";
-"hc_LEFT_ACTION" = "Trái";
-"hc_RIGHT_ACTION" = "Phải";
-"hc_CLOSE_APP" = "Đóng Ứng Dụng";
-"hc_QUIT_APP" = "Thoát Ứng Dụng";
-"hc_QUICK_SWITCHER" = "Đa Nhiệm Nhanh";
-"hc_NONE" = "Không";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Nếu ‘Khoá Từ Home' được bật, làm thao tác này ở màn hình chủ sẽ khoá máy.\nNếu ‘Hiệu Ứng Về Home Đơn Giản' được bật một hiệu ứng vuốt lên đơn giản sẽ được thay thế cho chuyển động gốc. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Khoá Từ Home";
-"hc_SIMPLE_HOME" = "Hiệu Ứng Về Home Đơn Giản";
-"hc_ALT_QUICK_SWITCHER" = "Dùng Kiểu Khác";
-"hc_QUICK_SWITCHER_FOOTER" = "Kiểu khác vận hành như đa nhiệm nhanh của Tage, còn kiểu thường thì như của Auxo.";
-"hc_GESTURE_TOLERANCE" = "Sai Số Thao Tác";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Nó xác định ban vuốt lên bao xa từ góc để kích hoạt tính năng góc nóng.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Thẻ Màn Hình Chủ";
-"op_SWIPE_UP_FOOTER" = "Đây là hành động sẽ xảy ra khi bạn vuốt lên từ thẻ màn hình chủ, như để tắt nó.";
-"op_SWIPE_UP" = "Hành Động Vuốt Lên MHC";
-"op_QUIT_ALL_APPS" = "Thoát Hết Ứng Dụng";
-"op_SHOW_ACTION_MENU" = "Hiện Menu Các Hành Động";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Khoá";
-"op_SHUT_DOWN" = "Tắt Máy";
-"op_NONE" = "Không";
-"op_APP_WHITELIST" = "Danh Sách Trắng Ứng Dụng";
-"op_CLOSE_NOW_PLAYING" = "Thoát Ứng Dụng Đang Chạy";
-"op_DISMISS_AFTER" = "Tắt Đa Nhiệm Sau";
-"op_APPEARANCE" = "Giao Diện";
-"op_REMOVE_DARK_EFFECT" =  "Bỏ Hiệu Ứng Cắt Đen";
-"op_HIDE_BG" = "Ẩn Nền Mờ";
-"op_BEHAVIOUR" = "Cách Xử Lý";
-"op_BEHAVIOUR_FOOTER" = "Néu seng được cho vào danh sách đen trong 1 ứng dụng thì góc nóng sẽ không dùng được. Trung tâm chung của seng sẽ vẫn dùng được (nếu bật) nhưng nếu nó là ứng dụng toàn màn hình thì một bảng sẽ hiện lên trước khi mở (như là trung tâm điều khiển gốc).";
-"op_BLACKLIST" = "Danh Sách Đen";
-
-/* people view page */
-"pv_INFO" = "Thông Tin";
-"pv_INFO_FOOTER" = "Để cho thông tin mọi người hiện lên chính xác bạn phải bật một hoặc tất cả các lựa chọn sau trong Cài Đặt > Mail, Danh Bạ & Lịch > Hiện Trong Đa Nhiệm.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Chỉ Hiện Khi Đang Chơi";
-"mv_HIDE_WHEN_PLAYING" = "Ẩn Khi Đang Chơi";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Ẩn Khi Không Khả Dụng";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Chiều Ngang";
-"sv_VERTICAL" = "Chiều Dọc";
-"sv_RESETS_TO_FIRST" = "Về Trang Nhất";
-"sv_RESET_TO_FIRST_FOOTER" = "’Về Trang Nhất' sẽ đặt về trang nhất khi bạn mở đa nhiệm.";
-"sv_INCLUDED_SECTIONS" = "Có Phân Chia";
-"sv_EXCLUDED_SECTIONS" = "không Phân Chia";
-"sv_SCROLLING_STYLE" = "Kiểu Cuộn";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "Thanh Volume";
-"st_BRIGHTNESS" = "Thanh Độ Sáng";
-"st_SMALL_SCROLL" = "Hiển Thị Nhỏ";
-"st_BIG_SCROLL" = "Hiển Thị To";
-"st_DEFAULT_MEDIA" = "Điểu Khiện Media Mặc Định";
-"st_TOGGLES" = "Các Nút Toggle";
-"st_QUICK_LAUNCH" = "Các Nút Mở Nhanh";
-"st_MEDIA_TITLES" = "Hiển Thi Media Dạng Ô";
-"st_MEDIA_BUTTONS" = "Các Nút Media";
-"st_MEDIA_SCRUBBER" = "Bộ Lọc Media";
-"st_PEOPLE" = "Danh Bạ Yêu Thích";
-
-/* alerts */
-"al_ENTER_VALUE" = "Hãy nhập giá trị giữa %.01f và %.01f.";
-"al_ENTER" = "Nhập";
-"al_CANCEL" = "Huỷ";
-"al_NEGATE" = "Phủ Định";
-"al_POINT" = "Điểm";
-"al_ERROR" = "Lỗi";
-"al_VALID_VALE" = "Hãy chắc bạn đã nhập giá trị thích hợp.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Không thể tweet lúc này.";
-"al_EMAIL_ERROR" = "Dường như bạn không thể gửi mail.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Tôi đang dùng seng (của @friggog) để chuyển ứng dụng thật phong cách!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Ứng Dụng Hệ Thống";
-"el_USER_APPLICATIONS" = "Ứng Dụng Người Dùng";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Các vấn đề tương thích";
-"sp_COMPAT_FOOTER" = "Có vài tweak không tương thích với seng, nếu bạn gặp vấn đề hãy thử tắt hoặc xoá nó trước:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Hỏng Thanh Độ Sáng";
-"sp_BRIGHTNESS_FOOTER" = "Có một vấn đề đã được biết với Trung Tâm Đơn Giản khi tuỳ chỉnh thanh độ sáng ở seng. Để sửa vấn đề này hãy tắt toàn bộ tuỳ chọn của thanh độ sáng trong Trung Tâm Đơn Giản.";
-"sp_GET_IN_TOUCH" = "Liên Lạc";
-"sp_INFO" = "Nếu bạn có bất cứ vấn đề khác, yêu cầu, muốn giúp phiên dịch hoặc là một lập trình viên và muốn tương thích với tweak của bạn đừng ngại email cho tôi.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Giảm Chuyển Động";
-"rm_FOOTER" = "Bạn đang bật Giảm Chuyển Động. Seng sẽ tự điều chỉnh chuyển động của nó cho phù hợp, do đó một số tuỳ chọn sẽ không khả dụng. Thao tác chuyển động sẽ được tắt và chuyển động ‘Vê Màn Hình Chủ' sẽ được thay thế bằng chuyển động mờ dần.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Góc Nóng</string>
+	<key>MULTI_CENTRE</key>
+	<string>Trung Tâm Chung</string>
+	<key>OTHER</key>
+	<string>Tuỳ Chọn Khác</string>
+	<key>SUPPORT</key>
+	<string>Hỗ Trợ</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Tôi đang dùng seng (của @friggog) để chuyển ứng dụng thật phong cách!</string>
+	<key>al_CANCEL</key>
+	<string>Huỷ</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Dường như bạn không thể gửi mail.</string>
+	<key>al_ENTER</key>
+	<string>Nhập</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Hãy nhập giá trị giữa %.01f và %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Lỗi</string>
+	<key>al_NEGATE</key>
+	<string>Phủ Định</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Điểm</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Không thể tweet lúc này.</string>
+	<key>al_VALID_VALE</key>
+	<string>Hãy chắc bạn đã nhập giá trị thích hợp.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Ẩn Khi Không Khả Dụng</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Ứng Dụng Hệ Thống</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Ứng Dụng Người Dùng</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Kéo từ góc dưới màn hình sẽ kích hoạt tác vụ.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Dùng Kiểu Khác</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Đóng Ứng Dụng</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Sai Số Thao Tác</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Nó xác định ban vuốt lên bao xa từ góc để kích hoạt tính năng góc nóng.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Nếu ‘Khoá Từ Home' được bật, làm thao tác này ở màn hình chủ sẽ khoá máy.
+Nếu ‘Hiệu Ứng Về Home Đơn Giản' được bật một hiệu ứng vuốt lên đơn giản sẽ được thay thế cho chuyển động gốc. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Trái</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Khoá Từ Home</string>
+	<key>hc_NONE</key>
+	<string>Không</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Đa Nhiệm Nhanh</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Kiểu khác vận hành như đa nhiệm nhanh của Tage, còn kiểu thường thì như của Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Thoát Ứng Dụng</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Phải</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Hiệu Ứng Về Home Đơn Giản</string>
+	<key>mc_BOTTOM</key>
+	<string>Dưới</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Các mục điều khiển bao gồm các trung tâm trên và dưới của seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Các Mục Điều Khiển</string>
+	<key>mc_ENABLED</key>
+	<string>Bật</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Không Bao Gồm</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Chuyển Động Thao Tác</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Nếu bật chuyển động khi kích hoạt đa nhiệm s điều khiển được chuyển động (như là Trung Tâm Thông Báo/Điều Khiển gốc).Ép Mở ở Ứng Dụng Hiện Tại được bật.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Kiểu biểu tượng ở thanh đa nhiệm.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Ẩn</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Che Phủ</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Thường</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Kiểu Biểu Tượng</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Bao Gồm</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Mở ở Ứng DỤng Hiện Tại</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Nếu kích hoạt thì đa nhiệm sẽ được mở tại ứng dụng đang chạy, không phải tại ứng dụng mới nhất.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Trên</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Ẩn Khi Đang Chơi</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Chỉ Hiện Khi Đang Chơi</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Giao Diện</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Danh Sách Trắng Ứng Dụng</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Cách Xử Lý</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Néu seng được cho vào danh sách đen trong 1 ứng dụng thì góc nóng sẽ không dùng được. Trung tâm chung của seng sẽ vẫn dùng được (nếu bật) nhưng nếu nó là ứng dụng toàn màn hình thì một bảng sẽ hiện lên trước khi mở (như là trung tâm điều khiển gốc).</string>
+	<key>op_BLACKLIST</key>
+	<string>Danh Sách Đen</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Thoát Ứng Dụng Đang Chạy</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Tắt Đa Nhiệm Sau</string>
+	<key>op_HIDE_BG</key>
+	<string>Ẩn Nền Mờ</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Thẻ Màn Hình Chủ</string>
+	<key>op_LOCK</key>
+	<string>Khoá</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Không</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Thoát Hết Ứng Dụng</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Bỏ Hiệu Ứng Cắt Đen</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Hiện Menu Các Hành Động</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Tắt Máy</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Hành Động Vuốt Lên MHC</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Đây là hành động sẽ xảy ra khi bạn vuốt lên từ thẻ màn hình chủ, như để tắt nó.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Thông Tin</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Để cho thông tin mọi người hiện lên chính xác bạn phải bật một hoặc tất cả các lựa chọn sau trong Cài Đặt &gt; Mail, Danh Bạ &amp; Lịch &gt; Hiện Trong Đa Nhiệm.</string>
+	<key>rm_FOOTER</key>
+	<string>Bạn đang bật Giảm Chuyển Động. Seng sẽ tự điều chỉnh chuyển động của nó cho phù hợp, do đó một số tuỳ chọn sẽ không khả dụng. Thao tác chuyển động sẽ được tắt và chuyển động ‘Vê Màn Hình Chủ' sẽ được thay thế bằng chuyển động mờ dần.</string>
+	<key>rm_TITLE</key>
+	<string>Giảm Chuyển Động</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Có một vấn đề đã được biết với Trung Tâm Đơn Giản khi tuỳ chỉnh thanh độ sáng ở seng. Để sửa vấn đề này hãy tắt toàn bộ tuỳ chọn của thanh độ sáng trong Trung Tâm Đơn Giản.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Hỏng Thanh Độ Sáng</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Có vài tweak không tương thích với seng, nếu bạn gặp vấn đề hãy thử tắt hoặc xoá nó trước:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Các vấn đề tương thích</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Liên Lạc</string>
+	<key>sp_INFO</key>
+	<string>Nếu bạn có bất cứ vấn đề khác, yêu cầu, muốn giúp phiên dịch hoặc là một lập trình viên và muốn tương thích với tweak của bạn đừng ngại email cho tôi.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Hiển Thị To</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Thanh Độ Sáng</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Điểu Khiện Media Mặc Định</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Các Nút Media</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Bộ Lọc Media</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Hiển Thi Media Dạng Ô</string>
+	<key>st_PEOPLE</key>
+	<string>Danh Bạ Yêu Thích</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Các Nút Mở Nhanh</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Hiển Thị Nhỏ</string>
+	<key>st_TOGGLES</key>
+	<string>Các Nút Toggle</string>
+	<key>st_VOLUME</key>
+	<string>Thanh Volume</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>không Phân Chia</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Chiều Ngang</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Có Phân Chia</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Về Trang Nhất</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>’Về Trang Nhất' sẽ đặt về trang nhất khi bạn mở đa nhiệm.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Kiểu Cuộn</string>
+	<key>sv_VERTICAL</key>
+	<string>Chiều Dọc</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Thao Tác</string>
+	<key>tw_CANCEL</key>
+	<string>Huỷ</string>
+	<key>tw_HOME</key>
+	<string>Màn Hình Chủ</string>
+	<key>tw_LOCK</key>
+	<string>Khoá</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Thoát Hết Ứng Dụng</string>
+	<key>tw_REBOOT</key>
+	<string>Khởi Động Lại</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Safe Mode</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Tắt Nguồn</string>
+</dict>
+</plist>

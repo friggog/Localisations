@@ -1,141 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "בית";
-"tw_ACTION_MENU" = "תפריט פעולות";
-"tw_SHUT_DOWN" = "כיבוי";
-"tw_REBOOT" = "הפעלה מחדש";
-"tw_SAFE_MODE" = "סייף מוד";
-"tw_RESPRING" = "ריספרינג";
-"tw_QUIT_ALL" = "צא מכל האפליקציות";
-"tw_LOCK" = "נעל";
-"tw_CANCEL" = "ביטול";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "מרכז ריבוי המשימות";
-"HOT_CORNERS" = "פינות חמות";
-"OTHER" = "אפשרויות אחרות";
-"SUPPORT" = "תמיכה";
-
-/* multi centre page */
-"mc_ENABLED" = "מופעל";
-"mc_CONTROL_SECTIONS_TITLE" = "חלקות בקרה";
-"mc_TOP" = "עליון";
-"mc_BOTTOM" = "תחתון";
-"mc_CONTROL_SECTIONS_FOOTER" = "חלקות הבקרה כלולות בחלק העליון והתחתון של מרכז ריבוי המשימות של seng.";
-"mc_ICON_STYLE_TITLE" = "סגנון אייקון";
-"mc_ICON_STYLE_FOOTER" = "איך האייקון של האפליקציות יופיעו במסך ריבוי המשימות";
-"mc_ICON_STYLE_STANDARD" = "סטנדרטי";
-"mc_ICON_STYLE_OVERLAPPED" = "חופף";
-"mc_ICON_STYLE_HIDDEN" = "נסתר";
-"mc_GESTURE_ANIMATIONS" = "אנימציות במחוות";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "אם מופעל, האנימציות בזמן כניסה ויציאה ממרכז ריבוי המשימות יהיו ע\"י מחוות (כמו של מרכז הבקרה והעדכונים הסטנדרטיים).\nמחייב את פתח לאפליקציה נוכחית ליהיות מופעל.";
-"mc_OPEN_TO_CURRENT" = "פתח לאפליקציה נוכחית";
-"mc_OPEN_TO_CURRENT_FOOTER" = "אם מופעל, מרכז ריבוי המשימות יפתח לאפליקציה הנוכחית ולא לאפליקציה האחרונה שהיתה בשימוש.";
-"mc_INCLUDED_SECTIONS" = "כלולים";
-"mc_EXCLUDED_SECTIONS" = "לא כלולים";
-"mc_SHOW_GRABBER" = "תמיד הראה טאב גרירה";
-"mc_OVERRIDE_CC" = "עקוף מחוות מרכז הבקרה";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "גרירה מהפינות התחתונות של המסך יפעילו פעולות אלה.";
-"hc_LEFT_ACTION" = "פעולה משמאל";
-"hc_RIGHT_ACTION" = "פעולה מימין";
-"hc_CLOSE_APP" = "צא מהאפליקציה";
-"hc_QUIT_APP" = "סגור את האפליקציה";
-"hc_QUICK_SWITCHER" = "מחליף אפליקציות מהיר";
-"hc_NONE" = "ללא";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "אם 'נעל ממסך הבית' מופעל, אז ביצוע פעולה זו במסך הבית ינעל את המכשיר.\nאם 'אנימציות בית פשוטות' מופעל, אז אנימציה יותר פשוטה תופעל. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "נעל ממסך הבית";
-"hc_SIMPLE_HOME" = "אנימציות בית פשוטות";
-"hc_ALT_QUICK_SWITCHER" = "השתמש בסגנון הפוך";
-"hc_QUICK_SWITCHER_FOOTER" = "הסגנון ההפוך מתנהג כמו Tage לעומת הסגנון הסטנדרטי שמתנהג כמו Auxo.";
-"hc_GESTURE_TOLERANCE" = "רגישות מחוות";
-"hc_GESTURE_TOLERANCE_FOOTER" = "ערך זה קובע כמה רחוק תוכל לגרור מהפינה של המסך בשביל להפעיל את הפינות החמות.";
-"hc_DEF_CC" = "מרכז הבקרה";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "כרטיס מסך הבית";
-"op_SWIPE_UP_FOOTER" = "הפעולה שתבוצע במקרה שמחליקים את כרטיס מסך הבית למעלה.";
-"op_SWIPE_UP" = "החלקת כרטיס מסך הבית למעלה";
-"op_QUIT_ALL_APPS" = "צא מכל האפליקציות";
-"op_SHOW_ACTION_MENU" = "הראה תפריט פעולות";
-"op_RESPRING" = "ריספרינג";
-"op_LOCK" = "נעל";
-"op_SHUT_DOWN" = "כיבוי";
-"op_NONE" = "ללא";
-"op_APP_WHITELIST" = "אפליקציות מותרות";
-"op_CLOSE_NOW_PLAYING" = "סגור אפליקציה שמשמיעה מוזיקה";
-"op_DISMISS_AFTER" = "חזור למסך הבית לאחר מכן";
-"op_APPEARANCE" = "מראה";
-"op_REMOVE_DARK_EFFECT" =  "הסר אפקט כהה";
-"op_HIDE_BG" = "הסר טשטוש רקע";
-"op_BEHAVIOUR" = "התנהגות";
-"op_BEHAVIOUR_FOOTER" = "אם אפליקציה לא מותרת אז הפינות החמות לא יעבדו בה. מרכז ריבוי המשימות עדיין יעבוד (אם הוא מופעל) אבל אם במסך מלא יופיע טאב קטן (כמו עם מרכז הפעולות הסטנדרטי).";
-"op_BLACKLIST" = "לא מותרים";
-
-/* people view page */
-"pv_INFO" = "מידע";
-"pv_INFO_FOOTER" = "בשביל שחלקה זו תעבוד כמו שצריך, צריכים להפעיל את האפשרויות שנמצאות בהגדרות > דוא\"ל אנשי קשר ולוחות שנה > הראה במחליף האפליקציות.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "הראה רק שמופעל מוזיקה";
-"mv_HIDE_WHEN_PLAYING" = "החבא כשמופעל מוזיקה";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "החבא כשלא זמין";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "אופקי";
-"sv_VERTICAL" = "אנכי";
-"sv_RESETS_TO_FIRST" = "אפס לעמוד ראשון";
-"sv_RESET_TO_FIRST_FOOTER" = "'אפס לעמוד ראשון' יגדיר את התצוגה בגלילה לעמוד הראשון כל פעם שתפתח את מרכז ריבוי המשימות";
-"sv_INCLUDED_SECTIONS" = "חלקות כלולות";
-"sv_EXCLUDED_SECTIONS" = "חלקות לא כלולות";
-"sv_SCROLLING_STYLE" = "סגנון גלילה";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop & AirPlay";
-"st_VOLUME" = "סליידר ווליום";
-"st_BRIGHTNESS" = "סליידר בהירות מסך";
-"st_SMALL_SCROLL" = "תצוגת גלילה קטנה";
-"st_BIG_SCROLL" = "תצוגת גלילה גדולה";
-"st_DEFAULT_MEDIA" = "בקרי מדיה ברירת מחדל";
-"st_TOGGLES" = "מתגי בקרה";
-"st_QUICK_LAUNCH" = "כפתורי הפעלה מהירה";
-"st_MEDIA_TITLES" = "תצוגת שם המדיה";
-"st_MEDIA_BUTTONS" = "כפתורי שליטה במדיה";
-"st_MEDIA_SCRUBBER" = "פס שליטה במדיה";
-"st_PEOPLE" = "אנשי קשר מועדפים";
-
-/* alerts */
-"al_ENTER_VALUE" = "הכנס ערך בין %.01f ו %.01f.";
-"al_ENTER" = "אישור";
-"al_CANCEL" = "ביטול";
-"al_NEGATE" = "לשלול";
-"al_POINT" = "נקודה";
-"al_ERROR" = "שגיאה";
-"al_VALID_VALE" = "בדוק שהערך שהכנסת תקין.";
-"al_OK" = "אוקיי";
-"al_TWEET_ERROR" = "אין אפשרות לכתוב לנו tweet כרגע.";
-"al_EMAIL_ERROR" = "נראה שאין באפשרותך לשלוח לנו אימייל.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "I'm using seng (by @friggog) to switch apps in style!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "אפליקציות מערכת";
-"el_USER_APPLICATIONS" = "אפליקציות משתמש";
-
-/* support page */
-"sp_COMPAT_TITLE" = "בעית תאימות";
-"sp_COMPAT_FOOTER" = "כמה tweakים ידועים כלא תואמים עם seng, אם אתה נתקל בבעיות נסה לבטל אותם או להסיר אותם:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "קריסה בסליידר הבהירות";
-"sp_BRIGHTNESS_FOOTER" = "יש בעיה ידועה עם SimpleCenters כאשר נוגעים בסליידר הבהירות ב seng. בכדי לסדר את הבעיה, בטל את כל האפשרויות הקשורות לסליידר הבהירות ב SimpleCenters.";
-"sp_GET_IN_TOUCH" = "הישארו בקשר";
-"sp_INFO" = "אם אתם נתקלים בבעיות, יש לכם בקשות, תרצו לעזור בתרגום או שאתם מפתחים של חבילות שונות בסידיה, אל תהססו לשלוח לי אמייל.";
-"sp_EMAIL" = "אימייל";
-
-/* reduce motion */
-"rm_TITLE" = "הפחת תזוזות";
-"rm_FOOTER" = "הפחת תזוזות מופעל. Seng ישנה את האנימציות שלו בשביל לכבד זאת, כתוצאה מכך, חלק מהאפשרויות לא יפעלו. אנימציות במחוות יהיו כבויות והאנימציה של 'צא למסך הבית' תוחלף בדעיכה חלקה.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>פינות חמות</string>
+	<key>MULTI_CENTRE</key>
+	<string>מרכז ריבוי המשימות</string>
+	<key>OTHER</key>
+	<string>אפשרויות אחרות</string>
+	<key>SUPPORT</key>
+	<string>תמיכה</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>I'm using seng (by @friggog) to switch apps in style!</string>
+	<key>al_CANCEL</key>
+	<string>ביטול</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>נראה שאין באפשרותך לשלוח לנו אימייל.</string>
+	<key>al_ENTER</key>
+	<string>אישור</string>
+	<key>al_ENTER_VALUE</key>
+	<string>הכנס ערך בין %.01f ו %.01f.</string>
+	<key>al_ERROR</key>
+	<string>שגיאה</string>
+	<key>al_NEGATE</key>
+	<string>לשלול</string>
+	<key>al_OK</key>
+	<string>אוקיי</string>
+	<key>al_POINT</key>
+	<string>נקודה</string>
+	<key>al_TWEET_ERROR</key>
+	<string>אין אפשרות לכתוב לנו tweet כרגע.</string>
+	<key>al_VALID_VALE</key>
+	<string>בדוק שהערך שהכנסת תקין.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>החבא כשלא זמין</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>אפליקציות מערכת</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>אפליקציות משתמש</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>גרירה מהפינות התחתונות של המסך יפעילו פעולות אלה.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>השתמש בסגנון הפוך</string>
+	<key>hc_CLOSE_APP</key>
+	<string>צא מהאפליקציה</string>
+	<key>hc_DEF_CC</key>
+	<string>מרכז הבקרה</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>רגישות מחוות</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>ערך זה קובע כמה רחוק תוכל לגרור מהפינה של המסך בשביל להפעיל את הפינות החמות.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>אם 'נעל ממסך הבית' מופעל, אז ביצוע פעולה זו במסך הבית ינעל את המכשיר.
+אם 'אנימציות בית פשוטות' מופעל, אז אנימציה יותר פשוטה תופעל. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>פעולה משמאל</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>נעל ממסך הבית</string>
+	<key>hc_NONE</key>
+	<string>ללא</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>מחליף אפליקציות מהיר</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>הסגנון ההפוך מתנהג כמו Tage לעומת הסגנון הסטנדרטי שמתנהג כמו Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>סגור את האפליקציה</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>פעולה מימין</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>אנימציות בית פשוטות</string>
+	<key>mc_BOTTOM</key>
+	<string>תחתון</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>חלקות הבקרה כלולות בחלק העליון והתחתון של מרכז ריבוי המשימות של seng.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>חלקות בקרה</string>
+	<key>mc_ENABLED</key>
+	<string>מופעל</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>לא כלולים</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>אנימציות במחוות</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>אם מופעל, האנימציות בזמן כניסה ויציאה ממרכז ריבוי המשימות יהיו ע"י מחוות (כמו של מרכז הבקרה והעדכונים הסטנדרטיים).
+מחייב את פתח לאפליקציה נוכחית ליהיות מופעל.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>איך האייקון של האפליקציות יופיעו במסך ריבוי המשימות</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>נסתר</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>חופף</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>סטנדרטי</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>סגנון אייקון</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>כלולים</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>פתח לאפליקציה נוכחית</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>אם מופעל, מרכז ריבוי המשימות יפתח לאפליקציה הנוכחית ולא לאפליקציה האחרונה שהיתה בשימוש.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>עקוף מחוות מרכז הבקרה</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>תמיד הראה טאב גרירה</string>
+	<key>mc_TOP</key>
+	<string>עליון</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>החבא כשמופעל מוזיקה</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>הראה רק שמופעל מוזיקה</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>מראה</string>
+	<key>op_APP_WHITELIST</key>
+	<string>אפליקציות מותרות</string>
+	<key>op_BEHAVIOUR</key>
+	<string>התנהגות</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>אם אפליקציה לא מותרת אז הפינות החמות לא יעבדו בה. מרכז ריבוי המשימות עדיין יעבוד (אם הוא מופעל) אבל אם במסך מלא יופיע טאב קטן (כמו עם מרכז הפעולות הסטנדרטי).</string>
+	<key>op_BLACKLIST</key>
+	<string>לא מותרים</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>סגור אפליקציה שמשמיעה מוזיקה</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>חזור למסך הבית לאחר מכן</string>
+	<key>op_HIDE_BG</key>
+	<string>הסר טשטוש רקע</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>כרטיס מסך הבית</string>
+	<key>op_LOCK</key>
+	<string>נעל</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>ללא</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>צא מכל האפליקציות</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>הסר אפקט כהה</string>
+	<key>op_RESPRING</key>
+	<string>ריספרינג</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>הראה תפריט פעולות</string>
+	<key>op_SHUT_DOWN</key>
+	<string>כיבוי</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>החלקת כרטיס מסך הבית למעלה</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>הפעולה שתבוצע במקרה שמחליקים את כרטיס מסך הבית למעלה.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>מידע</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>בשביל שחלקה זו תעבוד כמו שצריך, צריכים להפעיל את האפשרויות שנמצאות בהגדרות &gt; דוא"ל אנשי קשר ולוחות שנה &gt; הראה במחליף האפליקציות.</string>
+	<key>rm_FOOTER</key>
+	<string>הפחת תזוזות מופעל. Seng ישנה את האנימציות שלו בשביל לכבד זאת, כתוצאה מכך, חלק מהאפשרויות לא יפעלו. אנימציות במחוות יהיו כבויות והאנימציה של 'צא למסך הבית' תוחלף בדעיכה חלקה.</string>
+	<key>rm_TITLE</key>
+	<string>הפחת תזוזות</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>יש בעיה ידועה עם SimpleCenters כאשר נוגעים בסליידר הבהירות ב seng. בכדי לסדר את הבעיה, בטל את כל האפשרויות הקשורות לסליידר הבהירות ב SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>קריסה בסליידר הבהירות</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>כמה tweakים ידועים כלא תואמים עם seng, אם אתה נתקל בבעיות נסה לבטל אותם או להסיר אותם:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>בעית תאימות</string>
+	<key>sp_EMAIL</key>
+	<string>אימייל</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>הישארו בקשר</string>
+	<key>sp_INFO</key>
+	<string>אם אתם נתקלים בבעיות, יש לכם בקשות, תרצו לעזור בתרגום או שאתם מפתחים של חבילות שונות בסידיה, אל תהססו לשלוח לי אמייל.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop &amp; AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>תצוגת גלילה גדולה</string>
+	<key>st_BRIGHTNESS</key>
+	<string>סליידר בהירות מסך</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>בקרי מדיה ברירת מחדל</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>כפתורי שליטה במדיה</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>פס שליטה במדיה</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>תצוגת שם המדיה</string>
+	<key>st_PEOPLE</key>
+	<string>אנשי קשר מועדפים</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>כפתורי הפעלה מהירה</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>תצוגת גלילה קטנה</string>
+	<key>st_TOGGLES</key>
+	<string>מתגי בקרה</string>
+	<key>st_VOLUME</key>
+	<string>סליידר ווליום</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>חלקות לא כלולות</string>
+	<key>sv_HORIZONTAL</key>
+	<string>אופקי</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>חלקות כלולות</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>אפס לעמוד ראשון</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'אפס לעמוד ראשון' יגדיר את התצוגה בגלילה לעמוד הראשון כל פעם שתפתח את מרכז ריבוי המשימות</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>סגנון גלילה</string>
+	<key>sv_VERTICAL</key>
+	<string>אנכי</string>
+	<key>tw_ACTION_MENU</key>
+	<string>תפריט פעולות</string>
+	<key>tw_CANCEL</key>
+	<string>ביטול</string>
+	<key>tw_HOME</key>
+	<string>בית</string>
+	<key>tw_LOCK</key>
+	<string>נעל</string>
+	<key>tw_QUIT_ALL</key>
+	<string>צא מכל האפליקציות</string>
+	<key>tw_REBOOT</key>
+	<string>הפעלה מחדש</string>
+	<key>tw_RESPRING</key>
+	<string>ריספרינג</string>
+	<key>tw_SAFE_MODE</key>
+	<string>סייף מוד</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>כיבוי</string>
+</dict>
+</plist>

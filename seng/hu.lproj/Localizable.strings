@@ -1,138 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Főképernyő";
-"tw_ACTION_MENU" = "Feladatok menü";
-"tw_SHUT_DOWN" = "Kikapcsolás";
-"tw_REBOOT" = "Újraindítás";
-"tw_SAFE_MODE" = "Biztonságos mód";
-"tw_RESPRING" = "Springboard újraindítása";
-"tw_QUIT_ALL" = "Összes alkalmazás bezárása";
-"tw_LOCK" = "Lezárás";
-"tw_CANCEL" = "Mégsem";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multiközpont";
-"HOT_CORNERS" = "Aktív sarkok";
-"OTHER" = "Egyéb lehetőségek";
-"SUPPORT" = "Támogatás";
-
-/* multi centre page */
-"mc_ENABLED" = "Engedélyezett";
-"mc_CONTROL_SECTIONS_TITLE" = "Szekciók beállítása";
-"mc_TOP" = "Felső";
-"mc_BOTTOM" = "Alsó";
-"mc_CONTROL_SECTIONS_FOOTER" = "Itt állíthatod, hogy a seng felső és alsó nézetében mi jelenjen meg.";
-"mc_ICON_STYLE_TITLE" = "Ikon stílus";
-"mc_ICON_STYLE_FOOTER" = "Az alkalmazásváltóban megjelenő ikonok stílusa.";
-"mc_ICON_STYLE_STANDARD" = "Normál";
-"mc_ICON_STYLE_OVERLAPPED" = "Kártyát fedő";
-"mc_ICON_STYLE_HIDDEN" = "Rejtett";
-"mc_GESTURE_ANIMATIONS" = "Gesztust követő animációk";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Ha engedélyezve van, akkor az animációk az ujjad követve történnek, hasonlóan a Vezérlőközponthoz.\nA Jelenlegli alkalmazásra ugrás opciónak endedélyezve kell lennie.";
-"mc_OPEN_TO_CURRENT" = "Jelenlegli alkalmazásra ugrás";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Ha ez engedélyezve van, az alkalmazásváltó megnyitáskor nem ugrik az előző alkalmazásra, hanem a jelenlegi marad a képernyő közepén.";
-"mc_INCLUDED_SECTIONS" = "Megjelenítve";
-"mc_EXCLUDED_SECTIONS" = "Elrejtve";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "A kijelző alsó sarkaitól felhúzva ezeket érheted el.";
-"hc_LEFT_ACTION" = "Bal oldali lehetőség";
-"hc_RIGHT_ACTION" = "Jobb oldali lehetőség";
-"hc_CLOSE_APP" = "Close App";
-"hc_QUIT_APP" = "Quit App";
-"hc_QUICK_SWITCHER" = "Gyors alkalmazásváltó";
-"hc_NONE" = "Semmi";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.\nHa az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Főképernyőn lezárás";
-"hc_SIMPLE_HOME" = "Egyszerűsített animáció";
-"hc_ALT_QUICK_SWITCHER" = "Alternatív kinézet használata";
-"hc_QUICK_SWITCHER_FOOTER" = "Az alternatív stílus úgy viselkedik mint a Tage gyors váltója, amig a sztenderd jobban hasonlít az Auxo-ra.";
-"hc_GESTURE_TOLERANCE" = "Gesztus tolerancia";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Ez az érték adja meg, hogy a sarkoktól milyen messzire tudod aktiválni az adott funkciót.";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Főképernyő alkalmazáskártya";
-"op_SWIPE_UP_FOOTER" = "Ez a lehetőség fog aktiválódni, amikor a Főképernyő kártyáját húzod fel.";
-"op_SWIPE_UP" = "Főképernyő fel gesztus";
-"op_QUIT_ALL_APPS" = "Minden alkalmazás bezárása";
-"op_SHOW_ACTION_MENU" = "Feladatok menü";
-"op_RESPRING" = "Springboard újraindítása";
-"op_LOCK" = "Lezárás";
-"op_SHUT_DOWN" = "Kikapcsolás";
-"op_NONE" = "Semmi";
-"op_APP_WHITELIST" = "Kizárt alkalmazások";
-"op_CLOSE_NOW_PLAYING" = "Jelenleg zenét játszó alkalmazás bezárása";
-"op_DISMISS_AFTER" = "Alkalmazásváltó bezárása utána";
-"op_APPEARANCE" = "Megjelenés";
-"op_REMOVE_DARK_EFFECT" =  "Vezérlőközpont második elemeinek sötétítésének eltörlése";
-"op_HIDE_BG" = "Elmosott háttér elrejtése";
-"op_BEHAVIOUR" = "Működés";
-"op_BEHAVIOUR_FOOTER" = "Ha az alkalmazás ki van zárva, akkor seng aktív sarkai nem fognak működni, de az alkalmazásváltó a Vezérlőközponttól megszokott módon működik majd.";
-"op_BLACKLIST" = "Kizárt alkalmazások";
-
-/* people view page */
-"pv_INFO" = "Információ";
-"pv_INFO_FOOTER" = "Ahhoz, hogy a Kontaktok szekció meg tudjon jelenni, a Beállítások > Mail, Kontaktok, Naptárak > Megjelenítés az alkalmazásváltóban alatt be kell kapcsolni.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Csak média lejátszásakor jelenik meg";
-"mv_HIDE_WHEN_PLAYING" = "Lejátszáskor is rejtett";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Elrejtésre kerül, ha nincs benne semmi";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Vízszintes";
-"sv_VERTICAL" = "Függőleges";
-"sv_RESETS_TO_FIRST" = "Első oldalra visszaáll";
-"sv_RESET_TO_FIRST_FOOTER" = "Az Első oldalra visszaáll opció lehetővé teszi, hogy a szekció újboli megnyitáskor első lapját mutassa.";
-"sv_INCLUDED_SECTIONS" = "Megjelenített lapok";
-"sv_EXCLUDED_SECTIONS" = "Elrejtett lapok";
-"sv_SCROLLING_STYLE" = "Görgetés stílusa";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop és AirPlay";
-"st_VOLUME" = "Hangerőcsúszka";
-"st_BRIGHTNESS" = "Fényerőcsúszka";
-"st_SMALL_SCROLL" = "Kicsi lapozó";
-"st_BIG_SCROLL" = "Nagy lapozó";
-"st_DEFAULT_MEDIA" = "Alapértelmezett média vezérlők";
-"st_TOGGLES" = "Kapcsoló gombok";
-"st_QUICK_LAUNCH" = "Gyorsgombok";
-"st_MEDIA_TITLES" = "Játszott média címe";
-"st_MEDIA_BUTTONS" = "Médiakezelő gombok";
-"st_MEDIA_SCRUBBER" = "Médiacsúszka";
-"st_PEOPLE" = "Kedvenc kontaktok";
-
-/* alerts */
-"al_ENTER_VALUE" = "Kérem egy %.01f és egy %.01f közti számot adjon meg.";
-"al_ENTER" = "Bevitel";
-"al_CANCEL" = "Mégsem";
-"al_NEGATE" = "Ellentét";
-"al_POINT" = "Pont";
-"al_ERROR" = "Hiba";
-"al_VALID_VALE" = "Kérem ellenőrizze még egyszer, hogy jó számot adott-e meg.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "Nem sikerült a tweetet elküldeni.";
-"al_EMAIL_ERROR" = "Úgy fest nem tudott emailt küldeni.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "A seng tweaket használom, melyet @friggog fejlesztett ki, hogy stílusosan váltsak alkalmazásaim közt!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Rendszeralkalmazások";
-"el_USER_APPLICATIONS" = "Felhasználói alkalmazások";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Kompatibilítási hibák";
-"sp_COMPAT_FOOTER" = "Néhány tweak inkompatibilis a seng-el, így ha ilyen problémád van először próbáld meg letiltani ezeket:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Fényerő csúszka hiba";
-"sp_BRIGHTNESS_FOOTER" = "Egy ismert hiba van a SimpleCenters-el amikor a fényerőt állítod. Hogy kijavítsd, tilts le minden fényerőcsúszka beállítást a SimpleCenters-ben.";
-"sp_GET_IN_TOUCH" = "Kapcsolat";
-"sp_INFO" = "Ha akármi más hibát tapasztalsz, vagy szeretnél segíteni fordítással, esetleg fejlesztő vagy és kompatibilítást szeretnél a tweakeddel, kérlek írj emailt.";
-"sp_EMAIL" = "Email";
-
-/* reduce motion */
-"rm_TITLE" = "Mozgás csökkentése";
-"rm_FOOTER" = "Jelenleg engedélyezve van a mozgás csökkentése. A seng megpróbál ehhez legjobban alkalmazkodni, így néhány opció elérhetetlen lesz. A gesztus animációk le vannak tiltva és a 'Menj a Főképernyore' animáció egy áttűnéssel lett lecserélve";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Aktív sarkok</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multiközpont</string>
+	<key>OTHER</key>
+	<string>Egyéb lehetőségek</string>
+	<key>SUPPORT</key>
+	<string>Támogatás</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>A seng tweaket használom, melyet @friggog fejlesztett ki, hogy stílusosan váltsak alkalmazásaim közt!</string>
+	<key>al_CANCEL</key>
+	<string>Mégsem</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>Úgy fest nem tudott emailt küldeni.</string>
+	<key>al_ENTER</key>
+	<string>Bevitel</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Kérem egy %.01f és egy %.01f közti számot adjon meg.</string>
+	<key>al_ERROR</key>
+	<string>Hiba</string>
+	<key>al_NEGATE</key>
+	<string>Ellentét</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Pont</string>
+	<key>al_TWEET_ERROR</key>
+	<string>Nem sikerült a tweetet elküldeni.</string>
+	<key>al_VALID_VALE</key>
+	<string>Kérem ellenőrizze még egyszer, hogy jó számot adott-e meg.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Elrejtésre kerül, ha nincs benne semmi</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Rendszeralkalmazások</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Felhasználói alkalmazások</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>A kijelző alsó sarkaitól felhúzva ezeket érheted el.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Alternatív kinézet használata</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Close App</string>
+	<key>hc_DEF_CC</key>
+	<string>Control Center</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Gesztus tolerancia</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Ez az érték adja meg, hogy a sarkoktól milyen messzire tudod aktiválni az adott funkciót.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Ha a Főképernyőn lezárás opció be van kapcsolva, akkor ez a gesztus lezárja az eszközt a Főképernyőn.
+Ha az Egyszerűsített animáció be van kapcsolva, akkor a gyári nagyító animáció helyett egy felcsúszás lesz látható alkalmazás bezárásakor. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Bal oldali lehetőség</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Főképernyőn lezárás</string>
+	<key>hc_NONE</key>
+	<string>Semmi</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Gyors alkalmazásváltó</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>Az alternatív stílus úgy viselkedik mint a Tage gyors váltója, amig a sztenderd jobban hasonlít az Auxo-ra.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Quit App</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Jobb oldali lehetőség</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Egyszerűsített animáció</string>
+	<key>mc_BOTTOM</key>
+	<string>Alsó</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Itt állíthatod, hogy a seng felső és alsó nézetében mi jelenjen meg.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Szekciók beállítása</string>
+	<key>mc_ENABLED</key>
+	<string>Engedélyezett</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Elrejtve</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Gesztust követő animációk</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Ha engedélyezve van, akkor az animációk az ujjad követve történnek, hasonlóan a Vezérlőközponthoz.
+A Jelenlegli alkalmazásra ugrás opciónak endedélyezve kell lennie.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Az alkalmazásváltóban megjelenő ikonok stílusa.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Rejtett</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Kártyát fedő</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Normál</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Ikon stílus</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Megjelenítve</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Jelenlegli alkalmazásra ugrás</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Ha ez engedélyezve van, az alkalmazásváltó megnyitáskor nem ugrik az előző alkalmazásra, hanem a jelenlegi marad a képernyő közepén.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Override CC Gesture</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Always Show Grabber</string>
+	<key>mc_TOP</key>
+	<string>Felső</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Lejátszáskor is rejtett</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Csak média lejátszásakor jelenik meg</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Megjelenés</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Kizárt alkalmazások</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Működés</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Ha az alkalmazás ki van zárva, akkor seng aktív sarkai nem fognak működni, de az alkalmazásváltó a Vezérlőközponttól megszokott módon működik majd.</string>
+	<key>op_BLACKLIST</key>
+	<string>Kizárt alkalmazások</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Jelenleg zenét játszó alkalmazás bezárása</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Alkalmazásváltó bezárása utána</string>
+	<key>op_HIDE_BG</key>
+	<string>Elmosott háttér elrejtése</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Főképernyő alkalmazáskártya</string>
+	<key>op_LOCK</key>
+	<string>Lezárás</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Semmi</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Minden alkalmazás bezárása</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Vezérlőközpont második elemeinek sötétítésének eltörlése</string>
+	<key>op_RESPRING</key>
+	<string>Springboard újraindítása</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Feladatok menü</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Kikapcsolás</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Swipe to Switch App</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Főképernyő fel gesztus</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Ez a lehetőség fog aktiválódni, amikor a Főképernyő kártyáját húzod fel.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Információ</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Ahhoz, hogy a Kontaktok szekció meg tudjon jelenni, a Beállítások &gt; Mail, Kontaktok, Naptárak &gt; Megjelenítés az alkalmazásváltóban alatt be kell kapcsolni.</string>
+	<key>rm_FOOTER</key>
+	<string>Jelenleg engedélyezve van a mozgás csökkentése. A seng megpróbál ehhez legjobban alkalmazkodni, így néhány opció elérhetetlen lesz. A gesztus animációk le vannak tiltva és a 'Menj a Főképernyore' animáció egy áttűnéssel lett lecserélve</string>
+	<key>rm_TITLE</key>
+	<string>Mozgás csökkentése</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Egy ismert hiba van a SimpleCenters-el amikor a fényerőt állítod. Hogy kijavítsd, tilts le minden fényerőcsúszka beállítást a SimpleCenters-ben.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Fényerő csúszka hiba</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Néhány tweak inkompatibilis a seng-el, így ha ilyen problémád van először próbáld meg letiltani ezeket:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Kompatibilítási hibák</string>
+	<key>sp_EMAIL</key>
+	<string>Email</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Kapcsolat</string>
+	<key>sp_INFO</key>
+	<string>Ha akármi más hibát tapasztalsz, vagy szeretnél segíteni fordítással, esetleg fejlesztő vagy és kompatibilítást szeretnél a tweakeddel, kérlek írj emailt.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop és AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Nagy lapozó</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Fényerőcsúszka</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Alapértelmezett média vezérlők</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Médiakezelő gombok</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Médiacsúszka</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Játszott média címe</string>
+	<key>st_PEOPLE</key>
+	<string>Kedvenc kontaktok</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Gyorsgombok</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Kicsi lapozó</string>
+	<key>st_TOGGLES</key>
+	<string>Kapcsoló gombok</string>
+	<key>st_VOLUME</key>
+	<string>Hangerőcsúszka</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Elrejtett lapok</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Vízszintes</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Megjelenített lapok</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Első oldalra visszaáll</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>Az Első oldalra visszaáll opció lehetővé teszi, hogy a szekció újboli megnyitáskor első lapját mutassa.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Görgetés stílusa</string>
+	<key>sv_VERTICAL</key>
+	<string>Függőleges</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Feladatok menü</string>
+	<key>tw_CANCEL</key>
+	<string>Mégsem</string>
+	<key>tw_HOME</key>
+	<string>Főképernyő</string>
+	<key>tw_LOCK</key>
+	<string>Lezárás</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Összes alkalmazás bezárása</string>
+	<key>tw_REBOOT</key>
+	<string>Újraindítás</string>
+	<key>tw_RESPRING</key>
+	<string>Springboard újraindítása</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Biztonságos mód</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Kikapcsolás</string>
+</dict>
+</plist>

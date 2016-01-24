@@ -1,143 +1,243 @@
-/* in tweak labels */
-"tw_HOME" = "Domov";
-"tw_ACTION_MENU" = "Menu akcií";
-"tw_SHUT_DOWN" = "Vypnúť";
-"tw_REBOOT" = "Reštartovať";
-"tw_SAFE_MODE" = "Bezpečný mód";
-"tw_RESPRING" = "Respring";
-"tw_QUIT_ALL" = "Zatvoriť všetky aplikácie";
-"tw_LOCK" = "Zamknúť";
-"tw_CANCEL" = "Zrušiť";
-
-/* prefs */
-/* \n represents a new line, just leave them alone */
-/* main page */
-"MULTI_CENTRE" = "Multi Centrum";
-"HOT_CORNERS" = "Aktívne rohy";
-"OTHER" = "Ostatné nastavenia";
-"SUPPORT" = "Podpora";
-
-/* multi centre page */
-"mc_ENABLED" = "Zapnuté";
-"mc_CONTROL_SECTIONS_TITLE" = "Ovládacie sekcie";
-"mc_TOP" = "Vrchné";
-"mc_BOTTOM" = "Spodné";
-"mc_CONTROL_SECTIONS_FOOTER" = "Ovládacie sekcie obsiahnuté v spodnej a vrchnej časti Multi Centra.";
-"mc_ICON_STYLE_TITLE" = "Štýl ikon";
-"mc_ICON_STYLE_FOOTER" = "Štýl ikon v prepínači aplikácií.";
-"mc_ICON_STYLE_STANDARD" = "Štandardné";
-"mc_ICON_STYLE_OVERLAPPED" = "Prekrývajúce";
-"mc_ICON_STYLE_HIDDEN" = "Skryté";
-"mc_GESTURE_ANIMATIONS" = "Animácia gesta";
-"mc_GESTURE_ANIMATIONS_FOOTER" = "Pokiaľ je povolená, tak animácia pri aktivácii a deaktivácii prepínaču aplikácií bude ovládaná pomocou gesta (jej priebeh pôjde s prstom). Rovnako ako animácia ovládacieho centra.\nFunkcia 'Otvorenie do aktívnej aplikácie' bude povolená natvrdo.";
-"mc_OPEN_TO_CURRENT" = "Otvoriť do aktívnej aplikácie";
-"mc_OPEN_TO_CURRENT_FOOTER" = "Ak je táto funkcia zapnutá, tak sa prepínač aplikácií otvorí na pozíciu práve aktívnej aplikácie, namiesto naposledy otvorenej.";
-"mc_INCLUDED_SECTIONS" = "Zahrnuté sekcie";
-"mc_EXCLUDED_SECTIONS" = "Nezahrnuté sekcie";
-"mc_SHOW_GRABBER" = "Vždy zobraziť putko";
-"mc_OVERRIDE_CC" = "Nahradiť gesto Ovládacieho centra";
-
-/* hot corners pag */
-"hc_ACTIONS_FOOTER" = "Ťahanie, prstom smerom hore zo spodných rohov displeja, vyvolá príslušné akcie.";
-"hc_LEFT_ACTION" = "Akcia ľavého rohu";
-"hc_RIGHT_ACTION" = "Akcia pravého rohu";
-"hc_CLOSE_APP" = "Zatvoriť Aplikáciu";
-"hc_QUIT_APP" = "Ukončiť Aplikáciu";
-"hc_QUICK_SWITCHER" = "Rýchly prepínač";
-"hc_NONE" = "Nič";
-"hc_GO_TO_HOME_SCREEN_FOOTER" = "Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.\nAk je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia. (iOS 8 only).";
-"hc_LOCK_FROM_HOME" = "Zamknúť z plochy";
-"hc_SIMPLE_HOME" = "Jednoduchšia animácia";
-"hc_ALT_QUICK_SWITCHER" = "Alternatívny štýl";
-"hc_QUICK_SWITCHER_FOOTER" = "'Alternatívny štýl' sa správa ako Rýchly prepínač v doplnku Tage, zatiaľ čo štandardný je viac ako Rýchly prepínač v Auxo.";
-"hc_GESTURE_TOLERANCE" = "Tolerancia gest";
-"hc_GESTURE_TOLERANCE_FOOTER" = "Toto nastavenie determinuje ako ďaleko od rohu bude gesto funkčné.";
-"hc_DEF_CC" = "Ovládacie centrum";
-
-/* other prefs page */
-"op_HOME_APP_CARD" = "Karta domovskej obrazovky";
-"op_SWIPE_UP_FOOTER" = "Táto akcia sa vykoná, keď potiahnete kartu 'Domov' v smere zatvárania aplikácií.";
-"op_SWIPE_UP" = "Akcia potiahnutia";
-"op_QUIT_ALL_APPS" = "Zatvoriť všetky aplikácie";
-"op_SHOW_ACTION_MENU" = "Zobraziť menu akcií";
-"op_RESPRING" = "Respring";
-"op_LOCK" = "Zamknúť";
-"op_SHUT_DOWN" = "Vypnúť";
-"op_NONE" = "Nič";
-"op_APP_WHITELIST" = "Výnimky aplikácií";
-"op_CLOSE_NOW_PLAYING" = "Zatvoriť práve hrajúcu aplikáciu";
-"op_DISMISS_AFTER" = "Prejsť na plochu";
-"op_APPEARANCE" = "Zobrazenie";
-"op_REMOVE_DARK_EFFECT" =  "Odstrániť 'Tmavý efekt'";
-"op_HIDE_BG" = "Skryť rozmazanie pozadia";
-"op_BEHAVIOUR" = "Správanie";
-"op_BEHAVIOUR_FOOTER" = "Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'putko' ako pri Ovládacom centre.";
-"op_BLACKLIST" = "Čierna listina";
-"op_SWIPE_SWITCH" = "Gesto na prepínanie aplikácií";
-"op_SWIPE_SWITCH_FOOTER" = "Potiahnutie dovnútra z ľavého/pravého spodného rohu obrazovky, vyvolá prepnutie na predchádzajúcu/ďalšiu aplikáciu.";
-
-/* people view page */
-"pv_INFO" = "Informácie";
-"pv_INFO_FOOTER" = "Aby sa správne zobrazovali kontakty v prepínači aplikácií, musí byť táto funkcia povolená v Nastavenia > Mail, kontakty, kalendáre > V prepínači aplikácií.";
-
-/* media view pages */
-"mv_SHOW_WHEN_PLAYING" = "Zobraziť iba ak sa prehráva";
-"mv_HIDE_WHEN_PLAYING" = "Skryť ak sa prehráva";
-
-/* air stuff page */
-"as_HIDE_WHEN_UNAVAILABLE" = "Skryť ak nie je k dispozícii";
-
-/* scroll view pages */
-"sv_HORIZONTAL" = "Horizontálne";
-"sv_VERTICAL" = "Vertikálne";
-"sv_RESETS_TO_FIRST" = "Nastaviť na prvú stranu";
-"sv_RESET_TO_FIRST_FOOTER" = "'Nastaviť na prvú stranu' ukáže prvú stranu posuvnej sekcie pri znovuotvorení prepínača aplikácií.";
-"sv_INCLUDED_SECTIONS" = "Zahrnuté sekcie";
-"sv_EXCLUDED_SECTIONS" = "Nezahrnuté sekcie";
-"sv_SCROLLING_STYLE" = "Štýl posúvania sekcie";
-
-/* section titles */
-"st_AIR_STUFF" = "AirDrop a AirPlay";
-"st_VOLUME" = "Posuvník Hlasitosti";
-"st_BRIGHTNESS" = "Posuvník Jasu";
-"st_SMALL_SCROLL" = "Malá posuvná sekcia";
-"st_BIG_SCROLL" = "Veľká posuvná sekcia";
-"st_DEFAULT_MEDIA" = "Systémové ovládanie Médií";
-"st_TOGGLES" = "Prepínače funkcií";
-"st_QUICK_LAUNCH" = "Rýchle spustenie";
-"st_MEDIA_TITLES" = "Detaily Médií";
-"st_MEDIA_BUTTONS" = "Ovládacie prvky Médií";
-"st_MEDIA_SCRUBBER" = "Pretáčanie Médií";
-"st_PEOPLE" = "Obľúbené kontakty";
-
-/* alerts */
-"al_ENTER_VALUE" = "Zadajte hodnotu medzi %.01f a %.01f.";
-"al_ENTER" = "Potvrdiť";
-"al_CANCEL" = "Zrušiť";
-"al_NEGATE" = "Zamietnuté";
-"al_POINT" = "Bod";
-"al_ERROR" = "Chyba";
-"al_VALID_VALE" = "Prosíme uistite sa, že zadávate správnu hodnotu.";
-"al_OK" = "OK";
-"al_TWEET_ERROR" = "V tejto chvíli nie je možné tweetovať.";
-"al_EMAIL_ERROR" = "V tejto chvíli nie je možné odoslať E-mail.";
-
-/* twitter */
-"TWITTER_MESSAGE" = "Heeej! Používam Seng (od @friggog) a prepínam aplikácie so štýlom!";
-
-/* blacklist/whitelist section titles */
-"el_SYSTEM_APPLICATIONS" = "Systémové aplikácie";
-"el_USER_APPLICATIONS" = "Užívateľove aplikácie";
-
-/* support page */
-"sp_COMPAT_TITLE" = "Problémy s kompatibilitou";
-"sp_COMPAT_FOOTER" = "Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:\n- CCControls";
-"sp_BRIGHTNESS_TITLE" = "Posuvník Jasu zhavaroval";
-"sp_BRIGHTNESS_FOOTER" = "Známa chyba nastáva pri nastavovaní jasu v Seng-u, ak máte nainštalovaný SimpleCenters. Na opravu tejto chyby vypnite všetky nastavenia 'Posuvníka Jasu' v SimpleCenters.";
-"sp_GET_IN_TOUCH" = "Skontaktovať";
-"sp_INFO" = "Ak máte nejaké ďaľšie problémy, žiadosti, chcete pomôcť s prekladom alebo ste vývojár a chcete pridať kompatibilitu so svojím doplnkom, neváhajte ma kontaktovať na e-mail.";
-"sp_EMAIL" = "E-mail";
-
-/* reduce motion */
-"rm_TITLE" = "Obmedziť pohyb";
-"rm_FOOTER" = "Momentálne máte zapnutú funkciu 'Obmedziť pohyb'. Seng modifikuje svoje animácie aby sa tomu čo najlepšie prispôsobil, teda niektoré možnosti nebudú dostupné. 'Animácia gesta' bude vypnutá a animácia 'Prejsť na plochu' bude nahradená plynulým prechodom.";
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>HOT_CORNERS</key>
+	<string>Aktívne rohy</string>
+	<key>MULTI_CENTRE</key>
+	<string>Multi Centrum</string>
+	<key>OTHER</key>
+	<string>Ostatné nastavenia</string>
+	<key>SUPPORT</key>
+	<string>Podpora</string>
+	<key>TWITTER_MESSAGE</key>
+	<string>Heeej! Používam Seng (od @friggog) a prepínam aplikácie so štýlom!</string>
+	<key>al_CANCEL</key>
+	<string>Zrušiť</string>
+	<key>al_EMAIL_ERROR</key>
+	<string>V tejto chvíli nie je možné odoslať E-mail.</string>
+	<key>al_ENTER</key>
+	<string>Potvrdiť</string>
+	<key>al_ENTER_VALUE</key>
+	<string>Zadajte hodnotu medzi %.01f a %.01f.</string>
+	<key>al_ERROR</key>
+	<string>Chyba</string>
+	<key>al_NEGATE</key>
+	<string>Zamietnuté</string>
+	<key>al_OK</key>
+	<string>OK</string>
+	<key>al_POINT</key>
+	<string>Bod</string>
+	<key>al_TWEET_ERROR</key>
+	<string>V tejto chvíli nie je možné tweetovať.</string>
+	<key>al_VALID_VALE</key>
+	<string>Prosíme uistite sa, že zadávate správnu hodnotu.</string>
+	<key>as_HIDE_WHEN_UNAVAILABLE</key>
+	<string>Skryť ak nie je k dispozícii</string>
+	<key>el_SYSTEM_APPLICATIONS</key>
+	<string>Systémové aplikácie</string>
+	<key>el_USER_APPLICATIONS</key>
+	<string>Užívateľove aplikácie</string>
+	<key>hc_ACTIONS_FOOTER</key>
+	<string>Ťahanie, prstom smerom hore zo spodných rohov displeja, vyvolá príslušné akcie.</string>
+	<key>hc_ALT_QUICK_SWITCHER</key>
+	<string>Alternatívny štýl</string>
+	<key>hc_CLOSE_APP</key>
+	<string>Zatvoriť Aplikáciu</string>
+	<key>hc_DEF_CC</key>
+	<string>Ovládacie centrum</string>
+	<key>hc_GESTURE_TOLERANCE</key>
+	<string>Tolerancia gest</string>
+	<key>hc_GESTURE_TOLERANCE_FOOTER</key>
+	<string>Toto nastavenie determinuje ako ďaleko od rohu bude gesto funkčné.</string>
+	<key>hc_GO_TO_HOME_SCREEN_FOOTER</key>
+	<string>Ak je 'Zamknúť z plochy' zapnuté, použitie tohto gesta na ploche, zariadenie uzamkne.
+Ak je zapnutá 'Jednoduchšia animácia', je namiesto základnej systémovej animácie použitá jednoduchšia vertikálna animácia. (iOS 8 only).</string>
+	<key>hc_LEFT_ACTION</key>
+	<string>Akcia ľavého rohu</string>
+	<key>hc_LOCK_FROM_HOME</key>
+	<string>Zamknúť z plochy</string>
+	<key>hc_NONE</key>
+	<string>Nič</string>
+	<key>hc_QUICK_SWITCHER</key>
+	<string>Rýchly prepínač</string>
+	<key>hc_QUICK_SWITCHER_FOOTER</key>
+	<string>'Alternatívny štýl' sa správa ako Rýchly prepínač v doplnku Tage, zatiaľ čo štandardný je viac ako Rýchly prepínač v Auxo.</string>
+	<key>hc_QUIT_APP</key>
+	<string>Ukončiť Aplikáciu</string>
+	<key>hc_RIGHT_ACTION</key>
+	<string>Akcia pravého rohu</string>
+	<key>hc_SIMPLE_HOME</key>
+	<string>Jednoduchšia animácia</string>
+	<key>mc_BOTTOM</key>
+	<string>Spodné</string>
+	<key>mc_CONTROL_SECTIONS_FOOTER</key>
+	<string>Ovládacie sekcie obsiahnuté v spodnej a vrchnej časti Multi Centra.</string>
+	<key>mc_CONTROL_SECTIONS_TITLE</key>
+	<string>Ovládacie sekcie</string>
+	<key>mc_ENABLED</key>
+	<string>Zapnuté</string>
+	<key>mc_EXCLUDED_SECTIONS</key>
+	<string>Nezahrnuté sekcie</string>
+	<key>mc_GESTURE_ANIMATIONS</key>
+	<string>Animácia gesta</string>
+	<key>mc_GESTURE_ANIMATIONS_FOOTER</key>
+	<string>Pokiaľ je povolená, tak animácia pri aktivácii a deaktivácii prepínaču aplikácií bude ovládaná pomocou gesta (jej priebeh pôjde s prstom). Rovnako ako animácia ovládacieho centra.
+Funkcia 'Otvorenie do aktívnej aplikácie' bude povolená natvrdo.</string>
+	<key>mc_ICON_STYLE_FOOTER</key>
+	<string>Štýl ikon v prepínači aplikácií.</string>
+	<key>mc_ICON_STYLE_HIDDEN</key>
+	<string>Skryté</string>
+	<key>mc_ICON_STYLE_OVERLAPPED</key>
+	<string>Prekrývajúce</string>
+	<key>mc_ICON_STYLE_STANDARD</key>
+	<string>Štandardné</string>
+	<key>mc_ICON_STYLE_TITLE</key>
+	<string>Štýl ikon</string>
+	<key>mc_INCLUDED_SECTIONS</key>
+	<string>Zahrnuté sekcie</string>
+	<key>mc_OPEN_TO_CURRENT</key>
+	<string>Otvoriť do aktívnej aplikácie</string>
+	<key>mc_OPEN_TO_CURRENT_FOOTER</key>
+	<string>Ak je táto funkcia zapnutá, tak sa prepínač aplikácií otvorí na pozíciu práve aktívnej aplikácie, namiesto naposledy otvorenej.</string>
+	<key>mc_OVERRIDE_CC</key>
+	<string>Nahradiť gesto Ovládacieho centra</string>
+	<key>mc_SHOW_GRABBER</key>
+	<string>Vždy zobraziť putko</string>
+	<key>mc_TOP</key>
+	<string>Vrchné</string>
+	<key>mv_HIDE_WHEN_PLAYING</key>
+	<string>Skryť ak sa prehráva</string>
+	<key>mv_SHOW_WHEN_PLAYING</key>
+	<string>Zobraziť iba ak sa prehráva</string>
+	<key>op_ALL</key>
+	<string>All</string>
+	<key>op_APPEARANCE</key>
+	<string>Zobrazenie</string>
+	<key>op_APP_WHITELIST</key>
+	<string>Výnimky aplikácií</string>
+	<key>op_BEHAVIOUR</key>
+	<string>Správanie</string>
+	<key>op_BEHAVIOUR_FOOTER</key>
+	<string>Ak je aplikácia na čiernej listine, aktívne rohy v nej nebudú funkčné. Multi centrum bude stále fungovať (ak je zapnuté), ale najprv se objaví 'putko' ako pri Ovládacom centre.</string>
+	<key>op_BLACKLIST</key>
+	<string>Čierna listina</string>
+	<key>op_BOTTOM_THIRD</key>
+	<string>Bottom</string>
+	<key>op_CLOSE_NOW_PLAYING</key>
+	<string>Zatvoriť práve hrajúcu aplikáciu</string>
+	<key>op_DISMISS_AFTER</key>
+	<string>Prejsť na plochu</string>
+	<key>op_HIDE_BG</key>
+	<string>Skryť rozmazanie pozadia</string>
+	<key>op_HOME_APP_CARD</key>
+	<string>Karta domovskej obrazovky</string>
+	<key>op_LOCK</key>
+	<string>Zamknúť</string>
+	<key>op_MIDDLE_THIRD</key>
+	<string>Middle</string>
+	<key>op_NONE</key>
+	<string>Nič</string>
+	<key>op_QUIT_ALL_APPS</key>
+	<string>Zatvoriť všetky aplikácie</string>
+	<key>op_REMOVE_DARK_EFFECT</key>
+	<string>Odstrániť 'Tmavý efekt'</string>
+	<key>op_RESPRING</key>
+	<string>Respring</string>
+	<key>op_SHOW_ACTION_MENU</key>
+	<string>Zobraziť menu akcií</string>
+	<key>op_SHUT_DOWN</key>
+	<string>Vypnúť</string>
+	<key>op_SWIPE_SWITCH</key>
+	<string>Gesto na prepínanie aplikácií</string>
+	<key>op_SWIPE_SWITCH_FOOTER</key>
+	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<key>op_SWIPE_UP</key>
+	<string>Akcia potiahnutia</string>
+	<key>op_SWIPE_UP_FOOTER</key>
+	<string>Táto akcia sa vykoná, keď potiahnete kartu 'Domov' v smere zatvárania aplikácií.</string>
+	<key>op_TOP_THIRD</key>
+	<string>Top</string>
+	<key>op_USE_FORCE</key>
+	<string>Use Force Press</string>
+	<key>pv_INFO</key>
+	<string>Informácie</string>
+	<key>pv_INFO_FOOTER</key>
+	<string>Aby sa správne zobrazovali kontakty v prepínači aplikácií, musí byť táto funkcia povolená v Nastavenia &gt; Mail, kontakty, kalendáre &gt; V prepínači aplikácií.</string>
+	<key>rm_FOOTER</key>
+	<string>Momentálne máte zapnutú funkciu 'Obmedziť pohyb'. Seng modifikuje svoje animácie aby sa tomu čo najlepšie prispôsobil, teda niektoré možnosti nebudú dostupné. 'Animácia gesta' bude vypnutá a animácia 'Prejsť na plochu' bude nahradená plynulým prechodom.</string>
+	<key>rm_TITLE</key>
+	<string>Obmedziť pohyb</string>
+	<key>sp_BRIGHTNESS_FOOTER</key>
+	<string>Známa chyba nastáva pri nastavovaní jasu v Seng-u, ak máte nainštalovaný SimpleCenters. Na opravu tejto chyby vypnite všetky nastavenia 'Posuvníka Jasu' v SimpleCenters.</string>
+	<key>sp_BRIGHTNESS_TITLE</key>
+	<string>Posuvník Jasu zhavaroval</string>
+	<key>sp_COMPAT_FOOTER</key>
+	<string>Niektoré doplnky z Cydie sú so Seng-om nekompatibilné. Ak máte takéto problémy, skúste tieto doplnky najprv vypnúť alebo odinštalovať:
+- CCControls</string>
+	<key>sp_COMPAT_TITLE</key>
+	<string>Problémy s kompatibilitou</string>
+	<key>sp_EMAIL</key>
+	<string>E-mail</string>
+	<key>sp_GET_IN_TOUCH</key>
+	<string>Skontaktovať</string>
+	<key>sp_INFO</key>
+	<string>Ak máte nejaké ďaľšie problémy, žiadosti, chcete pomôcť s prekladom alebo ste vývojár a chcete pridať kompatibilitu so svojím doplnkom, neváhajte ma kontaktovať na e-mail.</string>
+	<key>st_AIR_STUFF</key>
+	<string>AirDrop a AirPlay</string>
+	<key>st_BIG_SCROLL</key>
+	<string>Veľká posuvná sekcia</string>
+	<key>st_BRIGHTNESS</key>
+	<string>Posuvník Jasu</string>
+	<key>st_DEFAULT_MEDIA</key>
+	<string>Systémové ovládanie Médií</string>
+	<key>st_MEDIA_BUTTONS</key>
+	<string>Ovládacie prvky Médií</string>
+	<key>st_MEDIA_SCRUBBER</key>
+	<string>Pretáčanie Médií</string>
+	<key>st_MEDIA_TITLES</key>
+	<string>Detaily Médií</string>
+	<key>st_PEOPLE</key>
+	<string>Obľúbené kontakty</string>
+	<key>st_QUICK_LAUNCH</key>
+	<string>Rýchle spustenie</string>
+	<key>st_SMALL_SCROLL</key>
+	<string>Malá posuvná sekcia</string>
+	<key>st_TOGGLES</key>
+	<string>Prepínače funkcií</string>
+	<key>st_VOLUME</key>
+	<string>Posuvník Hlasitosti</string>
+	<key>sv_EXCLUDED_SECTIONS</key>
+	<string>Nezahrnuté sekcie</string>
+	<key>sv_HORIZONTAL</key>
+	<string>Horizontálne</string>
+	<key>sv_INCLUDED_SECTIONS</key>
+	<string>Zahrnuté sekcie</string>
+	<key>sv_RESETS_TO_FIRST</key>
+	<string>Nastaviť na prvú stranu</string>
+	<key>sv_RESET_TO_FIRST_FOOTER</key>
+	<string>'Nastaviť na prvú stranu' ukáže prvú stranu posuvnej sekcie pri znovuotvorení prepínača aplikácií.</string>
+	<key>sv_SCROLLING_STYLE</key>
+	<string>Štýl posúvania sekcie</string>
+	<key>sv_VERTICAL</key>
+	<string>Vertikálne</string>
+	<key>tw_ACTION_MENU</key>
+	<string>Menu akcií</string>
+	<key>tw_CANCEL</key>
+	<string>Zrušiť</string>
+	<key>tw_HOME</key>
+	<string>Domov</string>
+	<key>tw_LOCK</key>
+	<string>Zamknúť</string>
+	<key>tw_QUIT_ALL</key>
+	<string>Zatvoriť všetky aplikácie</string>
+	<key>tw_REBOOT</key>
+	<string>Reštartovať</string>
+	<key>tw_RESPRING</key>
+	<string>Respring</string>
+	<key>tw_SAFE_MODE</key>
+	<string>Bezpečný mód</string>
+	<key>tw_SHUT_DOWN</key>
+	<string>Vypnúť</string>
+</dict>
+</plist>
