@@ -111,7 +111,7 @@
 	<key>mv_SHOW_WHEN_PLAYING</key>
 	<string>只有正在播放時才顯示</string>
 	<key>op_ALL</key>
-	<string>All</string>
+	<string>全部</string>
 	<key>op_APPEARANCE</key>
 	<string>外觀效果</string>
 	<key>op_APP_WHITELIST</key>
@@ -151,7 +151,7 @@
 	<key>op_SWIPE_SWITCH</key>
 	<string>輕掃以切換 App</string>
 	<key>op_SWIPE_SWITCH_FOOTER</key>
-	<string>Swipe in from the specified area of the left/right edge of the screen to switch to the previous/next app. Enabling/Disablind force press requires a respring.</string>
+	<string>於螢幕特定區域，左側/右側邊緣由外向內輕掃，以切換前一個/後一個 App。啟用/停用強力按壓必須重新啟動主畫面。</string>
 	<key>op_SWIPE_UP</key>
 	<string>主畫面向上滑動的動作</string>
 	<key>op_SWIPE_UP_FOOTER</key>
@@ -159,7 +159,7 @@
 	<key>op_TOP_THIRD</key>
 	<string>上方</string>
 	<key>op_USE_FORCE</key>
-	<string>Use Force Press</string>
+	<string>使用強力按壓</string>
 	<key>pv_INFO</key>
 	<string>資訊</string>
 	<key>pv_INFO_FOOTER</key>
